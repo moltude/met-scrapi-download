@@ -1,0 +1,121 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/85998"
+            },
+            {
+                "href": "http://scrapi.org/object/109777"
+            },
+            {
+                "href": "http://scrapi.org/object/86010"
+            },
+            {
+                "href": "http://scrapi.org/object/86012"
+            },
+            {
+                "href": "http://scrapi.org/object/94277"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R129_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140307130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R130_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140310130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/81139"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/81139"
+        }
+    },
+    "accession number": "1981.380.2",
+    "credit line": "The Jacqueline Loewe Fowler Costume Collection, Gift of Jacqueline Loewe Fowler, 1981",
+    "culture": "French",
+    "date": "1910\u201314",
+    "department": "Costume Institute",
+    "description": "In the Directoire revival, the waistline was raised in the manner of a century earlier, but with corsetting that had the vestiges of the monobosom.  Perhaps even more importantly, the silhouette reflects Europe's examination of Eastern dress, the softness, raised waist, and lower bust stance suggesting \"ukiyo-e\" prints and other Japanese style.Attuned to the Orientalism of the decade, Callot Soeurs reined the silhouette into a cylindrical wrap, effortless in lingerie-weight fabric.  Yet, for its innovations, the work of Callot Soeurs does not stint the couture's roster of technical skills.  Here, sequins vary: some are punched into a filigree pinwheel, others are hammered flat; in some instances metal is overlaid onto faceted crystal.  But even this ornamentation is not entirely for the pleasure of diversity, but for the calculated and magical effects of such varied surfaces seen in evening and candle lights.Speaking of her training with Callot Soeurs, Madeleine Vionnet coyly commended its quality, saying, \"Without the example of the Callot Soeurs, I would have continued to make Fords.  It is because of them that I have been able to make Rolls Royces.\"  Indeed, without Callot Soeurs' tunics and soft dresses of the 1910s and 1920s, Vionnet's innovations are unimaginable.",
+    "dimensions": "Length at CB 55 1/2 in. (141 cm)",
+    "id": 81139,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/DT414.jpg",
+    "medium": "cotton, silk, metal",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/DT414.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/ci1981.380.2.R.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/DT8708.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1981.380.2.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1981.380.2_label.jpg"
+    ],
+    "title": "Evening dress",
+    "what": [
+        "Metal",
+        "Costume",
+        "Silk",
+        "Cotton",
+        "Dresses",
+        "Evening dresses"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Callot Soeurs"
+}

@@ -1,0 +1,126 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/544906"
+            },
+            {
+                "href": "http://scrapi.org/object/544886"
+            },
+            {
+                "href": "http://scrapi.org/object/544913"
+            },
+            {
+                "href": "http://scrapi.org/object/544118"
+            },
+            {
+                "href": "http://scrapi.org/object/544119"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R128_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140306140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R129_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140307140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/teen-programs/saturday-sketching/saturday-sketching-egyptian-art?eid=A001_%7b8698F79D-A7E0-44F1-99CF-57C8A2E2471A%7d_20131211143556",
+                "rel": "Saturday Sketching\u2014Egyptian Art (Ages 11\u201318)"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A151_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113641",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R130_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140310140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=04\u00aeion=afe",
+                "rel": "Egypt, 1000 B.C.\u20131 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/546005"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/546005"
+        }
+    },
+    "accession number": "48.97",
+    "credit line": "Edit Perry Chapman Fund, 1948",
+    "date": "664-332 B.C. and Modern",
+    "department": "Egyptian Art",
+    "description": "The bronze base of this figure is ancient and the hieroglyphic inscription asks the god Heka for all life, health and joy for one scribe of the library of Atum Pa-kap. However, the statuette above the ankles, including the belt inscribed in hieratic, is of brass, an alloy which was not used for metal statuary in pharaonic or Ptolemaic Egypt, and is certainly modern.",
+    "dimensions": "H. 19 cm (7 1/2 in.); 21 cm (8 1/4 in) with the two tenons",
+    "gallery-id": 134,
+    "id": 546005,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/48.97_004.jpg",
+    "medium": "Bronze, precious metal inlay",
+    "provenance": [
+        "Purchased by the Museum from  Abemayor, New York, 1948."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/eg/original/48.97_004.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/48.97_005.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/48.97_007.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/48.97_008.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/48-97 Hayes handcopy.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/48.97_belt_light_1.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/48.97_belt_light_2.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/48.97_belt_light_3.jpg"
+    ],
+    "title": "An ancient base asking blessings from Heka for the Scribe of the Library of Atum Pa-kap, son of the Prophet of Atum Pa-iry-kap and the mistress of the House Hr-ib-Wadjet; above the ankles the statuette is brass and therefore modern",
+    "what": [
+        "Metal",
+        "Sculpture",
+        "Copper alloy",
+        "Bronze",
+        "Statues",
+        "Figurines"
+    ],
+    "when": "1000 B.C.-A.D. 1",
+    "where": [
+        "Africa",
+        "Egypt"
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/283762"
+            },
+            {
+                "href": "http://scrapi.org/object/283763"
+            },
+            {
+                "href": "http://scrapi.org/object/283716"
+            },
+            {
+                "href": "http://scrapi.org/object/284216"
+            },
+            {
+                "href": "http://scrapi.org/object/283686"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/pcgn/hd_pcgn.htm",
+                "rel": "The Pictures Generation"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/283742"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/283742"
+        }
+    },
+    "accession number": "2000.272",
+    "credit line": "Purchase, The Horace W. Goldsmith Foundation Gift, through Joyce and Robert Menschel, and Jennifer and Joseph Duke Gift, 2000",
+    "date": "1989",
+    "department": "Photographs",
+    "description": "In the mid-1970s Prince was an aspiring painter who earned a living by clipping articles from magazines for staff writers at Time-Life Inc.  What remained at the end of the day were the advertisements, featuring gleaming luxury goods and impossibly perfect models; both fascinated and repulsed by these ubiquitous images, the artist began rephotographing them, using a repertoire of strategies (such as blurring, cropping, and enlarging) to intensify their original artifice.  In so doing, Prince undermined the seeming naturalness and inevitability of the images, revealing them as hallucinatory fictions of society's desires.\"Untitled (Cowboy)\" is a high point of the artist's ongoing deconstruction of an American archetype as old as the first trailblazers and as timely as then-outgoing president Ronald Reagan.  Prince's picture is a copy (the photograph) of a copy (the advertisement) of a myth (the cowboy).  Perpetually disappearing into the sunset, this lone ranger is also a convincing stand-in for the artist himself, endlessly chasing the meaning behind surfaces.  Created in the fade-out of a decade devoted to materialism and illusion, \"Untitled (Cowboy)\" is, in the largest sense, a meditation on an entire culture's continuing attraction to spectacle over lived experience.",
+    "dimensions": [
+        "127 x 177.8cm (50 x 70in.)",
+        "Frame 154.9 \u00d7 221 cm (61 \u00d7 87 in.)"
+    ],
+    "id": 283742,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DT9195.jpg",
+    "medium": "Chromogenic print",
+    "provenance": [
+        "Artist",
+        "[Barbara Gladstone Gallery, New York]"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ph/original/DT9195.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/PH2000.272.R.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/TR96_TR724.1.1999.jpg"
+    ],
+    "title": "Untitled (cowboy)",
+    "what": [
+        "Photographs",
+        "Chromogenic prints"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "Richard Prince"
+}

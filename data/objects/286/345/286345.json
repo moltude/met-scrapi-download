@@ -1,0 +1,94 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/265488"
+            },
+            {
+                "href": "http://scrapi.org/object/265492"
+            },
+            {
+                "href": "http://scrapi.org/object/265350"
+            },
+            {
+                "href": "http://scrapi.org/object/265459"
+            },
+            {
+                "href": "http://scrapi.org/object/265451"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/286345"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/286345"
+        }
+    },
+    "accession number": "2005.100.803",
+    "credit line": "Gilman Collection, Purchase, Ann Tenenbaum and Thomas H. Lee Gift, 2005",
+    "date": "1917",
+    "department": "Photographs",
+    "description": "Although not so recognized today, Fitz was a highly lauded advertising photographer in the 1920s and 1930s whose clients included many of the era\u2019s largest American businesses\u2014from Chevrolet Motor Company and AT&T to Ivory Soap and Ipana Toothpaste. Before launching his professional career in 1920, Fitz worked as an amateur pictorialist, submitting his highly aesthetic compositions to international competitions. This contemplative study of light patterns cast on the sand through the planks of a New York City boardwalk was shown in photographic salons in 1917 and 1918 and won awards in London, Pittsburgh, and Los Angeles.",
+    "dimensions": "8 13/16 x 11 3/4",
+    "gallery-id": 850,
+    "id": 286345,
+    "medium": "Gelatin silver print",
+    "provenance": [
+        "Estate of the artist",
+        "Paul Katz, 10/24/84",
+        "Gilman Paper Company Collection"
+    ],
+    "title": "Under the Boardwalk",
+    "what": [
+        "Photographs",
+        "Gelatin silver prints"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "Grancel Fitz"
+}

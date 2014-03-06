@@ -1,0 +1,132 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/447310"
+            },
+            {
+                "href": "http://scrapi.org/object/445883"
+            },
+            {
+                "href": "http://scrapi.org/object/445884"
+            },
+            {
+                "href": "http://scrapi.org/object/445885"
+            },
+            {
+                "href": "http://scrapi.org/object/445969"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R128_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140306141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R129_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140307141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A249_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114331",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A250_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114353",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world-french?eid=R026_%7b85906EA1-CA66-4610-A52C-39562E1A4C40%7d_20140310133000",
+                "rel": "Arts du monde Islamique (Arts of the Islamic World in French)"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R130_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140310141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=wai",
+                "rel": "Iran, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/450991"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/450991"
+        }
+    },
+    "accession number": "49.32.99",
+    "credit line": "Anonymous Gift, 1949",
+    "culture": "Islamic",
+    "date": "late 17th\u2013early 18th century",
+    "department": "Islamic Art",
+    "description": "Iranian silk production expanded markedly in the early seventeenth century, thanks to the patronage of Shah 'Abbas I. Silk was most intensively farmed in the Caspian Sea provinces of Gilan and Mazandaran and was woven all over Iran. Raw silk was also exported to Turkey, Russia, Central Asia, India, and Europe. The motifs of a rosebush, birds, and deer on this piece relate it to the popular group of bird and flower textiles in the seventeenth century, anticipating the fashion for bird and flower decoration in the eighteenth and nineteenth centuries. The unnatural relationship of scale among the birds, deer, and flowers is most likely the artist\u2019s interpretation.",
+    "dimensions": [
+        "Textile H. 44 5/8 in. (113.3 cm)",
+        "W. 27 3/4 in. (70.5 cm)",
+        "Mount H. 50 1/4 in. (127.6 cm)",
+        "W. 32 3/4 in. (83.2 cm)",
+        "D. 1 1/2 in. (3.8 cm)",
+        "Wt. 34 lbs. (15.4 kg)"
+    ],
+    "id": 450991,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/DP230049.jpg",
+    "medium": "Silk, silver- and gilded metal wrapped thread; compound twill weave, brocaded",
+    "provenance": [
+        "Private collection(by 1935\u201349; gifted to MMA)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/DP230049.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/144750.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-49.32.99.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-49.32.99b.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-49.32.99c.JPG"
+    ],
+    "title": "Silk Fragment with a Rosebush, Bird, and Deer Pattern",
+    "what": [
+        "Metal",
+        "Silk",
+        "Textiles",
+        "Fragments",
+        "Silver",
+        "Woven",
+        "Gilt",
+        "Twill"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Asia",
+        "Iran"
+    ]
+}

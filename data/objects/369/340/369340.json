@@ -1,0 +1,95 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/394652"
+            },
+            {
+                "href": "http://scrapi.org/object/394653"
+            },
+            {
+                "href": "http://scrapi.org/object/359817"
+            },
+            {
+                "href": "http://scrapi.org/object/359958"
+            },
+            {
+                "href": "http://scrapi.org/object/360053"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwf",
+                "rel": "France, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/369340"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/369340"
+        }
+    },
+    "accession number": "33.104.1",
+    "credit line": "Harris Brisbane Dick Fund, 1933",
+    "date": "1795",
+    "department": "Drawings and Prints",
+    "dimensions": [
+        "Sheet 14 \u00d7 10 7/16 in. (35.6 \u00d7 26.5 cm)",
+        "Plate 12 5/8 \u00d7 9 3/4 in. (32 \u00d7 24.7 cm)"
+    ],
+    "id": 369340,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP813880.jpg",
+    "medium": "Etching and engraving; second state of three (Cohen)",
+    "provenance": [
+        "Vendor: Blanche Crosby"
+    ],
+    "title": "Belphegor, from Contes et nouvelles en vers par Jean de La Fontaine.  A Paris, de l'imprimerie de  P. Didot, l'an III de la R\u00e9publique, 1795",
+    "what": [
+        "Prints",
+        "Etching",
+        "Engraving"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": [
+        "Pierre Didot l'ain\u00e9",
+        "Jean Honor\u00e9 Fragonard",
+        "Jean de La Fontaine",
+        "Jean-Baptiste Patas"
+    ]
+}

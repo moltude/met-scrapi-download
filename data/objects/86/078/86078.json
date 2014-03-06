@@ -1,0 +1,120 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/127042"
+            },
+            {
+                "href": "http://scrapi.org/object/108286"
+            },
+            {
+                "href": "http://scrapi.org/object/89839"
+            },
+            {
+                "href": "http://scrapi.org/object/127460"
+            },
+            {
+                "href": "http://scrapi.org/object/156983"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R128_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140306130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R129_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140307130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R130_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140310130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=waa",
+                "rel": "Anatolia and the Caucasus, 1900 A.D.\u2013present"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=nc",
+                "rel": "Central and North Asia, 1900 A.D.\u2013present"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=eue",
+                "rel": "Eastern Europe and Scandinavia, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/86078"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/86078"
+        }
+    },
+    "accession number": "1976.379.10",
+    "credit line": "Gift of Julia Acheson Thompson, 1976",
+    "culture": "Russian",
+    "date": "early 20th century",
+    "department": "Costume Institute",
+    "dimensions": "Length 22 1/2 in. (57.2 cm)",
+    "id": 86078,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/1976.379.10.jpg",
+    "medium": "bast fiber",
+    "title": "Shirt",
+    "what": [
+        "Costume",
+        "Plant fiber",
+        "Shirts",
+        "Bast"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Asia",
+        "Russia"
+    ]
+}

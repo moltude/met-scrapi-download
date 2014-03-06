@@ -1,0 +1,111 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/466498"
+            },
+            {
+                "href": "http://scrapi.org/object/466541"
+            },
+            {
+                "href": "http://scrapi.org/object/466542"
+            },
+            {
+                "href": "http://scrapi.org/object/467093"
+            },
+            {
+                "href": "http://scrapi.org/object/466470"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 25, 2014",
+                "href": "/exhibitions/listings/2014/canterbury-stained-glass",
+                "rel": "Radiant Light"
+            },
+            {
+                "date": "From August 6, 2013",
+                "href": "/exhibitions/listings/2013/design-motifs-in-byzantine-art",
+                "rel": "Design Motifs in Byzantine Art"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R006_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140306150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/collecting-and-intepreting-at-the-met?eid=A001_%7b6A0B3958-68AC-4F22-BB73-D898FB894401%7d_20140127111701",
+                "rel": "Fellows Colloquium\u2014Collecting and Interpreting at the Met"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R104_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140307104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/events-at-the-cloisters/conversations-with-curators-and-conservators/cloisters-husband?eid=A003_%7bC1BD832B-922C-49E2-8732-B9CE70E617F2%7d_20140113162804",
+                "rel": "Conversation with a Curator at The Cloisters"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R007_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140307150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/ancestors-of-christ?eid=A001_%7b64F28017-6AB0-4B00-864F-E5676EE07585%7d_20140113142350",
+                "rel": "The Ancestors of Christ: Stained Glass Windows from Canterbury Cathedral"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/ancestors-of-christ?eid=A002_%7b64F28017-6AB0-4B00-864F-E5676EE07585%7d_20140113142402",
+                "rel": "The Ancestors of Christ: Stained Glass Windows from Canterbury Cathedral"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R008_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140309150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R009_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140310150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R105_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140311104500",
+                "rel": "Masterpieces of the Middle Ages"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/467223"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/467223"
+        }
+    },
+    "accession number": "30.73.225",
+    "credit line": "Gift of George D. Pratt, 1930",
+    "culture": "European",
+    "department": "Medieval Art",
+    "dimensions": "Overall 2 1/2 x 2 1/4 inches (6.5 x 5.5 cm)",
+    "id": 467223,
+    "image": "http://images.metmuseum.org/CRDImages/md/original/cdi30-73-225.jpg",
+    "medium": "Pot metal glass, paint",
+    "provenance": [
+        "George D. Pratt, Glen Cove, NY (until 1930)"
+    ],
+    "title": "Glass Fragment",
+    "what": [
+        "Metal",
+        "Glass",
+        "Fragments",
+        "Stained glass"
+    ],
+    "when": "1000 B.C.-A.D. 1",
+    "where": [
+        "Europe"
+    ]
+}

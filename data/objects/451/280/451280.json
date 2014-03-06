@@ -1,0 +1,132 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/451281"
+            },
+            {
+                "href": "http://scrapi.org/object/451295"
+            },
+            {
+                "href": "http://scrapi.org/object/457058"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R128_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140306141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R129_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140307141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A249_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114331",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A250_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114353",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world-french?eid=R026_%7b85906EA1-CA66-4610-A52C-39562E1A4C40%7d_20140310133000",
+                "rel": "Arts du monde Islamique (Arts of the Islamic World in French)"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R130_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140310141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=ssa",
+                "rel": "South Asia, 1400\u20131600 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=ssa",
+                "rel": "South Asia, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/451280"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/451280"
+        }
+    },
+    "accession number": "55.121.10.33",
+    "credit line": "Purchase, Rogers Fund and The Kevorkian Foundation Gift, 1955",
+    "culture": "Islamic",
+    "date": "verso ca. 1620; recto: 1534 or later",
+    "department": "Islamic Art",
+    "description": "Ibrahim 'Adil Shah II (r. 1580\u20131627) was the sixth ruler of Bijapur, a kingdom in the Deccan region of India. It has been argued that the artist Hashim, who painted this likeness, joined the Mughal imperial atelier around 1620, after serving in the Deccan. Whereas the strong contours, costume details, and palette are considered to be vestiges of Hashim\u2019s Deccani origins, his thoroughly Mughal rendering of facial features is attributed to changes made under Jahangir\u2019s guidance.",
+    "dimensions": [
+        "H. 15 5/16 in. (38.9 cm)",
+        "W. 10 in. (25.4 cm)"
+    ],
+    "id": 451280,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/DP159395.jpg",
+    "medium": "Ink, opaque watercolor, and gold on paper",
+    "provenance": [
+        "Jack S. Rofe, Scotland (in 1929; sale, Sotheby's London,December 12, 1929, to Kevorkian)",
+        "[ Hagop Kevorkian, New York, 1929\u201355",
+        "gift and sale to MMA]"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/DP159395.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/55.121.10.33 Gallery 14.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DT2792.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DT2793.jpg"
+    ],
+    "title": "\"Portrait of Ibrahim 'Adil Shah II of Bijapur\", Folio from the Shah Jahan Album",
+    "what": [
+        "Metal",
+        "Ink",
+        "Paper",
+        "Books",
+        "Gold",
+        "Watercolors",
+        "Albums",
+        "Manuscripts",
+        "Codices"
+    ],
+    "where": [
+        "Asia",
+        "India"
+    ],
+    "who": [
+        "Mir 'Ali Haravi",
+        "Hashim"
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/97049"
+            },
+            {
+                "href": "http://scrapi.org/object/157409"
+            },
+            {
+                "href": "http://scrapi.org/object/159098"
+            },
+            {
+                "href": "http://scrapi.org/object/97029"
+            },
+            {
+                "href": "http://scrapi.org/object/79203"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R128_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140306130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R129_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140307130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R130_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140310130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=eust",
+                "rel": "Italian Peninsula, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/157284"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/157284"
+        }
+    },
+    "accession number": "2009.300.2457a, b",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. Hollis K. Thayer, 1958",
+    "culture": "Italian",
+    "date": "ca. 1925",
+    "department": "Costume Institute",
+    "description": "This pair of pajamas features a bold and interesting print which was probably hand-blocked.  The minimalist cut of the tabard is of interest showing that this is a well-made piece.  Highly aesthetic, the white patterning incorporating un-dyed black spaces gives the appearance of looking beyond the surface. Upon closer inspection, it is clear that the pattern shares in similarities to those produced by the Wiener Werkst\u00e4tte and Poiret's Martine.  The stitching marks in the printed fabric of the tabard clearly indicate that this is from another garment which has been recycled to create this piece.",
+    "dimensions": [
+        "Length at CB (a) 30 in. (76.2 cm)",
+        "Length at CB (b) 39 in. (99.1 cm)"
+    ],
+    "id": 157284,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/58.27.132a-b_CP4.jpg",
+    "medium": "silk",
+    "title": "Pajamas",
+    "what": [
+        "Costume",
+        "Silk",
+        "Pajamas"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Schostal"
+}

@@ -1,0 +1,92 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/338992"
+            },
+            {
+                "href": "http://scrapi.org/object/338993"
+            },
+            {
+                "href": "http://scrapi.org/object/338994"
+            },
+            {
+                "href": "http://scrapi.org/object/339024"
+            },
+            {
+                "href": "http://scrapi.org/object/339025"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/339015"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/339015"
+        }
+    },
+    "accession number": "1990.214",
+    "credit line": "Harry G. Sperling Fund, 1990",
+    "date": "1591\u20131666",
+    "department": "Drawings and Prints",
+    "dimensions": "sheet 10 1/2 x 7 13/16 in. (26.7 x 19.9 cm)",
+    "id": 339015,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP810213.jpg",
+    "medium": "Pen and brown ink",
+    "provenance": [
+        "Jonathan Richardson Sr. (British, London 1667\u20131745 London)",
+        "Arthur Pond (British, London 1701\u20131758 London)",
+        "John Barnard (London, died 1784)",
+        "Sir Uvedale Price, 1st Bt.- according to annotation on verso old mount.",
+        "Sir William Forbes of Pitalgo, 7th Baronet- according to Christie's",
+        "Christie's, London, July 1, 1986, no. 7, repr.",
+        "Sotheby's, London, July 2, 1990, no. 90, repr.",
+        "Hazlitt, Gooden & Fox (London)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP810213.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DT6476.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/1990.214.jpg"
+    ],
+    "title": "A Diablerie",
+    "what": [
+        "Ink",
+        "Drawings"
+    ],
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Guercino (Giovanni Francesco Barbieri)"
+}

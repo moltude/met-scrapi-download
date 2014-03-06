@@ -1,0 +1,101 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/286404"
+            },
+            {
+                "href": "http://scrapi.org/object/286351"
+            },
+            {
+                "href": "http://scrapi.org/object/266254"
+            },
+            {
+                "href": "http://scrapi.org/object/266255"
+            },
+            {
+                "href": "http://scrapi.org/object/266256"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/camr/hd_camr.htm",
+                "rel": "Julia Margaret Cameron (1815\u20131879)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwb",
+                "rel": "Great Britain and Ireland, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/282043"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/282043"
+        }
+    },
+    "accession number": "1997.382.38",
+    "credit line": "The Rubel Collection, Purchase, Lila Acheson Wallace, Ann Tenenbaum and Thomas H. Lee, and Muriel Kallis Newman Gifts, 1997",
+    "date": "1866",
+    "department": "Photographs",
+    "description": "A highly intelligent and deeply spiritual woman who appreciated the complexities of life, religion, poetry, and art, Cameron counted among her mentors and models many of the greatest minds of Victorian England\u2014Tennyson, Herschel, Darwin, Ruskin, Carlyle, and others.  When her children gave her a camera in 1863, she strove to express biblical and literary ideals of innocence, wisdom, piety, or passion that she saw embodied in her family and friends, rather than aiming for a precise likeness as most professional portrait photographers did.  Here Cameron photographed May Prinsep, her sister's adopted daughter.  By allowing Prinsep's slight movement and by intentionally softening the focus, Cameron instilled a sense of breath and soul in this living apparition, for the true subject of her photograph was a poetic evocation of love and longing.  \"Maid of Athens, ere we part, / Give, oh, give me back my heart!\" begin the verses composed by Lord Byron as he departed Greece in 1810.  In the poem that inspired Cameron, Byron swore \"By those tresses unconfined, / Wooed by each Aegean wind; / By those lids whose jetty fringe / Kiss thy soft cheeks' blooming tinge; / By those wild eyes like the roe, / Zo\u00eb mou sas agapo [My life, I love you].\"",
+    "dimensions": "30.1 x 24.5 cm (11 7/8 x 9 5/8 in.)",
+    "id": 282043,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DT1174.jpg",
+    "medium": "Albumen silver print from glass negative",
+    "provenance": [
+        "G.F. Watts",
+        "(Sotheby's Belgravia, June 28, 1978, lot 347)",
+        "[Sean Thackeray, San Francisco]",
+        "William Rubel, Santa Cruz, California",
+        "[Hans P. Kraus, Jr., Fine Photographs, New York]"
+    ],
+    "title": "Zoe, Maid of Athens",
+    "what": [
+        "Photographs",
+        "Albumen silver prints"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "United Kingdom"
+    ],
+    "who": "Julia Margaret Cameron"
+}

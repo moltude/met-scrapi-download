@@ -1,0 +1,126 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/35379"
+            },
+            {
+                "href": "http://scrapi.org/object/35674"
+            },
+            {
+                "href": "http://scrapi.org/object/35885"
+            },
+            {
+                "href": "http://scrapi.org/object/24815"
+            },
+            {
+                "href": "http://scrapi.org/object/27770"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From October 2, 2012",
+                "href": "/exhibitions/listings/2012/arms-and-armor",
+                "rel": "Bashford Dean and the Creation of the Arms and Armor Department"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A083_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113541",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A074_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112917",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A084_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113556",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A093_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113923",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A075_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112932",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A094_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113938",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 5, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A085_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113610",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161351",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A076_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112951",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 19, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161305",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwc",
+                "rel": "Central Europe and Low Countries, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/35378"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/35378"
+        }
+    },
+    "accession number": "2007.479.1",
+    "credit line": "Gift of Bernice and Jerome Zwanger, 2007",
+    "culture": "Bohemian",
+    "date": "first half of the 19th century",
+    "department": "Arms and Armor",
+    "description": "The central figure, possibly the goddess of the hunt Diana or a representation of Fame, is surrounded by scenes of hunters pursuing game on foot and horseback. The use of ivory and the style of the ornament emulate earlier types of Baroque powder flasks.",
+    "dimensions": [
+        "Height, 8 1/8 in. (20.6 cm)",
+        "Width, 2 7/8 in. (7.30 cm)"
+    ],
+    "gallery-id": 375,
+    "id": 35378,
+    "image": "http://images.metmuseum.org/CRDImages/aa/original/sfsb2007.479.1_001.jpg",
+    "medium": "Ivory, silver",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/aa/original/sfsb2007.479.1_001.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/sfsb2007.479.1_003.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/sfsb2007.479.1_006.jpg"
+    ],
+    "title": "Powder flask",
+    "what": [
+        "Metal",
+        "Silver",
+        "Arms",
+        "Bone",
+        "Ivory",
+        "Firearms",
+        "Accessories",
+        "Flasks",
+        "Powder flasks"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "Czech Republic",
+        "Bohemia"
+    ]
+}

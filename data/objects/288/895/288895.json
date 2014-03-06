@@ -1,0 +1,137 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/288894"
+            },
+            {
+                "href": "http://scrapi.org/object/291461"
+            },
+            {
+                "href": "http://scrapi.org/object/270268"
+            },
+            {
+                "href": "http://scrapi.org/object/288837"
+            },
+            {
+                "href": "http://scrapi.org/object/291457"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwf",
+                "rel": "France, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/288895"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/288895"
+        }
+    },
+    "accession number": "2007.454.2.1\u2013.32",
+    "credit line": "Joyce F. Menschel Photography Library Fund, 2007",
+    "date": "1870\u201371",
+    "department": "Photographs",
+    "description": "Alfred d'Aunay's introduction to the second volume of Li\u00e9bert's compendium of photographs of the ruins of Paris and its environs begins with the following description of Neuilly, the suburb of Paris that for three weeks lay between the Communards and the nationalists and absorbed the fire of each:If the tourist would like to get an idea of a complete disaster, of a village in which not a house was spared, in which not a section of wall dodged the terrible baptism of bombardment and grapeshot, it is to Neuilly that he must make his pilgrimage. At Neuilly, all along that immense avenue that Sunday \"promeneurs\" know so well, there is not a single house that did not at least have its windows broken, its roof caved in, its walls breached by large holes.",
+    "dimensions": [
+        "Images approx. 19 x 25 cm (7 1/2 x 9 13/16 in.), or the reverse",
+        "Mounts 32.8 x 41.3 cm (12 15/16 x 16 1/4 in.), or the reverse"
+    ],
+    "id": 288895,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP161612.jpg",
+    "medium": "Albumen silver prints from glass negatives",
+    "provenance": [
+        "Estate of Harry Lunn, Paris",
+        "[Baudoin Lebon, Paris]"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ph/original/DP161612.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP161613.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP161614.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP161615.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP161616.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP161617.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP161618.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP161619.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP161620.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP161621.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP161622.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP161623.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP161624.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP161625.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP161626.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP161627.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP161628.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP161629.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP161630.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP161631.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP161632.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP161633.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP161634.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP161635.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP161636.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP161637.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP161638.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP161639.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP161640.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP161641.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP161642.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP161643.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP161644.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP161645.jpg"
+    ],
+    "title": "Les Ruines de Paris et de ses Environs 1870-1871: Cent Photographies: Second Volume.  Par A. Li\u00e9bert, text par Alfred d'Aunay.",
+    "what": [
+        "Photographs",
+        "Books",
+        "Albumen silver prints",
+        "Albums"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": [
+        "Alphonse J. Li\u00e9bert",
+        "Alfred d'Aunay"
+    ]
+}

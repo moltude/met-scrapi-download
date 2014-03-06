@@ -1,0 +1,125 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/443204"
+            },
+            {
+                "href": "http://scrapi.org/object/443202"
+            },
+            {
+                "href": "http://scrapi.org/object/443203"
+            },
+            {
+                "href": "http://scrapi.org/object/455542"
+            },
+            {
+                "href": "http://scrapi.org/object/451013"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R128_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140306141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R129_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140307141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A249_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114331",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A250_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114353",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world-french?eid=R026_%7b85906EA1-CA66-4610-A52C-39562E1A4C40%7d_20140310133000",
+                "rel": "Arts du monde Islamique (Arts of the Islamic World in French)"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R130_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140310141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=eus",
+                "rel": "Southern Europe, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/443205"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/443205"
+        }
+    },
+    "accession number": "89.2.2164a",
+    "credit line": "Gift of Joseph W. Drexel, 1889",
+    "culture": "Islamic",
+    "date": "19th century",
+    "department": "Islamic Art",
+    "dimensions": [
+        "H. 1 9/16 in. (4 cm)",
+        "Diam. 2 1/8 in. (5.4cm)"
+    ],
+    "id": 443205,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/sf89-2-2164a.jpg",
+    "medium": "Silver and gilding",
+    "provenance": [
+        "Joseph W. Drexel, New York (until d. 1888)",
+        "his widow, Lucy Wharton Drexel(1888\u201389; gifted to Museum in Joseph Drexel's name)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/sf89-2-2164a.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/sf89-2-2164d.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/sf89-2-2164c.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/sf89-2-2164b.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/89.2.2164ab.jpg"
+    ],
+    "title": "Cup Holder",
+    "what": [
+        "Metal",
+        "Silver",
+        "Gilt",
+        "Drinking vessels",
+        "Cups"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Asia",
+        "Turkey"
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/237087"
+            },
+            {
+                "href": "http://scrapi.org/object/205211"
+            },
+            {
+                "href": "http://scrapi.org/object/236942"
+            },
+            {
+                "href": "http://scrapi.org/object/236943"
+            },
+            {
+                "href": "http://scrapi.org/object/239514"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 3, 2014",
+                "href": "/exhibitions/listings/2014/william-morris",
+                "rel": "William Morris"
+            },
+            {
+                "date": "From November 22, 2011",
+                "href": "/exhibitions/listings/2011/faberge",
+                "rel": "Faberg\u00e9 from the Matilda Geddings Gray Foundation Collection"
+            },
+            {
+                "date": "From February 4, 2014",
+                "href": "/exhibitions/listings/2014/french-ceramics",
+                "rel": "Making Pottery Art"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/carpeaux",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "From January 22, 2014",
+                "href": "/exhibitions/listings/2014/antonio-canova",
+                "rel": "Antonio Canova"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining-family-individual?eid=R002_%7b2F11F3B2-6834-484B-AE0F-5066D7E783B5%7d_20140306100000",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R102_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140306131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining-family-individual?eid=R001_%7b2F11F3B2-6834-484B-AE0F-5066D7E783B5%7d_20140307100000",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/collecting-and-intepreting-at-the-met?eid=A001_%7b6A0B3958-68AC-4F22-BB73-D898FB894401%7d_20140127111701",
+                "rel": "Fellows Colloquium\u2014Collecting and Interpreting at the Met"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R103_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140307131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining-family-individual?eid=R002_%7b2F11F3B2-6834-484B-AE0F-5066D7E783B5%7d_20140308100000",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining-family-individual?eid=A002_%7b2F11F3B2-6834-484B-AE0F-5066D7E783B5%7d_20140107114234",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R104_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140310131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/membership-events/evening-receptions/carpeaux-supporting-reception?eid=A001_%7b60301F85-6473-4C1C-8DAB-5D8B2E9406EE%7d_20140107151713",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R105_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140311131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwb",
+                "rel": "Great Britain and Ireland, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/204941"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/204941"
+        }
+    },
+    "accession number": "68.141.137",
+    "credit line": "Gift of Irwin Untermyer, 1968",
+    "culture": "British, London",
+    "date": "1713/14",
+    "department": "European Sculpture and Decorative Arts",
+    "description": "The arms of later owners Frederick Augustus (1763\u20131827), Duke of York,and his wife, Frederica Charlotte of Prussia, are engraved on the sides.",
+    "dimensions": "Overall (wt. confirmed) H. 11 3/8 in., 62.911oz. (28.9 cm, 1783.5g)",
+    "id": 204941,
+    "image": "http://images.metmuseum.org/CRDImages/es/original/193568.jpg",
+    "medium": "Silver gilt",
+    "provenance": [
+        "Earl[s] of Brownlow (until 1929; their sale, Christie's, London, March 13, 1929, no. 58)",
+        "William Randolph Hearst (until 1938; his sale, Christie's, London, December 14, 1938, no. 45)",
+        "Irwin Untermyer (until 1968; to MMA)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/es/original/193568.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/193569.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/193570.jpg"
+    ],
+    "title": "Jug with cover (one of a pair)",
+    "what": [
+        "Metal",
+        "Vessels",
+        "Metalwork",
+        "Silver",
+        "Gilt",
+        "Jugs"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "United Kingdom",
+        "England",
+        "London"
+    ],
+    "who": "Simon Pantin I"
+}

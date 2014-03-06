@@ -1,0 +1,95 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/284568"
+            },
+            {
+                "href": "http://scrapi.org/object/284630"
+            },
+            {
+                "href": "http://scrapi.org/object/284572"
+            },
+            {
+                "href": "http://scrapi.org/object/284565"
+            },
+            {
+                "href": "http://scrapi.org/object/284629"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/266710"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/266710"
+        }
+    },
+    "accession number": "1992.5068",
+    "credit line": "Purchase, The Horace W. Goldsmith Foundation Gift, through Joyce and Robert Menschel, 1992",
+    "date": "1969",
+    "department": "Photographs",
+    "description": "The animating spirit behind photography is time, and the medium\u2019s vital role in preserving the ephemeral expanded in the 1960s to include the recording of a wide array of Conceptual gestures and strategies, such as the new sculptural practice known as \"earthworks\".  A number of artists including Richard Long, Michael Heizer, and Robert Smithson created often large-scale, site-specific alterations or additions to the environment;  in doing so, they deliberately moved away from the Modernist tradition of contemplative, self-referential sculpture (epitomized by Brancusi) that sat comfortably in galleries and living rooms, to works that were carved out of and commented on the post-industrial landscape.  Perhaps the best-known of these works was the massive stone Spiral Jetty (1970) created by Robert Smithson (1938-73) in the Great Salt Lake in Utah.  This photograph is of another, more ephemeral, work by Smithson, in which he upended a dead palm tree\u2014now blooming its expired roots\u2014on the shore at Sanibel Island, Florida.",
+    "dimensions": "19.2 x 19.2 cm. (7  9/16  x 7  9/16  in.)",
+    "id": 266710,
+    "medium": "Gelatin silver print",
+    "provenance": [
+        "Adison Thompson"
+    ],
+    "title": "Second Upside-Down Tree",
+    "what": [
+        "Photographs",
+        "Gelatin silver prints"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": [
+        "Unknown, American",
+        "Robert Smithson",
+        "Virginia Dwan"
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/338301"
+            },
+            {
+                "href": "http://scrapi.org/object/369269"
+            },
+            {
+                "href": "http://scrapi.org/object/369268"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/prnt/hd_prnt.htm",
+                "rel": "The Printed Image in the West: History and Techniques"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=euwc",
+                "rel": "Central Europe (including Germany), 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/356792"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/356792"
+        }
+    },
+    "accession number": "1981.1178.29",
+    "credit line": "The George Khuner Collection, Gift of Mrs. George Khuner, 1981",
+    "date": "July 12, 1493",
+    "department": "Drawings and Prints",
+    "dimensions": "Overall 17 13/16 x 12 11/16 x 2 3/4 in. (45.2 x 32.2 x 7 cm)",
+    "id": 356792,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP102564.jpg",
+    "provenance": [
+        "George Khuner",
+        "Comte Paul de Malden de la Bastille",
+        "Joannes Drachet",
+        "Thomas Martin Schallenberger 1871 and 1873 (see also initials on fol. 16)",
+        "Donor: Marianne Khuner (Mrs. George Khuner)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP102564.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP102562.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP102563.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP102567.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP102565.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP102566.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP102568.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP102811.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP102812.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP102813.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP102814.jpg"
+    ],
+    "title": "(Liber chronicarum) Registrum huius operis libri cronicarum cum figuris et ymagibus ab inicio mundi",
+    "what": "Books",
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Germany"
+    ],
+    "who": [
+        "Anton Koberger",
+        "Michael Wolgemut",
+        "Hartmann Schedel",
+        "Wilhelm Pleydenwurff",
+        "Art Bookbinding Studio"
+    ]
+}

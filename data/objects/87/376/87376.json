@@ -1,0 +1,140 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/80784"
+            },
+            {
+                "href": "http://scrapi.org/object/81142"
+            },
+            {
+                "href": "http://scrapi.org/object/81670"
+            },
+            {
+                "href": "http://scrapi.org/object/155902"
+            },
+            {
+                "href": "http://scrapi.org/object/157195"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R128_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140306130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R129_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140307130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R130_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140310130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/cost/hd_cost.htm",
+                "rel": "Costume in The Metropolitan Museum of Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/coho/hd_coho.htm",
+                "rel": "Dressing for the Cocktail Hour"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/elsa/hd_elsa.htm",
+                "rel": "Elsa Schiaparelli (1890\u20131973)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/psop/hd_psop.htm",
+                "rel": "Le Colis de Trianon\u2013Versailles and Paris Openings"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/20sil/hd_20sil.htm",
+                "rel": "Twentieth\u2013Century Silhouette and Support"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/87376"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/87376"
+        }
+    },
+    "accession number": "2002.479.1",
+    "credit line": "Gift of Ruth Ford, 2002",
+    "culture": "French",
+    "date": "late 1930s",
+    "department": "Costume Institute",
+    "dimensions": "Length at CB 38 3/4 in. (98.4 cm)",
+    "id": 87376,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/2002.479.1_F.jpg",
+    "medium": "silk",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/2002.479.1_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2002.479.1_B.jpg"
+    ],
+    "title": "Cape",
+    "what": [
+        "Costume",
+        "Silk",
+        "Outerwear",
+        "Capes"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Elsa Schiaparelli"
+}

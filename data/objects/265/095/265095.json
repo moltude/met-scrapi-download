@@ -1,0 +1,96 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/265946"
+            },
+            {
+                "href": "http://scrapi.org/object/285447"
+            },
+            {
+                "href": "http://scrapi.org/object/285448"
+            },
+            {
+                "href": "http://scrapi.org/object/285449"
+            },
+            {
+                "href": "http://scrapi.org/object/265110"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/phev/hd_phev.htm",
+                "rel": "Photography and Everyday Life in America, 1945\u201360"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/265095"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/265095"
+        }
+    },
+    "accession number": "1987.1055",
+    "credit line": "Purchase, The Horace W. Goldsmith Foundation Gift, through Joyce and Robert Menschel, 1987",
+    "date": "1946",
+    "department": "Photographs",
+    "description": "Faurer was one of the best, if little known, of New York's street photographers in the 1940s and early 1950s. Working chiefly in Times Square and on 14th Street, he gathered a motley cast of unglamorous and marginal characters before his lens and juxtaposed them with the printed detritus and/or neon-flashing overload of signs in the urban environment. Here he homes in on a regular guy pausing before a window papered with information that the viewer cannot read. And though we gaze at the man seemingly undetected, the shadow over his eyes makes it unclear as to whether the camera has been spotted-lending a sense of claustrophobia and mutual suspicion to the scene. Faurer was an expert at orchestrating such scenarios-in fact, the white pointed shape in the lower left corner of the image was added in the darkroom in order to focus the effect of the mood-and it was his talent for creating psychological atmosphere and resurrecting quotidian people and places from passing obscurity that made his work so influential on later generations of artists, such as Robert Frank, Lee Friedlander, and Diane Arbus.",
+    "dimensions": "23.1 x 31.6 cm (9 1/16 x 12 7/16 in.)",
+    "id": 265095,
+    "medium": "Gelatin silver print",
+    "provenance": [
+        "Sander Gallery"
+    ],
+    "title": "New York, N. Y.",
+    "what": [
+        "Photographs",
+        "Gelatin silver prints"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "Louis Faurer"
+}

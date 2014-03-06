@@ -1,0 +1,165 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/207992"
+            },
+            {
+                "href": "http://scrapi.org/object/480535"
+            },
+            {
+                "href": "http://scrapi.org/object/487382"
+            },
+            {
+                "href": "http://scrapi.org/object/488151"
+            },
+            {
+                "href": "http://scrapi.org/object/488172"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From November 20, 2013",
+                "href": "/exhibitions/listings/2013/jewels-by-jar",
+                "rel": "Jewels by JAR"
+            },
+            {
+                "date": "From February 24, 2014",
+                "href": "/exhibitions/listings/2014/lucas-samaras",
+                "rel": "Lucas Samaras"
+            },
+            {
+                "date": "From December 17, 2013",
+                "href": "/exhibitions/listings/2013/metropolitan-vanities",
+                "rel": "Metropolitan Vanities"
+            },
+            {
+                "date": "From October 22, 2013",
+                "href": "/exhibitions/listings/2013/william-kentridge",
+                "rel": "William Kentridge"
+            },
+            {
+                "date": "From April 29, 2014",
+                "href": "/exhibitions/listings/2014/dan-graham",
+                "rel": "The Roof Garden Commission: Dan Graham"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R026_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140306140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R103_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140306144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/collecting-and-intepreting-at-the-met?eid=A001_%7b6A0B3958-68AC-4F22-BB73-D898FB894401%7d_20140127111701",
+                "rel": "Fellows Colloquium\u2014Collecting and Interpreting at the Met"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/talks/gallery-talks/metropolitan-vanities?eid=A001_%7bF51ADF90-5C6F-45EF-822C-6AE4940219F6%7d_20140206160301",
+                "rel": "Exhibition Tour\u2014Metropolitan Vanities: The History of the Dressing Table"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/college/jewels?eid=A001_%7bB2CEEB36-09E2-43E1-B6FD-1CA91686BA29%7d_20140219113337",
+                "rel": "Jewels by JAR Workshop"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R104_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140310144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/modern-art-french?eid=R027_%7b96311A2D-1D25-45BE-83E2-2054BC16D70B%7d_20140311133000",
+                "rel": "Art Moderne et Contemporain (Modern and Contemporary Art in French)"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R105_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140311144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R106_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140312144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R027_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140313140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/artn/hd_artn.htm",
+                "rel": "Art Nouveau"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/dsgn1/hd_dsgn1.htm",
+                "rel": "Design, 1900\u201325"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/frdc/hd_frdc.htm",
+                "rel": "French Art Deco"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwf",
+                "rel": "France, 1800\u20131900 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/483898"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/483898"
+        }
+    },
+    "accession number": "1985.114",
+    "credit line": "Gift of Lillian Nassau, 1985",
+    "date": "ca. 1897\u201399",
+    "department": "Modern and Contemporary Art",
+    "description": "Ren\u00e9-Jules Lalique was born in the Marne region of France.  As a young student he showed great artistic promise and his mother guided him toward jewelry making.  From 1876 to 1878 he apprenticed with Louis Aucoc, a noted Parisian jeweler.  By the 1890s he had opened his own workshop in Paris and become one of the most admired jewelers of the day.  Lalique avoided using precious stones and the conservatively classical settings favored by other leading jewelers of the time.  Rather, he combined semiprecious stones with such materials as enamel, horn, ivory, coral, rock crystal, and irregularly shaped Baroque pearls in settings of organic inspiration, frequently accentuated by asymmetrical curves or elaborate flourishes.He designed this powerfully evocative necklace for his second wife, Augustine-Alice Ledru, around the turn of the century.  The repeats of the main motif \u2014 an attenuated female nude whose highly stylized curling hair swirls around her head and whose arms sensuously curve down to become a border enclosing enamel-and-gold swans and an oval cabochon amethyst \u2014 are separated by pendants set with fire opals mounted in swirling gold tendrils.",
+    "dimensions": [
+        "Overall diam. 9-1/2 in.",
+        "(24.1 cm)",
+        "9 large pendants H. 2-3/4, W. 2-1/4 in.",
+        "(7 x 5.7 cm)",
+        "9 small pendants H. 1-3/8, W. 1-1/4 in.",
+        "(3.5 x 3.2 cm)"
+    ],
+    "id": 483898,
+    "image": "http://images.metmuseum.org/CRDImages/ma/original/DT1423.jpg",
+    "medium": "Gold, enamel, opals, amethysts",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ma/original/DT1423.jpg",
+        "http://images.metmuseum.org/CRDImages/ma/original/DT8077.jpg"
+    ],
+    "title": "Necklace",
+    "what": [
+        "Metal",
+        "Costume",
+        "Gold",
+        "Jewelry",
+        "Necklaces",
+        "Amethyst",
+        "Enamel paint",
+        "Opal"
+    ],
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Ren\u00e9-Jules Lalique"
+}

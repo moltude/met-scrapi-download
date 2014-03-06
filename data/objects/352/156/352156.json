@@ -1,0 +1,95 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/366439"
+            },
+            {
+                "href": "http://scrapi.org/object/395101"
+            },
+            {
+                "href": "http://scrapi.org/object/356587"
+            },
+            {
+                "href": "http://scrapi.org/object/343337"
+            },
+            {
+                "href": "http://scrapi.org/object/390939"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=euwf",
+                "rel": "France, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/352156"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/352156"
+        }
+    },
+    "accession number": "41.72(2.107)",
+    "credit line": "Harris Brisbane Dick Fund, 1941",
+    "date": "16th century",
+    "department": "Drawings and Prints",
+    "description": "This print comes from the museum\u2019s copy of the Speculum Romanae Magnificentiae (The Mirror of Roman Magnificence) The Speculum found its origin in the publishing endeavors of Antonio Salamanca and Antonio Lafreri. During their Roman publishing careers, the two foreign publishers - who worked together between 1553 and 1563 - initiated the production of prints recording art works, architecture and city views related to Antique and Modern Rome. The prints could be bought individually by tourists and collectors, but were also purchased in larger groups which were often bound together in an album. In 1573, Lafreri commissioned a title page for this purpose, which is where the title \u2018Speculum Romanae Magnificentiae\u2019 first appears. Lafreri envisioned an ideal arrangement of the prints in 7 different categories, but during his lifetime, never appears to have offered one standard, bound set of prints. Instead, clients composed their own selection from the corpus to be bound, or collected a group of prints over time. When Lafreri died, two-third of the existing copper plates went to the Duchetti family (Claudio and Stefano), while another third was distributed among several publishers. The Duchetti appear to have standardized production, offering a more or less uniform version of the Speculum to their clients. The popularity of the prints also inspired other publishers in Rome to make copies however, and to add new prints to the corpus. The museum\u2019s copy of the Speculum entered the collection as a group of 3 albums with inlaid engravings and etchings. The prints have since been removed, but the original place of each print within the album is contained in the accession number: 41.72(volume.place).Originally volume 2, plate 107 in the scrapbook.",
+    "dimensions": [
+        "sheet 14 1/4 x 9 3/4 in. (36.2 x 24.8 cm)",
+        "mount 17 11/16 x 12 1/2 in. (45 x 31.7 cm)"
+    ],
+    "id": 352156,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP820281.jpg",
+    "medium": "Engraving",
+    "provenance": [
+        "H. P. Kraus"
+    ],
+    "title": "Speculum Romanae Magnificentiae: Marcus Aurelius",
+    "what": [
+        "Prints",
+        "Engraving"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": [
+        "Marcantonio Raimondi",
+        "Antonio Lafreri",
+        "Marco Dente",
+        "Nicolas Beatrizet"
+    ]
+}

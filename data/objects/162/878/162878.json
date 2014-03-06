@@ -1,0 +1,201 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/162875"
+            },
+            {
+                "href": "http://scrapi.org/object/162876"
+            },
+            {
+                "href": "http://scrapi.org/object/162877"
+            },
+            {
+                "href": "http://scrapi.org/object/162879"
+            },
+            {
+                "href": "http://scrapi.org/object/162880"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R128_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140306130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R129_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140307130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R130_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140310130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/162878"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/162878"
+        }
+    },
+    "accession number": "2006.440.4a\u2013ii",
+    "credit line": "Purchase, Friends of The Costume Institute Gifts, 2006",
+    "culture": "French",
+    "date": "1912\u201322",
+    "department": "Costume Institute",
+    "dimensions": "N/A",
+    "id": 162878,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4a_F.jpg",
+    "medium": "paper",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4a_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4a_d1.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4a_d2.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4a_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4b_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4b_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4c_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4c_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4d_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4d_d.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4d_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4e_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4e_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4f_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4f_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4g_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4g_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4h_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4h_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4i_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4i_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4j_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4j_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4k_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4k_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4l_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4l_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4m_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4m_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4n_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4n_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4o_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4o_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4p_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4p_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4q_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4q_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4r_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4r_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4s_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4s_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4t_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4t_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4u_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4u_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4v_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4v_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4w_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4w_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4x_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4x_d1.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4x_d2.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4x_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4y_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4y_d1.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4y_d2.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4y_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4z_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4z_d1.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4z_d2.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4z_d3.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4z_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4aa_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4aa_d.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4aa_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4bb_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4bb_d.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4bb_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4cc_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4cc_d1.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4cc_d2.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4cc_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4dd_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4dd_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4ee_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4ee_d.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4ee_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4ff_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4ff_d.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4ff_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4gg_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4gg_d1.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4gg_d2.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4gg_d3.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4gg_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4hh_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4hh_d1.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4hh_d2.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4hh_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4ii_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4ii_d1.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4ii_d2.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4ii_d3.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.440.4ii_B.jpg"
+    ],
+    "title": "Modes et Mani\u00e8res d'Aujourd'hui",
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Pierre Corrard"
+}

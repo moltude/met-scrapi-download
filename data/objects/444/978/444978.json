@@ -1,0 +1,130 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/452090"
+            },
+            {
+                "href": "http://scrapi.org/object/446821"
+            },
+            {
+                "href": "http://scrapi.org/object/446829"
+            },
+            {
+                "href": "http://scrapi.org/object/448680"
+            },
+            {
+                "href": "http://scrapi.org/object/445258"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R128_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140306141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R129_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140307141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A249_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114331",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A250_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114353",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world-french?eid=R026_%7b85906EA1-CA66-4610-A52C-39562E1A4C40%7d_20140310133000",
+                "rel": "Arts du monde Islamique (Arts of the Islamic World in French)"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R130_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140310141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=eusb",
+                "rel": "Balkan Peninsula, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/444978"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/444978"
+        }
+    },
+    "accession number": "06.1210",
+    "credit line": "Gift of J. Pierpont Morgan, 1906",
+    "culture": "Islamic",
+    "date": "17th century",
+    "department": "Islamic Art",
+    "description": "A large number of Ottoman silk textiles were destined for export to Europe, where they functioned as secular and religious garments. This chasuble, an ecclesiastical vestment worn by high church officials, is a fine example of the synthesis of Eastern and Western displays of wealth through the donning of silk and gold garments. The design features large-scale palmettes and serrated leaves imbued with tiny pomegranate blossoms, highlighted by gold-wrapped weft threads. The elegant contrast between sky blue and crimson is achieved through the lampas (kemha) technique, which combines two different weave structures to create solid areas of color by floating the unused warp threads on the back of the cloth.",
+    "dimensions": [
+        "Textile H. 46 in. (116.8 cm)",
+        "W.  27 1/2 in. (69.9 cm)"
+    ],
+    "id": 444978,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/DP267588.jpg",
+    "medium": "Silk, metal wrapped thread; lampas (kemha)",
+    "provenance": [
+        "J. Pierpont Morgan, New York (until 1906; gifted to MMA)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/DP267588.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/sf06-210a.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/sf06-210b.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/TP275B.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP267587.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP283566.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP291525.jpg"
+    ],
+    "title": "Chasuble",
+    "what": [
+        "Metal",
+        "Costume",
+        "Silk",
+        "Textiles",
+        "Woven",
+        "Vestments",
+        "Chasubles",
+        "Lampas"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Asia",
+        "Turkey"
+    ]
+}

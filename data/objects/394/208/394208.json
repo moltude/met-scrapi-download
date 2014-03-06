@@ -1,0 +1,123 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/338568"
+            },
+            {
+                "href": "http://scrapi.org/object/336925"
+            },
+            {
+                "href": "http://scrapi.org/object/351287"
+            },
+            {
+                "href": "http://scrapi.org/object/351294"
+            },
+            {
+                "href": "http://scrapi.org/object/385075"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/tapb/hd_tapb.htm",
+                "rel": "European Tapestry Production and Patronage, 1600\u20131800"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/bouc/hd_bouc.htm",
+                "rel": "Fran\u00e7ois Boucher (1703\u20131770)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/gard_2/hd_gard_2.htm",
+                "rel": "From Italy to France: Gardens in the Court of Louis XIV and After"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/ench/hd_ench.htm",
+                "rel": "Interior Design in England, 1600\u20131800"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/watt/hd_watt.htm",
+                "rel": "Jean Antoine Watteau (1684\u20131721)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/croo/hd_croo.htm",
+                "rel": "The Croome Court Tapestry Room, Worcestershire"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/frag/hd_frag.htm",
+                "rel": "Jean\u2013Honor\u00e9 Fragonard (1732\u20131806)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwf",
+                "rel": "France, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/394208"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/394208"
+        }
+    },
+    "accession number": "53.600.1018",
+    "credit line": "Harris Brisbane Dick Fund, 1953",
+    "department": "Drawings and Prints",
+    "dimensions": "sheet 8 5/16 x 5 3/16 in. (21.1 x 13.1 cm)",
+    "id": 394208,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP825538.jpg",
+    "medium": "Etching",
+    "provenance": [
+        "Vendor: P. & D. Colnaghi & Co., Ltd."
+    ],
+    "title": "Chinese Musician",
+    "what": [
+        "Prints",
+        "Etching"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": [
+        "Fran\u00e7ois Boucher",
+        "Chez Huquier"
+    ]
+}

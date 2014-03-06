@@ -1,0 +1,98 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/266292"
+            },
+            {
+                "href": "http://scrapi.org/object/266288"
+            },
+            {
+                "href": "http://scrapi.org/object/266289"
+            },
+            {
+                "href": "http://scrapi.org/object/266290"
+            },
+            {
+                "href": "http://scrapi.org/object/266291"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/pmet/hd_pmet.htm",
+                "rel": "The Structure of Photographic Metaphors"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/266262"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/266262"
+        }
+    },
+    "accession number": "1990.1083",
+    "credit line": "Purchase, Stewart S. MacDermott Fund, Nancy and Edwin Marks Gift, Mary Martin Fund, Joyce and Robert Menschel Gift, and The Horace W. Goldsmith Foundation Gift through Joyce and Robert Menschel, 1990",
+    "date": "1966\u201367",
+    "department": "Photographs",
+    "description": "Schooled at Chicago's Institute of Design, Ray Metzker inherited European traditions of formal experimentation brought to America by the school's founder, L\u00e1szl\u00f3 Moholy-Nagy. Starting with the premise of the plasticity of his medium, Metzker rejected the prevailing notion that to photograph is to frame and thus to fix a unit of optical truth.  Instead, he devised a way to use rolls of film, not single frames, as negatives.  For \"Port Authority\" he exposed the film twice, once inside and once outside New York's bus station.  The unaligned, double-exposed frames that resulted point to the seamless continuity of overlapping and interpenetrating realities of urban life.To further indicate the complex contiguity and the chance simultaneity of metropolitan experience, Metzker arranged twelve prints from the film rolls into two panels that float one above the other.  These six-part strophic variations have a strong graphic beat and complex internal repeats informed by the artist's keen interest in kinetic sculpture and percussive movement.\"Port Authority\" is one of the last fifteen unique composites Metzker made between 1964 and 1967.  In line with contemporary developments in Conceptual, Pop, machine, Op, and performance art, these large wall-sized works uncannily merge the crucial artistic issues of the 1960s.  Their technical innovation and intellectual integrity remain unsurpassed, providing a precocious challenge to current photographic practice.",
+    "dimensions": "106.4 x 111.4 cm (41 7/8 x 43 7/8 in.)",
+    "id": 266262,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/ph1990.1083.R.jpg",
+    "medium": "Gelatin silver print",
+    "provenance": [
+        "Artist",
+        "[Laurence Miller Gallery, New York]"
+    ],
+    "title": "Port Authority",
+    "what": [
+        "Photographs",
+        "Gelatin silver prints"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "Ray K. Metzker"
+}

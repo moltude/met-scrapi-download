@@ -1,0 +1,126 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/549168"
+            },
+            {
+                "href": "http://scrapi.org/object/544501"
+            },
+            {
+                "href": "http://scrapi.org/object/544507"
+            },
+            {
+                "href": "http://scrapi.org/object/544508"
+            },
+            {
+                "href": "http://scrapi.org/object/549171"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R129_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140307140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/teen-programs/saturday-sketching/saturday-sketching-egyptian-art?eid=A001_%7b8698F79D-A7E0-44F1-99CF-57C8A2E2471A%7d_20131211143556",
+                "rel": "Saturday Sketching\u2014Egyptian Art (Ages 11\u201318)"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A151_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113641",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R130_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140310140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=03\u00aeion=afe",
+                "rel": "Egypt, 2000\u20131000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/549185"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/549185"
+        }
+    },
+    "accession number": "11.215.489",
+    "credit line": "Rogers Fund, 1911",
+    "date": "ca. 1390\u20131353 B.C.",
+    "department": "Egyptian Art",
+    "description": "This enormous dish is decorated around the rim with the floral motifs found on other pottery from the site of Malqata (see 11.215.460\u201311.215.477).",
+    "dimensions": "H. 25 cm (9 13/16 in); diam. 75 cm (29 1/2 in)",
+    "gallery-id": 120,
+    "id": 549185,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/11.215.489_view_1.jpg",
+    "medium": "pottery, slip, paint",
+    "provenance": [
+        "Museum excavations, 1910\u201311. Acquired by the Museum in the Division of Finds, 1911."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/eg/original/11.215.489_view_1.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/11.215.489_view_2.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/11.215.489_view_3.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/11.215.489_view_4.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/11.215.489_view_5.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/11.215.489_view_6.jpg"
+    ],
+    "title": "Blue-Painted Dish from Malqata",
+    "what": [
+        "Ceramics",
+        "Clay",
+        "Pottery",
+        "Dishes",
+        "Painting",
+        "Slip"
+    ],
+    "when": "2000-1000 B.C.",
+    "where": [
+        "Africa",
+        "Egypt",
+        "Upper Egypt",
+        "Thebes"
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/156131"
+            },
+            {
+                "href": "http://scrapi.org/object/156153"
+            },
+            {
+                "href": "http://scrapi.org/object/156184"
+            },
+            {
+                "href": "http://scrapi.org/object/156167"
+            },
+            {
+                "href": "http://scrapi.org/object/156191"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R128_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140306130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R129_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140307130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R130_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140310130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/158053"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/158053"
+        }
+    },
+    "accession number": "2009.300.3149a, b",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Herman Delman, 1954",
+    "culture": "European",
+    "date": "1850\u201369",
+    "department": "Costume Institute",
+    "description": "These elegant slippers are essentially a miniaturized version of an adult style, but include an integral ankle-strap, thus rendering them suitable for a child.  The tiny bow, fine leather piping, and metallic painted button are pleasing elements which show the attention to detail. Bronze kid was used widely throughout the second half of the 19th century for women's shoes.  The distinctive purplish brown tone with a metallic or iridescent sheen was produced by dyeing the leather with cochineal, a red dye produced by crushing the dried bodies of the insect Dactylopius coccusa.",
+    "dimensions": "1 3/4 x 6 1/2 in. (4.4 x 16.5 cm)",
+    "id": 158053,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/54.61.146a-b_CP4.jpg",
+    "medium": "leather",
+    "title": "Shoes",
+    "what": [
+        "Costume",
+        "Leather",
+        "Footwear",
+        "Shoes"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe"
+    ]
+}

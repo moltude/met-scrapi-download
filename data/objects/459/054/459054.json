@@ -1,0 +1,133 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/459053"
+            },
+            {
+                "href": "http://scrapi.org/object/459055"
+            },
+            {
+                "href": "http://scrapi.org/object/437054"
+            },
+            {
+                "href": "http://scrapi.org/object/437055"
+            },
+            {
+                "href": "http://scrapi.org/object/437056"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R125_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140303134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R126_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140304134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R127_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140305134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R128_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140306134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R129_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140307134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R130_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140310134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R131_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140311134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R132_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140312134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R133_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140313134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R134_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140314134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/neth/hd_neth.htm",
+                "rel": "Intentional Alterations of Early Netherlandish Painting"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=euwl",
+                "rel": "Low Countries, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/459054"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/459054"
+        }
+    },
+    "accession number": "1975.1.112",
+    "credit line": "Robert Lehman Collection, 1975",
+    "date": "ca. 1472-5",
+    "department": "Robert Lehman Collection",
+    "description": "One of the most sought-after Netherlandish portrait painters of his time, Memling\u2019s meticulous attention to detail is notable in the remarkable naturalism of the sitter\u2019s physiognomy and the texture of his velvet, fur-trimmed tunic. The young man was likely one of the many Florentine visitors to, or residents of, Bruges, several of whom commissioned portraits from the artist. It appears that shortly after it was painted, the panel was sent to Florence, where it provided inspiration to Italian artists, who deeply admired Netherlandish painting. A Madonna and Child (Louvre, Paris) painted about 1476-77 and variously attributed to Verrocchio and Ghirlandaio, includes the same landscape vista and classicizing columns. The Italianate columns, which indicate Memling\u2019s familiarity with Italian art and would have pleased his Florentine patron, illustrate that the relationship between Northern and Southern European artists was one of reciprocal influence.",
+    "dimensions": "Overall 15 3/4 x 11 3/8 in. (40 x 29 cm); painted surface 15 1/8 x 10 3/4 in. (38.3 x 27.3 cm)",
+    "gallery-id": 953,
+    "id": 459054,
+    "image": "http://images.metmuseum.org/CRDImages/rl/original/DT3077.jpg",
+    "medium": "Oil on oak panel",
+    "provenance": [
+        "Francis, 9th Earl of Wemyss (d. 1889), Gosford House, Longniddry, Scotland, by 1857",
+        "his son Francis Richard, 10th earl of Wemyss, until 1912",
+        "[R. Langton Douglas, London], 1912",
+        "[M. Knoedler and Co., London and New York], June 1912 (bought from Douglas)",
+        "J. H. Dunn, London, December 1912 (bought from Knoedler)",
+        "[M. Knoedler, London and New York], July 1914 (bought from Dunn).  Acquired by Philip Lehman from Knoedler in December 1915."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/rl/original/DT3077.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/1247.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/DT3077r2m_50V.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/ep1975.1.112.bw.R.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/39.jpg"
+    ],
+    "title": "Portrait of a Young Man",
+    "what": [
+        "Paintings",
+        "Wood",
+        "Oil paintings",
+        "Panels",
+        "Oak"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Netherlands"
+    ],
+    "who": "Hans Memling"
+}

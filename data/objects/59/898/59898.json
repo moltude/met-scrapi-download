@@ -1,0 +1,139 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/36078"
+            },
+            {
+                "href": "http://scrapi.org/object/54240"
+            },
+            {
+                "href": "http://scrapi.org/object/54247"
+            },
+            {
+                "href": "http://scrapi.org/object/53935"
+            },
+            {
+                "href": "http://scrapi.org/object/52114"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 8, 2014",
+                "href": "/exhibitions/listings/2014/tibet-and-india",
+                "rel": "Tibet and India"
+            },
+            {
+                "date": "From November 4, 2013",
+                "href": "/exhibitions/listings/2013/silla",
+                "rel": "Silla"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/chinese-carving",
+                "rel": "Colors of the Universe"
+            },
+            {
+                "date": "From July 19, 2013",
+                "href": "/exhibitions/listings/2013/chinese-snuff-bottles",
+                "rel": "Small Delights"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/ink-art",
+                "rel": "Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "From February 1, 2014",
+                "href": "/exhibitions/listings/2014/edo-period-painting",
+                "rel": "The Flowering of Edo Period Painting"
+            },
+            {
+                "date": "From April 14, 2014",
+                "href": "/exhibitions/listings/2014/lost-kingdoms",
+                "rel": "Lost Kingdoms"
+            },
+            {
+                "date": "February 22, 2014",
+                "href": "/events/programs/teen-programs/experiments/ink-experiments?eid=A001_%7b52766BE6-AA12-40CC-8528-B5CEF8906741%7d_20131120164400",
+                "rel": "Ink Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "February 23, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/ink-painting?eid=A003_%7b95793B56-EAF4-4683-9779-3C9309ECBCB7%7d_20131018161901",
+                "rel": "Ink Painting: Traditional Techniques and Experiments"
+            },
+            {
+                "date": "February 23, 2014",
+                "href": "/events/programs/family-programs/start-with-art-at-the-met-and-start-with-art-at-the-met-plus/celebrate-the-year-of-the-horse?eid=A001_%7b1708B562-8E6B-40FD-BFAD-F6106BB1C0A8%7d_20131114155840",
+                "rel": "Start with Art at the Met Plus\u2014Celebrate the Year of the Horse!"
+            },
+            {
+                "date": "February 23, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/chinese-contemporary-ink-art-in-context?eid=A001_%7b6338FFC7-FD24-4B2F-8445-00F7273DEE29%7d_20131113200541",
+                "rel": "Chinese Contemporary Ink Art in Context"
+            },
+            {
+                "date": "February 23, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/ink-as-total-art?eid=A001_%7b9EBCDF8A-2F89-4154-8D5E-A551AE31AF2B%7d_20131226110253",
+                "rel": "Ink as Total Art"
+            },
+            {
+                "date": "February 23, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/what-was-happening-when-this-ink?eid=A001_%7bC469EE38-CB52-4795-A10F-F60EB5F4B66F%7d_20131113203333",
+                "rel": "What Was Happening When This Ink Art Was Being Done?: The Historical Context"
+            },
+            {
+                "date": "February 24, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R096_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140224111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "February 24, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R096_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140224131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "February 25, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R097_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140225111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "February 25, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R097_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140225120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=eaj",
+                "rel": "Japan, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://0.0.0.0http://scrapi.org/object/59898"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/59898"
+        }
+    },
+    "accession number": "10.211.269",
+    "credit line": "Gift of Mrs. Russell Sage, 1910",
+    "culture": "Japan",
+    "date": "19th century",
+    "department": "Asian Art",
+    "id": 59898,
+    "image": "http://images.metmuseum.org/CRDImages/as/original/10_211_269_9610.jpg",
+    "medium": "Ivory",
+    "title": "Netsuke of Woman Bathing",
+    "what": [
+        "Sculpture",
+        "Bone",
+        "Ivory",
+        "Netsukes"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Asia",
+        "Japan"
+    ]
+}

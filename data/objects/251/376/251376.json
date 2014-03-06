@@ -1,0 +1,114 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/247464"
+            },
+            {
+                "href": "http://scrapi.org/object/247475"
+            },
+            {
+                "href": "http://scrapi.org/object/247476"
+            },
+            {
+                "href": "http://scrapi.org/object/248058"
+            },
+            {
+                "href": "http://scrapi.org/object/248059"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R102_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140306123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R026_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140306130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R103_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140307123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A146_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142808",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R104_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140310123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R105_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140311123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R106_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140313123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R027_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140313130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R107_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140314123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/conversations-with-curators-and-conservators/terracotta-column-krater?eid=A001_%7b1CC4797D-7295-4614-9ACD-19C00BA693F4%7d_20140204162630",
+                "rel": "Conversation with a Curator\u2014Terracotta Column-Krater"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=05\u00aeion=eust",
+                "rel": "Italian Peninsula, 1\u2013500A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/251376"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/251376"
+        }
+    },
+    "accession number": "23.160.32a, b",
+    "credit line": "Rogers Fund, 1923",
+    "culture": "Roman",
+    "date": "ca. A.D. 149",
+    "department": "Greek and Roman Art",
+    "description": "These tablets record that in A.D. 149, the Emperor Antoninus Pius granted Roman citizenship and the right to legal marriage to discharged veterans of foreign birth who had served for twenty-five years in auxiliary units. Each veteran received a copy of the law inscribed on two bronze tablets fastened together with wires, which were officially sealed. This copy belonged to an infantryman named Dasmenus Azalus, clearly a man of Near Eastern origin.",
+    "dimensions": [
+        "A Overall: 5 3/16 x 4 1/8 x 1/16 in. (13.2 x 10.5 x 0.2 cm)",
+        "B Overall: 4 3/16 x 5 3/16 x 1/16 in. (10.6 x 13.1 x 0.2 cm)"
+    ],
+    "gallery-id": 168,
+    "id": 251376,
+    "image": "http://images.metmuseum.org/CRDImages/gr/original/DP105604.jpg",
+    "medium": "Bronze",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/gr/original/DP105604.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP105605.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP105606.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP105607.jpg"
+    ],
+    "title": "Bronze military diploma",
+    "what": [
+        "Metal",
+        "Copper alloy",
+        "Bronze"
+    ],
+    "when": "A.D. 1-500",
+    "where": [
+        "Roman Empire"
+    ]
+}

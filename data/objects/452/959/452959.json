@@ -1,0 +1,126 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/447383"
+            },
+            {
+                "href": "http://scrapi.org/object/445986"
+            },
+            {
+                "href": "http://scrapi.org/object/444953"
+            },
+            {
+                "href": "http://scrapi.org/object/445291"
+            },
+            {
+                "href": "http://scrapi.org/object/451907"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R128_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140306141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R129_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140307141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A249_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114331",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A250_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114353",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world-french?eid=R026_%7b85906EA1-CA66-4610-A52C-39562E1A4C40%7d_20140310133000",
+                "rel": "Arts du monde Islamique (Arts of the Islamic World in French)"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R130_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140310141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=wai",
+                "rel": "Iran, 1400\u20131600 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=wai",
+                "rel": "Iran, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/452959"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/452959"
+        }
+    },
+    "accession number": "1979.519",
+    "credit line": "Gift of Elizabeth S. Ettinghausen, in memory of Richard Ettinghausen, 1979",
+    "culture": "Islamic",
+    "date": "late 16th\u2013early 17th century",
+    "department": "Islamic Art",
+    "description": "Like so many ceramics produced in Iran during the Safavid period, the style and decoration of this dish was an attempt to emulate the highly-regarded Chinese porcelain wares. This is illustrated by the blue and white color scheme, as well the floral motifs. Pseudo-Chinese calligraphy has been painted on the reverse of the plate, a detail which illustrates the great lengths to which artists went to make their wares comparable to Chinese originals.",
+    "dimensions": [
+        "H. 3 in. (7.6 cm)",
+        "D. 13 1/2 in. (34.3 cm)"
+    ],
+    "id": 452959,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/wb-1979.519.JPG",
+    "medium": "Stonepaste; painted in blue under a transparent glaze",
+    "provenance": [
+        "Elizabeth S. Ettinghausen, Princeton, NJ (until 1979)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/wb-1979.519.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-1979.519b.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-1979c.JPG"
+    ],
+    "title": "Dish",
+    "what": [
+        "Ceramics",
+        "Dishes",
+        "Painting",
+        "Glaze"
+    ],
+    "where": [
+        "Asia",
+        "Iran"
+    ]
+}

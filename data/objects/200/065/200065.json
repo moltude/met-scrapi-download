@@ -1,0 +1,143 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/200182"
+            },
+            {
+                "href": "http://scrapi.org/object/200235"
+            },
+            {
+                "href": "http://scrapi.org/object/200299"
+            },
+            {
+                "href": "http://scrapi.org/object/198117"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 3, 2014",
+                "href": "/exhibitions/listings/2014/william-morris",
+                "rel": "William Morris"
+            },
+            {
+                "date": "From November 22, 2011",
+                "href": "/exhibitions/listings/2011/faberge",
+                "rel": "Faberg\u00e9 from the Matilda Geddings Gray Foundation Collection"
+            },
+            {
+                "date": "From February 4, 2014",
+                "href": "/exhibitions/listings/2014/french-ceramics",
+                "rel": "Making Pottery Art"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/carpeaux",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "From January 22, 2014",
+                "href": "/exhibitions/listings/2014/antonio-canova",
+                "rel": "Antonio Canova"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining-family-individual?eid=R002_%7b2F11F3B2-6834-484B-AE0F-5066D7E783B5%7d_20140306100000",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R102_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140306131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining-family-individual?eid=R001_%7b2F11F3B2-6834-484B-AE0F-5066D7E783B5%7d_20140307100000",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/collecting-and-intepreting-at-the-met?eid=A001_%7b6A0B3958-68AC-4F22-BB73-D898FB894401%7d_20140127111701",
+                "rel": "Fellows Colloquium\u2014Collecting and Interpreting at the Met"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R103_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140307131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining-family-individual?eid=R002_%7b2F11F3B2-6834-484B-AE0F-5066D7E783B5%7d_20140308100000",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining-family-individual?eid=A002_%7b2F11F3B2-6834-484B-AE0F-5066D7E783B5%7d_20140107114234",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R104_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140310131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/membership-events/evening-receptions/carpeaux-supporting-reception?eid=A001_%7b60301F85-6473-4C1C-8DAB-5D8B2E9406EE%7d_20140107151713",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R105_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140311131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwf",
+                "rel": "France, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/200065"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/200065"
+        }
+    },
+    "accession number": "48.187.6 ab",
+    "credit line": "Bequest of Catherine D. Wentworth, 1948",
+    "culture": "French (Sens) (Paris Mint)",
+    "date": "1730\u201340",
+    "department": "European Sculpture and Decorative Arts",
+    "dimensions": "H. 4-1/4 in. (10.8 cm.); W. 7-1/8 in. (18.1 cm.); L. 11-5/8 in. (29.5 cm.)",
+    "id": 200065,
+    "image": "http://images.metmuseum.org/CRDImages/es/original/143886.jpg",
+    "medium": "Silver",
+    "provenance": [
+        "Catherine D. Wentworth (until 1948; to MMA)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/es/original/143886.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/ES7327.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/143885.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/143887.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/143888.jpg"
+    ],
+    "title": "Bowl with cover (\u00c9cuelle)",
+    "what": [
+        "Metal",
+        "Metalwork",
+        "Silver",
+        "Dishes",
+        "Bowls",
+        "\u00c9cuelles"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "France",
+        "Burgundy",
+        "Yonne",
+        "Sens"
+    ],
+    "who": "Fran\u00e7ois-Isaac Balduc"
+}

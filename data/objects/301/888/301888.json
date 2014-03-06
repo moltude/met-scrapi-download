@@ -1,0 +1,95 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/301889"
+            },
+            {
+                "href": "http://scrapi.org/object/265533"
+            },
+            {
+                "href": "http://scrapi.org/object/265134"
+            },
+            {
+                "href": "http://scrapi.org/object/265251"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=sa",
+                "rel": "South America, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/301888"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/301888"
+        }
+    },
+    "accession number": "2012.10",
+    "credit line": "Twentieth-Century Photography Fund, 2012",
+    "date": "ca. 1950",
+    "department": "Photographs",
+    "description": "In 1948 the Argentine women\u2019s magazine Idilio introduced a weekly column called \u201cPsychoanalysis Will Help You,\u201d which invited readers to submit their dreams for analysis. Each week, one dream was illustrated with a photomontage by Stern, a Bauhaus-trained photographer and graphic designer who fled Berlin for Buenos Aires when the Nazis came to power. Over three years, Stern created 140 photomontages for the magazine, translating the unconscious fears and desires of its predominantly female readership into clever, compelling images. Here, a masculine hand swoops in to \u201cturn on\u201d a lamp whose base is a tiny, elegantly dressed woman. Rarely has female objectification been so erotically and electrically charged.",
+    "dimensions": [
+        "46.2 x 39.6 cm (18 3/16 x 15 9/16 in.)",
+        "Image 26.6 x 22.9 cm (10 1/2 x 9 in.)",
+        "Frame 63.5 x 76.2 cm (25 x 30 in.)"
+    ],
+    "id": 301888,
+    "medium": "Gelatin silver print",
+    "provenance": [
+        "Grete Stern",
+        "Horacio Coppola (the artist's ex-husband)",
+        "by descent to Coppola family",
+        "[Jorge Mara, Buenos Aires]"
+    ],
+    "title": "Sue\u00f1o No. 1: \"Articulos el\u00e9ctricos para el hogar\"",
+    "what": [
+        "Photographs",
+        "Gelatin silver prints"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "South America",
+        "Argentina"
+    ],
+    "who": "Grete Stern"
+}

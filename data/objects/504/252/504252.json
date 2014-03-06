@@ -1,0 +1,124 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/501621"
+            },
+            {
+                "href": "http://scrapi.org/object/504251"
+            },
+            {
+                "href": "http://scrapi.org/object/500857"
+            },
+            {
+                "href": "http://scrapi.org/object/504210"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/early-guitars",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/musical-instruments-east-and-west?eid=R077_%7bB33A51AA-7250-402C-9FC0-8A302D14AD06%7d_20140306121500",
+                "rel": "Musical Instruments: East and West"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/collecting-and-intepreting-at-the-met?eid=A001_%7b6A0B3958-68AC-4F22-BB73-D898FB894401%7d_20140127111701",
+                "rel": "Fellows Colloquium\u2014Collecting and Interpreting at the Met"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/musical-instruments-east-and-west?eid=R078_%7bB33A51AA-7250-402C-9FC0-8A302D14AD06%7d_20140307121500",
+                "rel": "Musical Instruments: East and West"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/concerts-and-performances/ernie-sites?eid=A001_%7bE8CB7AEE-6F19-46A1-BCDF-ACF04F0FA0A0%7d_20140221154312",
+                "rel": "Gallery Concert: Ernie Sites, Guitar"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A001_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203181946",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A002_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203182002",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A004_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203182034",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A006_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203182105",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A005_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20140206152942",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A001_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115501",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwc",
+                "rel": "Central Europe (including Germany), 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/504252"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/504252"
+        }
+    },
+    "accession number": "1982.241.3",
+    "credit line": "Gift of Helen C. Lanier, 1982",
+    "date": "ca. 1785",
+    "department": "Musical Instruments",
+    "dimensions": [
+        "Total length 70.4 cm",
+        "Fingerboard length 22.4",
+        "Fingerboard width, top/bottom 4.5/5.75",
+        "Body length 37.7",
+        "Max. body width 30.2",
+        "Narrowest point (neck foot) 5.7",
+        "Body depth, neck 9.4; foot and back: 6.9",
+        "Vibrating length of strings ca. 43 cm (bridge is movable)",
+        "Diameter of rosette to outer linked circle 12.2",
+        "Bridge height 18.5 mm"
+    ],
+    "id": 504252,
+    "image": "http://images.metmuseum.org/CRDImages/mi/original/231781.jpg",
+    "medium": "Various woods, bone, ivory, brass",
+    "title": "Keyed Cittern (English Guitar)",
+    "what": [
+        "Metal",
+        "Copper alloy",
+        "Bone",
+        "Ivory",
+        "Musical instruments",
+        "Brass",
+        "Chordophones",
+        "Lutes",
+        "Guitars",
+        "Citterns"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "Germany"
+    ],
+    "who": "Christian Claus"
+}

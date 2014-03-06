@@ -1,0 +1,130 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/6649"
+            },
+            {
+                "href": "http://scrapi.org/object/7782"
+            },
+            {
+                "href": "http://scrapi.org/object/6683"
+            },
+            {
+                "href": "http://scrapi.org/object/6684"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 18, 2013",
+                "href": "/exhibitions/listings/2013/american-west",
+                "rel": "The American West in Bronze, 1850\u20131925"
+            },
+            {
+                "date": "February 25, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R097_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140225120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "February 25, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R073_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140225134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "February 26, 2014",
+                "href": "/events/programs/talks/gallery-talks/light-in-american-art-hudson-river-school?eid=A003_%7b86B27E91-724D-4796-8075-F3123974AE65%7d_20131016163855",
+                "rel": "Light in American Art: Hudson River School to Abstract Expressionism"
+            },
+            {
+                "date": "February 26, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R098_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140226120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "February 26, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R074_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140226134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "February 27, 2014",
+                "href": "/events/programs/talks/gallery-talks/the-american-west-in-bronze?eid=A001_%7bF8FF67EB-DE74-4A7A-B860-AAB9F09B0E26%7d_20131024112254",
+                "rel": "Exhibition Tour\u2014The American West in Bronze, 1850\u20131925"
+            },
+            {
+                "date": "February 27, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R099_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140227120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "February 27, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R075_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140227134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "March 1, 2014",
+                "href": "/events/programs/tours/american-art-weekend?eid=A180_%7b501B6EDB-D4CC-4402-98B8-688E06337497%7d_20131127140947",
+                "rel": "American Art"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/american-art-weekend?eid=A185_%7b501B6EDB-D4CC-4402-98B8-688E06337497%7d_20131127141222",
+                "rel": "American Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=na",
+                "rel": "The United States, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/7052"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/7052"
+        }
+    },
+    "accession number": "1972.204",
+    "credit line": "Gift of Sarah Hayward Draper, 1972",
+    "culture": "American",
+    "date": "ca. 1700",
+    "department": "American Decorative Arts",
+    "description": "This early standing salt has four cast knops to support a dish of fruit or nuts.",
+    "dimensions": "5 7/8 x 5 7/16 in. (14.9 x 13.8 cm); 12 oz. 18 dwt. (402.6 g)",
+    "gallery-id": 750,
+    "id": 7052,
+    "image": "http://images.metmuseum.org/CRDImages/ad/original/DP216597.jpg",
+    "medium": "Silver",
+    "provenance": [
+        "Solomon Stoddard (1643\u20131729) and Esther  Stoddard (1644\u20131736)",
+        "their son, John Stoddard (1681/82\u20131748)",
+        "his daughter, Prudence Stoddard Williams (1734\u20131822)",
+        "her daughter, Prudence Williams Howard (1767\u20131853)",
+        "her son, Charles Howard (1794\u20131875)",
+        "his daughter Sarah Howard Hayward (1838\u20131922)",
+        "her son, Nathan Hayward (1872\u20131944)",
+        "his daughter Sarah Hayward Draper (1913\u20132000)",
+        "gift to The Metropolitan Museum of Art, 1972"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ad/original/DP216597.jpg",
+        "http://images.metmuseum.org/CRDImages/ad/original/DP216606.jpg",
+        "http://images.metmuseum.org/CRDImages/ad/original/198661.jpg"
+    ],
+    "title": "Standing Salt",
+    "what": [
+        "Metal",
+        "Silver",
+        "Salts"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "North and Central America",
+        "United States",
+        "Massachusetts",
+        "Boston"
+    ],
+    "who": [
+        "John Edwards",
+        "John Allen"
+    ]
+}

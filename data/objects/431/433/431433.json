@@ -1,0 +1,96 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/359516"
+            },
+            {
+                "href": "http://scrapi.org/object/356842"
+            },
+            {
+                "href": "http://scrapi.org/object/358138"
+            },
+            {
+                "href": "http://scrapi.org/object/431739"
+            },
+            {
+                "href": "http://scrapi.org/object/431767"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwc",
+                "rel": "Central Europe and Low Countries, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/431433"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/431433"
+        }
+    },
+    "accession number": "24.63.1785",
+    "credit line": "Gift of Georgiana W. Sargent, in memory of John Osborne Sargent, 1924",
+    "date": "1814",
+    "department": "Drawings and Prints",
+    "dimensions": [
+        "Sheet 20 1/8 \u00d7 15 11/16 in. (51.1 \u00d7 39.9 cm)",
+        "Plate 14 7/16 \u00d7 10 7/16 in. (36.7 \u00d7 26.5 cm)"
+    ],
+    "id": 431433,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP834164.jpg",
+    "medium": "Mezzotint and etching",
+    "provenance": [
+        "Donor: Georgiana W. Sargent"
+    ],
+    "title": "Maximilian Emperor of Germany &c. &c., from Portraits of Royal Personnages",
+    "what": [
+        "Prints",
+        "Etching",
+        "Intaglio prints",
+        "Engravings",
+        "Mezzotints"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "Germany"
+    ],
+    "who": [
+        "Hans Burgkmair",
+        "Charles Turner",
+        "Samuel Woodburn"
+    ]
+}

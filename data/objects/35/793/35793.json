@@ -1,0 +1,117 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/24803"
+            },
+            {
+                "href": "http://scrapi.org/object/24698"
+            },
+            {
+                "href": "http://scrapi.org/object/24699"
+            },
+            {
+                "href": "http://scrapi.org/object/32823"
+            },
+            {
+                "href": "http://scrapi.org/object/22876"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From October 2, 2012",
+                "href": "/exhibitions/listings/2012/arms-and-armor",
+                "rel": "Bashford Dean and the Creation of the Arms and Armor Department"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A083_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113541",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A074_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112917",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A084_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113556",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A093_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113923",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A075_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112932",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A094_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113938",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 5, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A085_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113610",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161351",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A076_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112951",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 19, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161305",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/35793"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/35793"
+        }
+    },
+    "accession number": "42.50.29, .30; 49.57.1",
+    "credit line": [
+        "42.50.29, .30 Gift of Stephen V. Grancsay, 1942",
+        "49.57.1 Rogers Fund, 1949"
+    ],
+    "culture": "Eastern European",
+    "date": "ca. 1500\u20131550",
+    "department": "Arms and Armor",
+    "description": "These wing-shaped shields, with the distinctive upward-sweeping back edge, were the characteristic light-cavalry shields of Hungary. During the sixteenth century, the style was adopted across much of eastern Europe by both Christian and Islamic horsemen. The shield's elongated upper edge was designed to defend the back of the head and neck against cuts from a saber, the preferred cavalry weapon in that region.The shield on the right is painted on its exterior with the double-bladed sword of the prophet Muhammad and on its interior with the Crucifix and instruments of the Passion. This unusual mix of Islamic and Christian symbols suggests that the shield was used in a tournament by a Christian warrior dressed in Muslim fashion. In these \"Hungarian style\" tournaments, the participants wore Hungarian and Turkish costumes and used sabers to strike off feathers attached to their opponents' helmets and to the apex of their painted shields. Even at a time when Turkish armies were a constant threat to eastern Europe, their costumes and tactics were imitated by their foes.",
+    "gallery-id": 373,
+    "id": 35793,
+    "image": "http://images.metmuseum.org/CRDImages/aa/original/DT11900.jpg",
+    "medium": "Wood, leather, gesso, polychromy",
+    "provenance": [
+        "42.50.29: Ex. coll.: Robert Curzon, 14th Baron Zouche of Haryngworth, Sussex",
+        "Clarence H. Mackay, Roslyn, New York.42.50.30: Ex. coll.: Archduke Eugen, Castle Engelstein and Fortress Hohenwerfen, Austria",
+        "Clarence H. Mackay, Roslyn, New York.49.57.1: Ex coll.:  Albert Figdor, Vienna",
+        "Oscar Bondy, Vienna."
+    ],
+    "title": "Three Hungarian-style Shields",
+    "what": [
+        "Costume",
+        "Leather",
+        "Armor",
+        "Polychromy",
+        "Shields",
+        "Gesso",
+        "Hungarian"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe"
+    ]
+}

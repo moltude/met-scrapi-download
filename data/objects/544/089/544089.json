@@ -1,0 +1,116 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/547685"
+            },
+            {
+                "href": "http://scrapi.org/object/544123"
+            },
+            {
+                "href": "http://scrapi.org/object/550757"
+            },
+            {
+                "href": "http://scrapi.org/object/548889"
+            },
+            {
+                "href": "http://scrapi.org/object/545515"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R128_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140306140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R129_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140307140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/teen-programs/saturday-sketching/saturday-sketching-egyptian-art?eid=A001_%7b8698F79D-A7E0-44F1-99CF-57C8A2E2471A%7d_20131211143556",
+                "rel": "Saturday Sketching\u2014Egyptian Art (Ages 11\u201318)"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A151_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113641",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R130_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140310140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=02\u00aeion=afe",
+                "rel": "Egypt, 8000\u20132000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/544089"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/544089"
+        }
+    },
+    "accession number": "06.1231.1",
+    "credit line": "Gift of Egypt Exploration Fund, 1906",
+    "date": "ca. 2020\u20132000 B.C.",
+    "department": "Egyptian Art",
+    "description": "The importance of the temple of King Mentuhotep II at Deir el-Bahri is second only to the one of King Djoser's step pyramid complex at Saqqara. Seen from its formal garden in front the monument had the appearance of a stepped structure with two superimposed terraces with colonnades, towered by a central cube-like \"primeval hill,\" on top of which - as some scholars believe, others question -  may have been a pyramid.  The central \"cube\" was surrounded on all four sides by pillared halls.  Further west, and cut into the rock face, followed an open courtyard and then Egypt's earliest hypostyle hall.  At the westernmost end of this hall a niche contained a colossal statue of the king and in front of it screen walls sheltered a small sanctuary with an altar.  Reliefs in the hypostyle hall were carved in sandstone, while limestone reliefs decorated the pillared halls around the central \"cube\" and the upper and lower porticoes.  The temple was dedicated to the cult of the deceased Mentuhotep II, the upper Egyptian solar deity Montu-Re and, in its late phase, the newly emerging god Amun-Re. Almost all the relief decorated walls of the Mentuhotep II temple were pulled down during quarrying by late Rameside construction crews searching for reusable stone material.  Many blocks, however, got smashed during these activities and thus thousands of fragments survived to be found by the excavators: first Lord Dufferin in 1859-1860, then Edouard Naville working for the British Egypt Exploration Fund in 1903-1907.  This fragment must have been part of a large relief depicting birds being caught in a clapnet set by the king's fowlers (see 08.201.1d for a completely preserved depiction of this activity).  The scene may have had its place in one of the upper colonnades of the temple.  The mesh of the net appears in yellow white paint against  the bodies of the birds whose uniformly brown and yellow coloring is presumably due to repaint in the early Rameside time.",
+    "dimensions": "H. 15 x 13 in. (38 x 33 cm)",
+    "gallery-id": 104,
+    "id": 544089,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/06.1231.1.JPG",
+    "medium": "Painted limestone",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/eg/original/06.1231.1.JPG",
+        "http://images.metmuseum.org/CRDImages/eg/original/eg06.1231.1.jpg"
+    ],
+    "title": "Relief Fragment Showing Waterfowl in a Clapnet",
+    "what": [
+        "Sculpture",
+        "Limestone",
+        "Painting",
+        "Reliefs"
+    ],
+    "where": [
+        "Africa",
+        "Egypt",
+        "Upper Egypt",
+        "Thebes"
+    ]
+}

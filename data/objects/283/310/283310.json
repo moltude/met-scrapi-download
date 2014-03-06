@@ -1,0 +1,97 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/286471"
+            },
+            {
+                "href": "http://scrapi.org/object/286473"
+            },
+            {
+                "href": "http://scrapi.org/object/286478"
+            },
+            {
+                "href": "http://scrapi.org/object/286479"
+            },
+            {
+                "href": "http://scrapi.org/object/286507"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/283310"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/283310"
+        }
+    },
+    "accession number": "2005.100.161",
+    "credit line": "Gilman Collection, Purchase, Ann Tenenbaum and Thomas H. Lee Gift, 2005",
+    "date": "1932",
+    "department": "Photographs",
+    "description": "Born in Brasso, Transylvania, Gyula Hal\u00e1sz took the name of his birthplace as a pseudonym in 1932, when he had lived in Paris for six years working as an illustrator and correspondent for Hungarian and German newspapers. In 1929, after accompanying the expatriate Hungarian photographer Andr\u00e9 Kert\u00e9sz on assignment, Brassa\u00ef decided to take up photography himself. His economic situation was dire: occasionally, after writing an article, he would pawn his typewriter, which he would later redeem with his camera after he had illustrated the piece. Despite such difficulties, Brassa\u00ef managed to master French during this time, and to become friends with many artists and with the writers L\u00e9on-Paul Fargue and Andr\u00e9 Queneau, in whose company or alone he would wander the city at night.     Brassa\u00ef's best photographs of the 1930s describe the nocturnal atmosphere of the French capital and the people who existed on the fringes or in the shadows--vagrants under bridges, streetwalkers and their clients in brothels, thugs and pimps in the alleys and dance halls. A true bohemian, and something of a chameleon and diplomat as well, Brassa\u00ef was accepted everywhere. He was so comfortable with his subjects and they with him that they would willingly assume natural poses for his camera. This photograph, taken at a bar owned by Lulu de Montparnasse on the rue Edgar-Quinet, is thus not the least sensationalistic. The evening is well advanced, the couple is easy and  relaxed, the woman dreamily leaning against her partner, who tenderly touches her arm. Perhaps because he felt the journalist's need for an explanatory caption, Brassa\u00ef titled the photograph \"Lesbian Couple at The Monocle,\" suggesting, despite the comfortable comportment, that he also considered the women exotic anthropological material.[MMH; Waking Dream, p. 363]",
+    "dimensions": "Image 27.7 x 21.7 cm (10 7/8 x 8 9/16 in.)",
+    "id": 283310,
+    "medium": "Gelatin silver print",
+    "provenance": [
+        "Artist",
+        "[Marlborough Gallery]",
+        "Gilman Paper Company Collection, New York, October 30, 1975"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ph/original/DP262082.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/PH9177.jpg"
+    ],
+    "title": "Lesbian Couple at The Monocle",
+    "what": [
+        "Photographs",
+        "Gelatin silver prints"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Brassa\u00ef"
+}

@@ -1,0 +1,193 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/453166"
+            },
+            {
+                "href": "http://scrapi.org/object/453351"
+            },
+            {
+                "href": "http://scrapi.org/object/454015"
+            },
+            {
+                "href": "http://scrapi.org/object/451319"
+            },
+            {
+                "href": "http://scrapi.org/object/451405"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R128_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140306141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R129_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140307141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A249_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114331",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A250_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114353",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world-french?eid=R026_%7b85906EA1-CA66-4610-A52C-39562E1A4C40%7d_20140310133000",
+                "rel": "Arts du monde Islamique (Arts of the Islamic World in French)"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R130_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140310141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/otto1/hd_otto1.htm",
+                "rel": "The Art of the Ottomans before 1600"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=eusb",
+                "rel": "Balkan Peninsula, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/452037"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/452037"
+        }
+    },
+    "accession number": "69.27",
+    "credit line": "Harris Brisbane Dick Fund, 1969",
+    "culture": "Islamic",
+    "date": "dated A.H. 904/A.D. 1498\u201399",
+    "department": "Islamic Art",
+    "description": "Ottoman taste for Persian poetry led to the production of manuscripts such as this copy of the tale of Khusrau and Shirin by the poet Hatifi. The calligraphy, illumination, gilding, and painting of this manuscript were completed by a single artist calling himself Suzi (\"the burning one\"). His distinctive painting style exhibits elements borrowed from Aq Quyunlu painting of western Iran and European sources\u2014such as the incorporation of  architectural perspective seen here.",
+    "dimensions": [
+        "Entire sheet",
+        "9 7/16 x 6 7/16 inches (24 x 16.4 cm.)"
+    ],
+    "gallery-id": 462,
+    "id": 452037,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/DP234022.jpg",
+    "medium": "Main support ink, opaque watercolor, and gold on paper; binding: leather",
+    "provenance": [
+        "Osman Ata'ullah, Turkey",
+        "Sir Gregory O. Page-Turner, England(until 1827; his sale, March 1827, lot 190,to Phillips)",
+        "Sir Thomas Phillipps, 1st Baronet, England (1827\u2013d. 1872)",
+        "Bibliotheca Phillippica, England(1872\u20131968; its sale, Sotheby's, London,November 25\u201326, 1968, MS 3127, to MMA)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/DP234022.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/sf69-27frontcov.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP236651.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP236650.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP256325.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP256334.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP256338.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP256331.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP256340.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP256343.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP256333.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP236657.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP236656.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP236652.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP236653.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP236654.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP236655.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP256347.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP256335.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP256345.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP256330.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP256350.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP256352.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP256328.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP256322.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP256346.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP256329.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP256336.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP256341.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP256342.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP256326.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP256324.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP251282.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP256332.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP256327.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP256323.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP256337.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP256351.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP256344.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP256339.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/sf69-27frontinsidecov.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/sf69-27stamp.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/sf69-27-1v.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/sf69-27-2r.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/sf69-27-15v.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/sf69-27-22v.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/sf69-27-32r.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/sf69-27-49v.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/sf69-27-67v.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/sf69-27colophon.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/sf69-27-goldfleckpaper.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/sf69-27backcov.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/sf69-27backinsidecov.jpg"
+    ],
+    "title": "\"Khusrau Hunting\", Folio from Khusrau and Shirin",
+    "what": [
+        "Metal",
+        "Ink",
+        "Paper",
+        "Gold",
+        "Watercolors",
+        "Leather",
+        "Manuscripts",
+        "Codices",
+        "Illuminated manuscripts",
+        "Binding"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Asia",
+        "Turkey",
+        "Marmara",
+        "Istanbul"
+    ],
+    "who": [
+        "Hatifi",
+        "Suzi"
+    ]
+}

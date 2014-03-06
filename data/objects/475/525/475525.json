@@ -1,0 +1,122 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/473812"
+            },
+            {
+                "href": "http://scrapi.org/object/463958"
+            },
+            {
+                "href": "http://scrapi.org/object/463192"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 25, 2014",
+                "href": "/exhibitions/listings/2014/canterbury-stained-glass",
+                "rel": "Radiant Light"
+            },
+            {
+                "date": "From August 6, 2013",
+                "href": "/exhibitions/listings/2013/design-motifs-in-byzantine-art",
+                "rel": "Design Motifs in Byzantine Art"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R103_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140306104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R006_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140306150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/collecting-and-intepreting-at-the-met?eid=A001_%7b6A0B3958-68AC-4F22-BB73-D898FB894401%7d_20140127111701",
+                "rel": "Fellows Colloquium\u2014Collecting and Interpreting at the Met"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R104_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140307104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/events-at-the-cloisters/conversations-with-curators-and-conservators/cloisters-husband?eid=A003_%7bC1BD832B-922C-49E2-8732-B9CE70E617F2%7d_20140113162804",
+                "rel": "Conversation with a Curator at The Cloisters"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R007_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140307150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/ancestors-of-christ?eid=A001_%7b64F28017-6AB0-4B00-864F-E5676EE07585%7d_20140113142350",
+                "rel": "The Ancestors of Christ: Stained Glass Windows from Canterbury Cathedral"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/ancestors-of-christ?eid=A002_%7b64F28017-6AB0-4B00-864F-E5676EE07585%7d_20140113142402",
+                "rel": "The Ancestors of Christ: Stained Glass Windows from Canterbury Cathedral"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R008_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140309150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R009_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140310150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=eusi",
+                "rel": "Iberian Peninsula, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/475525"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/475525"
+        }
+    },
+    "accession number": "14.101.2",
+    "credit line": "Rogers Fund, 1914",
+    "culture": "Spanish",
+    "date": "ca. 1456\u20131458",
+    "department": "The Cloisters",
+    "description": "This massive structure, extending across five bays on two levels, was commissioned by don Dalmau de Mur y Cervell\u00f3, archbishop of Saragossa from 1434 to 1458/9, for an altar in the chapel of the archiepiscopal palace. The upper level (intended as the predella for the altarpiece or retable) contains five scenes: Saint Martin or Tours dividing his coat with a beggar and Christ appearing to him in a dream (left panels); the Descent of the Holy Spirit (center panel); and Saint Thecla listening to the preaching of Paul (far right panel) and, after her conversion, being saved by divine intervention from burning fire (second panel from right). Each of the two outer panels on the lower left (or socle) shows a bearded figure carrying the coat of arms of the archbishop. The central shield on the reconstructed altar, festooned against a cross, depicts the Arma Christi (the instruments associated with the Crucifixion). The structure is made of alabaster, a soft yet compact stone with a translucent glow. The workability of the material allowed the sculptor, Franc\u00ed Gomar, to create exquisite details. Only a few traces of the original painting and gilding remain. According to a 1458 contract, the painter Tom\u00e1s Giner (active 1458-80) was commissioned to paint and gild panels intended to stand above the predella. The unusual combination of painted altarpieces with a stone predella may have been necessary measure to speed completion of the ensemble before the archbishop's death.",
+    "dimensions": "Overall 33 x 29 3/4 in. (83.8 x 75.6 cm)",
+    "gallery-id": 16,
+    "id": 475525,
+    "image": "http://images.metmuseum.org/CRDImages/cl/original/DP120098.jpg",
+    "medium": "Alabaster",
+    "provenance": [
+        "Bernheimer (until 1914)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/cl/original/DP120098.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/DP120094.jpg"
+    ],
+    "title": "Altar Predella and Socle of Archbishop Don Dalmau de Mur y Cervell\u00f3",
+    "what": [
+        "Sculpture",
+        "Stone",
+        "Gypsum",
+        "Alabaster",
+        "Altarpieces"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Spain",
+        "Aragon",
+        "Zaragoza"
+    ],
+    "who": "Franc\u00ed Gomar"
+}

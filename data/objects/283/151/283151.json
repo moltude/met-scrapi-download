@@ -1,0 +1,104 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/286767"
+            },
+            {
+                "href": "http://scrapi.org/object/286316"
+            },
+            {
+                "href": "http://scrapi.org/object/283152"
+            },
+            {
+                "href": "http://scrapi.org/object/283153"
+            },
+            {
+                "href": "http://scrapi.org/object/265710"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwf",
+                "rel": "France, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/283151"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/283151"
+        }
+    },
+    "accession number": "2005.100.500.1 (1-49)",
+    "credit line": "Gilman Collection, Gift of The Howard Gilman Foundation, 2005",
+    "date": "1859",
+    "department": "Photographs",
+    "description": "In August 1859, twenty-three-year-old Louis de Clercq was invited to accompany the young historian Emmanuel-Guillaume Rey on a government-sponsored expedition to the crusader castles of Syria and Asia Minor. Aware of the potential contribution of photography to archaeological research, as demonstrated by Auguste Salzmann's earlier project, Rey thought that de Clercq would prove a valuable travel companion for his skill as a photographer as well as for his friendship.     Among the sites visited by Rey's team was Tripoli (in present-day Lebanon), a major intellectual and trading center for northern Syria before and during its control by Frankish crusaders from 1109 to 1289. In addition to individual plates that record Tripoli's remaining crusader fortifications, de Clercq produced this three-part panorama showing the general aspect of the town's port, a view more interesting for its animated roofscape and shipyard than for its archaeological data.     After returning to Paris in 1860, de Clercq published 222 of his views in six volumes. This plate appears in the first volume, Voyage en Orient. Villes, monuments, et vues pittoresques de Syrie. Together, the six volumes include virtually all of de Clercq's known photographs, though Rey's writings indicate that de Clercq was already an experienced photographer before the expedition. On later trips to the Middle East, de Clercq's passion for the region would find expression in the formation of a collection of historical artifacts that is now an important part of the Department of Oriental Antiquities at the Louvre.",
+    "dimensions": "Overall 19.7 x 82.2 cm (7 3/4 x 32 3/8 in.)",
+    "id": 283151,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/PH9035.jpg",
+    "medium": "Albumen silver prints from paper negatives",
+    "provenance": [
+        "Count de Tanlay",
+        "[Fran\u00e7ois Braunschweig]",
+        "Gilman Paper Company Collection, New York, September 1, 1979"
+    ],
+    "title": "Voyage en Orient et en Espagne Vol. 1: Villes, Monuments et Vues pittoresques de Syrie",
+    "what": [
+        "Prints",
+        "Photographs",
+        "Paper",
+        "Books",
+        "Negatives",
+        "Albumen",
+        "Albumen silver prints",
+        "Albums"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": [
+        "Louis de Clercq",
+        "H. Jannin",
+        "J. Blondeau et Antonin"
+    ]
+}

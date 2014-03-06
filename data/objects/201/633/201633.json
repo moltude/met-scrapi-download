@@ -1,0 +1,163 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/191164"
+            },
+            {
+                "href": "http://scrapi.org/object/201645"
+            },
+            {
+                "href": "http://scrapi.org/object/201637"
+            },
+            {
+                "href": "http://scrapi.org/object/194252"
+            },
+            {
+                "href": "http://scrapi.org/object/186677"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 3, 2014",
+                "href": "/exhibitions/listings/2014/william-morris",
+                "rel": "William Morris"
+            },
+            {
+                "date": "From November 22, 2011",
+                "href": "/exhibitions/listings/2011/faberge",
+                "rel": "Faberg\u00e9 from the Matilda Geddings Gray Foundation Collection"
+            },
+            {
+                "date": "From February 4, 2014",
+                "href": "/exhibitions/listings/2014/french-ceramics",
+                "rel": "Making Pottery Art"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/carpeaux",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "From January 22, 2014",
+                "href": "/exhibitions/listings/2014/antonio-canova",
+                "rel": "Antonio Canova"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining-family-individual?eid=R001_%7b2F11F3B2-6834-484B-AE0F-5066D7E783B5%7d_20140307100000",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/collecting-and-intepreting-at-the-met?eid=A001_%7b6A0B3958-68AC-4F22-BB73-D898FB894401%7d_20140127111701",
+                "rel": "Fellows Colloquium\u2014Collecting and Interpreting at the Met"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R103_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140307131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining-family-individual?eid=R002_%7b2F11F3B2-6834-484B-AE0F-5066D7E783B5%7d_20140308100000",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining-family-individual?eid=A002_%7b2F11F3B2-6834-484B-AE0F-5066D7E783B5%7d_20140107114234",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R104_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140310131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/membership-events/evening-receptions/carpeaux-supporting-reception?eid=A001_%7b60301F85-6473-4C1C-8DAB-5D8B2E9406EE%7d_20140107151713",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R105_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140311131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/membership-events/evening-receptions/carpeaux-sustaining-reception?eid=A001_%7bB97F7097-C940-4FDB-8982-A3EC61BD9084%7d_20140107152519",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/world-enlightened?eid=R002_%7bEC37AED7-F558-4A27-A806-094491540250%7d_20140312101500",
+                "rel": "Cultural Discoveries\u2014Wednesdays with Olivier Bernier: Europe in the Eighteenth Century, A World Enlightened"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/cera/hd_cera.htm",
+                "rel": "Ceramics in the French Renaissance"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/kuns/hd_kuns.htm",
+                "rel": "Collecting for the Kunstkammer"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/valo_2/hd_valo_2.htm",
+                "rel": "Patronage at the Later Valois Courts (1461\u20131589)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=euwf",
+                "rel": "France, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/201633"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/201633"
+        }
+    },
+    "accession number": "53.225.52",
+    "credit line": "Gift of Julia A. Berwind, 1953",
+    "culture": "French, Paris",
+    "date": "last quarter 16th century",
+    "department": "European Sculpture and Decorative Arts",
+    "description": "The sixteenth century was marked by a scientific interest in natural phenomena. New worlds had been discovered, occupied by animals and human beings never before seen in Europe. Museums of curiosities abounded, and self-styled naturalists, such as Cosimo de' Medici, gilded armadillos from the Americas and placed them on pillars in their palaces. Native Indians of the Americas toured the courts of Europe, and the taste for the exotic flourished.  It was in this atmosphere that the talented French potter Bernard Palissy began practicing his trade. An enthusiastic natural scientist, Palissy used local fish, plants and reptiles\u2014he made casts of actual specimens for use in his modeling\u2014fashioned in a range of colored glazes, to develop what he called \"pastoral pottery.\" Although he is recorded as having produced his rustic ware in abundance, the only documented work by his hand was the grotto (now destroyed) in the garden of the Tuileries.  This oval dish, in the manner of Palissy, is in the shape of a pond surrounded by plant life. Perched on the plate are fish, frogs, a twisting snake, a lizard, a water beetle, crayfish, and a variety of occupied shells.",
+    "dimensions": "Overall 20 1/2 x 15 5/8 x 2 13/16 in., 5.5lb. (52.1 x 39.7 x 7.1 cm, 2472.5g)",
+    "gallery-id": 544,
+    "id": 201633,
+    "image": "http://images.metmuseum.org/CRDImages/es/original/DT574.jpg",
+    "medium": "Lead-glazed earthenware",
+    "provenance": [
+        "\u00c9mile Gavet , Paris",
+        "Edward Julius Berwind (until 1936)",
+        "Julia A. Berwind (by descent, 1936\u201353; to MMA)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/es/original/DT574.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/ES10068.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/es53.225.52.R.jpg"
+    ],
+    "title": "Platter",
+    "what": [
+        "Ceramics",
+        "Pottery",
+        "Earthenware",
+        "Dishes",
+        "Glaze",
+        "Ceramic glaze",
+        "Lead glaze",
+        "Platters"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "France",
+        "Paris"
+    ],
+    "who": "Bernard Palissy"
+}

@@ -1,0 +1,105 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/19345"
+            },
+            {
+                "href": "http://scrapi.org/object/19347"
+            },
+            {
+                "href": "http://scrapi.org/object/14203"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 18, 2013",
+                "href": "/exhibitions/listings/2013/american-west",
+                "rel": "The American West in Bronze, 1850\u20131925"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/american-art-weekend?eid=A185_%7b501B6EDB-D4CC-4402-98B8-688E06337497%7d_20131127141222",
+                "rel": "American Art"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/monday-at-the-met-spring-2014?eid=R001_%7bBB2BF277-3666-435E-8B95-12CDE21533EA%7d_20140303100000",
+                "rel": "Monday at the Met with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R100_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140303120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R101_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140304120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R076_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140304134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R102_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140305120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R077_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140305134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R103_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140306120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R078_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140306134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/k12-educator-programs/the-american-west?eid=A001_%7b59F3CABA-5299-48C0-8465-1CF2F278D0C3%7d_20131122143623",
+                "rel": "The American West"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/19346"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/19346"
+        }
+    },
+    "accession number": "67.187.165",
+    "credit line": "Bequest of Miss Adelaide Milton de Groot (1876\u20131967), 1967",
+    "date": "1931",
+    "department": "American Paintings and Sculpture",
+    "description": "John  Kane was born of Irish parentage in West Calder, Scotland.  At the age of nineteen he came to America, eventually taking up residence in Pittsburgh, Pennsylvania, a city famous for its steel refineries.  About 1897, while working as a laborer, Kane began to dabble in painting.  Since he could not afford the expense of art school, Kane was self-taught, and his style has been variously classified as \"na\u00efve,\" \"primitive,\" and \"folk art,\" a genre that gained critical acceptance in the 1920s and 1930s.\t\"The Monongahela River Valley, Pennsylvania\" is one of several paintings by Kane that celebrate the ever-growing industrialization of the American landscape during the 1930s.  He was intimately acquainted with Pittsburgh's heavy industries, having worked for both the steel industry and the railroad. Despite the loss of part of a leg in a railroad-related accident, his enthusiasm for Pittsburgh's industry and landscape was never extinguished.  The scene represented by the painting fairly hums with activity.  Four railroad trains, one clearly marked with the name of the local rail line, Baltimore and Ohio, pass swiftly along an intricate maze of tracks, while nearby trolley cars and boxcars wait for clear passage.  Echoing this movement is a large paddle-wheel steamboat pushing a barge upriver.  On either side of the meandering river, the dark buildings of the steel mills spread across the landscape, their billowing smokestacks lending vertical accents to the horizontal composition.\tAlthough Kane is known for his portraits of both himself and others, people play a subordinate role in this particular landscape.  Here a railroad crew is dwarfed by the enormous buildings and vast network of tracks.  Only the serene rural landscape, seen in the background, competes with the industrial foreground for the viewer's attention.  Kane treats these divergent landscapes with equal admiration, finding beauty in both.",
+    "dimensions": "28 x 38 in. (71.1 x 96.5 cm)",
+    "gallery-id": 774,
+    "id": 19346,
+    "image": "http://images.metmuseum.org/CRDImages/ap/original/DT1367.jpg",
+    "medium": "Oil on canvas",
+    "title": "The Monongahela River Valley, Pennsylvania",
+    "what": [
+        "Paintings",
+        "Canvas",
+        "Oil paintings"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "John Kane"
+}

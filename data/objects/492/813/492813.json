@@ -1,0 +1,147 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/490000"
+            },
+            {
+                "href": "http://scrapi.org/object/492887"
+            },
+            {
+                "href": "http://scrapi.org/object/459239"
+            },
+            {
+                "href": "http://scrapi.org/object/460090"
+            },
+            {
+                "href": "http://scrapi.org/object/460091"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From November 20, 2013",
+                "href": "/exhibitions/listings/2013/jewels-by-jar",
+                "rel": "Jewels by JAR"
+            },
+            {
+                "date": "From November 5, 2013",
+                "href": "/exhibitions/listings/2013/carlo-scarpa",
+                "rel": "Venetian Glass by Carlo Scarpa"
+            },
+            {
+                "date": "From February 24, 2014",
+                "href": "/exhibitions/listings/2014/lucas-samaras",
+                "rel": "Lucas Samaras"
+            },
+            {
+                "date": "From December 17, 2013",
+                "href": "/exhibitions/listings/2013/metropolitan-vanities",
+                "rel": "Metropolitan Vanities"
+            },
+            {
+                "date": "From October 22, 2013",
+                "href": "/exhibitions/listings/2013/william-kentridge",
+                "rel": "William Kentridge"
+            },
+            {
+                "date": "From April 29, 2014",
+                "href": "/exhibitions/listings/2014/dan-graham",
+                "rel": "The Roof Garden Commission: Dan Graham"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R100_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140303144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/modern-art-french?eid=R026_%7b96311A2D-1D25-45BE-83E2-2054BC16D70B%7d_20140304133000",
+                "rel": "Art Moderne et Contemporain (Modern and Contemporary Art in French)"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R101_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140304144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R102_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140305144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R026_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140306140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R103_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140306144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/collecting-and-intepreting-at-the-met?eid=A001_%7b6A0B3958-68AC-4F22-BB73-D898FB894401%7d_20140127111701",
+                "rel": "Fellows Colloquium\u2014Collecting and Interpreting at the Met"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/talks/gallery-talks/metropolitan-vanities?eid=A001_%7bF51ADF90-5C6F-45EF-822C-6AE4940219F6%7d_20140206160301",
+                "rel": "Exhibition Tour\u2014Metropolitan Vanities: The History of the Dressing Table"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/college/jewels?eid=A001_%7bB2CEEB36-09E2-43E1-B6FD-1CA91686BA29%7d_20140219113337",
+                "rel": "Jewels by JAR Workshop"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R104_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140310144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/mati/hd_mati.htm",
+                "rel": "Henri Matisse (1869\u20131954)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/492813"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/492813"
+        }
+    },
+    "accession number": "2002.456.58",
+    "credit line": "The Pierre and Maria-Gaetana Matisse Collection, 2002",
+    "date": "1952",
+    "department": "Modern and Contemporary Art",
+    "description": "During 1952, one of Matisse's most prolific late years, he created many ambitious paper cutouts, among them the present Blue Nude. Facing front with arms raised and breasts projecting sideways, the pose recalls various standing odalisques from his Nice period of the 1920s. The simple but effective composition is built up from six disjointed pieces of blue painted paper that seem suspended in space. It represents one of a dozen or so variations on the theme that Matisse created over a period of several months. That same year, his cutouts culminated in the production of The Swimming Pool (Museum of Modern Art, New York), a gigantic, dynamic composition with multiple figures.The paper cutouts, prepainted with blue gouache, synthesized the intrinsic qualities of both painting and drawing-form, color, and line-and allowed the artist \"to draw in paper,\" as he described it. This new idiom, which he had used for the first time in 1931 (while developing his large composition Dance for Dr. Albert C. Barnes), enabled him to create images in which form and outline were inseparable. During his final years, when illness left him bedridden, the cutouts became virtually his only means of expression, still exuding the master's undiminished inventiveness and creativity.",
+    "dimensions": "44 3/8 x 29 in. (112.7 x 73.7 cm)",
+    "id": 492813,
+    "image": "http://images.metmuseum.org/CRDImages/ma/original/DP102810.jpg",
+    "medium": "Cut and pasted painted papers",
+    "provenance": [
+        "The artist (1952 - his d. 1954)",
+        "Estate of Henri Matisse(1955)",
+        "Pierre Matisse, New York (from the estate of Henri Matisse, by 1958 - until his d. 1989)",
+        "his widow, Maria-Gaetana Matisse, n\u00e9e von Spreti, New York (1989 - her d. 2001)",
+        "Pierre and Maria Gaetana Matisse Foundation (2002; gift to MMA)."
+    ],
+    "title": "Standing Blue Nude",
+    "what": [
+        "Drawings",
+        "Painting",
+        "Papers"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Henri Matisse"
+}

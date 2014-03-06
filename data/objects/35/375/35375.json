@@ -1,0 +1,139 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/35891"
+            },
+            {
+                "href": "http://scrapi.org/object/35942"
+            },
+            {
+                "href": "http://scrapi.org/object/623025"
+            },
+            {
+                "href": "http://scrapi.org/object/27673"
+            },
+            {
+                "href": "http://scrapi.org/object/28904"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From October 2, 2012",
+                "href": "/exhibitions/listings/2012/arms-and-armor",
+                "rel": "Bashford Dean and the Creation of the Arms and Armor Department"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A083_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113541",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A074_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112917",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A084_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113556",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A093_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113923",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A075_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112932",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A094_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113938",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 5, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A085_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113610",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161351",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A076_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112951",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 19, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161305",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=ssa",
+                "rel": "South Asia and the Himalayan Region, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/35375"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/35375"
+        }
+    },
+    "accession number": "2008.81a\u2013k",
+    "credit line": "Purchase, Arthur Ochs Sulzberger and Kenneth and Vivian Lam Gifts; funds from various donors, by exchange; Laird and Kathleen Landmann and Bernice and Jerome Zwanger Gifts; and funds from various donors, 2008",
+    "culture": "Tibetan, Derge",
+    "date": "ca. 1942\u201346",
+    "department": "Arms and Armor",
+    "description": "Like the Surkhang saddle also in the Metropolitan Museum's collection (acc. no. 2005.427.1), this example demonstrates that the long tradition of finely made and ornately decorated ceremonial saddles flourished in Tibet until the mid-twentieth century. This saddle is distinguished by elaborate mounts of intractable modeled gilt copper set with turquoise. It was made in Derge (in present-day Ganzi Tibetan Autonomous Prefecture, Sichuan Province, China), famous for centuries for its metalwork. It is rare and important as a fine example of high-quality, late Derge metalwork made for a known patron: the Tibetan nobleman Yuthok Tashi Dundrup (1906\u20131983) commissioned the saddle when he assumed the post of govornor of Eastern Tibet in 1942.",
+    "dimensions": "Saddle 18 1/2 x 24 x 17 in. (47 x 61 x 43.2 cm); stirrups: H., 7 in. (17.8 cm); bridle and bit: 21 x 9 in. (53.3 x 22.9 cm); Crupper: 39 x 20 in. (99.1 x 50.8 cm); tassel sockets: H. 4 3/4 in. (12.1 cm); breast collar: 72 1/2 x 1 1/2 in. (184.2 x 3.8 cm)",
+    "gallery-id": 378,
+    "id": 35375,
+    "image": "http://images.metmuseum.org/CRDImages/aa/original/DP303810.jpg",
+    "medium": "Copper alloy, iron, gold, turquoise, wood, leather, textile",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/aa/original/DP303810.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP286148.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP286150.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP296622.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP296623.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP296626.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP286133.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP286149.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP296620.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP296621.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP296624.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP296625.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP296627.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP303755.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP303809.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP303808.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP303807.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP303754.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP303811.jpg"
+    ],
+    "title": "Equestrian Equipment",
+    "what": [
+        "Metal",
+        "Textiles",
+        "Copper alloy",
+        "Gold",
+        "Iron and iron alloy",
+        "Copper",
+        "Leather",
+        "Iron",
+        "Turquoise"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Asia",
+        "China",
+        "Tibet"
+    ]
+}

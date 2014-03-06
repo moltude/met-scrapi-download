@@ -1,0 +1,86 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/377235"
+            },
+            {
+                "href": "http://scrapi.org/object/407391"
+            },
+            {
+                "href": "http://scrapi.org/object/407394"
+            },
+            {
+                "href": "http://scrapi.org/object/407395"
+            },
+            {
+                "href": "http://scrapi.org/object/407397"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/377063"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/377063"
+        }
+    },
+    "accession number": "17.3.887-42",
+    "credit line": "Harris Brisbane Dick Fund, 1917",
+    "date": "before 1764",
+    "department": "Drawings and Prints",
+    "dimensions": [
+        "image 10 15/16 x 16 5/16 in. (27.8 x 41.4 cm)",
+        "12 1/8 x 17 5/8 in. (30.8 x 44.8 cm)"
+    ],
+    "id": 377063,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP817112.jpg",
+    "medium": "Etching and aquatint, printed in brown ink; only state",
+    "title": "The Adoration of  the Shepherds",
+    "what": [
+        "Prints",
+        "Ink",
+        "Etching",
+        "Aquatint"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": [
+        "Francesco Bartolozzi",
+        "Giovanni Benedetto Castiglione (Il Grechetto)"
+    ]
+}

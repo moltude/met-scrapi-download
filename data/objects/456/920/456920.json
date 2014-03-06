@@ -1,0 +1,139 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/447786"
+            },
+            {
+                "href": "http://scrapi.org/object/447100"
+            },
+            {
+                "href": "http://scrapi.org/object/444420"
+            },
+            {
+                "href": "http://scrapi.org/object/444421"
+            },
+            {
+                "href": "http://scrapi.org/object/444422"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R129_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140307141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A249_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114331",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A250_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114353",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world-french?eid=R026_%7b85906EA1-CA66-4610-A52C-39562E1A4C40%7d_20140310133000",
+                "rel": "Arts du monde Islamique (Arts of the Islamic World in French)"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R130_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140310141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=nfw",
+                "rel": "Western North Africa (The Maghrib), 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/456920"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/456920"
+        }
+    },
+    "accession number": "2008.531",
+    "credit line": "Louis E. and Theresa S. Seley Purchase Fund for Islamic Art, 2008",
+    "culture": "Islamic",
+    "date": "18th century",
+    "department": "Islamic Art",
+    "description": "Sashes (l\u2019ahzem) such as this one are an indispensable element of a woman\u2019s wedding ensemble, and would be worn tied around the waist. This sash is ornamented with four patterns, which repeat horizontally. Sashes were always folded lengthwise (evidenced here by the crease down the center) and wrapped several times around the waist, over the kaftan. They served as a decorative element as well as a substitute for a corset. While sashes are decorated with a wide variety of design patterns, the ornament always begins with a plain border two to three centimeters wide, followed by a section with the so-called \"hand of Fatima\" or \"khamsa\" pattern. While mostly worn in Muslim ceremonies, sashes such as this one may have been woven by Berbers or Jews living in nearby communities, who were known to manufacture some of the finest Moroccan textiles.",
+    "dimensions": [
+        "Textile without fringe H. 107 in. (271.8 cm)",
+        "W. 12 1/4 in. (31.1 cm)",
+        "Fringe H. 23 in. (58.4 cm)"
+    ],
+    "id": 456920,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/DP171029.jpg",
+    "medium": "Silk; woven",
+    "provenance": [
+        "Robert Bohlen Collection, MI",
+        "Ivo Grammet, Belgium",
+        "[ Thomas Murray, Mill Valley, CA, until 2008",
+        "sold to MMA]"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/DP171029.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/TR.144.2008 Page 1.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/TR.144.2008 Page 10.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/TR.144.2008 Page 11.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/TR.144.2008 Page 2.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/TR.144.2008 Page 3.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/TR.144.2008 Page 4.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/TR.144.2008 Page 5.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/TR.144.2008 Page 6.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/TR.144.2008 Page 7.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/TR.144.2008 Page 8.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/TR.144.2008 Page 9.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/DP171030.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP171031.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP171032.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP171033.jpg"
+    ],
+    "title": "Morroccan Wedding Sash",
+    "what": [
+        "Silk",
+        "Textiles",
+        "Woven",
+        "Sashes"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Africa",
+        "Morocco"
+    ]
+}

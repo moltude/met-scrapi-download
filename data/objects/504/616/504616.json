@@ -1,0 +1,117 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/504251"
+            },
+            {
+                "href": "http://scrapi.org/object/500857"
+            },
+            {
+                "href": "http://scrapi.org/object/504210"
+            },
+            {
+                "href": "http://scrapi.org/object/504252"
+            },
+            {
+                "href": "http://scrapi.org/object/503930"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/early-guitars",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/musical-instruments-east-and-west?eid=R077_%7bB33A51AA-7250-402C-9FC0-8A302D14AD06%7d_20140306121500",
+                "rel": "Musical Instruments: East and West"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/collecting-and-intepreting-at-the-met?eid=A001_%7b6A0B3958-68AC-4F22-BB73-D898FB894401%7d_20140127111701",
+                "rel": "Fellows Colloquium\u2014Collecting and Interpreting at the Met"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/musical-instruments-east-and-west?eid=R078_%7bB33A51AA-7250-402C-9FC0-8A302D14AD06%7d_20140307121500",
+                "rel": "Musical Instruments: East and West"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/concerts-and-performances/ernie-sites?eid=A001_%7bE8CB7AEE-6F19-46A1-BCDF-ACF04F0FA0A0%7d_20140221154312",
+                "rel": "Gallery Concert: Ernie Sites, Guitar"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A001_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203181946",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A002_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203182002",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A004_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203182034",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A006_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203182105",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A005_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20140206152942",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A001_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115501",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwf",
+                "rel": "France, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/504616"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/504616"
+        }
+    },
+    "accession number": "1982.241.1",
+    "credit line": "Gift of Helen C. Lanier, 1982",
+    "date": "1782",
+    "department": "Musical Instruments",
+    "description": "Angel lute or angelique with 7 treble strings and 4 bass strings, the unfretted basses having a separate pegbox.  Jean Francois Tiphanon, Paris, 1782.",
+    "dimensions": "Total L. 99.6 cm (39 in.); Maximum body W.: 32.2 cm (12-3/4 in.)",
+    "id": 504616,
+    "image": "http://images.metmuseum.org/CRDImages/mi/original/DT6591a.jpg",
+    "medium": "Wood, ivory",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/mi/original/DT6591a.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/C1501 1982.241.1.jpg"
+    ],
+    "title": "Arch Cittern",
+    "what": [
+        "Bone",
+        "Ivory",
+        "Musical instruments",
+        "Chordophones",
+        "Lutes",
+        "Citterns"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Jean Francois Tiphanon"
+}

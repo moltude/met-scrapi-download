@@ -1,0 +1,150 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/483871"
+            },
+            {
+                "href": "http://scrapi.org/object/490197"
+            },
+            {
+                "href": "http://scrapi.org/object/490198"
+            },
+            {
+                "href": "http://scrapi.org/object/483875"
+            },
+            {
+                "href": "http://scrapi.org/object/482491"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From November 20, 2013",
+                "href": "/exhibitions/listings/2013/jewels-by-jar",
+                "rel": "Jewels by JAR"
+            },
+            {
+                "date": "From November 5, 2013",
+                "href": "/exhibitions/listings/2013/carlo-scarpa",
+                "rel": "Venetian Glass by Carlo Scarpa"
+            },
+            {
+                "date": "From February 24, 2014",
+                "href": "/exhibitions/listings/2014/lucas-samaras",
+                "rel": "Lucas Samaras"
+            },
+            {
+                "date": "From December 17, 2013",
+                "href": "/exhibitions/listings/2013/metropolitan-vanities",
+                "rel": "Metropolitan Vanities"
+            },
+            {
+                "date": "From October 22, 2013",
+                "href": "/exhibitions/listings/2013/william-kentridge",
+                "rel": "William Kentridge"
+            },
+            {
+                "date": "From April 29, 2014",
+                "href": "/exhibitions/listings/2014/dan-graham",
+                "rel": "The Roof Garden Commission: Dan Graham"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R100_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140303144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/modern-art-french?eid=R026_%7b96311A2D-1D25-45BE-83E2-2054BC16D70B%7d_20140304133000",
+                "rel": "Art Moderne et Contemporain (Modern and Contemporary Art in French)"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R101_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140304144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R102_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140305144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R026_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140306140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R103_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140306144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/collecting-and-intepreting-at-the-met?eid=A001_%7b6A0B3958-68AC-4F22-BB73-D898FB894401%7d_20140127111701",
+                "rel": "Fellows Colloquium\u2014Collecting and Interpreting at the Met"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/talks/gallery-talks/metropolitan-vanities?eid=A001_%7bF51ADF90-5C6F-45EF-822C-6AE4940219F6%7d_20140206160301",
+                "rel": "Exhibition Tour\u2014Metropolitan Vanities: The History of the Dressing Table"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/college/jewels?eid=A001_%7bB2CEEB36-09E2-43E1-B6FD-1CA91686BA29%7d_20140219113337",
+                "rel": "Jewels by JAR Workshop"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R104_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140310144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/abex/hd_abex.htm",
+                "rel": "Abstract Expressionism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/john/hd_john.htm",
+                "rel": "Jasper Johns (born 1930)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/483873"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/483873"
+        }
+    },
+    "accession number": "1984.613.2",
+    "credit line": "From the Collection of Thomas B. Hess, Gift of the heirs of Thomas B. Hess, 1984",
+    "date": "1944",
+    "department": "Modern and Contemporary Art",
+    "description": "Willem de Kooning, born in Rotterdam in 1904, was apprenticed to a commercial arts and decorating firm there from 1916 to 1921.  From 1917 to 1921 he also studied at the Rotterdam Academy of Fine Arts and Techniques.  In 1926 he left Holland illegally for the United States by working in the engine room of a ship and, newly arrived in New Jersey, supported himself as a house painter.  De Kooning moved to New York City in 1927, and within a few years he was friends with the artists John Graham, Stuart Davis, David Smith, Arshile Gorky, Jackson Pollock, Franz Kline, and Mark Rothko.  From the late 1930s through the 1950s his biomorphic abstractions (which allude to figures and landscapes) and his series Women placed him in the center of the Abstract Expressionist art movement.  The gestural style of painting and the visual vocabulary of forms that he developed at this time continued to inform his later work.  De Kooning was an accomplished draftsman as well as painter and made his first sculptures in 1969.\t\"Woman\" belongs to his first series of women, begun about 1940.  Like other works in this series, the colors are raucously bright \u2014 jarring hues of green, ocher, blue, and orange \u2014 and the imagery is tenuously balanced between realism and abstraction.  An awkwardly posed, somewhat grotesquely formed female figure is broadly painted without modeling.  The parts of her body are reduced to independent abstract shapes and lines, as is the spatially flattened environment in which she exists.  Her comical, masklike face, with smiling bow-shaped lips and large bulging eyes, adds to the light air of the picture.  Although de Kooning's image is recognizable as a woman, the emphasis is on the abstract arrangement of form, line, and color.",
+    "dimensions": "45 7/8 \u00d7 31 3/4 in. (116.5 \u00d7 80.6 cm)",
+    "id": 483873,
+    "image": "http://images.metmuseum.org/CRDImages/ma/original/DT1374.jpg",
+    "medium": "Oil and charcoal on canvas",
+    "provenance": [
+        "Edwin Denby and Rudolph Burchardt",
+        "Thomas B. Hess (until d. 1978; his heirs, 1978\u201384)"
+    ],
+    "title": "Woman",
+    "what": [
+        "Paintings",
+        "Canvas",
+        "Oil paintings",
+        "Charcoal"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "Willem de Kooning"
+}

@@ -1,0 +1,118 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/156258"
+            },
+            {
+                "href": "http://scrapi.org/object/114162"
+            },
+            {
+                "href": "http://scrapi.org/object/168571"
+            },
+            {
+                "href": "http://scrapi.org/object/156700"
+            },
+            {
+                "href": "http://scrapi.org/object/156756"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R128_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140306130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R129_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140307130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R130_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140310130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/156820"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/156820"
+        }
+    },
+    "accession number": "2009.300.2038",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Helen Tyler, 1964",
+    "culture": "American",
+    "date": "ca. 1910",
+    "department": "Costume Institute",
+    "description": "Bird of paradise was the most sought after millinery feather decoration in the late 19th and early 20th century, owing to the beauty of the bird's plumage and the dramatic effect created by the elegant sweep of its tail feathers, as is made fully is evident by this velvet toque.  From 1905 to 1920, 30,000 \u2013 80,000 bird of paradise skins were exported annually from New Guinea and the Moluccas to the feather auctions of London, Paris, and Amsterdam.  Opposition to the slaughter of wild birds for use in the millinery trade led to the foundation in the 1880s and 1890s of numerous bird protection agencies across the U.S. and Europe, including the precursors to the modern Audubon Societies.  Through the steadfast efforts of these agencies, legislation in the U.S. and abroad banning the trade in the skins and feathers of wild birds was enacted between 1913 and 1921, eventually saving numerous species of from near extinction. It was this attention to the plight of bird populations at the price of fashion that initiated the development of the modern international conservation movement.",
+    "dimensions": "6 1/2 x 21 in. (16.5 x 53.3 cm)",
+    "id": 156820,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/64.187_view1_CP3.jpg",
+    "medium": "straw, bird, feathers, silk",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/64.187_view1_CP3.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/64.187_view2_CP3.jpg"
+    ],
+    "title": "Toque",
+    "what": [
+        "Costume",
+        "Silk",
+        "Feather",
+        "Caps",
+        "Straw",
+        "Toques"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "The Metropolitan Millinery Importer"
+}

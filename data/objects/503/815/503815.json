@@ -1,0 +1,119 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/503901"
+            },
+            {
+                "href": "http://scrapi.org/object/501787"
+            },
+            {
+                "href": "http://scrapi.org/object/505803"
+            },
+            {
+                "href": "http://scrapi.org/object/504338"
+            },
+            {
+                "href": "http://scrapi.org/object/505682"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/early-guitars",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/collecting-and-intepreting-at-the-met?eid=A001_%7b6A0B3958-68AC-4F22-BB73-D898FB894401%7d_20140127111701",
+                "rel": "Fellows Colloquium\u2014Collecting and Interpreting at the Met"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/musical-instruments-east-and-west?eid=R078_%7bB33A51AA-7250-402C-9FC0-8A302D14AD06%7d_20140307121500",
+                "rel": "Musical Instruments: East and West"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/concerts-and-performances/ernie-sites?eid=A001_%7bE8CB7AEE-6F19-46A1-BCDF-ACF04F0FA0A0%7d_20140221154312",
+                "rel": "Gallery Concert: Ernie Sites, Guitar"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A001_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203181946",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A002_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203182002",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A004_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203182034",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A006_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203182105",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A005_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20140206152942",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A001_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115501",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A002_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115523",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/503815"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/503815"
+        }
+    },
+    "accession number": "1979.523.1 .2",
+    "credit line": "Gift of Laura La Forge Webb, in memory of Frank La Forge, 1979",
+    "date": "1928",
+    "department": "Musical Instruments",
+    "dimensions": [
+        "L. 182.6 cm (71 7/8 in.)",
+        "W. 99.4 cm (39 1/8 in.);  (102.1 cm across lid)",
+        "D. without lid 31.6 cm (12 7/16 in.)",
+        "H. 96.2 cm (37 7/8 in.)",
+        "(8') AA string length 121.9 plucking 20.5;",
+        "String lengths c2- 32.9 plucking 11.2; f3 - 13.5 plucking 8.4; 3-octave span: 49.7 cm",
+        "Bench 63.7 x 43.6 x 49 cm high"
+    ],
+    "id": 503815,
+    "image": "http://images.metmuseum.org/CRDImages/mi/original/MI1979.523.1.jpg",
+    "medium": "Wood, various materials",
+    "title": "Harpsichord",
+    "what": [
+        "Musical instruments",
+        "Chordophones",
+        "Zithers",
+        "Harpsichords"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France",
+        "Paris"
+    ],
+    "who": "Pleyel et Cie"
+}

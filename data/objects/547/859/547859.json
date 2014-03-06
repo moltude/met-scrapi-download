@@ -1,0 +1,117 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/547858"
+            },
+            {
+                "href": "http://scrapi.org/object/547860"
+            },
+            {
+                "href": "http://scrapi.org/object/547768"
+            },
+            {
+                "href": "http://scrapi.org/object/547856"
+            },
+            {
+                "href": "http://scrapi.org/object/547857"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R128_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140306140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R129_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140307140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/teen-programs/saturday-sketching/saturday-sketching-egyptian-art?eid=A001_%7b8698F79D-A7E0-44F1-99CF-57C8A2E2471A%7d_20131211143556",
+                "rel": "Saturday Sketching\u2014Egyptian Art (Ages 11\u201318)"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A151_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113641",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R130_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140310140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=05\u00aeion=afe",
+                "rel": "Egypt, 1\u2013500A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/547859"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/547859"
+        }
+    },
+    "accession number": "09.181.5",
+    "credit line": "Rogers Fund, 1909",
+    "date": "A.D. 100\u2013125",
+    "department": "Egyptian Art",
+    "description": "Slightly turned shoulders and heads, naturalistic coloring, directional lighting, and use of shading and highlights to indicate volume are all elements of the Hellenistic naturalistic and illusionistic painting style. The paintings in this series (09.181.1-.8) were executed using the encaustic technique-pigment in a wax medium, which produces rich color with depth, rather like that in oil painting. Individual and family characteristics often seem to be incorporated in the panels, indicating that actual verisimilitude was desirable. They do not seem, however, to have been painted during life to hang in the home. Studies comparing the ages of mummies with their portrait panels indicate that most portraits were painted at or near death. It is possible that they were made to be carried in the procession (ekphora) of the deceased through a town or village, a Greek rite after which the body was taken to the embalmers for mummification, and the portrait panel was cut to fit in the mummy wrappings. As in other painted panel portraits depicting older women, this one shows the subject with earrings as her only ornament. Her gray hair falls in loose curls that are quite unrelated to imperial court fashion. Her face is strong, bony, and tanned. The strongly reddish colored tunic, typical for female portraits of the late first to early second century, and the similarity to male portraits of the Trajanic period, suggest a dating to that time.",
+    "dimensions": "H. 34 x W. 18.4 cm (13 3/8 x 7 1/4 in.)",
+    "id": 547859,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/EG50_09.181.5.jpg",
+    "medium": "Encaustic, limewood",
+    "provenance": [
+        "Purchased from Maurice Nahman in Cairo, 1909"
+    ],
+    "title": "Portrait of an elderly lady with a gold wreath",
+    "what": [
+        "Metal",
+        "Gold",
+        "Paintings",
+        "Wood",
+        "Panels",
+        "Linden",
+        "Encaustic painting",
+        "Panel paintings"
+    ],
+    "when": "A.D. 1-500",
+    "where": [
+        "Africa",
+        "Egypt"
+    ]
+}

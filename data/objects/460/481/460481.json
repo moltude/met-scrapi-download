@@ -1,0 +1,117 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/460508"
+            },
+            {
+                "href": "http://scrapi.org/object/460509"
+            },
+            {
+                "href": "http://scrapi.org/object/460510"
+            },
+            {
+                "href": "http://scrapi.org/object/461012"
+            },
+            {
+                "href": "http://scrapi.org/object/461183"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R128_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140306134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R129_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140307134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R130_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140310134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R131_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140311134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R132_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140312134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R133_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140313134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R134_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140314134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A109_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131126111651",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A115_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131127144444",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A110_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131126111706",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/460481"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/460481"
+        }
+    },
+    "accession number": "1975.1.1607a,b",
+    "credit line": "Robert Lehman Collection, 1975",
+    "date": "ca. 1808",
+    "department": "Robert Lehman Collection",
+    "description": "The numbers 25 and 11 are recorded for the turners Franz Dunkel (active 1804 \u2013 39) and Thomas Mitterer, respectively.  According to Neuwirth,(1) the numbers are not traceable to these workers in 1808, but no other turners were active that year. The pictorial decoration is rather weak and pale and in some passages runs over the gold, suggesting it is of later date. In type, however, it is comparable to a ewer of 1806 painted with tall grasses(2) and to a Viennese glass beaker enameled by Georges Lamprecht about 1823 with herons amid grasses.(3)Catalogue entry from: Clare Le Corbeiller. The Robert Lehman Collection. Decorative Arts, Vol. XV. Wolfram Koeppe, et al. New York: The Metropolitan Museum of Art in association with Princeton University Press, 2012, p. 186.NOTES:1. Neuwirth, Waltraud. Wiener Porzellan: Original, Kopie, Verf\u00e4lschung, F\u00e4lschung. Vienna, 1979, pp. 574, 575.2. Folnesics, Josef, and E. W. Braun. Geschichte der K. K. Wiener Porzellan-Manufaktur. Vienna, 1907, p. 147.3. Strasser, Rudolf von. Die Einschreibeb\u00fcchlein des Wiener Glas- und Porzellanmalers Anton Kothgasser: (1769 \u20131851). Schatze der Glaskunst 4. Karlsruhe, 1977, fig. 41b.",
+    "dimensions": "Cup h. 7.3 cm; saucer: diam. 13.5 cm",
+    "id": 460481,
+    "image": "http://images.metmuseum.org/CRDImages/rl/original/SLP1607b_a-COMPOSSED.jpg",
+    "medium": "Hard-paste porcelain",
+    "provenance": [
+        "Not established."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/rl/original/SLP1607b_a-COMPOSSED.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/SLP1607b_a-bottom.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/SLP1607b+a-COMPOSSED.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/SLP1607b+a-bottom.jpg"
+    ],
+    "title": "Cup and saucer",
+    "what": [
+        "Ceramics",
+        "Clay",
+        "Faience",
+        "Porcelain",
+        "Dishes",
+        "Drinking vessels",
+        "Cups",
+        "Plates",
+        "Hard paste porcelain",
+        "Saucers"
+    ],
+    "when": "A.D. 1800-1900",
+    "who": "Austria, Vienna"
+}

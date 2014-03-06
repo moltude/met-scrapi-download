@@ -1,0 +1,93 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/286537"
+            },
+            {
+                "href": "http://scrapi.org/object/286122"
+            },
+            {
+                "href": "http://scrapi.org/object/267684"
+            },
+            {
+                "href": "http://scrapi.org/object/267681"
+            },
+            {
+                "href": "http://scrapi.org/object/283239"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwcm",
+                "rel": "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/283238"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/283238"
+        }
+    },
+    "accession number": "2005.100.440",
+    "credit line": "Gilman Collection, Purchase, Mrs. Walter Annenberg and The Annenberg Foundation Gift, 2005",
+    "date": "before 1910",
+    "department": "Photographs",
+    "description": "A leader of Pictorialist photography in Europe, Heinrich K\u00fchn was a major figure of the Vienna Camera Club and a member of the Kleeblatt, a trio of photographers that included Hans Watzek and Hugo Henneberg. Exhibiting together until 1903, they perfected the gum bichromate printing process and made large pictures composed of broad, rich tonal masses that involved a high degree of handwork; their photographs took on the appearance of mezzotints, aquatints, and other traditional processes of graphic art. K\u00fchn was elected  in 1896 to the progressive British photographic society The Linked Ring, and his international reputation was confirmed in major exhibitions such as that of the Munich Secession in 1898. Stieglitz, with whom he started a long correspondence the following year, published his photographs as photogravures in \"Camera Work.\"      \"On the Hillside\" belongs to the later part of K\u00fchn's photographic career when, without sacrificing the breadth of his vision, he moved away from the oversized, public scale of his moody landscapes of the 1890s and turned to more intimate motifs--portraits, domestic still lifes, and views of the countryside surrounding Innsbruck. Members of his family resting, hiking, or at play in the open spaces of the Tyrolean hills were among his favorite subjects. With their hazy outlines and sensitive rendering of changing patterns of light and shade, these bucolic images belong to the world of late Impressionism. Here, the figure of Lotte, K\u00fchn's youngest child, picking flowers on the incline of a hill, has been flattened into a luminous graphic shape, light and immaterial, whose delicate simplicity demonstrates the artist's superb eye for tonal values. Indeed, K\u00fchn gave the picture the parenthetical title \"A Study in Values\" when he sent a photogravure version of this print to the International Exhibition of Pictorial Photography at the Albright Art Gallery in Buffalo in 1910.",
+    "dimensions": "Image 23.2 x 29.2 cm (9 1/8 x 11 1/2 in.)",
+    "id": 283238,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP279251.jpg",
+    "medium": "Platinum print",
+    "provenance": [
+        "Lunn Gallery, Washington, DC, February 14, 1981",
+        "Gilman Paper Company Collection, New York"
+    ],
+    "title": "On the Hillside (A Study in Values)",
+    "what": [
+        "Photographs",
+        "Platinum prints"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "Austria"
+    ],
+    "who": "Heinrich K\u00fchn"
+}

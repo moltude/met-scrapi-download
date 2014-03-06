@@ -1,0 +1,152 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/44886"
+            },
+            {
+                "href": "http://scrapi.org/object/44863"
+            },
+            {
+                "href": "http://scrapi.org/object/45042"
+            },
+            {
+                "href": "http://scrapi.org/object/55292"
+            },
+            {
+                "href": "http://scrapi.org/object/55293"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 8, 2014",
+                "href": "/exhibitions/listings/2014/tibet-and-india",
+                "rel": "Tibet and India"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/chinese-carving",
+                "rel": "Colors of the Universe"
+            },
+            {
+                "date": "From July 19, 2013",
+                "href": "/exhibitions/listings/2013/chinese-snuff-bottles",
+                "rel": "Small Delights"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/ink-art",
+                "rel": "Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "From February 1, 2014",
+                "href": "/exhibitions/listings/2014/edo-period-painting",
+                "rel": "The Flowering of Edo Period Painting"
+            },
+            {
+                "date": "From April 14, 2014",
+                "href": "/exhibitions/listings/2014/lost-kingdoms",
+                "rel": "Lost Kingdoms"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/highlights-of-asia?eid=A041_%7b93924202-8616-42E2-8DA1-39A4591F1426%7d_20140122180137",
+                "rel": "Highlights of Asia"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R100_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140303111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R100_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140303131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R101_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140304111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R101_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140304120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R101_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140304131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/talks/gallery-talks/the-flowering-of-edo-period-painting-spring?eid=A001_%7bB9065A06-A3F9-4CAB-8F49-ED3038F1E7A2%7d_20140205171419",
+                "rel": "Exhibition Tour\u2014The Flowering of Edo Period Painting: Japanese Masterworks from the Feinberg Collection"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=A092_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20131018142423",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R102_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140305120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R102_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140305131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=eaj",
+                "rel": "Japan, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/49068"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/49068"
+        }
+    },
+    "accession number": "1975.268.80a, b",
+    "credit line": "The Harry G. C. Packard Collection of Asian Art, Gift of Harry G. C. Packard, and Purchase, Fletcher, Rogers, Harris Brisbane Dick, and Louis V. Bell Funds, Joseph Pulitzer Bequest, and The Annenberg Fund Inc. Gift, 1975",
+    "culture": "Japan",
+    "date": "1774",
+    "department": "Asian Art",
+    "description": "The interplay of word and image is a firmly established tradition in China that Japanese artists have also cultivated. Here, a painting of bamboo by the Chinese-born Taih\u014d is paired with a poem on the same subject. Taih\u014d, who twice served as abbot of Manpukuji temple, headquarters of the \u014cbaku Zen sect in Kyoto, is noted for his paintings of bamboo. In this example, the upward diagonal of the stalk dominates the composition, while soft yet powerful brushwork delineates each joint. The abundant leaves, indicative of winter, are rendered in a variety of tones. The white splashes across the painting represent snow.Another Chinese monk, Hakujun, who became the twentieth abbot of Manpukuji, composed the following poem to accompany Taih\u014d's painting:Bamboo expands, growing to produce bamboo shoots,over thick green leaves. Let a man contemplate the virtues of bamboo, elegance,Strength, and firmness, and purify the roots of his karma.For the bamboo painting by Taih\u014d, monk of the Eastern Hall, written by Hakujun at the age of eighty, holder of the honorary title of purple of \u014cbaku Zen.Zen \u014cbaku Buddhism, called Huangpo in China, was brought to Japan by Chinese monks after the fall of the Ming court in the mid-seventeenth century.",
+    "dimensions": [
+        "Image (each) 47 1/2 in. \u00d7 20 in. (120.7 \u00d7 50.8 cm)",
+        "Overall with mounting (each) 73 3/8 \u00d7 25 3/8 in. (186.4 \u00d7 64.5 cm)",
+        "Overall with knobs (each) 73 3/8 \u00d7 27 5/8 in. (186.4 \u00d7 70.2 cm)"
+    ],
+    "id": 49068,
+    "image": "http://images.metmuseum.org/CRDImages/as/original/DP276881.jpg",
+    "medium": "Pair of hanging scrolls; ink on silk",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/as/original/DP276881.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP276882.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP276508.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP276294.jpg"
+    ],
+    "title": "Bamboo in Snow",
+    "what": [
+        "Silk",
+        "Ink",
+        "Paintings",
+        "Scroll paintings",
+        "Scrolls",
+        "Hanging scrolls"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Asia",
+        "Japan"
+    ],
+    "who": [
+        "Hakujun",
+        "Taih\u014d Sh\u014dkon"
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/452074"
+            },
+            {
+                "href": "http://scrapi.org/object/450574"
+            },
+            {
+                "href": "http://scrapi.org/object/451702"
+            },
+            {
+                "href": "http://scrapi.org/object/451769"
+            },
+            {
+                "href": "http://scrapi.org/object/451119"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world-french?eid=R025_%7b85906EA1-CA66-4610-A52C-39562E1A4C40%7d_20140303133000",
+                "rel": "Arts du monde Islamique (Arts of the Islamic World in French)"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R125_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140303141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R126_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140304141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R127_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140305141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R128_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140306141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R129_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140307141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A249_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114331",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A250_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114353",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world-french?eid=R026_%7b85906EA1-CA66-4610-A52C-39562E1A4C40%7d_20140310133000",
+                "rel": "Arts du monde Islamique (Arts of the Islamic World in French)"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R130_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140310141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=06\u00aeion=nfe",
+                "rel": "Egypt, 500\u20131000 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/451717"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/451717"
+        }
+    },
+    "accession number": "63.178.1",
+    "credit line": "Gift of Charles K. and Irma B. Wilkinson, 1963",
+    "culture": "Islamic",
+    "date": "ca. 1000",
+    "department": "Islamic Art",
+    "description": "The signature of the artist Muslim appears beneath the eagle's right claw and underneath the foot of this remarkable bowl. Muslim is the only Egyptian potter of this period (ca. 1000) whose name is known. In representing this heraldic eagle, he used a motif that had been popular for a long time and was not limited to the iconography of Fatimid works.",
+    "dimensions": [
+        "H. 2 7/8 in. (7.3 cm)",
+        "Diam. 10 in. (25.4 cm)"
+    ],
+    "gallery-id": 454,
+    "id": 451717,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/DP221332.jpg",
+    "medium": "Earthenware; luster-painted on opaque white glaze",
+    "provenance": [
+        "Walter Hauser, New York (by 1938)",
+        "Charles K. and Irma B. Wilkinson, Sharon, CT (by 1961\u201363)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/DP221332.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/63.178.1back.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/63.178front.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/178813.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP221333.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DT4848.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/h1_63.178.1.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP221331.jpg"
+    ],
+    "title": "Bowl with Eagle",
+    "what": [
+        "Ceramics",
+        "Pottery",
+        "Earthenware",
+        "Painting",
+        "Glaze",
+        "Bowls"
+    ],
+    "where": [
+        "Africa",
+        "Egypt"
+    ],
+    "who": "Muslim Ibn al-Dahhan"
+}

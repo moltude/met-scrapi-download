@@ -1,0 +1,138 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/488759"
+            },
+            {
+                "href": "http://scrapi.org/object/490223"
+            },
+            {
+                "href": "http://scrapi.org/object/285288"
+            },
+            {
+                "href": "http://scrapi.org/object/385943"
+            },
+            {
+                "href": "http://scrapi.org/object/482730"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From November 20, 2013",
+                "href": "/exhibitions/listings/2013/jewels-by-jar",
+                "rel": "Jewels by JAR"
+            },
+            {
+                "date": "From February 24, 2014",
+                "href": "/exhibitions/listings/2014/lucas-samaras",
+                "rel": "Lucas Samaras"
+            },
+            {
+                "date": "From December 17, 2013",
+                "href": "/exhibitions/listings/2013/metropolitan-vanities",
+                "rel": "Metropolitan Vanities"
+            },
+            {
+                "date": "From October 22, 2013",
+                "href": "/exhibitions/listings/2013/william-kentridge",
+                "rel": "William Kentridge"
+            },
+            {
+                "date": "From April 29, 2014",
+                "href": "/exhibitions/listings/2014/dan-graham",
+                "rel": "The Roof Garden Commission: Dan Graham"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R026_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140306140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R103_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140306144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/collecting-and-intepreting-at-the-met?eid=A001_%7b6A0B3958-68AC-4F22-BB73-D898FB894401%7d_20140127111701",
+                "rel": "Fellows Colloquium\u2014Collecting and Interpreting at the Met"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/talks/gallery-talks/metropolitan-vanities?eid=A001_%7bF51ADF90-5C6F-45EF-822C-6AE4940219F6%7d_20140206160301",
+                "rel": "Exhibition Tour\u2014Metropolitan Vanities: The History of the Dressing Table"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/college/jewels?eid=A001_%7bB2CEEB36-09E2-43E1-B6FD-1CA91686BA29%7d_20140219113337",
+                "rel": "Jewels by JAR Workshop"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R104_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140310144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/modern-art-french?eid=R027_%7b96311A2D-1D25-45BE-83E2-2054BC16D70B%7d_20140311133000",
+                "rel": "Art Moderne et Contemporain (Modern and Contemporary Art in French)"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R105_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140311144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R106_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140312144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R027_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140313140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/abex/hd_abex.htm",
+                "rel": "Abstract Expressionism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/480986"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/480986"
+        }
+    },
+    "accession number": "1972.127",
+    "credit line": "Bequest of Miss Adelaide Milton de Groot (1876-1967), by exchange, 1972",
+    "date": "1965",
+    "department": "Modern and Contemporary Art",
+    "description": "David Smith was unquestionably one of the most influential and innovative American sculptors of the twentieth century.  Born in Decatur, Indiana, in 1906, Smith was trained as a painter at the Art Students League in New York (1926\u201330) before turning to sculpture in the early 1930s.  His career as a sculptor may be divided into three phases.  In the beginning he created welded metal constructions into which he often incorporated industrial objects.  In his second phase, during the 1940s and 1950s, Smith executed personal, landscape-inspired sculptures characterized by a delicate linear quality, reminiscent of drawing in metal and similar in feel to contemporary painting.  He was a great friend of the Abstract Expressionist painters, including Jackson Pollock and Robert Motherwell.  In the final phase of his development, begun at the end of the 1950s, his work became monumental in size and its elements were reduced to overlapping geometric plates of highly polished steel.  Just as the industrial objects of his early work prefigured later sculpture, so these reductive, geometric, massive pieces of the 1960s may be said to prefigure the minimal \"primary structures\" produced by other artists later in that decade.\"Becca,\" executed in 1965 and named after one of the sculptor's two daughters, is a fine example of Smith's late work.  Like almost all his sculpture, this piece is two-dimensional in orientation, intended to be seen from the front.  Although huge in scale and consisting of only a few simple geometric elements, \"Becca\" is marked by grace and energy.  The diagonal elements at the top of the piece give the work a joyous lift and buoyancy, and the burnished scribbles resembling brushstrokes that cover the entire work are at once expressive and playful",
+    "dimensions": "113 3/4 x 123 x 30 1/2 in., 2178lb. (312.4 x 77.5 cm)",
+    "id": 480986,
+    "medium": "Stainless steel",
+    "title": "Becca",
+    "what": [
+        "Metal",
+        "Sculpture",
+        "Iron and iron alloy",
+        "Iron alloy",
+        "Steel",
+        "Chrome steel",
+        "Stainless steel"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "David Smith"
+}

@@ -1,0 +1,106 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/325875"
+            },
+            {
+                "href": "http://scrapi.org/object/246009"
+            },
+            {
+                "href": "http://scrapi.org/object/253389"
+            },
+            {
+                "href": "http://scrapi.org/object/9720"
+            },
+            {
+                "href": "http://scrapi.org/object/9721"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 25, 2014",
+                "href": "/exhibitions/listings/2014/canterbury-stained-glass",
+                "rel": "Radiant Light"
+            },
+            {
+                "date": "From August 6, 2013",
+                "href": "/exhibitions/listings/2013/design-motifs-in-byzantine-art",
+                "rel": "Design Motifs in Byzantine Art"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R006_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140306150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/collecting-and-intepreting-at-the-met?eid=A001_%7b6A0B3958-68AC-4F22-BB73-D898FB894401%7d_20140127111701",
+                "rel": "Fellows Colloquium\u2014Collecting and Interpreting at the Met"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R104_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140307104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/events-at-the-cloisters/conversations-with-curators-and-conservators/cloisters-husband?eid=A003_%7bC1BD832B-922C-49E2-8732-B9CE70E617F2%7d_20140113162804",
+                "rel": "Conversation with a Curator at The Cloisters"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R007_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140307150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/ancestors-of-christ?eid=A001_%7b64F28017-6AB0-4B00-864F-E5676EE07585%7d_20140113142350",
+                "rel": "The Ancestors of Christ: Stained Glass Windows from Canterbury Cathedral"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/ancestors-of-christ?eid=A002_%7b64F28017-6AB0-4B00-864F-E5676EE07585%7d_20140113142402",
+                "rel": "The Ancestors of Christ: Stained Glass Windows from Canterbury Cathedral"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R008_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140309150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R009_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140310150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R105_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140311104500",
+                "rel": "Masterpieces of the Middle Ages"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/479691"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/479691"
+        }
+    },
+    "accession number": "L.2013.78",
+    "credit line": "Private collection, New York",
+    "department": "The Cloisters",
+    "description": "The long, spiraling tusk of the narwhal, a marine mammal sometimes called \"the unicorn of the sea,\" can grow to more than ten feet in length. Because the narwhal lives in the Arctic, it was little known in the Middle Ages.Narwhal tusks, believed to be those of unicorns, were safeguarded in churches from London to Cracow. Saint- Denis, outside Paris, possessed one said to have been given to Charlemagne in the ninth century by the Abbasid caliph Harun al-Rashid, while San Marco in Venice acquired one from S\u00fcleyman the Magnificent. Charles VI of France, his uncle Jean, duc de Berry, and Philip the Good, duke of Burgundy, all listed unicorn horns among their prized possessions. When Lorenzo de Medici died in 1492, the \"unicorn horn\" in his collection was valued at 6,000 florins.",
+    "dimensions": "Overall 8 ft.",
+    "gallery-id": 17,
+    "id": 479691,
+    "image": "http://images.metmuseum.org/CRDImages/cl/original/UNI202.jpg",
+    "medium": "Narwhal tusk",
+    "title": "Narwhal Tusk",
+    "what": [
+        "Bone",
+        "Horn",
+        "Tooth",
+        "Tusk"
+    ],
+    "when": "1000 B.C.-A.D. 1"
+}

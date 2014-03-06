@@ -1,0 +1,141 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/452110"
+            },
+            {
+                "href": "http://scrapi.org/object/452111"
+            },
+            {
+                "href": "http://scrapi.org/object/452112"
+            },
+            {
+                "href": "http://scrapi.org/object/452113"
+            },
+            {
+                "href": "http://scrapi.org/object/452114"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R129_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140307141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A249_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114331",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A250_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114353",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world-french?eid=R026_%7b85906EA1-CA66-4610-A52C-39562E1A4C40%7d_20140310133000",
+                "rel": "Arts du monde Islamique (Arts of the Islamic World in French)"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R130_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140310141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=wai",
+                "rel": "Iran, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/452180"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/452180"
+        }
+    },
+    "accession number": "1970.301.71",
+    "credit line": "Gift of Arthur A. Houghton Jr., 1970",
+    "culture": "Islamic",
+    "date": "ca. 1530\u201335",
+    "department": "Islamic Art",
+    "description": "In negotiations between Iran and India concerning the payment of tribute to Iran, the king of India sent a challenge to the shah. If the shah could figure out the rules of the game that we know as chess from the board and pieces that he sent with his envoy, India would pay the tribute. If the shah failed, Iran would have to pay tribute to India. The wise Buzurjmihr was summoned and, after a day and night, announced that he had mastered the game; he then proceeded to show his skill against the Indian envoy. The light palette and arabesque and cloud-band patterns on the carpets suggest the influence of Shiraz-school painting.",
+    "dimensions": [
+        "Painting 9 5/8 x 6 7/8 in. (24.4 x 17.5 cm)",
+        "Entire Page 18 5/8 x 12 1/2 in. (47.3 x 31.8 cm)"
+    ],
+    "id": 452180,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/DP245149.jpg",
+    "medium": "Opaque watercolor, ink, silver, and gold on paper",
+    "provenance": [
+        "Shah Tahmasp, Iran (until 1568)",
+        "Sultan Selim II, Istanbul (from 1568)",
+        "Sultan Selim III, Istanbul (by 1800)",
+        "Baron Edmond de Rothschild, Paris (by 1903\u2013d. 1934)",
+        "his son, Baron Maurice de Rothschild, Paris and Pregny, near Geneva (by 1955\u2013d. 1957)",
+        "[ Stiebel Ltd., New York, until 1959",
+        "sold to Houghton]",
+        "Arthur A. Houghton Jr., New York (1959\u201370)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/DP245149.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP105221.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107184.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP260248.jpg"
+    ],
+    "title": "\"Buzurjmihr Masters the Game of Chess\", Folio from the Shahnama (Book of Kings) of Shah Tahmasp",
+    "what": [
+        "Metal",
+        "Ink",
+        "Paper",
+        "Silver",
+        "Gold",
+        "Watercolors",
+        "Manuscripts",
+        "Codices",
+        "Folios",
+        "Illuminated manuscripts"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Asia",
+        "Iran",
+        "Tabriz"
+    ],
+    "who": [
+        "Abu'l Qasim Firdausi",
+        "'Abd al-Vahhab"
+    ]
+}

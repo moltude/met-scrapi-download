@@ -1,0 +1,93 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/285613"
+            },
+            {
+                "href": "http://scrapi.org/object/264857"
+            },
+            {
+                "href": "http://scrapi.org/object/288104"
+            },
+            {
+                "href": "http://scrapi.org/object/288300"
+            },
+            {
+                "href": "http://scrapi.org/object/288301"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=na",
+                "rel": "The United States and Canada, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/283226"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/283226"
+        }
+    },
+    "accession number": "2005.100.112",
+    "credit line": "Gilman Collection, Purchase, Joseph M. Cohen Gift, 2005",
+    "date": "1895\u20131900",
+    "department": "Photographs",
+    "description": "Although William Rau is perhaps best known for his photographs commissioned by the Pennsylvania railroads, he began his career at age nineteen as a photographer on the 1874 U.S. government expedition to document the Transit of Venus. A rare celestial event, each passage of the planet before the sun allows scientists to recalculate the distance of the earth from the sun. After this first commission Rau traveled to the western United States to photograph the Rocky Mountains and to Egypt to photograph the monuments. He never lost his wanderlust, but in 1885 he established a successful society portrait studio in Philadelphia with his father-in-law, the photographer William Bell.     In 1895 Rau was contracted by the Lehigh Valley Railroad to photograph along its new route from New York City to Niagara Falls. He made hundreds of landscape views that demonstrate the somewhat contradictory simultaneity of the late-nineteenth-century American faith in progress and technology and its love of grand scenery. This photograph shows the rail line's freshly laid track passing a formerly secluded beach on one of the large lakes north of Ithaca, New York. Although Rau's railroad work stands as the last significant nineteenth-century record of the American landscape, the Eastern scenery surveyed was already domesticated; Cayuga Lake was not a wilderness but a recreation site, popular with students and faculty at Cornell University, which had been founded at the foot of the lake in 1868. Furthermore, Rau's use of the large plate camera was virtually anachronistic as the hand-held roll-film Kodak had been invented in 1888.",
+    "dimensions": "Image 43 x 51.9 cm (16 15/16 x 20 7/16 in.)",
+    "id": 283226,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP281356.jpg",
+    "medium": "Albumen silver print from glass negative",
+    "provenance": [
+        "[...]",
+        "[Robert Miller Gallery, New York]",
+        "Gilman Paper Company Collection, New York, September 30, 1981"
+    ],
+    "title": "Cayuga Lake, Elbow Curve",
+    "what": [
+        "Photographs",
+        "Albumen silver prints"
+    ],
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "William H. Rau"
+}

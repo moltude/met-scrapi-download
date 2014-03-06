@@ -1,0 +1,86 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/340904"
+            },
+            {
+                "href": "http://scrapi.org/object/338810"
+            },
+            {
+                "href": "http://scrapi.org/object/343243"
+            },
+            {
+                "href": "http://scrapi.org/object/338748"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/340903"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/340903"
+        }
+    },
+    "accession number": "17.236.30",
+    "credit line": "Gift of Henry Walters, 1917",
+    "date": "1623\u201390",
+    "department": "Drawings and Prints",
+    "dimensions": "6-15/16 x 7-5/16 in.  (17.7 x 18.5 cm)",
+    "id": 340903,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP810381.jpg",
+    "medium": "Red chalk, highlighted with a little white (recto); black chalk studies of arms (verso)",
+    "provenance": [
+        "Don Sebasti\u00e1n Gabriel de Borb\u00f3n y Braganza (1811\u20131875)",
+        "Don Pedro Alc\u00e1ntara de Borb\u00f3n y Borb\u00f3n, Duke of D\u00farcal (1862\u20131892)",
+        "American Art Galleries, New York- April 10, 1889, no. 182, as F. de Maria"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP810381.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/17.236.30 RECTO.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/17.236.30 VERSO.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP810382.jpg"
+    ],
+    "title": "Head of a Man Wearing a Helmet, Looking to Upper Left (recto); Two Sketches, Arms and Hands (verso)",
+    "what": [
+        "Drawings",
+        "Chalk"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Francesco di Maria"
+}

@@ -1,0 +1,154 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/451264"
+            },
+            {
+                "href": "http://scrapi.org/object/451278"
+            },
+            {
+                "href": "http://scrapi.org/object/445961"
+            },
+            {
+                "href": "http://scrapi.org/object/445976"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R129_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140307141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A249_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114331",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A250_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114353",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world-french?eid=R026_%7b85906EA1-CA66-4610-A52C-39562E1A4C40%7d_20140310133000",
+                "rel": "Arts du monde Islamique (Arts of the Islamic World in French)"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R130_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140310141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/empe/hd_empe.htm",
+                "rel": "The Shah Jahan Album"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=ssa",
+                "rel": "South Asia, 1400\u20131600 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=ssa",
+                "rel": "South Asia, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/451275"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/451275"
+        }
+    },
+    "accession number": "55.121.10.29",
+    "credit line": "Purchase, Rogers Fund and The Kevorkian Foundation Gift, 1955",
+    "culture": "Islamic",
+    "date": "recto ca. 1610\u201315; verso: ca. 1541",
+    "department": "Islamic Art",
+    "description": "These portraits were made for Jahangir (r. 1605\u201327), whose painters, while technically flawless, were able to reveal the nuances of characterization. 'Inayat   Khan, a favorite courtier, is remembered today from two portraits made as he lay at death\u2019s door, emaciated from his addiction to opium and wine, though here he appears healthy. 'Abd al-Khaliq met his death after siding with Shah Jahan against his father. Jamal Khan Qaravul was a minor nobleman, and the identification of the raja, in Jahangir\u2019s handwriting, is illegible.",
+    "dimensions": [
+        "Overall page Ht. 15 3/16 in. (38.6 cm)",
+        "W. 10 3/16 in. (25.9 cm)",
+        "Painting inside border Ht. 11 1/2 in. (29.2 cm)",
+        "W. 8 7/8 in. (22.5 cm)",
+        "All four portraits Ht. 10 7/8 in. (27.6 cm)",
+        "W. 5 3/16 in. (13.2 cm)",
+        "Portrait (top left) Ht. 5 5/16 in. (13.5 cm)",
+        "W. 2 1/2 in. (6.4 cm)",
+        "Portrait (top right) Ht. 5 5/8 in. (14.3 cm)",
+        "W. 2 1/2 in. (6.4 cm)",
+        "Portrait (bottom left) Ht. 4 1/2 in. (11.4 cm)",
+        "W. 2 1/4 in. (5.7 cm)",
+        "Portrait (bottom right) Ht. 4 7/16 in. (11.3 cm)",
+        "W. 2 1/2 in. (6.4 cm)"
+    ],
+    "id": 451275,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/DP246558.jpg",
+    "medium": "Ink, opaque watercolor, and gold on paper",
+    "provenance": [
+        "Jack S. Rofe, Scotland (in 1929; sale, Sotheby's London,December 12, 1929, to Kevorkian)",
+        "[ Hagop Kevorkian, New York, 1929\u201355",
+        "gift and sale to MMA]"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/DP246558.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/55.121.10.29 Gallery 14.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/162802.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DT220641.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP246560.jpg"
+    ],
+    "title": "\"Four Portraits: (upper left) A Raja (Perhaps Raja Sarang Rao), by Balchand; (upper right) 'Inayat Khan, by Daulat; (lower left) 'Abd al-Khaliq, probably by Balchand; (lower right) Jamal Khan Qaravul, by Murad\", Folio from the Shah Jahan Album",
+    "what": [
+        "Metal",
+        "Ink",
+        "Paper",
+        "Books",
+        "Gold",
+        "Watercolors",
+        "Albums",
+        "Manuscripts",
+        "Codices"
+    ],
+    "where": [
+        "Asia",
+        "India"
+    ],
+    "who": [
+        "Balachand",
+        "Murad",
+        "Daulat"
+    ]
+}

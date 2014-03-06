@@ -1,0 +1,142 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/464078"
+            },
+            {
+                "href": "http://scrapi.org/object/464073"
+            },
+            {
+                "href": "http://scrapi.org/object/464031"
+            },
+            {
+                "href": "http://scrapi.org/object/464032"
+            },
+            {
+                "href": "http://scrapi.org/object/470278"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 25, 2014",
+                "href": "/exhibitions/listings/2014/canterbury-stained-glass",
+                "rel": "Radiant Light"
+            },
+            {
+                "date": "From August 6, 2013",
+                "href": "/exhibitions/listings/2013/design-motifs-in-byzantine-art",
+                "rel": "Design Motifs in Byzantine Art"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R006_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140306150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/collecting-and-intepreting-at-the-met?eid=A001_%7b6A0B3958-68AC-4F22-BB73-D898FB894401%7d_20140127111701",
+                "rel": "Fellows Colloquium\u2014Collecting and Interpreting at the Met"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R104_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140307104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/events-at-the-cloisters/conversations-with-curators-and-conservators/cloisters-husband?eid=A003_%7bC1BD832B-922C-49E2-8732-B9CE70E617F2%7d_20140113162804",
+                "rel": "Conversation with a Curator at The Cloisters"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R007_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140307150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/ancestors-of-christ?eid=A001_%7b64F28017-6AB0-4B00-864F-E5676EE07585%7d_20140113142350",
+                "rel": "The Ancestors of Christ: Stained Glass Windows from Canterbury Cathedral"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/ancestors-of-christ?eid=A002_%7b64F28017-6AB0-4B00-864F-E5676EE07585%7d_20140113142402",
+                "rel": "The Ancestors of Christ: Stained Glass Windows from Canterbury Cathedral"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R008_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140309150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R009_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140310150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R105_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140311104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=06\u00aeion=eusb",
+                "rel": "Balkan Peninsula, 500\u20131000 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/464077"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/464077"
+        }
+    },
+    "accession number": "17.190.1670",
+    "credit line": "Gift of J. Pierpont Morgan, 1917",
+    "culture": "Byzantine",
+    "date": "6th\u20137th century",
+    "department": "Medieval Art",
+    "description": "These elaborately decorated bracelets have richly jeweled exteriors and finely detailed opus interrasile (openwork) patterns on their interiors. The luminous beauty of pearls was highly prized in the Byzantine world. These bracelets are only two of thirty-four pieces of gold jewelry from Egypt said to have been found near Lycopolis (now Assiut) or Antinoopolis (Antinoe, now Sheik Ibada) in Egypt at the turn of the century. Whether discovered together, or later assembled, they represent the standard of luxury common among the elite in Egypt during the period of Byzantine rule and the close connections between the wealthy province and the capital in Constantinople. Multicolored, or polychrome, jewelry was very popular in the Early Byzantine world.",
+    "dimensions": [
+        "Overall 1 7/16 x 3 1/4 in. (3.7 x 8.2 cm)",
+        "strap 15/16 x 7 7/8 in. (2.4 x 20 cm)",
+        "bezel 1 5/16 in. (3.4 cm)"
+    ],
+    "gallery-id": 302,
+    "id": 464077,
+    "image": "http://images.metmuseum.org/CRDImages/md/original/DT2815.jpg",
+    "medium": "Gold, silver, pearl, amethyst, sapphire, glass, quartz, emerald plasma",
+    "provenance": [
+        "Maurice Nahman, Cairo",
+        "J. Pierpont Morgan, London and New York"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/md/original/DT2815.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/sf17-190-1670s4.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/h1_17.190.1670-1671.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/DP30634_17.190.1670.jpg"
+    ],
+    "title": "Jeweled Bracelet",
+    "what": [
+        "Metal",
+        "Costume",
+        "Glass",
+        "Metalwork",
+        "Silver",
+        "Gold",
+        "Jewelry",
+        "Bracelets",
+        "Pearl",
+        "Amethyst",
+        "Beryl",
+        "Emerald",
+        "Sapphire"
+    ],
+    "when": "A.D. 500-1000",
+    "where": [
+        "Asia",
+        "Turkey",
+        "Marmara",
+        "Istanbul"
+    ]
+}

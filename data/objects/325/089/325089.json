@@ -1,0 +1,113 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/324199"
+            },
+            {
+                "href": "http://scrapi.org/object/324203"
+            },
+            {
+                "href": "http://scrapi.org/object/324204"
+            },
+            {
+                "href": "http://scrapi.org/object/324206"
+            },
+            {
+                "href": "http://scrapi.org/object/324207"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R102_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140306121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R103_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140307121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R104_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140310121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R105_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140312121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R106_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140313121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R107_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140314121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R116_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140331121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R117_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140402121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=04\u00aeion=wam",
+                "rel": "Mesopotamia, 1000 B.C.\u20131 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/325089"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/325089"
+        }
+    },
+    "accession number": "60.145.11",
+    "credit line": "Rogers Fund, 1960",
+    "culture": "Assyrian",
+    "date": "ca. 8th century B.C.",
+    "department": "Ancient Near Eastern Art",
+    "description": "Phoenician ivory carvers were strongly influenced by the themes and style of Egyptian art owing to traditionally close ties between the two cultures. Some Phoenician ivories illustrate purely Egyptian themes, but many use Egyptian motifs in entirely original compositions.Phoenician-style ivories were used primarily as furniture decoration. Some are solid plaques, while others are carved on one or both sides in a delicate openwork technique. Many originally were covered by gold leaf and inlaid with semiprecious stones or colored glass. Such rich combinations of ivory, gold, and brightly colored stones made the thrones of the Assyrian kings famous for their exquisite beauty. Most ivories carved in the Phoenician style were probably produced during the late eighth and seventh centuries B.C.This Nubian tribute bearer exhibits traits of the Phoenician style, characterized by the slender, elongated form of the bearer and his animal gifts, the precision of carving and intricacy of detail, and the distinct Egyptian flavor of both pose and feature.",
+    "dimensions": "H. 5 5/16 in. (13.5 cm)",
+    "gallery-id": 400,
+    "id": 325089,
+    "image": "http://images.metmuseum.org/CRDImages/an/original/DP110672.jpg",
+    "medium": "Ivory",
+    "provenance": [
+        "1960, excavated by Max Mallowan, on behalf of the British School of Archaeology in Iraq",
+        "ceded in the division of finds to the British School of Archaeology in Iraq",
+        "acquired by the Museum in 1960, as a result of its financial contribution to the excavations."
+    ],
+    "title": "Tribute bearer with an oryx, a monkey, and a leopard skin",
+    "what": [
+        "Sculpture",
+        "Bone",
+        "Ivory"
+    ],
+    "when": "1000 B.C.-A.D. 1",
+    "where": [
+        "Asia",
+        "Iraq",
+        "Nimrud"
+    ],
+    "who": "Assyrian"
+}

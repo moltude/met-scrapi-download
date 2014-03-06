@@ -1,0 +1,197 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/209069"
+            },
+            {
+                "href": "http://scrapi.org/object/208813"
+            },
+            {
+                "href": "http://scrapi.org/object/191144"
+            },
+            {
+                "href": "http://scrapi.org/object/191147"
+            },
+            {
+                "href": "http://scrapi.org/object/191157"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 3, 2014",
+                "href": "/exhibitions/listings/2014/william-morris",
+                "rel": "William Morris"
+            },
+            {
+                "date": "From November 22, 2011",
+                "href": "/exhibitions/listings/2011/faberge",
+                "rel": "Faberg\u00e9 from the Matilda Geddings Gray Foundation Collection"
+            },
+            {
+                "date": "From February 4, 2014",
+                "href": "/exhibitions/listings/2014/french-ceramics",
+                "rel": "Making Pottery Art"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/carpeaux",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "From January 22, 2014",
+                "href": "/exhibitions/listings/2014/antonio-canova",
+                "rel": "Antonio Canova"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining-family-individual?eid=R002_%7b2F11F3B2-6834-484B-AE0F-5066D7E783B5%7d_20140306100000",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R102_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140306131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining-family-individual?eid=R001_%7b2F11F3B2-6834-484B-AE0F-5066D7E783B5%7d_20140307100000",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/collecting-and-intepreting-at-the-met?eid=A001_%7b6A0B3958-68AC-4F22-BB73-D898FB894401%7d_20140127111701",
+                "rel": "Fellows Colloquium\u2014Collecting and Interpreting at the Met"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R103_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140307131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining-family-individual?eid=R002_%7b2F11F3B2-6834-484B-AE0F-5066D7E783B5%7d_20140308100000",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining-family-individual?eid=A002_%7b2F11F3B2-6834-484B-AE0F-5066D7E783B5%7d_20140107114234",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R104_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140310131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/membership-events/evening-receptions/carpeaux-supporting-reception?eid=A001_%7b60301F85-6473-4C1C-8DAB-5D8B2E9406EE%7d_20140107151713",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R105_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140311131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/artn/hd_artn.htm",
+                "rel": "Art Nouveau"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/exot/hd_exot.htm",
+                "rel": "Exoticism in the Decorative Arts"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/cfurn/hd_cfurn.htm",
+                "rel": "French Furniture in the Eighteenth Century: Case Furniture"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/carp/hd_carp.htm",
+                "rel": "Jean\u2013Baptiste Carpeaux (1827\u20131875)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/lrro/hd_lrro.htm",
+                "rel": "Louis\u2013R\u00e9my Robert (1810\u20131882)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/sevr/hd_sevr.htm",
+                "rel": "S\u00e8vres Porcelain in the Nineteenth Century"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/empr/hd_empr.htm",
+                "rel": "Empire Style, 1800\u20131815"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/stpt/hd_stpt.htm",
+                "rel": "Saint Petersburg"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwf",
+                "rel": "France, 1800\u20131900 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/209070"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/209070"
+        }
+    },
+    "accession number": "1988.287.5",
+    "credit line": "Gift of Diane R. Wolf, 1988",
+    "culture": "French (S\u00e8vres)",
+    "date": "1900",
+    "department": "European Sculpture and Decorative Arts",
+    "dimensions": "H. 2 1/2 in. (6.3 cm.)",
+    "gallery-id": 556,
+    "id": 209070,
+    "image": "http://images.metmuseum.org/CRDImages/es/original/ES4406.jpg",
+    "medium": "Hard-paste porcelain",
+    "provenance": [
+        "Diane R. Wolf (until 1988; to MMA)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/es/original/ES4406.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/245826.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DT5984.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DT5985.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/ES4403.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/ES3481.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/ES3479.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/245827.jpg"
+    ],
+    "title": "Cup (part of a service)",
+    "what": [
+        "Ceramics",
+        "Clay",
+        "Faience",
+        "Porcelain",
+        "Drinking vessels",
+        "Cups",
+        "Hard paste porcelain"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France",
+        "S\u00e8vres"
+    ],
+    "who": [
+        "S\u00e8vres Manufactory",
+        "L\u00e9on Kann"
+    ]
+}

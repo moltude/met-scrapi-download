@@ -1,0 +1,128 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/312531"
+            },
+            {
+                "href": "http://scrapi.org/object/316476"
+            },
+            {
+                "href": "http://scrapi.org/object/316477"
+            },
+            {
+                "href": "http://scrapi.org/object/316479"
+            },
+            {
+                "href": "http://scrapi.org/object/316482"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From September 16, 2013",
+                "href": "/exhibitions/listings/2013/feathered-walls",
+                "rel": "Feathered Walls"
+            },
+            {
+                "date": "From October 8, 2013",
+                "href": "/exhibitions/listings/2013/nelson-rockefeller",
+                "rel": "The Nelson A. Rockefeller Vision"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/talks/gallery-talks/carving-the-divine?eid=A001_%7bB2441E1C-D104-4E44-8D85-BBABF91CD84C%7d_20140123135743",
+                "rel": "Carving the Divine: The Sculpture of Oceania"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R103_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140306130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=A115_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140210093011",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/talks/gallery-talks/ancient-american-sculpture?eid=A001_%7b7A6AA394-9359-47C1-87B4-65B0894C01AB%7d_20140123114645",
+                "rel": "Ancient American Sculpture"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R105_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140311130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R106_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140312130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R107_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140313130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 18, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/shaping-the-african-art-canon?eid=A001_%7b447041C4-D9E7-43A9-AE5F-85BAEB6E7196%7d_20140214113010",
+                "rel": "Shaping the African Art Canon: From the Museum to the Classroom"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/talks/the-observant-eye/shared-memory-sculptural-ancestral-objects-from-oceania?eid=A001_%7b94768B86-339F-4726-A3BC-8F798C423768%7d_20140123143856",
+                "rel": "Shared Memory: Sculptural Ancestral Objects from Oceania"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=A116_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140210093151",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=sfg",
+                "rel": "Guinea Coast, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/316475"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/316475"
+        }
+    },
+    "accession number": "1991.17.2",
+    "credit line": "Gift of Mr. and Mrs. Klaus G. Perls, 1991",
+    "culture": "Edo peoples",
+    "date": "18th century",
+    "department": "Arts of Africa, Oceania and the Americas",
+    "description": "The overall cylindrical shape, beaded collar covering the chin, and addition of bead clusters to the crown identify this Benin brass head as belonging to the eighteenth century. The crown, with its pattern of crisscrossed beads with junctures marked by a dot in the center, is characteristic of this period, as are the three raised marks above each eye which are called ikharo, believed to represent scarification marks. Men would usually have three, while women and foreigners would wear four. The pointed oval eyes are outlined with heavy stylized rims, which are not decorated with incisions like those of later examples. Additionally there is no wide-lipped flange at the base of the head, which became an integral component of nineteenth-century heads.",
+    "dimensions": "H. 13 1/8 x W. 9 3/8 x D. 10 3/8 in. (33.3 x 23.8 x 26.4 cm)",
+    "gallery-id": 352,
+    "id": 316475,
+    "image": "http://images.metmuseum.org/CRDImages/ao/original/DT5132.jpg",
+    "medium": "Brass, iron",
+    "provenance": [
+        "[W. D. Webster, London, acquired by 1900]",
+        "(Sotheby's, London, July 8, 1974, no. 83)",
+        "[Matthias Komor, New York]",
+        "Mr. and Mrs. Klaus G. Perls, New York, until 1991"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ao/original/DT5132.jpg",
+        "http://images.metmuseum.org/CRDImages/ao/original/DT6552.jpg"
+    ],
+    "title": "Head of an Oba",
+    "what": [
+        "Metal",
+        "Sculpture",
+        "Copper alloy",
+        "Iron and iron alloy",
+        "Iron",
+        "Brass"
+    ],
+    "where": [
+        "Africa",
+        "Nigeria"
+    ]
+}

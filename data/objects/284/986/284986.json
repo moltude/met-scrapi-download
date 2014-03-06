@@ -1,0 +1,122 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/285467"
+            },
+            {
+                "href": "http://scrapi.org/object/285473"
+            },
+            {
+                "href": "http://scrapi.org/object/285628"
+            },
+            {
+                "href": "http://scrapi.org/object/285791"
+            },
+            {
+                "href": "http://scrapi.org/object/285792"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/gray/hd_gray.htm",
+                "rel": "Gustave Le Gray (1820\u20131884)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/lrro/hd_lrro.htm",
+                "rel": "Louis\u2013R\u00e9my Robert (1810\u20131882)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/heli/hd_heli.htm",
+                "rel": "Mission H\u00e9liographique, 1851"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/nadr/hd_nadr.htm",
+                "rel": "Nadar (1820\u20131910)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/frph/hd_frph.htm",
+                "rel": "The Rise of Paper Photography in 1850s France"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwf",
+                "rel": "France, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/284986"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/284986"
+        }
+    },
+    "accession number": "2002.257",
+    "credit line": "Purchase, Alfred Stieglitz Society Gifts, 2002",
+    "date": "1866",
+    "department": "Photographs",
+    "description": "Though he was the most influential and renowned photographer in France, Le Gray's expenses had far outpaced his revenues by early 1860. Fleeing his creditors, he closed his Paris studio, abandoned his wife and children, and set off on what was meant to be a few months' cruise on the rivers of Asia aboard Alexandre Dumas's ship Emma. Dumas detoured to Palermo to join Garibaldi, then headed to Malta, where, following an argument, he abandoned Le Gray and two others.Le Gray and his companions made their way east to Cairo, where he set up a studio and enjoyed official commissions from the pasha of Egypt. This photograph is part of Le Gray's first commission, a series depicting a corps of military camels, some outfitted with artillery, soon to be dispatched to a campaign in the Sudan. Despite a subject matter radically different from any he had tackled before, the image is marked by the artist's eye for telling detail and grand sense of theatricality. Camel, soldier, and equipment are spread across the page, as if on stage before a painted backdrop, ready to take their places in an updated production of Aida.",
+    "dimensions": [
+        "Image 24.2 x 30.7 cm (9 1/2 x 12 1/16 in.)",
+        "Mount 37.7 x 43.4 cm (14 13/16 x 17 1/16 in.)"
+    ],
+    "id": 284986,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP212795.jpg",
+    "medium": "Albumen silver print from glass negative",
+    "provenance": [
+        "(Sold, Beaussant Lef\u00e8vre, Paris, December 13, 1995, lot 150)",
+        "[Robert Koch, Oakland, CA]",
+        "[Hans P. Kraus, Jr. Inc, October, 2000]"
+    ],
+    "title": "[Soldier and Military Camel]",
+    "what": [
+        "Photographs",
+        "Albumen silver prints"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Gustave Le Gray"
+}

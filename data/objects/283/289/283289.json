@@ -1,0 +1,99 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/286056"
+            },
+            {
+                "href": "http://scrapi.org/object/265543"
+            },
+            {
+                "href": "http://scrapi.org/object/265589"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=waa",
+                "rel": "Anatolia and the Caucasus, 1900 A.D.\u2013present"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=nc",
+                "rel": "Central and North Asia, 1900 A.D.\u2013present"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=eue",
+                "rel": "Eastern Europe and Scandinavia, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/283289"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/283289"
+        }
+    },
+    "accession number": "2005.100.151",
+    "credit line": "Gilman Collection, Purchase, Denise and Andrew Saul Gift, 2005",
+    "date": "1924\u201325",
+    "department": "Photographs",
+    "description": "Before the outbreak of World War I and his return to Russia, El (Lazar Mordukovich) Lissitzky studied architecture and engineering in Germany and traveled in Europe absorbing the new imagery of Cubism, Futurism, and Expressionism. In 1919 he began teaching in Vitebsk, where he worked closely with Kasemir Malevich. From this rich ground emerged his Proun paintings (1919-23), imaginary free-floating quasi-architectural constructions clearly informed by Suprematist and Constructivist principles.     One of Lissitzky's most famous works is a photographic self-portrait entitled \"The Constructor,\" which superimposes the artist's eye and his hand holding a compass onto graph paper, with the implication that the artist is a visionary engineer--a notion common among avant-garde artists of the 1910s and 1920s. This self-portrait was made during the same period as \"The Constructor\" and is similarly composed of multiple photographic and photogram elements. The portrait of Lissitzky wearing a bandage or surgical cap floats between the open branches of a photogrammed compass and above three circles labeled London, Paris, and Berlin. These symbols of urban life are also a photogram, made from a portion of Lissitzky's typographical design for Vladimir Mayakovsky's 1923 poem \"For the Voice.\" The shimmering strip superposed on his lips is illustrated in Lissitzky's 1925 essay, \"A[rt]. and Pangeometry.\" Rotated on an axle, the strip would produce the illusion of a circular disk, \"that is to say a new expression of space which is there for as long as the movement lasts and is therefore imaginary.\" The strip thus suggests potential movement and the new fluid imaginary space that Lissitzky thought necessary for a new art and which he successfully created in this image.       In 1924 Lissitzky went to Switzerland to recover from tuberculosis. Despite the fact that one lung had been removed, he was immensely productive during his recuperation. If this self-portrait reflects at once the vulnerability of the body and an uncompromising vision, it is perhaps because it is the image of a convalescing constructor of a brave new world.",
+    "dimensions": "Image 17.3 x 12.1 cm (6 13/16 x 4 3/4 in.)",
+    "id": 283289,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DT226483.jpg",
+    "medium": "Gelatin silver print",
+    "provenance": [
+        "Sophie Lissitzky-Kuppers (wife of the artist)",
+        "Jen Lissitzky (son of the artist)",
+        "[Barry Friedman, Ltd.]",
+        "Gilman Paper Company Collection, New York, March 19, 1991"
+    ],
+    "title": "[Self-Portrait]",
+    "what": [
+        "Photographs",
+        "Gelatin silver prints"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Asia",
+        "Russia"
+    ],
+    "who": "El Lissitzky"
+}

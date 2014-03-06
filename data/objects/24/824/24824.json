@@ -1,0 +1,127 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/22115"
+            },
+            {
+                "href": "http://scrapi.org/object/22383"
+            },
+            {
+                "href": "http://scrapi.org/object/21963"
+            },
+            {
+                "href": "http://scrapi.org/object/27802"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From October 2, 2012",
+                "href": "/exhibitions/listings/2012/arms-and-armor",
+                "rel": "Bashford Dean and the Creation of the Arms and Armor Department"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A083_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113541",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A074_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112917",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A084_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113556",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A093_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113923",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A075_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112932",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A094_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113938",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 5, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A085_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113610",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161351",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A076_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112951",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 19, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161305",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwc",
+                "rel": "Central Europe (including Germany), 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/24824"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/24824"
+        }
+    },
+    "accession number": "52.208.5",
+    "credit line": "Gift of Alan Rutherfurd Stuyvesant, 1952",
+    "culture": "Swiss, Zurich",
+    "date": "dated 1640",
+    "department": "Arms and Armor",
+    "description": "Werder was the most renowned Swiss gunsmith of the period. This pistol is notable for the lively figural plaques of silver on the stock and the delicate floral engraving on the lockplate.",
+    "dimensions": [
+        "Caliber, .50 in. (12.7 mm)",
+        "Weight, 2 lb. 4 oz. (1021 g)",
+        "Length, 24 3/8 in. (61.9 cm)",
+        "Length of barrel, 17 in. (43.18 cm)"
+    ],
+    "gallery-id": 375,
+    "id": 24824,
+    "image": "http://images.metmuseum.org/CRDImages/aa/original/sfrl52.208.5_154644.jpg",
+    "medium": "Engraved steel, gilt bronze, wood",
+    "title": "Wheellock pistol",
+    "what": [
+        "Metal",
+        "Engraving",
+        "Copper alloy",
+        "Bronze",
+        "Arms",
+        "Gilt",
+        "Iron and iron alloy",
+        "Iron alloy",
+        "Steel",
+        "Plate",
+        "Ormolu",
+        "Firearms",
+        "Small arms",
+        "Handguns",
+        "Pistols"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "Switzerland",
+        "Z\u00fcrich"
+    ],
+    "who": "Felix Werder"
+}

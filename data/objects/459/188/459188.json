@@ -1,0 +1,119 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/337770"
+            },
+            {
+                "href": "http://scrapi.org/object/341429"
+            },
+            {
+                "href": "http://scrapi.org/object/365731"
+            },
+            {
+                "href": "http://scrapi.org/object/341779"
+            },
+            {
+                "href": "http://scrapi.org/object/341775"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R128_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140306134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R129_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140307134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R130_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140310134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R131_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140311134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R132_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140312134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R133_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140313134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R134_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140314134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A109_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131126111651",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A115_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131127144444",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A110_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131126111706",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/459188"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/459188"
+        }
+    },
+    "accession number": "1975.1.553",
+    "credit line": "Robert Lehman Collection, 1975",
+    "date": "ca. 1557\u201358",
+    "department": "Robert Lehman Collection",
+    "description": "This drawing is a preparatory study for a ceiling fresco in the Frangipani Chapel in San Marcello al Corso, Rome, the decorations of which were executed by Taddeo Zuccaro between 1558 and 1566, the year of the artist's premature death. Typical of his graphic style is the animated, fluid contour line and the rich combination of media. The densely packed composition and the exaggeratedly posturing, broad-hipped figures exemplify the Mannerist style that dominated Roman painting in the second half of the sixteenth century and of which Taddeo was a leading proponent.",
+    "dimensions": [
+        "19 3/16 x 14 13/16 in.  (48.8 x 37.7 cm)",
+        "[two pieces joined]"
+    ],
+    "id": 459188,
+    "image": "http://images.metmuseum.org/CRDImages/rl/original/DT474.jpg",
+    "medium": "Pen and brown and gray ink, brown wash, over black chalk, heightened with white, on buff paper.",
+    "provenance": [
+        "Peter Lely, London, England",
+        "[P. & D. Colnaghi & Co., London, England]. Acquired by Robert Lehman from Colnaghi in 1960."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/rl/original/DT474.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/rl1975.1.553.R.jpg"
+    ],
+    "title": "The Martyrdom of Saint Paul",
+    "what": [
+        "Ink",
+        "Drawings",
+        "Paper",
+        "Chalk",
+        "Pen",
+        "Black chalk"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Taddeo Zuccaro"
+}

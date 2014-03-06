@@ -1,0 +1,115 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/461260"
+            },
+            {
+                "href": "http://scrapi.org/object/460356"
+            },
+            {
+                "href": "http://scrapi.org/object/460994"
+            },
+            {
+                "href": "http://scrapi.org/object/461462"
+            },
+            {
+                "href": "http://scrapi.org/object/460991"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R128_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140306134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R129_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140307134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R130_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140310134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R131_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140311134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R132_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140312134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R133_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140313134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R134_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140314134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A109_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131126111651",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A115_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131127144444",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A110_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131126111706",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/460980"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/460980"
+        }
+    },
+    "accession number": "1975.1.1332",
+    "credit line": "Robert Lehman Collection, 1975",
+    "date": "cast 16th century",
+    "department": "Robert Lehman Collection",
+    "dimensions": "6.5 x 20.5 cm.",
+    "id": 460980,
+    "image": "http://images.metmuseum.org/CRDImages/rl/original/1332_01.jpg",
+    "medium": "Copper alloy with warm brown patina and areas of a worn black patina on top.",
+    "provenance": [
+        "No. 134 (1975.1.1332): [Fr\u00e9d\u00e9ric Spitzer, Paris]",
+        "Spitzer sale, Paris, 17 April-16 June 1893, lot 1599 (apparently unsold), pl. XLIII",
+        "Spitzer sale, Anderson Galleries, New York, 9 January 1929, lot 272.  Acquired from the 1929 Spitzer sale."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/rl/original/1332_01.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/SLP1332_01.jpg"
+    ],
+    "title": "Centaurs and Nymphs",
+    "what": [
+        "Metal",
+        "Sculpture",
+        "Copper alloy",
+        "Copper",
+        "Plaquettes",
+        "Patina"
+    ],
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Severo Calzetta da Ravenna"
+}

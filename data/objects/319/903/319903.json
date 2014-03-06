@@ -1,0 +1,125 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/320636"
+            },
+            {
+                "href": "http://scrapi.org/object/320815"
+            },
+            {
+                "href": "http://scrapi.org/object/310768"
+            },
+            {
+                "href": "http://scrapi.org/object/310769"
+            },
+            {
+                "href": "http://scrapi.org/object/636840"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From September 16, 2013",
+                "href": "/exhibitions/listings/2013/feathered-walls",
+                "rel": "Feathered Walls"
+            },
+            {
+                "date": "From October 8, 2013",
+                "href": "/exhibitions/listings/2013/nelson-rockefeller",
+                "rel": "The Nelson A. Rockefeller Vision"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R103_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140306130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=A115_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140210093011",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/talks/gallery-talks/ancient-american-sculpture?eid=A001_%7b7A6AA394-9359-47C1-87B4-65B0894C01AB%7d_20140123114645",
+                "rel": "Ancient American Sculpture"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R105_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140311130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R106_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140312130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R107_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140313130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 18, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/shaping-the-african-art-canon?eid=A001_%7b447041C4-D9E7-43A9-AE5F-85BAEB6E7196%7d_20140214113010",
+                "rel": "Shaping the African Art Canon: From the Museum to the Classroom"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/talks/the-observant-eye/shared-memory-sculptural-ancestral-objects-from-oceania?eid=A001_%7b94768B86-339F-4726-A3BC-8F798C423768%7d_20140123143856",
+                "rel": "Shared Memory: Sculptural Ancestral Objects from Oceania"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=A116_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140210093151",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/talks/gallery-talks/ancient-american-sculpture?eid=A002_%7b7A6AA394-9359-47C1-87B4-65B0894C01AB%7d_20140123114700",
+                "rel": "Ancient American Sculpture"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=sfe",
+                "rel": "Eastern Africa, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/319903"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/319903"
+        }
+    },
+    "accession number": "2007.186",
+    "credit line": "Purchase, The Fred and Rita Richman Foundation Gift, 2007",
+    "culture": "Tutsi peoples",
+    "date": "ca. 1940",
+    "department": "Arts of Africa, Oceania and the Americas",
+    "description": "In Rwanda and neighboring Burundi, woven basketry receptacles and architectural elements constituted a major form of artistic expression. Historically privileged Tutsi women were the major practitioners of this regional tradition of \"basketry tapestries.\" Known as \"inyeqamo,\" such woven screens formerly enhanced the domestic interiors of wealthy Tutsi, where they were used as mural decorations and room dividers. This panel is divided into two vertical fields of black design on a natural golden brown background. The left side is filled with a triangular motif that is repeated in eight superimposed bands. The right side is a field of alternating rectangles that resembles a checkerboard. The juxtaposition of these two classic design schemes in a single panel enhances the liveliness of the composition.",
+    "dimensions": "H. 41 x W. 26 in. (104.1 x 66 cm)",
+    "id": 319903,
+    "image": "http://images.metmuseum.org/CRDImages/ao/original/DP221538.jpg",
+    "medium": "Fiber",
+    "provenance": [
+        "Collected by a Tutsi woman in Rwanda's southern province",
+        "[Bryan Reeves, London, 2003\u20132007]"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ao/original/DP221538.jpg",
+        "http://images.metmuseum.org/CRDImages/ao/original/2007.186_h.jpg"
+    ],
+    "title": "Screen (Inyeqamo)",
+    "what": [
+        "Textiles",
+        "Woven",
+        "Furniture",
+        "Screens"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Africa",
+        "Rwanda"
+    ],
+    "who": "Tutsi"
+}

@@ -1,0 +1,98 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/286490"
+            },
+            {
+                "href": "http://scrapi.org/object/286610"
+            },
+            {
+                "href": "http://scrapi.org/object/285703"
+            },
+            {
+                "href": "http://scrapi.org/object/265820"
+            },
+            {
+                "href": "http://scrapi.org/object/265821"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/hopp/hd_hopp.htm",
+                "rel": "Edward Hopper (1882\u20131967)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/265447"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/265447"
+        }
+    },
+    "accession number": "1987.1100.384",
+    "credit line": "Ford Motor Company Collection, Gift of Ford Motor Company and John C. Waddell, 1987",
+    "date": "1936",
+    "department": "Photographs",
+    "description": "In 1929, after eight years in Paris, Abbott returned to America, bringing with her an immense collection of photographs by Eug\u00e8ne Atget and the ideas of European modernist photographers.  Her first pictures of New York show the modernist influence in the sharply angled viewpoints and tendency toward abstraction.  By the mid-1930s, however, Atget emerged as the stronger influence, as Abbott's style became more straightforward and documentary.In 1935 Abbott embarked on a series documenting New York funded by the Federal Art Project, and during the next four years she made hundreds of images of the city's monuments and architecture.  Ninety-seven of these, including \"Fifth Avenue, Nos. 4, 6, 8,\" were published in \"Changing New York\" (1939).  The caption for this picture informs us that \"No. 8 was once the home of the art collection which formed a part of the original Metropolitan Museum of Art.\"",
+    "dimensions": "19.2 x 24.4 cm (7 9/16  x 9 5/8  in.)",
+    "id": 265447,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP134051.jpg",
+    "medium": "Gelatin silver print",
+    "provenance": [
+        "[Robert Miller Gallery, New York]",
+        "John C. Waddell (May 16, 1985)"
+    ],
+    "title": "Fifth Avenue, Nos. 4, 6, 8",
+    "what": [
+        "Photographs",
+        "Gelatin silver prints"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "Berenice Abbott"
+}

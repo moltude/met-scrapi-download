@@ -1,0 +1,173 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/39735"
+            },
+            {
+                "href": "http://scrapi.org/object/39736"
+            },
+            {
+                "href": "http://scrapi.org/object/39828"
+            },
+            {
+                "href": "http://scrapi.org/object/64392"
+            },
+            {
+                "href": "http://scrapi.org/object/64393"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 8, 2014",
+                "href": "/exhibitions/listings/2014/tibet-and-india",
+                "rel": "Tibet and India"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/chinese-carving",
+                "rel": "Colors of the Universe"
+            },
+            {
+                "date": "From July 19, 2013",
+                "href": "/exhibitions/listings/2013/chinese-snuff-bottles",
+                "rel": "Small Delights"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/ink-art",
+                "rel": "Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "From February 1, 2014",
+                "href": "/exhibitions/listings/2014/edo-period-painting",
+                "rel": "The Flowering of Edo Period Painting"
+            },
+            {
+                "date": "From April 14, 2014",
+                "href": "/exhibitions/listings/2014/lost-kingdoms",
+                "rel": "Lost Kingdoms"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R103_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140306120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/collecting-and-intepreting-at-the-met?eid=A001_%7b6A0B3958-68AC-4F22-BB73-D898FB894401%7d_20140127111701",
+                "rel": "Fellows Colloquium\u2014Collecting and Interpreting at the Met"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R103_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140307111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R104_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140307120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R103_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140307131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/reimagining-the-indian-and-tibetan?eid=A001_%7b1CC0F050-77BD-4961-8CAE-AB84C1C7437E%7d_20140210162127",
+                "rel": "Friday Focus\u2014Reimagining the Indian and Tibetan Buddhist Traditions: A Conversation"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/talks/gallery-talks/viewing-japanese-art-through-the-eyes?eid=A002_%7b571216BC-D5E9-4F1A-8F13-0049B30D5F0F%7d_20140124100414",
+                "rel": "Viewing Japanese Art through the Eyes of PixCell-Deer#24"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/talks/gallery-talks/chinese-buddhist-sculpture?eid=A001_%7b539805A7-4AAC-4214-A063-93083E921332%7d_20140123142801",
+                "rel": "Chinese Buddhist Sculpture"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R104_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140310111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R104_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140310131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=07\u00aeion=nc",
+                "rel": "Central and North Asia, 1000\u20131400 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=07\u00aeion=eac",
+                "rel": "China, 1000\u20131400 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/39712"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/39712"
+        }
+    },
+    "accession number": "1997.380",
+    "credit line": "Purchase, The Vincent Astor Foundation Gift, 1997",
+    "culture": "China",
+    "date": "ca. 14th century",
+    "department": "Asian Art",
+    "description": "This patchwork panel comprises various silk textiles, mostly satins and damasks, exquisitely embroidered with the motifs of flowers, fruit, and the occasional butterfly in a technique called needle looping. Worked in silk over gilt paper, the technique allows the luminous gold to show where loops are intentionally skipped. The patches in this Chinese example seem to have been constructed and embroidered as self-contained units that were stitched together to form a larger panel. By contrast, Korean patchwork cloths are usually fashioned from fragments of unadorned, rather than embroidered fabrics, though there are non-patchwork bojagi fashioned from a single cloth with embroidered decoration. This textile was probably used in a Buddhist context but its precise function is unknown. A comparable example, traditionally associated with the Chinese monk Wuxue Zuyuan (1226\u20131286), resides in the collection of the Buddhist temple Ekaku-ji in Kamakura, Japan.",
+    "dimensions": "Overall 58 7/8 x 25 1/4 in. (149.5 x 64.1 cm)",
+    "id": 39712,
+    "image": "http://images.metmuseum.org/CRDImages/as/original/ASA95.jpg",
+    "medium": "Silk and gilt paper",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/as/original/ASA95.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/263342.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/263342_1997.380.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/263343_1997.380.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/263344_1997.380.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/263345_1997.380.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/263346_1997.380.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/263347_1997.380.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/263348_1997.380.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/263349_1997.380.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/263350_1997.380.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/263351_1997.380.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/263352_1997.380.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/263353_1997.380.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/ASA186_1997.380.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/ASA187_1997.380.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/263343.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/263344.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/263345.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/263346.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/263347.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/263348.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/263349.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/263350.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/263351.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/263352.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/263353.jpg"
+    ],
+    "title": "Embroidered Patchwork Panel\r\n\r\n",
+    "what": [
+        "Silk",
+        "Textiles",
+        "Paper",
+        "Needlework",
+        "Gilt",
+        "Embroidery",
+        "Panels"
+    ],
+    "when": "A.D. 1000-1400",
+    "where": [
+        "Asia",
+        "China"
+    ]
+}

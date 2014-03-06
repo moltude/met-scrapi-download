@@ -1,0 +1,115 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/324696"
+            },
+            {
+                "href": "http://scrapi.org/object/324700"
+            },
+            {
+                "href": "http://scrapi.org/object/324685"
+            },
+            {
+                "href": "http://scrapi.org/object/324686"
+            },
+            {
+                "href": "http://scrapi.org/object/324687"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R102_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140306121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R103_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140307121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R104_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140310121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R105_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140312121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R106_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140313121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R107_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140314121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R116_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140331121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R117_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140402121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=04\u00aeion=wae",
+                "rel": "The Eastern Mediterranean, 1000 B.C.\u20131 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/324695"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/324695"
+        }
+    },
+    "accession number": "57.80.12",
+    "credit line": "Fletcher Fund, 1957",
+    "culture": "Assyrian",
+    "date": "ca. 9th\u20138th century B.C.",
+    "department": "Ancient Near Eastern Art",
+    "description": "A group of ivories that once decorated ancient furniture was said to have been found at Arslan Tash (ancient Hadatu), a Neo-Assyrian military outpost on the Euphrates River. A large eighth-century B.C. building was subsequently excavated there. The ivories are similar to those found at Nimrud in the Assyrian heartland in northern Mesopotamia, some of which were brought there as tribute or booty.This particular example is carved in Phoenician style, which borrows motifs from Egyptian art and often includes glass inlays like the one on the window here. The motif of a female face peering out of a window is a common one and often has a decorative balustrade or railing composed of Proto-Aeolic colonettes with volute capitals\u2014a type known from monumental architecture in the Levant. The figure wears an Egyptian-style wig and an elaborate ornament with pendants in her hair above her forehead. An actual example of this type of jewelry, made of gold and inlaid with precious stones, was found buried with a royal female figure of the Assyrian court at Nimrud.",
+    "dimensions": "H. 2 1/2 x W. 1 3/4 x Th. 1/2 in. (6.4 x 4.5 x 1.2 cm)",
+    "gallery-id": 406,
+    "id": 324695,
+    "image": "http://images.metmuseum.org/CRDImages/an/original/DP110612.jpg",
+    "medium": "Ivory, glass",
+    "provenance": [
+        "Acquired by the Museum in 1957, purchased from Elie Borowski, New York."
+    ],
+    "title": "Furniture fragment with the \"woman at the window\"",
+    "what": [
+        "Sculpture",
+        "Glass",
+        "Fragments",
+        "Furniture",
+        "Bone",
+        "Ivory",
+        "Reliefs"
+    ],
+    "when": "1000 B.C.-A.D. 1",
+    "where": [
+        "Asia",
+        "Syria",
+        "Arslan Tash"
+    ],
+    "who": "Assyrian"
+}

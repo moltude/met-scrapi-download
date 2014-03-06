@@ -1,0 +1,141 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/447050"
+            },
+            {
+                "href": "http://scrapi.org/object/447051"
+            },
+            {
+                "href": "http://scrapi.org/object/447297"
+            },
+            {
+                "href": "http://scrapi.org/object/447298"
+            },
+            {
+                "href": "http://scrapi.org/object/447299"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R128_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140306141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R129_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140307141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A249_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114331",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A250_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114353",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world-french?eid=R026_%7b85906EA1-CA66-4610-A52C-39562E1A4C40%7d_20140310133000",
+                "rel": "Arts du monde Islamique (Arts of the Islamic World in French)"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R130_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140310141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=ssa",
+                "rel": "South Asia, 1400\u20131600 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=ssa",
+                "rel": "South Asia, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/454358"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/454358"
+        }
+    },
+    "accession number": "2002.505",
+    "credit line": "Cynthia Hazen Polsky and Leon B. Polsky Fund, 2002",
+    "culture": "Islamic",
+    "date": "ca. 1605",
+    "department": "Islamic Art",
+    "description": "The page comes from a copy of the Ramayana probably made for the Mughal courtier Bir Singh Deo of Datia. Inspired by fifteenth-century Indian and Persian painting, this folio is unique from the others in this manuscript. The array of demon courtiers attending the ten-headed demon-king Ravana come right out of Safavid paintings of divs, while the ornament of the pavilion resembles the Persian tile decoration found in paintings from Shiraz.",
+    "dimensions": [
+        "Painting  H. 10 7/8 in. (27.6 cm)",
+        "W. 7 7/16 in. (18.9 cm)",
+        "Page H. 10 7/8 in. (27.6 cm)",
+        "W. 7 7/16 in. (18.9 cm)",
+        "Mat  H. 19 1/4 in. (48.9 cm)",
+        "W. 14 1/4 in. (36.2 cm)"
+    ],
+    "id": 454358,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/DP107192.jpg",
+    "medium": "Opaque watercolor and gold on paper",
+    "provenance": [
+        "Datia Royal Collection, India",
+        "Private collection, Calcutta (from 1947)",
+        "Private collection, Europe",
+        "[ Terence McInerney, until 2002",
+        "sold to MMA]"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/DP107192.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/sf2002-505a.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/2002_505_B.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/2002_505_F.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/sf2002-505b.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP103081.jpg"
+    ],
+    "title": "\"The Court of Ravana\", Folio from a Ramayana",
+    "what": [
+        "Metal",
+        "Paper",
+        "Gold",
+        "Watercolors",
+        "Manuscripts",
+        "Codices",
+        "Folios",
+        "Illuminated manuscripts"
+    ],
+    "where": [
+        "Asia",
+        "India"
+    ]
+}

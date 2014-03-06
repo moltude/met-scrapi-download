@@ -1,0 +1,128 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/476321"
+            },
+            {
+                "href": "http://scrapi.org/object/479495"
+            },
+            {
+                "href": "http://scrapi.org/object/468230"
+            },
+            {
+                "href": "http://scrapi.org/object/468232"
+            },
+            {
+                "href": "http://scrapi.org/object/468233"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 25, 2014",
+                "href": "/exhibitions/listings/2014/canterbury-stained-glass",
+                "rel": "Radiant Light"
+            },
+            {
+                "date": "From August 6, 2013",
+                "href": "/exhibitions/listings/2013/design-motifs-in-byzantine-art",
+                "rel": "Design Motifs in Byzantine Art"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R103_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140306104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R006_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140306150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/collecting-and-intepreting-at-the-met?eid=A001_%7b6A0B3958-68AC-4F22-BB73-D898FB894401%7d_20140127111701",
+                "rel": "Fellows Colloquium\u2014Collecting and Interpreting at the Met"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R104_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140307104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/events-at-the-cloisters/conversations-with-curators-and-conservators/cloisters-husband?eid=A003_%7bC1BD832B-922C-49E2-8732-B9CE70E617F2%7d_20140113162804",
+                "rel": "Conversation with a Curator at The Cloisters"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R007_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140307150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/ancestors-of-christ?eid=A001_%7b64F28017-6AB0-4B00-864F-E5676EE07585%7d_20140113142350",
+                "rel": "The Ancestors of Christ: Stained Glass Windows from Canterbury Cathedral"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/ancestors-of-christ?eid=A002_%7b64F28017-6AB0-4B00-864F-E5676EE07585%7d_20140113142402",
+                "rel": "The Ancestors of Christ: Stained Glass Windows from Canterbury Cathedral"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R008_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140309150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R009_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140310150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=07\u00aeion=euwl",
+                "rel": "Low Countries, 1000\u20131400 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=euwl",
+                "rel": "Low Countries, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/467528"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/467528"
+        }
+    },
+    "accession number": "32.130.3a, b",
+    "credit line": "Munsey Fund, 1932",
+    "culture": "South Netherlandish",
+    "date": "ca. 1400",
+    "department": "The Cloisters",
+    "dimensions": [
+        "Overall (King Arthur (2a, f)) 168 \u00d7 117 in. (426.7 \u00d7 297.2 cm)",
+        "Overall (Hebrew Worthies (2b, c, and h)) 168 \u00d7 250 in. (426.7 \u00d7 635 cm)"
+    ],
+    "gallery-id": 18,
+    "id": 467528,
+    "image": "http://images.metmuseum.org/CRDImages/cl/original/DP118004.jpg",
+    "medium": "Wool warp, wool wefts",
+    "provenance": [
+        "[ Joel Joseph Duveen , London]",
+        "Maurice Chabri\u00e8res-Arl\u00e8s , Lyon and Paris (by 1877)",
+        "[ Duveen Brothers , London, Paris and New York (from late 1915)]",
+        "[ Clarence H. Mackay , Roslyn, NY (1924\u2013sold 1932) ]"
+    ],
+    "title": "King Arthur and Two Attendants (from the Nine Heroes Tapestries)",
+    "what": [
+        "Textiles",
+        "Wool",
+        "Tapestries"
+    ],
+    "where": [
+        "Europe",
+        "Netherlands"
+    ]
+}

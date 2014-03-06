@@ -1,0 +1,111 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/461127"
+            },
+            {
+                "href": "http://scrapi.org/object/461298"
+            },
+            {
+                "href": "http://scrapi.org/object/461353"
+            },
+            {
+                "href": "http://scrapi.org/object/461448"
+            },
+            {
+                "href": "http://scrapi.org/object/459129"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R125_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140303134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R126_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140304134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R127_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140305134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R128_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140306134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R129_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140307134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R130_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140310134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R131_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140311134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R132_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140312134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R133_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140313134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R134_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140314134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/459133"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/459133"
+        }
+    },
+    "accession number": "1975.1.9",
+    "credit line": "Robert Lehman Collection, 1975",
+    "date": "ca. 1340-43",
+    "department": "Robert Lehman Collection",
+    "dimensions": "Overall, with engaged frame, 26 1/8 x 18 3/8 in. (66.4 x 46.7 cm); painted surface, including tooled border, 21 3/8 x 15 in. (54.3 x 38.1 cm)",
+    "id": 459133,
+    "medium": "Tempera on wood, gold ground",
+    "provenance": [
+        "The three panels belonged until 1819 to Fauris de Saint Vincens, Aix-en-Provence.  After his death two, and possibly all three, panels were acquired for the Mus\u00e9e de la Ville d'Aix.  Only two are catalogued there in 1851, and the present panel appeared in 1853 at the sale of the estate of M. Cl\u00e9rian, director of the \u00c9cole de Dessin at Aix (sale, Simonet, Paris, March 14-16, 1853, no. 28, as Giotto).  It passed to the collection of the painter Jean-L\u00e9on G\u00e9r\u00f4me (d. 1904) in Paris.  Purchased by Philip Lehman from Gimpel and Wildenstein, Paris, in February 1916."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/rl/original/DT3005.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/0684.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/ep1975.1.9.bw.R.jpg"
+    ],
+    "title": "The Adoration of the Magi",
+    "what": [
+        "Metal",
+        "Gold",
+        "Paintings",
+        "Tempera"
+    ],
+    "when": "A.D. 1000-1400",
+    "who": [
+        "Italian (Neapolitan School), mid-14th century",
+        "Italian, Neapolitan Follower of Giotto"
+    ]
+}

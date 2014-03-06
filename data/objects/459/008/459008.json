@@ -1,0 +1,115 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/461128"
+            },
+            {
+                "href": "http://scrapi.org/object/459007"
+            },
+            {
+                "href": "http://scrapi.org/object/436911"
+            },
+            {
+                "href": "http://scrapi.org/object/436912"
+            },
+            {
+                "href": "http://scrapi.org/object/436913"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R125_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140303134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R126_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140304134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R127_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140305134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R128_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140306134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R129_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140307134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R130_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140310134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R131_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140311134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R132_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140312134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R133_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140313134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R134_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140314134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/459008"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/459008"
+        }
+    },
+    "accession number": "1975.1.67",
+    "credit line": "Robert Lehman Collection, 1975",
+    "date": "ca. 1406",
+    "department": "Robert Lehman Collection",
+    "dimensions": "Overall, including gable, 33 5/8 x 14 1/2 in. (85.4 x 36.8 cm)",
+    "gallery-id": 952,
+    "id": 459008,
+    "image": "http://images.metmuseum.org/CRDImages/rl/original/DT3047.jpg",
+    "medium": "Tempera on wood, gold ground",
+    "provenance": [
+        "Bardini, Florence (Catalogue of ... Pictures and other Works of Art..the Property of Signor Stephano Bardini of Florence), Christie's, London, May 30, 1902, no. 627, as Spinello Aretino",
+        "bt. Frank Loeser, florence.  Acquired by Robert Lehman in 1958."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/rl/original/DT3047.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/0062.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/ep1975.1.67.bw.R.jpg"
+    ],
+    "title": "The Crucified Christ between the Virgin and Saint John the Evangelist",
+    "what": [
+        "Metal",
+        "Gold",
+        "Paintings",
+        "Tempera"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Lorenzo Monaco (Piero di Giovanni)"
+}

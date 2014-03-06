@@ -1,0 +1,94 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/266031"
+            },
+            {
+                "href": "http://scrapi.org/object/266170"
+            },
+            {
+                "href": "http://scrapi.org/object/266746"
+            },
+            {
+                "href": "http://scrapi.org/object/266762"
+            },
+            {
+                "href": "http://scrapi.org/object/267089"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/284692"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/284692"
+        }
+    },
+    "accession number": "2001.387",
+    "credit line": "Purchase, Jennifer and Joseph Duke Gift, 2001",
+    "date": "1960, printed 1970s",
+    "department": "Photographs",
+    "description": "One of the most prolific photographers of the twentieth century, Winogrand made a career studying what he called \"the effect of media on events.\" With unrivaled passion, he photographed rallies, press conferences, sporting events, funerals, parades, award ceremonies, and museum openings. Here the subject is John F. Kennedy speaking at the 1960 Democratic National Convention in Los Angeles to an ersatz audience of cameramen rather than conventioneers. Seen from behind, Kennedy shares the stage with an electronic doppelg\u00e4nger-a small, closed-circuit television set broadcasting his speech, presumably for the benefit of backstage journalists. It is only on TV that we see his face-an irony not lost on Winogrand, whose brilliant analysis of public rituals focused on the ubiquity of television in American society in the 1960s.",
+    "dimensions": "46.8 x 31.4 cm (18 7/16 x 12 3/8 in. )",
+    "id": 284692,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/270882.jpg",
+    "medium": "Gelatin silver print",
+    "provenance": [
+        "Estate of Garry Winogrand",
+        "[Jeffrey Fraenkel Gallery, San Francisco]",
+        "[Pace/MacGill Gallery, New York]"
+    ],
+    "title": "Democratic National Convention, Los Angeles",
+    "what": [
+        "Photographs",
+        "Gelatin silver prints"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "Garry Winogrand"
+}

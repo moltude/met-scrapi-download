@@ -1,0 +1,104 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/247467"
+            },
+            {
+                "href": "http://scrapi.org/object/247468"
+            },
+            {
+                "href": "http://scrapi.org/object/247469"
+            },
+            {
+                "href": "http://scrapi.org/object/248667"
+            },
+            {
+                "href": "http://scrapi.org/object/248668"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R102_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140306123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R026_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140306130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R103_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140307123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A146_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142808",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R104_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140310123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R105_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140311123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R106_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140313123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R027_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140313130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R107_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140314123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/conversations-with-curators-and-conservators/terracotta-column-krater?eid=A001_%7b1CC4797D-7295-4614-9ACD-19C00BA693F4%7d_20140204162630",
+                "rel": "Conversation with a Curator\u2014Terracotta Column-Krater"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=05\u00aeion=eust",
+                "rel": "Italian Peninsula, 1\u2013500A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/256698"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/256698"
+        }
+    },
+    "accession number": "X.21.154",
+    "credit line": "Museum Accession",
+    "culture": "Roman, Syrian",
+    "date": "5th\u20136th century A.D.",
+    "department": "Greek and Roman Art",
+    "description": "Translucent blue green; handles and trails in same color.Thick rim folded out, over, and in, flattened on top; tall, slightly concave neck, with tooling indent around base; sloping shoulder; side tapering downwards and curving in to low, conical pedestal; tubular base with rounded edge, made by folding; kick in bottom with circular pontil scar; four rod handles applied in claw pads over trail decoration to middle of neck, drawn out, turned down vertically, and trailed off on top edge of body; four trails attached to handles at point where they bend down, drawn across from left to right in a large upward loop, and applied to top of next handle.Single trail applied in a small pad near base of neck, drawn up and wound round in a spiral 27 times, ending at rim.Intact; some bubbles in handles; dulling, limy encrustation, and small patches of iridescent weathering.",
+    "dimensions": "H. 7 5/8 in. (19.4 cm)",
+    "gallery-id": 171,
+    "id": 256698,
+    "image": "http://images.metmuseum.org/CRDImages/gr/original/DP108369.jpg",
+    "medium": "Glass; blown, trailed, and tooled",
+    "title": "Glass bottle with elaborate looped handles",
+    "what": [
+        "Vessels",
+        "Glass",
+        "Bottles"
+    ],
+    "where": [
+        "Roman Empire"
+    ]
+}

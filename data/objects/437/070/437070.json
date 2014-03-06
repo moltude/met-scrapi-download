@@ -1,0 +1,146 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/437071"
+            },
+            {
+                "href": "http://scrapi.org/object/437072"
+            },
+            {
+                "href": "http://scrapi.org/object/437073"
+            },
+            {
+                "href": "http://scrapi.org/object/347497"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/piero-della-francesca",
+                "rel": "Piero della Francesca"
+            },
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "From April 22, 2014",
+                "href": "/exhibitions/listings/2014/goya",
+                "rel": "Goya and the Altamira Family"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/talks/gallery-talks/piero-della-francesca?eid=A001_%7bE50FD455-5FC1-41D0-9391-C456264363EF%7d_20140206160624",
+                "rel": "Exhibition Tour\u2014Piero della Francesca: Personal Encounters"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=A257_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20131127123002",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/monday-at-the-met-spring-2014?eid=R001_%7bBB2BF277-3666-435E-8B95-12CDE21533EA%7d_20140303100000",
+                "rel": "Monday at the Met with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R100_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140303123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R101_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140304123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R102_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140305123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R026_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140306140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R103_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140307123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/talks/the-observant-eye/stepping-out-of-the-frame?eid=A001_%7b438572AD-6B0F-4DA2-94FB-49B8931634C1%7d_20140123142901",
+                "rel": "Stepping Out of the Frame: Three-Dimensionality in the New Galleries for European Paintings"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/saturday-seminar-spring-2014?eid=R001_%7bE063A39F-FC40-4ECC-B690-C4C13F70B2A0%7d_20140308103000",
+                "rel": "Saturday Seminar with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/isca/hd_isca.htm",
+                "rel": "Islamic Carpets in European Paintings"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwl",
+                "rel": "Low Countries, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/437070"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/437070"
+        }
+    },
+    "accession number": "91.26.11",
+    "credit line": "Marquand Collection, Gift of Henry G. Marquand, 1890",
+    "date": "1659",
+    "department": "European Paintings",
+    "dimensions": "24 1/2 x 21 3/8 in. (62.2 x 54.3 cm)",
+    "gallery-id": 633,
+    "id": 437070,
+    "image": "http://images.metmuseum.org/CRDImages/ep/original/DP145948.jpg",
+    "medium": "Oil on canvas",
+    "provenance": [
+        "?marquis de Voyer, Paris (in 1754)",
+        "Elizabeth Valckenier-Hooft, Amsterdam (until 1796; her sale, Amsterdam, August 31, 1796, no. 25, for fl. 1,005 to Fouquet)",
+        "Coquilery (sold for Fr 7,200 to Dulac)",
+        "[Dulac",
+        "sold for Fr 10,000 to Robit]",
+        "Robit, Paris (until 1801; his sale, Paillet and Delaroche, Paris, May 11, 1801, no. 69, for Fr 4,500 to Delaroche)",
+        "[Hypolite Delaroche and Alexandre Paillet, Paris, 1801\u2013at least 1803",
+        "their sale, Delaroche and Paillet, Paris, April 18\u201325, 1803, no. 368, as \"Un sujet de Concert,\" bought in]",
+        "sale [not held], Paris, June 26ff., [1809?], no. 29",
+        "sale, Paillet, Paris, March 14, 1810, no. 8",
+        "[John Smith, London, until 1825",
+        "sold for 400 gns. (\u00a3420) to Zachary]",
+        "M. M. Zachary, London (1825\u2013at least 1828; his sale, Phillips, London, May 31, 1828, no. 45, as \"The Interior of an Apartment, with the Portraits of the Artist and his Wife, and Jan Stein [sic],\" for 500 gns. [\u00a3525] to Norton, bought in)",
+        "Frederick Perkins, Chipstead Place, Seven Oaks, Kent (by 1832\u201390; his estate sale [not held], Galerie Georges Petit, Paris, June 3, 1889, no. 9; his estate sale, Christie's, London, June 14, 1890, no. 9, for \u00a3609 to Colnaghi)",
+        "[Martin Colnaghi, London, 1890",
+        "sold to Marquand on October 20]",
+        "Henry G. Marquand, New York (1890)"
+    ],
+    "title": "A Musical Party",
+    "what": [
+        "Paintings",
+        "Canvas",
+        "Oil paint"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "Netherlands"
+    ],
+    "who": "Gabri\u00ebl Metsu"
+}

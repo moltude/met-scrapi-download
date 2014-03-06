@@ -1,0 +1,128 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/459027"
+            },
+            {
+                "href": "http://scrapi.org/object/436769"
+            },
+            {
+                "href": "http://scrapi.org/object/459015"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R125_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140303134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R126_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140304134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R127_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140305134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R128_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140306134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R129_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140307134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R130_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140310134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R131_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140311134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R132_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140312134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R133_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140313134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R134_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140314134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/459028"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/459028"
+        }
+    },
+    "accession number": "1975.1.86",
+    "credit line": "Robert Lehman Collection, 1975",
+    "date": "ca. 1485-95",
+    "department": "Robert Lehman Collection",
+    "description": "This exquisite and enigmatic portrait and its pendant (1975.1.85) are most likely the works by the Venetian painter and illuminator Jacometto, recorded by the connoisseur Marcantonio Michiel in the collection of a Venetian patrician in 1543. Michiel, who praised them as \"a most perfect work,\" identified the man as Alvise Contarini and the woman as a \"nun of San Secondo\" (a Benedictine convent in Venice). The paired portraits and the allusion to fidelity on the verso of the male effigy (a roebuck chained beneath the Greek word AIEI, meaning \u201cforever\u201d) would normally suggest a married couple; however, her possible status as a nun makes it difficult to determine their relationship. If the garment is a habit, which seems doubtful given her bare shoulders, she may have led a secular life as a nun or entered the convent as a widow. The portrait may have been commissioned platonically (such cases are known). Alternatively, the wimple-like headdress may represent an entirely secular and contemporary fashion trend. Perhaps the portraits, which probably fit together in a boxlike frame, were designed to hide their clandestine relationship.Illustrating the influence of Netherlandish painting on Venetian portraiture, the portraits are striking for their meticulous detail, highly refined technique, and luminous, atmospheric landscape backgrounds.",
+    "dimensions": "Overall 4 5/8 x 3 3/8 in. ; recto, painted surface 4 1/8 x 3 1/8 in.; verso, painted surface 4 3/8 x 3 1/8 in.",
+    "gallery-id": 953,
+    "id": 459028,
+    "image": "http://images.metmuseum.org/CRDImages/rl/original/DP221485.jpg",
+    "medium": "Oil on wood; verso oil and gold on wood",
+    "provenance": [
+        "Possibly Michele Contarini (1543)",
+        "probably Gabriele Vendramin (1565)",
+        "F\u00fcrstlich Liechtensteinische Gem\u00e4ldegalerie, Vienna, Austria, 1863 (cat. 1873, no. 1081 [as Antonello da Messina]; cat. 1885, no. 734 [as Antonello da Messina])",
+        "Wildenstein, New York from 1961.  Acquired by Robert Lehman in November 1967."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/rl/original/DP221485.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/0345.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/rl1975.1.86.AV1.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/rl1975.1.86 .R.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/DT3060.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/DT748.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/DP161205.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/DP161206.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/216_50N.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/217R3_50N.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/218R2M_50N.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/24r1_50B.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/55R2_50D.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/ep1975.1.86.v.bw.R.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/ep1975.1.86.r.bw.R.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/DP221486.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/DT221865.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/174a verso DP221486.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/174a.jpg"
+    ],
+    "title": "Portrait of Alvise Contarini(?); (verso) A Tethered Roebuck",
+    "what": [
+        "Metal",
+        "Gold",
+        "Paintings",
+        "Oil paintings"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Jacometto (Jacometto Veneziano)"
+}

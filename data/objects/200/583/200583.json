@@ -1,0 +1,156 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/204890"
+            },
+            {
+                "href": "http://scrapi.org/object/204870"
+            },
+            {
+                "href": "http://scrapi.org/object/204872"
+            },
+            {
+                "href": "http://scrapi.org/object/204912"
+            },
+            {
+                "href": "http://scrapi.org/object/204915"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 3, 2014",
+                "href": "/exhibitions/listings/2014/william-morris",
+                "rel": "William Morris"
+            },
+            {
+                "date": "From November 22, 2011",
+                "href": "/exhibitions/listings/2011/faberge",
+                "rel": "Faberg\u00e9 from the Matilda Geddings Gray Foundation Collection"
+            },
+            {
+                "date": "From February 4, 2014",
+                "href": "/exhibitions/listings/2014/french-ceramics",
+                "rel": "Making Pottery Art"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/carpeaux",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "From January 22, 2014",
+                "href": "/exhibitions/listings/2014/antonio-canova",
+                "rel": "Antonio Canova"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining-family-individual?eid=R002_%7b2F11F3B2-6834-484B-AE0F-5066D7E783B5%7d_20140306100000",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R102_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140306131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining-family-individual?eid=R001_%7b2F11F3B2-6834-484B-AE0F-5066D7E783B5%7d_20140307100000",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/collecting-and-intepreting-at-the-met?eid=A001_%7b6A0B3958-68AC-4F22-BB73-D898FB894401%7d_20140127111701",
+                "rel": "Fellows Colloquium\u2014Collecting and Interpreting at the Met"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R103_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140307131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining-family-individual?eid=R002_%7b2F11F3B2-6834-484B-AE0F-5066D7E783B5%7d_20140308100000",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining-family-individual?eid=A002_%7b2F11F3B2-6834-484B-AE0F-5066D7E783B5%7d_20140107114234",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R104_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140310131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/membership-events/evening-receptions/carpeaux-supporting-reception?eid=A001_%7b60301F85-6473-4C1C-8DAB-5D8B2E9406EE%7d_20140107151713",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R105_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140311131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwb",
+                "rel": "Great Britain and Ireland, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/200583"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/200583"
+        }
+    },
+    "accession number": "49.7.99a\u2013d",
+    "credit line": "The Jules Bache Collection, 1949",
+    "culture": "British, London",
+    "date": "1736/37",
+    "department": "European Sculpture and Decorative Arts",
+    "description": "This tureen, made to serve a spicy game stew known as oille, shows the design influence of French silver of the 1730s. It may have been made for the 4th Earl of Chesterfield, a great Francophile who was so enamored of French cuisine that he hired a well-known French chef, Vincent La Chapelle, who introduced to England a new style of cuisine, richly sauced and subtly seasoned.",
+    "dimensions": "Overall (confirmed) 11 7/8 x 13 7/8 x 10 3/8 in., 150 oz. 18 dwt.  (30.2 x 35.2 x 26.4 cm, 4.694kg)",
+    "gallery-id": 510,
+    "id": 200583,
+    "image": "http://images.metmuseum.org/CRDImages/es/original/DP268221.jpg",
+    "medium": "Silver",
+    "provenance": [
+        "Rt. Hon. Montagu Swaythling",
+        "[ Christie's, London , May 6, 1924, #22 ]",
+        "Jules S. Bache (to MMA)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/es/original/DP268221.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP268222.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP268223.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP268224.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP268225.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP268226.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP268227.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP268228.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP268229.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP268230.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP268231.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP268232.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP268233.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/147803.jpg"
+    ],
+    "title": "Tureen",
+    "what": [
+        "Metal",
+        "Metalwork",
+        "Silver",
+        "Tureens"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "United Kingdom",
+        "England",
+        "London"
+    ],
+    "who": "Paul de Lamerie"
+}

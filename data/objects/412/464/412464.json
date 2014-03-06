@@ -1,0 +1,79 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/412920"
+            },
+            {
+                "href": "http://scrapi.org/object/412921"
+            },
+            {
+                "href": "http://scrapi.org/object/412922"
+            },
+            {
+                "href": "http://scrapi.org/object/412923"
+            },
+            {
+                "href": "http://scrapi.org/object/412924"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/412464"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/412464"
+        }
+    },
+    "accession number": "Burdick 246, T206.118",
+    "credit line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+    "date": "1909\u201311",
+    "department": "Drawings and Prints",
+    "description": "Trade cards from \"White Border\" series (T206), issued 1909-11 to promote sixteen brands of cigarettes and loose tobacco distributed by the American Tobacco Company.",
+    "dimensions": "Sheet 2 5/8 x 1 7/16 in. (6.7 x 3.7 cm)",
+    "id": 412464,
+    "medium": "Commercial lithograph",
+    "provenance": [
+        "Donor: Jefferson R. Burdick (American, 1900\u20131963)"
+    ],
+    "title": "Kleinow, New York, American League, from the White Border series (T206) for the American Tobacco Company",
+    "what": [
+        "Prints",
+        "Planographic prints",
+        "Lithographs",
+        "Baseball cards"
+    ],
+    "when": "A.D. 1900-present",
+    "who": "American Tobacco Company"
+}

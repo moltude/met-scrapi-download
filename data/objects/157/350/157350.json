@@ -1,0 +1,148 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/81804"
+            },
+            {
+                "href": "http://scrapi.org/object/84885"
+            },
+            {
+                "href": "http://scrapi.org/object/155852"
+            },
+            {
+                "href": "http://scrapi.org/object/155853"
+            },
+            {
+                "href": "http://scrapi.org/object/158072"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R128_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140306130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R129_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140307130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R130_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140310130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/cost/hd_cost.htm",
+                "rel": "Costume in The Metropolitan Museum of Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/coho/hd_coho.htm",
+                "rel": "Dressing for the Cocktail Hour"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/elsa/hd_elsa.htm",
+                "rel": "Elsa Schiaparelli (1890\u20131973)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/psop/hd_psop.htm",
+                "rel": "Le Colis de Trianon\u2013Versailles and Paris Openings"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/20sil/hd_20sil.htm",
+                "rel": "Twentieth\u2013Century Silhouette and Support"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/157350"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/157350"
+        }
+    },
+    "accession number": "2009.300.2515a\u2013c",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. V. D. Crisp, 1963",
+    "culture": "French",
+    "date": "1938",
+    "department": "Costume Institute",
+    "description": "Schiaparelli's summer 1938 collection was teeming with a circus theme. The circus theme was widely copied by many American department stores such as Lord & Taylor, Bonwit Teller and Henri Bendel. This version of that theme by luxury department store Henri Bendel incorporates playful trapeze artists swinging across the bolero jacket. The original jacket was embroidered overall and featured elephants balancing on drums in addition to the trapeze artists. The dress fabric, which features large brocaded metallic fronds, is also a copy of a Schiaparelli dress which is in the Brooklyn Museum collection. Worn by Millicent Rogers, whose version is black and gold, the silhouette is slightly different. Though this was a licensed copy, it is interesting to see how free American companies were to modify French designs and sell them as their own.",
+    "dimensions": [
+        "Length at CB (a) 15 in. (38.1 cm)",
+        "Length at CB (b) 59 in. (149.9 cm)",
+        "Length at CB (c) 50 in. (127 cm)"
+    ],
+    "id": 157350,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/63.121.15a-c_CP3.jpg",
+    "medium": "silk, metal",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/63.121.15a-c_CP3.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/63.121.15a-b_back_CP3.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/63.121.15c_detail_CP3.jpg"
+    ],
+    "title": "Evening ensemble",
+    "what": [
+        "Metal",
+        "Silk",
+        "Ensembles"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": [
+        "Elsa Schiaparelli",
+        "Henri Bendel"
+    ]
+}

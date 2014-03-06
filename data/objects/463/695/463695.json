@@ -1,0 +1,125 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/464599"
+            },
+            {
+                "href": "http://scrapi.org/object/463906"
+            },
+            {
+                "href": "http://scrapi.org/object/467463"
+            },
+            {
+                "href": "http://scrapi.org/object/465968"
+            },
+            {
+                "href": "http://scrapi.org/object/470384"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 25, 2014",
+                "href": "/exhibitions/listings/2014/canterbury-stained-glass",
+                "rel": "Radiant Light"
+            },
+            {
+                "date": "From August 6, 2013",
+                "href": "/exhibitions/listings/2013/design-motifs-in-byzantine-art",
+                "rel": "Design Motifs in Byzantine Art"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R103_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140306104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R006_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140306150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/collecting-and-intepreting-at-the-met?eid=A001_%7b6A0B3958-68AC-4F22-BB73-D898FB894401%7d_20140127111701",
+                "rel": "Fellows Colloquium\u2014Collecting and Interpreting at the Met"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R104_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140307104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/events-at-the-cloisters/conversations-with-curators-and-conservators/cloisters-husband?eid=A003_%7bC1BD832B-922C-49E2-8732-B9CE70E617F2%7d_20140113162804",
+                "rel": "Conversation with a Curator at The Cloisters"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R007_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140307150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/ancestors-of-christ?eid=A001_%7b64F28017-6AB0-4B00-864F-E5676EE07585%7d_20140113142350",
+                "rel": "The Ancestors of Christ: Stained Glass Windows from Canterbury Cathedral"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/ancestors-of-christ?eid=A002_%7b64F28017-6AB0-4B00-864F-E5676EE07585%7d_20140113142402",
+                "rel": "The Ancestors of Christ: Stained Glass Windows from Canterbury Cathedral"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R008_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140309150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R009_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140310150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=euwf",
+                "rel": "France, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/463695"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/463695"
+        }
+    },
+    "accession number": "15.121.1b",
+    "credit line": "The Lillian Stokes Gillespie Collection, Bequest of Lillian Stokes Gillespie, 1915",
+    "culture": "French",
+    "date": "late 15th century",
+    "department": "Medieval Art",
+    "dimensions": "Overall 21 9/16 x 17 1/8 x 2 9/16 in. (54.7 x 43.5 x 6.5 cm)",
+    "id": 463695,
+    "image": "http://images.metmuseum.org/CRDImages/md/original/sf15-121-1bs1.jpg",
+    "medium": "Wood, polychromy, traces of gilding",
+    "provenance": [
+        "Laurentine Fran\u00e7oise Bernage Lelong, Paris",
+        "Henry W. Poor, New York"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/md/original/sf15-121-1bs1.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/32251.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/sf15-121-1bs2.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/sf15-121-1bs4.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/sf15-121-1bd1.jpg"
+    ],
+    "title": "Sculpture of God The Father from Frame",
+    "what": [
+        "Sculpture",
+        "Gilt",
+        "Polychromy"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "France"
+    ]
+}

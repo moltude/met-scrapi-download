@@ -1,0 +1,91 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/292070"
+            },
+            {
+                "href": "http://scrapi.org/object/261635"
+            },
+            {
+                "href": "http://scrapi.org/object/266449"
+            },
+            {
+                "href": "http://scrapi.org/object/266451"
+            },
+            {
+                "href": "http://scrapi.org/object/268818"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/286355"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/286355"
+        }
+    },
+    "accession number": "2005.100.581",
+    "credit line": "Gilman Collection, Purchase, Alfred Stieglitz Society Gifts, 2005",
+    "date": "Late 1850s",
+    "department": "Photographs",
+    "description": "This elegant group portrait of a team of laborers comes from an album assembled by a Belgian businessman involved in an enterprise to build railways in Peru. A Captain Hendrickx worked in South America in the mid-1850s and 1860s and presumably acquired this photograph on his travels. Although the photograph is not annotated, a clue to the subjects' occupation may reside in the clean folded towel that each man possesses. This evidence suggests that the crew were \"wipers,\" a common profession in the early years of the railroad. As soon as a locomotive arrived in a station or roundhouse, a team of wipers thoroughly rubbed down the engine.But where was the photograph made? Hendrickx's now-disassembled album contained at least two other early salt prints-views of Nashville, Tennesssee, and St. Louis, Missouri-and thus the scene could possibly be in North America. Or in Peru, for that matter: the first railroad built in South America was constructed between Callao and Lima for the profitable guano trade. However, a careful examination of the photograph suggests otherwise. The men's hair styles, distinctive straw hats, and white collarless shirts strongly suggest Brazil as the location, possibly the city of Rio de Janeiro, where the first railroad in the country was inaugurated in 1854.",
+    "dimensions": [
+        "Image 20.2 x 15.1 cm (7 15/16 x 5 15/16 in.)",
+        "Mount 42.2 x 30.2 cm (16 5/8 x 11 7/8 in.)"
+    ],
+    "id": 286355,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP139575.jpg",
+    "medium": "Salted paper print from glass negative",
+    "provenance": [
+        "(Sotheby's New York, Lot 26, October 8, 1997)",
+        "Gilman Paper Company Collection, New York"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ph/original/DP139575.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/Unk2005.100.581verso.jpg"
+    ],
+    "title": "[Railroad Wipers]",
+    "what": [
+        "Photographs",
+        "Salted paper prints"
+    ],
+    "when": "A.D. 1800-1900",
+    "who": "Unknown, American"
+}
