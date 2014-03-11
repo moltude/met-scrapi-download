@@ -1,0 +1,152 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/205298"
+            },
+            {
+                "href": "http://scrapi.org/object/202972"
+            },
+            {
+                "href": "http://scrapi.org/object/198764"
+            },
+            {
+                "href": "http://scrapi.org/object/191255"
+            },
+            {
+                "href": "http://scrapi.org/object/201865"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 3, 2014",
+                "href": "/exhibitions/listings/2014/william-morris",
+                "rel": "William Morris"
+            },
+            {
+                "date": "From November 22, 2011",
+                "href": "/exhibitions/listings/2011/faberge",
+                "rel": "Faberg\u00e9 from the Matilda Geddings Gray Foundation Collection"
+            },
+            {
+                "date": "From February 4, 2014",
+                "href": "/exhibitions/listings/2014/french-ceramics",
+                "rel": "Making Pottery Art"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/carpeaux",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "From January 22, 2014",
+                "href": "/exhibitions/listings/2014/antonio-canova",
+                "rel": "Antonio Canova"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R105_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140311131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/membership-events/evening-receptions/carpeaux-sustaining-reception?eid=A001_%7bB97F7097-C940-4FDB-8982-A3EC61BD9084%7d_20140107152519",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/world-enlightened?eid=R002_%7bEC37AED7-F558-4A27-A806-094491540250%7d_20140312101500",
+                "rel": "Cultural Discoveries\u2014Wednesdays with Olivier Bernier: Europe in the Eighteenth Century, A World Enlightened"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/talks/gallery-talks/the-passions-of-jean-baptiste-carpeaux?eid=A003_%7b7437318B-B35F-4C96-BAA4-FF8EDD85D6CA%7d_20140206123059",
+                "rel": "Exhibition Tour\u2014The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R106_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140313131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R107_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140314131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/art-making-programs/artist-demonstrations/sculpting-in-clay?eid=A001_%7bC514395B-8A7D-4198-93C8-44AD416FF697%7d_20131025175140",
+                "rel": "Sculpting in Clay"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/friday-evening-gallery-event-what-moves-you?eid=A001_%7b1EC22848-690F-4DDE-99C8-D3C4580691E8%7d_20140130135425",
+                "rel": "Friday Evening Gallery Event\u2014What Moves You?"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/art-making-programs/drop-in-drawing/gesture-and-movement?eid=A001_%7bACC3D053-EBAF-4C6F-9C96-0EFE6188B165%7d_20140214095024",
+                "rel": "Gesture and Movement: European Sculpture"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/artists-perspective-carpeaux?eid=A001_%7b2AD637DD-235E-43B7-B10D-A9A5F987E53D%7d_20140204164152",
+                "rel": "Exhibition Tour\u2014An Artist's Perspective on The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=eustc",
+                "rel": "Florence and Central Italy, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/231787"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/231787"
+        }
+    },
+    "accession number": "2006.70",
+    "credit line": "European Sculpture and Decorative Arts Fund, 2006",
+    "culture": "Italian, Florence",
+    "date": "ca. 1625\u201330",
+    "department": "European Sculpture and Decorative Arts",
+    "description": "As their patron saint, John the Baptist was a prominent fixture in the homes of civic-minded Florentines.  This large, lyric statuette by Pieratti, the city's first important Baroque sculptor, shows exacting yet expansive compositional experimentation.  A masterly study in frozen motion, it evinces discerning responses to lessons learned from great masters.  The virile type, an artfully unkempt boy of the people, is Michelangelesque, with a nod to the head of David.  From Caravaggio comes the adjustment of limbs in angles to maximize contrasts of light and shadow.  Strikingly Caravaggesque is the youth's arm hooked over his chest, holding a honeycomb (referring to the Baptist's wilderness diet).  His other hand holds the remnants of his shepherd's crook and a scroll which undoubtedly announced Ecce agnus dei (behold the lamb of God) in deference to his cousin Jesus.  The surface is abraded: the work stood in a garden around a hundred years ago, but mercifully briefly, not long enough to diminish its authority and charm.",
+    "dimensions": "Overall (confirmed) 28 \u00d7 17 1/2 \u00d7 13 1/4 in., 138lb. (71.1 \u00d7 44.5 \u00d7 33.7 cm, 62.5964kg)",
+    "gallery-id": 623,
+    "id": 231787,
+    "image": "http://images.metmuseum.org/CRDImages/es/original/DP217272.jpg",
+    "medium": "Marble",
+    "provenance": [
+        "Marchese  Tempi , Casa de' Tempi, Florence (by 1677)",
+        "Bargagli family , Palazzo Bargagli Petrucci, Florence (until at least 1910)",
+        "[ art market , Florence ]",
+        "[ Thomas Howard-Sneyd , London (by 1982) ]",
+        "[ sale, Sotheby's, London , December 9, 2005, no. 114",
+        "not sold ]",
+        "[ sold by private arrangement through Sotheby's, London (early 2006; to MMA) ]"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/es/original/DP217272.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP217273.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP217274.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP217276.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP217275.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP217277.jpg"
+    ],
+    "title": "The Youthful Saint John the Baptist",
+    "what": [
+        "Sculpture",
+        "Statues",
+        "Figurines",
+        "Marble"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "Italy",
+        "Tuscany",
+        "Florence"
+    ],
+    "who": "Domenico Pieratti"
+}

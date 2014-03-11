@@ -1,0 +1,134 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/337067"
+            },
+            {
+                "href": "http://scrapi.org/object/340882"
+            },
+            {
+                "href": "http://scrapi.org/object/340884"
+            },
+            {
+                "href": "http://scrapi.org/object/459434"
+            },
+            {
+                "href": "http://scrapi.org/object/342704"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/pous/hd_pous.htm",
+                "rel": "Nicolas Poussin (1594\u20131665)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/port/hd_port.htm",
+                "rel": "Portraiture in Renaissance and Baroque Europe"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/drwg/hd_drwg.htm",
+                "rel": "Renaissance Drawings: Material and Function"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/veve/hd_veve.htm",
+                "rel": "Sixteenth\u2013Century Painting in Venice and the Veneto"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/tita/hd_tita.htm",
+                "rel": "Titian (ca. 1488\u20131576)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/wivs/hd_wivs.htm",
+                "rel": "Woodcut Book Illustration in Renaissance Italy: Venice in the Sixteenth Century"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/coup/hd_coup.htm",
+                "rel": "Couples in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/prnt/hd_prnt.htm",
+                "rel": "The Printed Image in the West: History and Techniques"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/vefl/hd_vefl.htm",
+                "rel": "Venetian Color and Florentine Design"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/340883"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/340883"
+        }
+    },
+    "accession number": "11.66.13",
+    "credit line": "Rogers Fund, 1911",
+    "date": "1477\u20131510",
+    "department": "Drawings and Prints",
+    "dimensions": "7-1/16 x 5-13/16 in.  (17.9 x 14.8 cm)",
+    "id": 340883,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP811853.jpg",
+    "medium": "Red chalk, highlighted with white, on blue-gray paper",
+    "provenance": [
+        "Sir Peter Lely (Pieter van der Faes) (British, Soest 1618\u20131680 London)",
+        "Sir Joshua Reynolds (British, Plympton 1723\u20131792 London)",
+        "William Mayor (British, died 1874 London)",
+        "Louisa and Lucia Cohen"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP811853.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/11.66.13.jpg"
+    ],
+    "title": "Winged Putto Holding the Base of a Cross",
+    "what": [
+        "Drawings",
+        "Paper",
+        "Chalk"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Titian (Tiziano Vecellio)"
+}

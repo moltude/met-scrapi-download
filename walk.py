@@ -11,7 +11,7 @@ import sqlite3
 #	print 'opened' + str(x)
 #	x=x+1
 
-conn = sqlite3.connect('met-dim.db')
+conn = sqlite3.connect('./db/met-dim.db')
 c = conn.cursor()
 
 # walkthrough -- 

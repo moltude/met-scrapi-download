@@ -1,0 +1,140 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/436684"
+            },
+            {
+                "href": "http://scrapi.org/object/436685"
+            },
+            {
+                "href": "http://scrapi.org/object/436686"
+            },
+            {
+                "href": "http://scrapi.org/object/436688"
+            },
+            {
+                "href": "http://scrapi.org/object/436689"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/piero-della-francesca",
+                "rel": "Piero della Francesca"
+            },
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "From April 22, 2014",
+                "href": "/exhibitions/listings/2014/goya",
+                "rel": "Goya and the Altamira Family"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/talks/gallery-talks/piero-della-francesca?eid=A001_%7bE50FD455-5FC1-41D0-9391-C456264363EF%7d_20140206160624",
+                "rel": "Exhibition Tour\u2014Piero della Francesca: Personal Encounters"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=A257_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20131127123002",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/monday-at-the-met-spring-2014?eid=R001_%7bBB2BF277-3666-435E-8B95-12CDE21533EA%7d_20140303100000",
+                "rel": "Monday at the Met with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R100_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140303123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R101_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140304123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R102_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140305123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R026_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140306140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R103_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140307123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/talks/the-observant-eye/stepping-out-of-the-frame?eid=A001_%7b438572AD-6B0F-4DA2-94FB-49B8931634C1%7d_20140123142901",
+                "rel": "Stepping Out of the Frame: Three-Dimensionality in the New Galleries for European Paintings"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/saturday-seminar-spring-2014?eid=R001_%7bE063A39F-FC40-4ECC-B690-C4C13F70B2A0%7d_20140308103000",
+                "rel": "Saturday Seminar with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/bpor/hd_bpor.htm",
+                "rel": "Portrait Painting in England, 1600\u20131800"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwb",
+                "rel": "Great Britain and Ireland, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/436692"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/436692"
+        }
+    },
+    "accession number": "53.59.3",
+    "credit line": "Bequest of Thomas W. Lamont, 1948",
+    "date": "1796",
+    "department": "European Paintings",
+    "dimensions": "60 x 49 in. (152.4 x 124.5 cm)",
+    "gallery-id": 629,
+    "id": 436692,
+    "image": "http://images.metmuseum.org/CRDImages/ep/original/DP169219.jpg",
+    "medium": "Oil on canvas",
+    "provenance": [
+        "John Frederick Sackville, 3rd Duke of Dorset, Knole, Sevenoaks, Kent (1796\u2013d. 1799)",
+        "his son, George John Frederick Sackville, 4th Duke of Dorset, Knole (1799\u2013d. 1815)",
+        "his sister, Lady Mary Sackville, Countess of Plymouth, later Countess Amherst, Knole (1815\u2013d. 1864)",
+        "her sister, Lady Elizabeth Sackville, Countess De La Warr and Baroness Buckhurst, Knole (1864\u2013d. 1870)",
+        "her younger son, Hon. Mortimer Sackville-West, later 1st Baron Sackville, Knole (1870\u2013d. 1888)",
+        "Barons Sackville, Knole (1888\u20131928)",
+        "Charles John Sackville-West, 4th Baron Sackville, Knole (1928\u201329; sold through Spink to Lamont)",
+        "Thomas W. Lamont, New York (1929\u2013d. 1948; life interest to his widow, Florence Corliss Lamont, 1948\u2013d. 1952)"
+    ],
+    "title": "The Sackville Children",
+    "what": [
+        "Paintings",
+        "Canvas",
+        "Oil paint"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "United Kingdom"
+    ],
+    "who": "John Hoppner"
+}

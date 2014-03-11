@@ -1,0 +1,150 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/89555"
+            },
+            {
+                "href": "http://scrapi.org/object/127036"
+            },
+            {
+                "href": "http://scrapi.org/object/84077"
+            },
+            {
+                "href": "http://scrapi.org/object/95035"
+            },
+            {
+                "href": "http://scrapi.org/object/120386"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R150_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140407130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=waa",
+                "rel": "Anatolia and the Caucasus, 1900 A.D.\u2013present"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=nc",
+                "rel": "Central and North Asia, 1900 A.D.\u2013present"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=eue",
+                "rel": "Eastern Europe and Scandinavia, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/81693"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/81693"
+        }
+    },
+    "accession number": "C.I.57.26a\u2013cc",
+    "credit line": "Gift of Mrs. Melanie Mussayassul, in memory of her husband Halil-beg Mussayassul, 1957",
+    "culture": "Russian",
+    "date": "first quarter 20th century",
+    "department": "Costume Institute",
+    "dimensions": [
+        "(a) Length at CB 48 in. (121.9 cm)",
+        "(b) Length at CB 41 in. (104.1 cm)",
+        "(c) Length at CB 32 1/2 in. (82.6 cm)",
+        "(d) Length (head size) 24 in. (61 cm)",
+        "(e) Length (of ends from cb) 51 in. (129.5 cm)",
+        "(f) Length 46 in. (116.8 cm)",
+        "(g, h) Length 19 1/4 in. (48.9 cm)",
+        "(i, j) Heel to Toe 10 3/4 in. (27.3 cm)",
+        "(k, m) Length 18 in. (45.7 cm)",
+        "(n-cc)Length 4 in. (10.2 cm)"
+    ],
+    "id": 81693,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/CI57.26a-cc.jpg",
+    "medium": "wool, silk, leather, fur",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/CI57.26a-cc.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI57.26a\u2013cn\u2013cc_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI57.26a\u2013cn\u2013cc_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI57.26a\u2013cn\u2013cc_d.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI57.26bc_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI57.26b_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI57.26c_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI57.26d.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI57.26e.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI57.26f.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI57.26f_d.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI57.26gh.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI57.26ij_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI57.26km_tp.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI57.26km_d.jpg"
+    ],
+    "title": "Ensemble",
+    "what": [
+        "Silk",
+        "Wool",
+        "Leather",
+        "Ensembles",
+        "Hair",
+        "Fur"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Asia",
+        "Russia"
+    ]
+}

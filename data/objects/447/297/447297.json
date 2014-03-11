@@ -1,0 +1,129 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/447298"
+            },
+            {
+                "href": "http://scrapi.org/object/447299"
+            },
+            {
+                "href": "http://scrapi.org/object/447300"
+            },
+            {
+                "href": "http://scrapi.org/object/447301"
+            },
+            {
+                "href": "http://scrapi.org/object/447302"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A232_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134244",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A237_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134557",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/programs-for-visitors-with-disabilities/visitors-who-are-deaf/beauty-and-innovation?eid=A001_%7b77D8F57E-5FC9-4578-8A95-30A43C89CFDD%7d_20140210164006",
+                "rel": "Met Signs Tours in ASL\u2014Beauty and Innovation: Understanding Islamic Art"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A251_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114408",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=ssa",
+                "rel": "South Asia, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/447297"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/447297"
+        }
+    },
+    "accession number": "20.120.238",
+    "credit line": "The Grinnell Collection, Bequest of William Milne Grinnell, 1920",
+    "culture": "Islamic",
+    "date": "ca. 1430\u201340",
+    "department": "Islamic Art",
+    "description": "The action here depicts Rustam on an orange horse as he grasps his enemy Afrasiyab and pulls him off his horse. To Rustam\u2019s chagrin, the belt breaks, and Afrasiyab falls to the ground, where he is rescued by his allies. This painting comes from a copy of the highly Persianate Shahnama that was probably made in northern India. The paintings from this book were later cut out and placed in an album with brightly colored borders.",
+    "dimensions": "7.5 in. high 7.62 in. wide (19.1 cm high 19.4 cm wide)",
+    "id": 447297,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/DP159385.jpg",
+    "medium": [
+        "Main support Ink, opaque watercolor, gold on paper",
+        "Margins Ink and gold on dyed paper"
+    ],
+    "provenance": [
+        "William Milne Grinnell, New York (until d. 1920; bequeathed to MMA)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/DP159385.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/sf20-120-238.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/47053.jpg"
+    ],
+    "title": "\"Rustam Seizes Afrasiyab by the Girdle and Lifts him from the Saddle\", Folio from a Shahnama (Book of Kings)",
+    "what": [
+        "Metal",
+        "Ink",
+        "Paper",
+        "Gold",
+        "Watercolors",
+        "Manuscripts",
+        "Codices",
+        "Folios",
+        "Illuminated manuscripts",
+        "Dyeing"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Asia",
+        "India"
+    ],
+    "who": "Abu'l Qasim Firdausi"
+}

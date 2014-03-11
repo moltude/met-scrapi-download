@@ -1,0 +1,110 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/286013"
+            },
+            {
+                "href": "http://scrapi.org/object/286266"
+            },
+            {
+                "href": "http://scrapi.org/object/285872"
+            },
+            {
+                "href": "http://scrapi.org/object/286683"
+            },
+            {
+                "href": "http://scrapi.org/object/263168"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/gray/hd_gray.htm",
+                "rel": "Gustave Le Gray (1820\u20131884)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/treg/hd_treg.htm",
+                "rel": "Photographers in Egypt"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwf",
+                "rel": "France, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/283143"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/283143"
+        }
+    },
+    "accession number": "2005.100.376.149",
+    "credit line": "Gilman Collection, Gift of The Howard Gilman Foundation, 2005",
+    "date": "1850",
+    "department": "Photographs",
+    "description": "Maxime Du Camp's mission to Egypt and the Near East in 1849-51 to make a photographic survey of monuments and sites is well documented in his writings and in those of his fellow traveler, Gustave Flaubert. After an initial stay in Cairo, the two friends hired a boat to take them up the Nile as far as the second cataract, after which they descended the river at leisure, exploring the archaeological sites along its banks. In July 1850 they left Egypt for Palestine, Turkey, and Greece before they parted in Italy the following April. Du Camp's album \"Egypte, Nubie, Palestine et Syrie,\" published in 1852 and containing 125 photographs printed by Blanquart-Evrard, brought its author instant fame. In addition to the published edition, Du Camp arranged for a private printing of a few portfolios, such as the one in the Gilman collection, which numbers 174 images particularly noteworthy for their warm color and luminescence. Possibly printed in Gustave Le Gray's studio, the present portfolio is thought to have been in the collection of the architect Eug\u00e8ne Viollet-le-Duc.     A journalist with no experience in photography, Du Camp learned the craft from Le Gray shortly before his departure for Egypt. By the time he came to Abu Simbel in March 1850 to explore the rock-cut temples built by Ramesses II (reigned 1292-1225 b.c.), Du Camp was thoroughly at ease with the medium. Always in search of a neat, documentary clarity, he preferred a frontal view and midday light. For this picture of one of the colossal effigies of Ramesses II (plate 49 in the portfolio), he had the lower portion of the face unearthed and his assistant climb atop the crown to indicate scale. By coincidence, on March 29, the day the energetic Du Camp made this image unabashedly saluting the tourist with his camera as the new ruler of the land, the more reflective Flaubert voiced in his diary his irritation at being cast in such a role: \"The Egyptian temples bore me profoundly. Are they going to become like the churches in Brittany, the waterfalls in the Pyrenees? Oh necessity! To do what you are supposed to do; to be always, according to the circumstances . . . what a young man, or a tourist, or an artist . . . is supposed to be!\"",
+    "dimensions": "22.8 x 16.5 cm (9 x 6 1/2 in.)",
+    "id": 283143,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP136319.jpg",
+    "medium": "Salted paper print from paper negative",
+    "provenance": [
+        "Eug\u00e8ne Viollet-le-Duc (presumed)",
+        "[Andr\u00e9 Jammes, Paris]",
+        "[Graphics International, Ltd., Washington, D.C.]",
+        "Gilman Paper Company Collection, New York, September 1, 1978"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ph/original/DP136319.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP136276.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/PH9027.jpg"
+    ],
+    "title": "Westernmost Colossus of the Temple of Re, Abu Simbel",
+    "what": [
+        "Photographs",
+        "Salted paper prints"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Maxime Du Camp"
+}

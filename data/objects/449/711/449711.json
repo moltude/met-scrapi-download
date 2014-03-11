@@ -1,0 +1,138 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/454759"
+            },
+            {
+                "href": "http://scrapi.org/object/455071"
+            },
+            {
+                "href": "http://scrapi.org/object/451820"
+            },
+            {
+                "href": "http://scrapi.org/object/451821"
+            },
+            {
+                "href": "http://scrapi.org/object/451882"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A232_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134244",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A237_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134557",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/programs-for-visitors-with-disabilities/visitors-who-are-deaf/beauty-and-innovation?eid=A001_%7b77D8F57E-5FC9-4578-8A95-30A43C89CFDD%7d_20140210164006",
+                "rel": "Met Signs Tours in ASL\u2014Beauty and Innovation: Understanding Islamic Art"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A251_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114408",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/nish/hd_nish.htm",
+                "rel": "The Metropolitan Museum's Excavations at Nishapur"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=07\u00aeion=wai",
+                "rel": "Iran, 1000\u20131400 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=06\u00aeion=wai",
+                "rel": "Iran, 500\u20131000 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/449711"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/449711"
+        }
+    },
+    "accession number": "40.170.15",
+    "credit line": "Rogers Fund, 1940",
+    "culture": "Islamic",
+    "date": "late 10th\u201311th century",
+    "department": "Islamic Art",
+    "description": "Many ceramics from the Nishapur region are decorated with calligraphy. The writing on these objects often relates to their use (i.e., \"Eat with appetite\") or repeat a familiar proverb. The writing on this bowl expresses good wishes for the owner: \"Blessing, felicity, prosperity, well-being, happiness.\" Curiously, the inscription includes the start of an additional word, al, meaning \"the,\" but not the rest of the word. The tall vertical strokes of these letters must have been included to make the overall visual effect of the inscription more harmonious. This bowl is thought to come from Samarqand, because the central motif of interlacing straps is also found on metal objects made there.",
+    "dimensions": [
+        "Max Diam. 14 in. (35.6 cm)",
+        "H. 4 1/4 (10.8 cm)"
+    ],
+    "gallery-id": 453,
+    "id": 449711,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/DP216056.jpg",
+    "medium": "Earthenware; white slip with polychrome slip decoration under transparent glaze",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/DP216056.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/40.170.15back.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/40.170.15front.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/123066.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP101368.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/h1_40.170.15.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP216055.jpg"
+    ],
+    "title": "Bowl with Arabic Inscription, \"Blessing, prosperity, well-being, happiness\"",
+    "what": [
+        "Ceramics",
+        "Clay",
+        "Pottery",
+        "Earthenware",
+        "Glaze",
+        "Bowls",
+        "Slip"
+    ],
+    "where": [
+        "Asia",
+        "Iran",
+        "Khurasan",
+        "Nishapur"
+    ]
+}

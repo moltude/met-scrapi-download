@@ -1,0 +1,101 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/285670"
+            },
+            {
+                "href": "http://scrapi.org/object/265619"
+            },
+            {
+                "href": "http://scrapi.org/object/264842"
+            },
+            {
+                "href": "http://scrapi.org/object/264843"
+            },
+            {
+                "href": "http://scrapi.org/object/264844"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/god3/hd_god3.htm",
+                "rel": "The Chiton, Peplos, and Himation in Modern Dress"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/268731"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/268731"
+        }
+    },
+    "accession number": "41.65.2",
+    "credit line": "David Hunter McAlpin Fund, 1941",
+    "date": "1940",
+    "department": "Photographs",
+    "description": "This photograph by George Platt Lynes features a dress by Madame Gr\u00e8s, who was known earlier as Alix. The model raises a chiffon stole in a pose like that of a maenad, a votary of Dionysos. The classical converges with the surreal in the setting, an Yves Tanguy-like landscape with an attenuated and faintly distorted figure. The dramatic highlighting and moody silhouette give the dress the look of a sculptural relief. Like many of the draped silk-jersey gowns with which Gr\u00e8s is identified, this evening gown substantiates the designer's classicizing intentions and antique sources. Like the overgirdled apoptygma on Augustus Saint-Gaudens' Victory, her creation has a small peplum. In addition, she introduced pleating to the center-front of the gown. For Gr\u00e8s, pleating was a means of fitting a garment without pattern-shaping and seaming. Like the ancient Greeks, she preferred an economy of line. And when she could, she avoided the cutting of fabric, relying instead on the bias and pleating to establish the shaping of her garments.",
+    "dimensions": "23.9 x 18.9 cm (9 7/16 x 7 7/16 in.)",
+    "id": 268731,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/MM40665.jpg",
+    "medium": "Gelatin silver print",
+    "provenance": [
+        "George Platt Lynes"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ph/original/MM40665.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/MM40665(2).jpg"
+    ],
+    "title": "[Fashion Photograph for Lord and Taylor]",
+    "what": [
+        "Photographs",
+        "Gelatin silver prints"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "George Platt Lynes"
+}

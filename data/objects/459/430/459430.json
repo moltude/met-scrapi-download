@@ -1,0 +1,105 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/459188"
+            },
+            {
+                "href": "http://scrapi.org/object/459222"
+            },
+            {
+                "href": "http://scrapi.org/object/459223"
+            },
+            {
+                "href": "http://scrapi.org/object/459224"
+            },
+            {
+                "href": "http://scrapi.org/object/459228"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R131_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140311134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R132_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140312134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R133_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140313134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R134_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140314134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A109_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131126111651",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A115_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131127144444",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A110_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131126111706",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R145_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140331134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/talks/gallery-talks/european-sculpture-in-the-robert-lehman-collection?eid=A001_%7b835B4316-D69F-4E38-A76F-839A55CF6946%7d_20140123112008",
+                "rel": "European Sculpture in the Robert Lehman Collection"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R146_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140401134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/459430"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/459430"
+        }
+    },
+    "accession number": "1975.1.313",
+    "credit line": "Robert Lehman Collection, 1975",
+    "date": "early 16th century",
+    "department": "Robert Lehman Collection",
+    "dimensions": "7 15/16 x 10 11/16 in.  (20.2 x 27.2 cm)",
+    "id": 459430,
+    "image": "http://images.metmuseum.org/CRDImages/rl/original/sf-rlc-1975-1-313.JPG",
+    "medium": "Point of the brush and gray ink, heightened with white, on paper washed with blue.",
+    "provenance": [
+        "Luigi Grassi, Florence (Lugt Suppl. 1171b)",
+        "Frits Lugt, Paris",
+        "Grassi sale 1924, lot 60.  Acquired by Robert Lehman in 1924."
+    ],
+    "title": "Man and Woman Striding Toward the Left",
+    "what": [
+        "Ink",
+        "Drawings",
+        "Paper"
+    ],
+    "when": "A.D. 1400-1600",
+    "who": "Circle of Caroto"
+}

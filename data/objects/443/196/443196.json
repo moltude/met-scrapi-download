@@ -1,0 +1,125 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/445990"
+            },
+            {
+                "href": "http://scrapi.org/object/444942"
+            },
+            {
+                "href": "http://scrapi.org/object/445350"
+            },
+            {
+                "href": "http://scrapi.org/object/454699"
+            },
+            {
+                "href": "http://scrapi.org/object/456076"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A232_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134244",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A237_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134557",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/programs-for-visitors-with-disabilities/visitors-who-are-deaf/beauty-and-innovation?eid=A001_%7b77D8F57E-5FC9-4578-8A95-30A43C89CFDD%7d_20140210164006",
+                "rel": "Met Signs Tours in ASL\u2014Beauty and Innovation: Understanding Islamic Art"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A251_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114408",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=06\u00aeion=nfe",
+                "rel": "Egypt, 500\u20131000 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/443196"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/443196"
+        }
+    },
+    "accession number": "89.2.551",
+    "credit line": "Gift of Joseph W. Drexel, 1889",
+    "culture": "Coptic",
+    "date": "7th century",
+    "department": "Islamic Art",
+    "dimensions": [
+        "Object H. 4 in. (10.2 cm)",
+        "W. 3 3/4 in. (9.5 cm)",
+        "Object with mount H. 4 15/16 in. (12.5 cm)",
+        "W. 4 1/4 in. (10.8 cm)",
+        "D. 2 1/2 in. (6.4 cm)",
+        "Wt. 22.6 oz. (640.771 g)"
+    ],
+    "id": 443196,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/sf89-2-551b.jpg",
+    "medium": "Bronze; cast",
+    "provenance": [
+        "Joseph W. Drexel, New York (until d. 1888)",
+        "his widow, Lucy Wharton Drexel(1888\u201389; gifted to Museum in Joseph Drexel's name)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/sf89-2-551b.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/sf89-2-551a.jpg"
+    ],
+    "title": "Lid of a Censer",
+    "what": [
+        "Metal",
+        "Copper alloy",
+        "Bronze",
+        "Lids"
+    ],
+    "when": "A.D. 500-1000",
+    "where": [
+        "Africa",
+        "Egypt"
+    ]
+}

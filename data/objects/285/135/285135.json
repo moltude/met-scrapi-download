@@ -1,0 +1,93 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/285911"
+            },
+            {
+                "href": "http://scrapi.org/object/265393"
+            },
+            {
+                "href": "http://scrapi.org/object/265394"
+            },
+            {
+                "href": "http://scrapi.org/object/285125"
+            },
+            {
+                "href": "http://scrapi.org/object/285126"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwcm",
+                "rel": "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/285135"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/285135"
+        }
+    },
+    "accession number": "2003.151.11",
+    "credit line": "Bequest of Ilse Bing Wolff, 1998",
+    "date": "1934",
+    "department": "Photographs",
+    "description": "Bing moved to Paris in 1930 and soon became known as the \u201cQueen of the Leica\u201d for her expertise at exploiting the hand-held 35mm camera\u2019s ability to capture and transmit action. Here she responds to the odd, spectral beauty of the light emitted by a common gas lamp. In 1828 Paris became one of the first European cities to adopt gas street lighting, resurrecting its nickname \u201cLa Vielle-Lumi\u00e8re,\u201d or \u201cCity of Light.\u201d The sobriquet was first applied to Paris during the Age of Enlightment in the late seventeenth and eighteenth centuries due to its fame as a center of education and ideas.",
+    "dimensions": "Image 22.3 x 28.2 cm (8 3/4 x 11 1/8 in.)",
+    "gallery-id": 852,
+    "id": 285135,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP315555.jpg",
+    "medium": "Gelatin silver print",
+    "provenance": [
+        "Artist's estate, New York"
+    ],
+    "title": "Lamp Post, rue de la Chaise, Paris",
+    "what": [
+        "Photographs",
+        "Gelatin silver prints"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "Germany"
+    ],
+    "who": "Ilse Bing"
+}

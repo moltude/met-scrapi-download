@@ -1,0 +1,147 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/471905"
+            },
+            {
+                "href": "http://scrapi.org/object/471434"
+            },
+            {
+                "href": "http://scrapi.org/object/479791"
+            },
+            {
+                "href": "http://scrapi.org/object/469892"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 25, 2014",
+                "href": "/exhibitions/listings/2014/canterbury-stained-glass",
+                "rel": "Radiant Light"
+            },
+            {
+                "date": "From August 6, 2013",
+                "href": "/exhibitions/listings/2013/design-motifs-in-byzantine-art",
+                "rel": "Design Motifs in Byzantine Art"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/fire-in-medieval-material-culture?eid=A001_%7b2C78BD24-A40E-4EBE-9EF3-5D3150141D52%7d_20140113122213",
+                "rel": "Fire in Medieval Material Culture"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/teen-programs/art-explore/art-explore-medieval-life?eid=A001_%7b4D072AAD-56E3-463E-B4E7-7A438177C278%7d_20131206154555",
+                "rel": "Art Explore\u2014Medieval Life (Ages 11\u201314)"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/events-at-the-cloisters/family-programs-at-the-cloisters/family-workshops-at-the-cloisters/strike-a-pose?eid=A002_%7bC02F326A-E7EB-4BAE-BA6D-6DB770407BD0%7d_20140113155026",
+                "rel": "Strike a Pose"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/fire-in-medieval-material-culture?eid=A002_%7b2C78BD24-A40E-4EBE-9EF3-5D3150141D52%7d_20140113122225",
+                "rel": "Fire in Medieval Material Culture"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R002_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140302150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/welcome-canterbury?eid=A001_%7b53CBD56A-844E-442F-8444-9EF0B22E78BF%7d_20140210170835",
+                "rel": "Welcome and Introduction"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/canterbury-pilgrims?eid=A001_%7b64D05114-6E96-4769-B2D4-EC56F6BFB232%7d_20140210171509",
+                "rel": "Canterbury Pilgrims"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/age-old-splendor?eid=A001_%7b5BD2D112-6561-4BF9-94B6-31F203659DF6%7d_20140210172052",
+                "rel": "Age-Old Splendor\u2014Splendor's Old Age: Preserving Canterbury Cathedral's Medieval Stained Glass"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/reading-from-canterbury?eid=A001_%7b0E6241AC-6A4B-4E28-B4D9-7B95001379DA%7d_20140210172925",
+                "rel": "A Reading from The Canterbury Tales"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R003_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140303150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/iptg/hd_iptg.htm",
+                "rel": "Italian Painting of the Later Middle Ages"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/fram/hd_fram.htm",
+                "rel": "Italian Renaissance Frames"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=07\u00aeion=euwf",
+                "rel": "France, 1000\u20131400 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/471904"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/471904"
+        }
+    },
+    "accession number": "61.200.1",
+    "credit line": "The Cloisters Collection, 1961",
+    "culture": "Italian",
+    "date": "1330\u201335",
+    "department": "The Cloisters",
+    "description": "The deep emotional piety shown in these expressive faces and gestures is made more poignant by the weighty drapery folds modeled by sharply contrasted highlights and shadows, by the vivid coloring, and by the taut composition.  The unknown artist has been linked to a miniature painter who illuminated several manuscripts, including a life of Saint George in the Vatican for Cardinal Stefaneschi, resident at the papal court in Avignon from 1309 1341, and a missal, probably for the same patron, in the Morgan Library and Museum, New York.  Also in the Museum's collection is a companion panel, \"The Lamentation.\"  Both were part of a larger ensemble of hinged panels, two others of which are preserved in Florence.  Such a work would have been, in effect, a folding portable altar.",
+    "dimensions": [
+        "Overall 18 x 11 3/4 in. (45.7 x 29.8 cm)",
+        "Painted surface 15 5/8 x 10 5/8 in. (39.7 x 27 cm)"
+    ],
+    "gallery-id": 14,
+    "id": 471904,
+    "image": "http://images.metmuseum.org/CRDImages/cl/original/DT200609.jpg",
+    "medium": "Tempera and gold leaf on wood panel",
+    "provenance": [
+        "Marshal Nicholas Soult , Paris",
+        "Augustus Stevens , Paris (until d. 1867)",
+        "his posthumous sale, Phillips , London (May 11, 1869, no. 68, as Fra Angelico)",
+        "Henry G. Bohn , Twickenham (1869\u2013d. 1884)",
+        "his posthumous sale, Christie, Manson and Woods , London (March 19-28, 1885, no. 77, as Fra Angelico)",
+        "Charles Butler , London (1885-1891)",
+        "Robert Henry and Evelyn Benson , London (1891-1927)",
+        "[ Duveen Brothers , London, Paris and New York (1927)]",
+        "Mr. and Mrs. John D. Rockefeller Jr. (1927-1960)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/cl/original/DT200609.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/sf61-200-1s2.jpg"
+    ],
+    "title": "The Crucifixion",
+    "what": [
+        "Metal",
+        "Gold",
+        "Paintings",
+        "Panels",
+        "Tempera",
+        "Gold leaf"
+    ],
+    "when": "A.D. 1000-1400",
+    "where": [
+        "Europe",
+        "France",
+        "Vaucluse",
+        "Avignon"
+    ],
+    "who": "Master of the Codex of Saint George"
+}

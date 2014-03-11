@@ -1,0 +1,119 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/86480"
+            },
+            {
+                "href": "http://scrapi.org/object/157797"
+            },
+            {
+                "href": "http://scrapi.org/object/159069"
+            },
+            {
+                "href": "http://scrapi.org/object/92072"
+            },
+            {
+                "href": "http://scrapi.org/object/96085"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R150_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140407130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/159455"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/159455"
+        }
+    },
+    "accession number": "2009.300.877a, b",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Robert Riley, 1964",
+    "culture": "American",
+    "date": "1950",
+    "department": "Costume Institute",
+    "description": "The gray flannel suit, like this one dated to 1950, became an icon of the post-World War II era focus on work and upward mobility, as men returning from war replaced their military uniforms with a corporate one. Sloan Wilson's 1955 novel, \"The Man in the Gray Flannel Suit,\" and the 1956 film of the same name portrayed this development as a constrictive, potentially destructive influence. The gray flannel suit became even more popular after the book's publication and publisher Simon and Schuster created life-size cardboard cutouts of the silhouetted man on the book's cover and distributed them to stores.",
+    "dimensions": [
+        "Length at CB (a) 34 1/2 in. (87.6 cm)",
+        "Length at CB (b) 46 in. (116.8 cm)"
+    ],
+    "id": 159455,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/64.132a-b_CP4.jpg",
+    "medium": "wool",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/64.132a-b_CP4.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/64.132_front bw.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/64.132_threequarters bw.jpg"
+    ],
+    "title": "Suit",
+    "what": [
+        "Costume",
+        "Wool",
+        "Suits"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "Lord & Taylor"
+}

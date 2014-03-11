@@ -1,0 +1,104 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/157074"
+            },
+            {
+                "href": "http://scrapi.org/object/169005"
+            },
+            {
+                "href": "http://scrapi.org/object/158064"
+            },
+            {
+                "href": "http://scrapi.org/object/158074"
+            },
+            {
+                "href": "http://scrapi.org/object/158146"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R150_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140407130000",
+                "rel": "Fashion in Art"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/158073"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/158073"
+        }
+    },
+    "accession number": "2009.300.3166",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of  Arturo and Paul Peralta-Ramos, 1955",
+    "culture": "European",
+    "date": "first quarter 20th century",
+    "department": "Costume Institute",
+    "description": "While the specific origins of this scarf have not been identified, the floral patterning is typical of traditional European folk costume. The beautiful, saturated color is achieved only with silk dyeing. It was given to the collection by Millicent Rogers, who not only amassed a notable collection of haute couture garments, she also collected folkloric clothing and accessories for her own use.",
+    "dimensions": "21 x 21 in. (53.3 x 53.3 cm)",
+    "id": 158073,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/55.26.126_CP4.jpg",
+    "medium": "silk",
+    "title": "Scarf",
+    "what": [
+        "Costume",
+        "Silk",
+        "Scarves"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe"
+    ]
+}

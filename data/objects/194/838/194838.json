@@ -1,0 +1,159 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/200557"
+            },
+            {
+                "href": "http://scrapi.org/object/208764"
+            },
+            {
+                "href": "http://scrapi.org/object/186236"
+            },
+            {
+                "href": "http://scrapi.org/object/205116"
+            },
+            {
+                "href": "http://scrapi.org/object/204566"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 3, 2014",
+                "href": "/exhibitions/listings/2014/william-morris",
+                "rel": "William Morris"
+            },
+            {
+                "date": "From November 22, 2011",
+                "href": "/exhibitions/listings/2011/faberge",
+                "rel": "Faberg\u00e9 from the Matilda Geddings Gray Foundation Collection"
+            },
+            {
+                "date": "From February 4, 2014",
+                "href": "/exhibitions/listings/2014/french-ceramics",
+                "rel": "Making Pottery Art"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/carpeaux",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "From January 22, 2014",
+                "href": "/exhibitions/listings/2014/antonio-canova",
+                "rel": "Antonio Canova"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R100_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140303131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining?eid=A001_%7b7C69242D-2B76-4B1B-B2B8-0F004589560B%7d_20140107112846",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R101_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140304131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining-family-individual?eid=R001_%7b2F11F3B2-6834-484B-AE0F-5066D7E783B5%7d_20140305100000",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/world-enlightened?eid=R001_%7bEC37AED7-F558-4A27-A806-094491540250%7d_20140305101500",
+                "rel": "Cultural Discoveries\u2014Wednesdays with Olivier Bernier: Europe in the Eighteenth Century, A World Enlightened"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining-family-individual?eid=R002_%7b2F11F3B2-6834-484B-AE0F-5066D7E783B5%7d_20140306100000",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R102_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140306131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining-family-individual?eid=R001_%7b2F11F3B2-6834-484B-AE0F-5066D7E783B5%7d_20140307100000",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/collecting-and-intepreting-at-the-met?eid=A001_%7b6A0B3958-68AC-4F22-BB73-D898FB894401%7d_20140127111701",
+                "rel": "Fellows Colloquium\u2014Collecting and Interpreting at the Met"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R103_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140307131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/maio/hd_maio.htm",
+                "rel": "Maiolica in the Renaissance"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=eustc",
+                "rel": "Florence and Central Italy, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/194838"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/194838"
+        }
+    },
+    "accession number": "21.116",
+    "credit line": "Purchase, Joseph Pulitzer Bequest, 1921",
+    "culture": "Italian, Florence",
+    "date": "ca. 1475",
+    "department": "European Sculpture and Decorative Arts",
+    "description": "This piece formed part of a decorative program, along with three other tondi with virtues.  Two (Temperance and Justice) are in the Mus\u00e9e de Cluny, Paris, and one (Faith) is in the Museu Calouste Gulbenkian, Lisbon.  They are related to the Cardinal Virtues by Luca della Robbia on the ceiling of the Chapel of the Cardinal of Portugal in San Miniato, Florence, but they show the style of Luca's nephew, Andrea, who was the dominant force in the family business after ca. 1470.",
+    "dimensions": "Overall (confirmed) H. 64 3/4 in., Wt. 1223lb. (164.5 cm, 554.7492kg)",
+    "id": 194838,
+    "image": "http://images.metmuseum.org/CRDImages/es/original/DP242135.jpg",
+    "medium": "Glazed terracotta",
+    "provenance": [
+        "Castellani-Valbreque (sold to Cheney)",
+        "Edward Cheney (d. 1884)",
+        "his nephew, Alfred Capel-Cure (until 1896)",
+        "his nephew, Francis Capel-Cure , Badger Hall (1896\u20131905; sale, Christie's, London, May 4, 1905, no. 122; sold to Harding)",
+        "H. W. Harding (from 1905)",
+        "Godefroy Brauer",
+        "[ Raoul Heilbronner , Paris (until 1914, when he fled to Germany, abandoning his collection ]",
+        "[ confiscated and auctioned by the French government at Galerie Georges Petit , Paris, June 22, 1921, no. 141",
+        "sold to Seligmann ]",
+        "[ Jacques Seligmann and Company, Paris (in 1921; sold to MMA) ]"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/es/original/DP242135.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP242137.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP242138.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP242139.jpg"
+    ],
+    "title": "Prudence",
+    "what": [
+        "Sculpture",
+        "Clay",
+        "Paintings",
+        "Terracotta",
+        "Glazing",
+        "Tondi"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Italy",
+        "Tuscany",
+        "Florence"
+    ],
+    "who": "Andrea della Robbia"
+}

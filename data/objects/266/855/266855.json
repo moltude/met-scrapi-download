@@ -1,0 +1,102 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/390725"
+            },
+            {
+                "href": "http://scrapi.org/object/484710"
+            },
+            {
+                "href": "http://scrapi.org/object/484486"
+            },
+            {
+                "href": "http://scrapi.org/object/484487"
+            },
+            {
+                "href": "http://scrapi.org/object/484488"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/phdu/hd_phdu.htm",
+                "rel": "Photography in D\u00fcsseldorf"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwcm",
+                "rel": "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/266855"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/266855"
+        }
+    },
+    "accession number": "1992.5154",
+    "credit line": "Purchase, David T. Schiff, Lila Acheson Wallace, Harriette and Noel Levine, and Nancy and Edwin Marks Gifts, 1992",
+    "date": "1975",
+    "department": "Photographs",
+    "description": "One of the most provocative artists of postwar Europe, Sigmar Polke has created works critical of Western culture since 1963, when he and fellow artist Gerhard Richter began using photography as the basis for paintings that satirized the look and message of consumer culture.  Since that time Polke has continued to use photography as the breeding ground for innovation.During the 1970s Polke painted little but traveled widely with his camera\u2014to Paris, New York, Brazil, Afghanistan, and Pakistan.  His subjects were night life, low life, the underworld, and the Third World\u2014arenas in which life is lived in defiance or ignorance of established Western social rules.  The basis of this image is one of a series of negatives exposed in a bar in S\u00e3o Paolo, Brazil, showing a group of men drinking.Polke considers the darkroom a sort of alchemic laboratory in which he can explore infinite mutations of imagery.  With the negative in his enlarger, the artist developed this large sheet selectively, pouring on photographic solutions and repeatedly creasing and folding wet paper.  The resulting abstract organic forms thus issue from and reexpress the boozy, convivial energy of the scene.",
+    "dimensions": [
+        "104.5 x 135.5cm (41 1/8 x 53 3/8in.)",
+        "Frame 127 \u00d7 156.2 cm (50 \u00d7 61 1/2 in.)"
+    ],
+    "id": 266855,
+    "medium": "Gelatin silver print",
+    "provenance": [
+        "Artist",
+        "[Helen van der Meij, London]",
+        "Margo Leavin at ARCO, Madrid, February 1990",
+        "[Vivian Horan, New York]"
+    ],
+    "title": "Untitled",
+    "what": [
+        "Photographs",
+        "Gelatin silver prints"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "Germany"
+    ],
+    "who": "Sigmar Polke"
+}

@@ -1,0 +1,121 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/449570"
+            },
+            {
+                "href": "http://scrapi.org/object/449327"
+            },
+            {
+                "href": "http://scrapi.org/object/449328"
+            },
+            {
+                "href": "http://scrapi.org/object/449814"
+            },
+            {
+                "href": "http://scrapi.org/object/449812"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A232_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134244",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A237_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134557",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/programs-for-visitors-with-disabilities/visitors-who-are-deaf/beauty-and-innovation?eid=A001_%7b77D8F57E-5FC9-4578-8A95-30A43C89CFDD%7d_20140210164006",
+                "rel": "Met Signs Tours in ASL\u2014Beauty and Innovation: Understanding Islamic Art"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A251_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114408",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=06\u00aeion=wai",
+                "rel": "Iran, 500\u20131000 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/454757"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/454757"
+        }
+    },
+    "accession number": "37.40.48",
+    "credit line": "Rogers Fund, 1937",
+    "culture": "Islamic",
+    "date": "9th\u201310th century",
+    "department": "Islamic Art",
+    "description": "The carving of utensils and other objects from soft stones is is an extremely ancient tradition in the Near East. Steatite and other related talcs (the English word is of Persian origin) are easy to carve, relatively strong and non-brittle, and are impervious to fire. Many of medieval Nishapur's stone utensils demonstrate a high degree of artistic merit, despite having been fashioned from a lowly material and serving a utilitarian function. These pieces often have powerfully sculptural forms with silhouettes that take the form of beautiful two-dimensional patterns. This footed lamp of gray \"Mashhad\" stone is cubic in shape, with the sides deeply carved into panels leaving a thin-walled interior. The carved panels that also form the legs of the lamp on the four corners, are Y-shaped in cross-section and create ornamental leaf and trefoil forms around the bowl.",
+    "dimensions": "2 x 3 in. (5.1 x 7.6 cm)",
+    "id": 454757,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/wb-37.40.48.JPG",
+    "medium": "Steatite; carved",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/wb-37.40.48.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-37.40.48b.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-37.40.48c.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-37.40.48d.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/37.40.48-D.jpg"
+    ],
+    "title": "Stone Oil Lamp",
+    "what": [
+        "Stone",
+        "Lighting devices",
+        "Talc",
+        "Steatite",
+        "Lamps"
+    ],
+    "when": "A.D. 500-1000",
+    "where": [
+        "Asia",
+        "Iran",
+        "Khurasan",
+        "Nishapur"
+    ]
+}

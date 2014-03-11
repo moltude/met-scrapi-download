@@ -15,3 +15,141 @@ WARNING:root:Unable to fetch object...http://scrapi.org/object/453187
 INFO:root:Fetching page...http://scrapi.org/ids?page=11
 INFO:root:Fetching page...http://scrapi.org/ids?page=12
 INFO:root:Fetching page...http://scrapi.org/ids?page=13
+INFO:root:Fetching page...http://scrapi.org/ids?page=14
+INFO:root:Fetching page...http://scrapi.org/ids?page=15
+INFO:root:Fetching page...http://scrapi.org/ids?page=16
+INFO:root:Fetching page...http://scrapi.org/ids?page=17
+WARNING:root:Unable to fetch object...http://scrapi.org/object/203828
+INFO:root:Fetching page...http://scrapi.org/ids?page=18
+INFO:root:Fetching page...http://scrapi.org/ids?page=19
+WARNING:root:Unable to fetch object...http://scrapi.org/object/203869
+INFO:root:Fetching page...http://scrapi.org/ids?page=20
+WARNING:root:Unable to fetch object...http://scrapi.org/object/465524
+INFO:root:Fetching page...http://scrapi.org/ids?page=21
+INFO:root:Fetching page...http://scrapi.org/ids?page=22
+INFO:root:Fetching page...http://scrapi.org/ids?page=23
+INFO:root:Fetching page...http://scrapi.org/ids?page=24
+INFO:root:Fetching page...http://scrapi.org/ids?page=25
+INFO:root:Fetching page...http://scrapi.org/ids?page=26
+INFO:root:Fetching page...http://scrapi.org/ids?page=27
+INFO:root:Fetching page...http://scrapi.org/ids?page=28
+INFO:root:Fetching page...http://scrapi.org/ids?page=29
+INFO:root:Fetching page...http://scrapi.org/ids?page=30
+INFO:root:Fetching page...http://scrapi.org/ids?page=31
+INFO:root:Fetching page...http://scrapi.org/ids?page=32
+INFO:root:Fetching page...http://scrapi.org/ids?page=33
+INFO:root:Fetching page...http://scrapi.org/ids?page=34
+INFO:root:Fetching page...http://scrapi.org/ids?page=35
+INFO:root:Fetching page...http://scrapi.org/ids?page=36
+INFO:root:Fetching page...http://scrapi.org/ids?page=37
+INFO:root:Fetching page...http://scrapi.org/ids?page=38
+INFO:root:Fetching page...http://scrapi.org/ids?page=39
+INFO:root:Fetching page...http://scrapi.org/ids?page=40
+INFO:root:Fetching page...http://scrapi.org/ids?page=41
+INFO:root:Fetching page...http://scrapi.org/ids?page=42
+WARNING:root:Unable to fetch object...http://scrapi.org/object/254611
+INFO:root:Fetching page...http://scrapi.org/ids?page=43
+ERROR:root:No ID present in object record...http://scrapi.org/object/313132
+INFO:root:Fetching page...http://scrapi.org/ids?page=44
+ERROR:root:No ID present in object record...http://scrapi.org/object/224195
+INFO:root:Fetching page...http://scrapi.org/ids?page=45
+INFO:root:Fetching page...http://scrapi.org/ids?page=46
+INFO:root:Fetching page...http://scrapi.org/ids?page=47
+INFO:root:Fetching page...http://scrapi.org/ids?page=48
+INFO:root:Fetching page...http://scrapi.org/ids?page=49
+INFO:root:Fetching page...http://scrapi.org/ids?page=50
+INFO:root:Fetching page...http://scrapi.org/ids?page=51
+INFO:root:Fetching page...http://scrapi.org/ids?page=52
+INFO:root:Fetching page...http://scrapi.org/ids?page=53
+INFO:root:Fetching page...http://scrapi.org/ids?page=54
+INFO:root:Fetching page...http://scrapi.org/ids?page=55
+INFO:root:Fetching page...http://scrapi.org/ids?page=56
+INFO:root:Fetching page...http://scrapi.org/ids?page=57
+INFO:root:Fetching page...http://scrapi.org/ids?page=58
+INFO:root:Fetching page...http://scrapi.org/ids?page=59
+ERROR:root:No ID present in object record...http://scrapi.org/object/225849
+INFO:root:Fetching page...http://scrapi.org/ids?page=60
+WARNING:root:Unable to fetch object...http://scrapi.org/object/12060
+INFO:root:Fetching page...http://scrapi.org/ids?page=61
+INFO:root:Fetching page...http://scrapi.org/ids?page=62
+INFO:root:Fetching page...http://scrapi.org/ids?page=63
+INFO:root:Fetching page...http://scrapi.org/ids?page=64
+INFO:root:Fetching page...http://scrapi.org/ids?page=65
+ERROR:root:No ID present in object record...http://scrapi.org/object/83951
+INFO:root:Fetching page...http://scrapi.org/ids?page=66
+INFO:root:Fetching page...http://scrapi.org/ids?page=67
+INFO:root:Fetching page...http://scrapi.org/ids?page=68
+WARNING:root:Unable to fetch object...http://scrapi.org/object/110348
+INFO:root:Fetching page...http://scrapi.org/ids?page=69
+ERROR:root:No ID present in object record...http://scrapi.org/object/198236
+INFO:root:Fetching page...http://scrapi.org/ids?page=70
+INFO:root:Fetching page...http://scrapi.org/ids?page=71
+INFO:root:Fetching page...http://scrapi.org/ids?page=72
+ERROR:root:No ID present in object record...http://scrapi.org/object/91767
+INFO:root:Fetching page...http://scrapi.org/ids?page=73
+ERROR:root:No ID present in object record...http://scrapi.org/object/36072
+INFO:root:Fetching page...http://scrapi.org/ids?page=74
+INFO:root:Fetching page...http://scrapi.org/ids?page=75
+INFO:root:Fetching page...http://scrapi.org/ids?page=76
+INFO:root:Fetching page...http://scrapi.org/ids?page=77
+INFO:root:Fetching page...http://scrapi.org/ids?page=78
+INFO:root:Fetching page...http://scrapi.org/ids?page=79
+INFO:root:Fetching page...http://scrapi.org/ids?page=80
+INFO:root:Fetching page...http://scrapi.org/ids?page=81
+INFO:root:Fetching page...http://scrapi.org/ids?page=82
+INFO:root:Fetching page...http://scrapi.org/ids?page=83
+INFO:root:Fetching page...http://scrapi.org/ids?page=84
+INFO:root:Fetching page...http://scrapi.org/ids?page=85
+INFO:root:Fetching page...http://scrapi.org/ids?page=86
+INFO:root:Fetching page...http://scrapi.org/ids?page=87
+ERROR:root:No ID present in object record...http://scrapi.org/object/251628
+INFO:root:Fetching page...http://scrapi.org/ids?page=88
+INFO:root:Fetching page...http://scrapi.org/ids?page=89
+ERROR:root:No ID present in object record...http://scrapi.org/object/116690
+INFO:root:Fetching page...http://scrapi.org/ids?page=90
+INFO:root:Fetching page...http://scrapi.org/ids?page=91
+INFO:root:Fetching page...http://scrapi.org/ids?page=92
+INFO:root:Fetching page...http://scrapi.org/ids?page=93
+INFO:root:Fetching page...http://scrapi.org/ids?page=94
+INFO:root:Fetching page...http://scrapi.org/ids?page=95
+INFO:root:Fetching page...http://scrapi.org/ids?page=96
+INFO:root:Fetching page...http://scrapi.org/ids?page=97
+ERROR:root:No ID present in object record...http://scrapi.org/object/112854
+INFO:root:Fetching page...http://scrapi.org/ids?page=98
+INFO:root:Fetching page...http://scrapi.org/ids?page=99
+INFO:root:Fetching page...http://scrapi.org/ids?page=100
+INFO:root:Fetching page...http://scrapi.org/ids?page=101
+INFO:root:Fetching page...http://scrapi.org/ids?page=102
+INFO:root:Fetching page...http://scrapi.org/ids?page=103
+INFO:root:Fetching page...http://scrapi.org/ids?page=104
+ERROR:root:No ID present in object record...http://scrapi.org/object/446566
+INFO:root:Fetching page...http://scrapi.org/ids?page=105
+INFO:root:Fetching page...http://scrapi.org/ids?page=106
+INFO:root:Fetching page...http://scrapi.org/ids?page=107
+INFO:root:Fetching page...http://scrapi.org/ids?page=108
+WARNING:root:Unable to fetch object...http://scrapi.org/object/198761
+INFO:root:Fetching page...http://scrapi.org/ids?page=109
+INFO:root:Fetching page...http://scrapi.org/ids?page=110
+INFO:root:Fetching page...http://scrapi.org/ids?page=111
+ERROR:root:No ID present in object record...http://scrapi.org/object/42588
+INFO:root:Fetching page...http://scrapi.org/ids?page=112
+INFO:root:Fetching page...http://scrapi.org/ids?page=113
+INFO:root:Fetching page...http://scrapi.org/ids?page=114
+ERROR:root:No ID present in object record...http://scrapi.org/object/88086
+INFO:root:Fetching page...http://scrapi.org/ids?page=115
+ERROR:root:No ID present in object record...http://scrapi.org/object/254611
+ERROR:root:No ID present in object record...http://scrapi.org/object/550053
+INFO:root:Fetching page...http://scrapi.org/ids?page=116
+INFO:root:Fetching page...http://scrapi.org/ids?page=117
+WARNING:root:Unable to fetch object...http://scrapi.org/object/284709
+ERROR:root:No ID present in object record...http://scrapi.org/object/554792
+INFO:root:Fetching page...http://scrapi.org/ids?page=118
+INFO:root:Fetching page...http://scrapi.org/ids?page=119
+INFO:root:Fetching page...http://scrapi.org/ids?page=120
+ERROR:root:No ID present in object record...http://scrapi.org/object/199486
+ERROR:root:No ID present in object record...http://scrapi.org/object/322060
+ERROR:root:No ID present in object record...http://scrapi.org/object/187762
+INFO:root:Fetching page...http://scrapi.org/ids?page=121
+INFO:root:Fetching page...http://scrapi.org/ids?page=122
+ERROR:root:No ID present in object record...http://scrapi.org/object/12060
+INFO:root:Fetching page...http://scrapi.org/ids?page=123

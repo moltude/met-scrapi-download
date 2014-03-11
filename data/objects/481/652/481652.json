@@ -1,0 +1,141 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/481651"
+            },
+            {
+                "href": "http://scrapi.org/object/481656"
+            },
+            {
+                "href": "http://scrapi.org/object/488569"
+            },
+            {
+                "href": "http://scrapi.org/object/488570"
+            },
+            {
+                "href": "http://scrapi.org/object/495204"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 24, 2014",
+                "href": "/exhibitions/listings/2014/lucas-samaras",
+                "rel": "Lucas Samaras"
+            },
+            {
+                "date": "From December 17, 2013",
+                "href": "/exhibitions/listings/2013/metropolitan-vanities",
+                "rel": "Metropolitan Vanities"
+            },
+            {
+                "date": "From October 22, 2013",
+                "href": "/exhibitions/listings/2013/william-kentridge",
+                "rel": "William Kentridge"
+            },
+            {
+                "date": "From April 29, 2014",
+                "href": "/exhibitions/listings/2014/dan-graham",
+                "rel": "The Roof Garden Commission: Dan Graham"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/modern-art-french?eid=R027_%7b96311A2D-1D25-45BE-83E2-2054BC16D70B%7d_20140311133000",
+                "rel": "Art Moderne et Contemporain (Modern and Contemporary Art in French)"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R105_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140311144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R106_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140312144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R027_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140313140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R107_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140313144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=A076_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20131126112236",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/faces?eid=A002_%7b8EAA5A8F-1DA9-4AC7-8199-BDE367AC2FB1%7d_20140124163826",
+                "rel": "Faces! Drawing in the Galleries for Adults"
+            },
+            {
+                "date": "March 18, 2014",
+                "href": "/events/programs/tours/modern-art-french?eid=R028_%7b96311A2D-1D25-45BE-83E2-2054BC16D70B%7d_20140318133000",
+                "rel": "Art Moderne et Contemporain (Modern and Contemporary Art in French)"
+            },
+            {
+                "date": "March 20, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R028_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140320140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/dsgn1/hd_dsgn1.htm",
+                "rel": "Design, 1900\u201325"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/frdc/hd_frdc.htm",
+                "rel": "French Art Deco"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/481652"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/481652"
+        }
+    },
+    "accession number": "1977.226.3",
+    "credit line": "Gift of Mr. and Mrs. Peter M. Brant, 1977",
+    "date": "1928",
+    "department": "Modern and Contemporary Art",
+    "description": "Although most Art Deco patrons were French, one of the era\u2019s most complete, important residential design projects was realized in America: a penthouse apartment in San Francisco designed for Templeton Crocker (1884\u20131948), the millionaire grandson of the founder of the Union Pacific Railroad Company. Completed in 1928, the apartment contained a master bedroom, dining room,and breakfast room by Dunand; the noted French designers Jean-Michel Frank, Pierre Legrain, and Madame Lipska created the other rooms. The apartment was dismantled and sold in 1959.The \u201csponged\u201d surface of Dunand\u2019s master-bedroom furniture is characteristic of lacque arrach\u00e9, a technique in which a final coat of lacquer (here, metallic gray) is applied over a roughened layer (black). By polishing the entire surface, the raised peaks of the black lacquer were revealed, creating a mottled yet smooth effect. This unusual table from the bedroom suite illustrates a rare instance in which the vocabulary of Cubism is able to transform a utilitarian piece of furniture into a piece of abstract sculpture.",
+    "dimensions": "H. 16, L. 40, D. 19-1/2 inches",
+    "id": 481652,
+    "image": "http://images.metmuseum.org/CRDImages/ma/original/DP282018.jpg",
+    "medium": "Lacquered wood, goatskin, white gold",
+    "provenance": [
+        "Ex collection: Templeton Crocker, 925 Green Street, San Francisco, California"
+    ],
+    "title": "Bench",
+    "what": [
+        "Metal",
+        "Gold",
+        "Furniture",
+        "Seating furniture",
+        "Benches",
+        "Goatskin"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Jean Dunand"
+}

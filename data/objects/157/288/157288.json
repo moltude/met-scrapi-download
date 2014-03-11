@@ -1,0 +1,117 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/81103"
+            },
+            {
+                "href": "http://scrapi.org/object/106746"
+            },
+            {
+                "href": "http://scrapi.org/object/157810"
+            },
+            {
+                "href": "http://scrapi.org/object/158520"
+            },
+            {
+                "href": "http://scrapi.org/object/173999"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R150_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140407130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/157288"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/157288"
+        }
+    },
+    "accession number": "2009.300.246",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of the estate of Mrs. Arthur F. Schermerhorn, 1957",
+    "culture": "French",
+    "date": "1910",
+    "department": "Costume Institute",
+    "description": "Transitioning from the popular S-curve silhouette, this fashionable and eye-catching dress is more streamlined, with a slightly raised waist, introducing a more modern look.  What is of most interest is the surprising combination of materials, using both polka dots and paisley patterns.  Both of these prints have sustained the fashion cycle and remain familiar to our twentieth century eye.",
+    "dimensions": "Length at CB 74 in. (188 cm)",
+    "id": 157288,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/57.83.23_threequarter_front_CP3.jpg",
+    "medium": "silk, linen",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/57.83.23_threequarter_front_CP3.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/57.83.23_threequarter_back_CP3.jpg"
+    ],
+    "title": "Evening dress",
+    "what": [
+        "Costume",
+        "Silk",
+        "Linen",
+        "Dresses",
+        "Evening dresses"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Weeks"
+}

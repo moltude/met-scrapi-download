@@ -1,0 +1,123 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/544703"
+            },
+            {
+                "href": "http://scrapi.org/object/551134"
+            },
+            {
+                "href": "http://scrapi.org/object/551118"
+            },
+            {
+                "href": "http://scrapi.org/object/551119"
+            },
+            {
+                "href": "http://scrapi.org/object/551121"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A145_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113221",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/talks/gallery-talks/egyptian-sculpture?eid=A002_%7b09B70F74-B68F-4731-A787-D861CCC990BA%7d_20140123144040",
+                "rel": "Egyptian Sculpture"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/cleopatra-welcome-and-introduction?eid=A001_%7bCE6C92F7-59C2-4721-A363-E48BE5CF7EBF%7d_20140226151517",
+                "rel": "Welcome and Introduction"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=03\u00aeion=afe",
+                "rel": "Egypt, 2000\u20131000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/590952"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/590952"
+        }
+    },
+    "accession number": "86.1.14-group",
+    "credit line": "Funds from various donors, 1886",
+    "date": "ca. 1279\u20131213 B.C.",
+    "department": "Egyptian Art",
+    "description": "Essential items of funerary equipment from the New Kingdom on, shabti figures, of which there could be from 1 to over 400 examples in a single tomb, were meant to substitute for the deceased whenever he or she was called upon to perform manual labor in the afterlife. One example here is inscribed with a version of Spell 6 from the Book of Coming Forth by Day (better known as the Book of the Dead): \"O, shabti. . . if I be summoned. . .to do any work which has to be done in the realm of the dead. . .you shall act for me on every occasion of making arable the fields, of flooding the banks, or of conveying sand from east to west: 'Here I am,' you will say.\" (after Faulkner, The Ancient Egyptian Book of the Dead). The others bear the name of the deceased with whom they were associated.The wooden shabti box is inscribed for Paramnekhu, a servant in the Place of Truth (royal artisan) who was a son or grandson of Sennedjem in whose tomb (TT 1) the box was found. The shabti figures, from left to right, are inscribed for Sennedjem's wife Iineferty and her eldest son, Khabekhnet (86.1.18); for another son, Khonsu (86.1.21); for Khabekhnet alone (67.80); and for a female relative named Mose (86.1.28). Although Khabekhnet and Khonsu had a separate tomb complex (TT 2) near that of their father, they are depicted with their siblings in the decoration of Sennedjem's burial chamber, and objects inscribed with their names (including Khonsu's coffins and mummy) were buried in the family tomb. Other objects in the collection that were discovered in Sennedjem's tomb are numbered 86.1.1\u201386.1.29.",
+    "dimensions": [
+        "Shabti box (86.1.14) H. 28.5 cm (11 1/4 in)",
+        "Shabti of Khaibekhnet and Ineferty (86.1.18) H. 16.7 cm (6 9/16 in)",
+        "Shabti of Khonsu (86.1.21) H. 17.7 cm (6 15/16 in)",
+        "Shabti of Khaibekhnet (67.80) H. 18.6 cm (7 5/16 in)",
+        "Shabti of Mose (86.1.28) H. 15 cm (5 7/8 in)"
+    ],
+    "gallery-id": 126,
+    "id": 590952,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/DT202025.jpg",
+    "medium": "Wood, gesso, paint",
+    "provenance": [
+        "Excavated by Gaston Maspero for the Egyptian Antiquities Service, 1885-1886. Sold to the Metropolitan Museum of Art by the Egyptian government, 1886."
+    ],
+    "title": "Shabti Box of Paramnekhu with Shabtis",
+    "what": [
+        "Sculpture",
+        "Wood",
+        "Boxes",
+        "Shabti",
+        "Gesso"
+    ],
+    "when": "2000-1000 B.C.",
+    "where": [
+        "Africa",
+        "Egypt",
+        "Upper Egypt",
+        "Thebes"
+    ]
+}

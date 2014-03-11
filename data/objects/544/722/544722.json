@@ -1,0 +1,120 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/558299"
+            },
+            {
+                "href": "http://scrapi.org/object/558300"
+            },
+            {
+                "href": "http://scrapi.org/object/550819"
+            },
+            {
+                "href": "http://scrapi.org/object/548264"
+            },
+            {
+                "href": "http://scrapi.org/object/590951"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A145_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113221",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/talks/gallery-talks/egyptian-sculpture?eid=A002_%7b09B70F74-B68F-4731-A787-D861CCC990BA%7d_20140123144040",
+                "rel": "Egyptian Sculpture"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/cleopatra-welcome-and-introduction?eid=A001_%7bCE6C92F7-59C2-4721-A363-E48BE5CF7EBF%7d_20140226151517",
+                "rel": "Welcome and Introduction"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=04\u00aeion=afe",
+                "rel": "Egypt, 1000 B.C.\u20131 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/544722"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/544722"
+        }
+    },
+    "accession number": "17.2.7a, 1\u20132",
+    "credit line": "Rogers Fund, 1917",
+    "date": "ca. 975\u2013909 B.C.",
+    "department": "Egyptian Art",
+    "description": "Amenemope was a God's Father of Amun, Scribe of the Double Treasury of the Lord of the Two Lands and the House of Amun, and a member of a prominent priestly family at Thebes that had retained the same offices for generations. The two coffins are said to come from Gurna, in Western Thebes.\tThe outer and inner coffins are very similar in shape and decoration. The lids each feature a well-modeled face and the curved beard indicative of the deified dead. The exposed hands hold the mekes, or document case, associated with royalty. The body is slim and the kneecaps protuberant, and each figure wears a bright red cloth, or stola, that encircles the neck and whose ends emerge beneath the folded arms. The stola, mekes, and oversize collar are among the features that scholars have, in recent decades, recognized as distinctive of the era between 975 and 909 B.C.The figural decoration on each lid is in miniature, finely executed in a polychrome palette. For the most part, the scenes illustrated are those of adoration and presentation. The gods usually appear in raised relief, while the deceased is shown in painted line only.\tThe decoration on the inside of the outer box includes various religious and emblematic scenes centered on the mummified figure of the deified Amenhotep I. On the inside of the inner coffin, other figures of the same king also appear, though in an area that has been smudged with embalming fluid.",
+    "dimensions": "l. 211 cm (83 1/16 in) h. 47 cm (18 1/2  in)",
+    "gallery-id": 126,
+    "id": 544722,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/17.2.7A.JPG",
+    "medium": "Wood, paint, gesso",
+    "provenance": [
+        "Purchased by the Museum from Sayed Melettam, Luxor, in 1917."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/eg/original/17.2.7A.JPG",
+        "http://images.metmuseum.org/CRDImages/eg/original/eg17.2.7a.jpg"
+    ],
+    "title": "Outer coffin of Amenemopet",
+    "what": [
+        "Wood",
+        "Funerary containers",
+        "Coffins",
+        "Gesso"
+    ],
+    "when": "1000 B.C.-A.D. 1",
+    "where": [
+        "Africa",
+        "Egypt",
+        "Upper Egypt",
+        "Thebes"
+    ]
+}

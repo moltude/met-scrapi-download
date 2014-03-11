@@ -1,0 +1,86 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/339200"
+            },
+            {
+                "href": "http://scrapi.org/object/339199"
+            },
+            {
+                "href": "http://scrapi.org/object/339201"
+            },
+            {
+                "href": "http://scrapi.org/object/339202"
+            },
+            {
+                "href": "http://scrapi.org/object/339203"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=na",
+                "rel": "The United States and Canada, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/339510"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/339510"
+        }
+    },
+    "accession number": "41.12.74",
+    "credit line": "Gift of Bessie Potter Vonnoh, 1941",
+    "date": "1895",
+    "department": "Drawings and Prints",
+    "dimensions": "13 3/16 x 9 in. (image); 13 1/2 x 9 5/16 in. (sheet)",
+    "id": 339510,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP823834.jpg",
+    "medium": "Commercial relief process and letterpress; red, blue, and green on light green paper",
+    "provenance": [
+        "Donor: Bessie Potter Vonnoh (American, St. Louis, Missouri 1872\u20131955 New York)"
+    ],
+    "title": "HARPER'S / SEPTEMBER / [contents]",
+    "what": [
+        "Prints",
+        "Paper"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "Edward Penfield"
+}

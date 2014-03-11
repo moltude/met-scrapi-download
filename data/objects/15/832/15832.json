@@ -1,0 +1,124 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/15819"
+            },
+            {
+                "href": "http://scrapi.org/object/15820"
+            },
+            {
+                "href": "http://scrapi.org/object/15821"
+            },
+            {
+                "href": "http://scrapi.org/object/15822"
+            },
+            {
+                "href": "http://scrapi.org/object/15823"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 18, 2013",
+                "href": "/exhibitions/listings/2013/american-west",
+                "rel": "The American West in Bronze, 1850\u20131925"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R105_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140311120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R079_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140311134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R106_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140312120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R080_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140312134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R107_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140313120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R081_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140313134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/saturday-seminar-spring-2014?eid=R002_%7bE063A39F-FC40-4ECC-B690-C4C13F70B2A0%7d_20140315103000",
+                "rel": "Saturday Seminar with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/programs-for-visitors-with-disabilities/visitors-with-developmental-and-learning-disabilities/discoveries-westward-bound?eid=A001_%7bE5928C68-7EDB-4853-BA5C-44B6BAEFED3E%7d_20140206162625",
+                "rel": "Discoveries\u2014Westward Bound (Ages 18 and above)"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/programs-for-visitors-with-disabilities/visitors-with-developmental-and-learning-disabilities/discoveries-family-westward-bound?eid=A001_%7b4560930D-CFDB-4C16-9050-2BA6AE2F478C%7d_20140206163830",
+                "rel": "Discoveries\u2014Westward Bound (Ages 5\u201317)"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/talks/gallery-talks/the-american-west-in-bronze-spring?eid=A001_%7b354F82EB-4CF6-4AA3-A112-410983A132BF%7d_20140206161314",
+                "rel": "Exhibition Tour\u2014The American West in Bronze, 1850\u20131925"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/amer/hd_amer.htm",
+                "rel": "America Comes of Age: 1876\u20131900"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/hurs/hd_hurs.htm",
+                "rel": "The Hudson River School"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=na",
+                "rel": "The United States and Canada, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/15832"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/15832"
+        }
+    },
+    "accession number": "1995.379.4ww recto",
+    "credit line": "Bequest of Marguerite H. Rohlfs, 1995",
+    "date": "1890",
+    "department": "American Paintings and Sculpture",
+    "dimensions": "4 3/4 x 7 3/4 in. (12.1 x 19.7 cm)",
+    "id": 15832,
+    "image": "http://images.metmuseum.org/CRDImages/ap/original/261383.jpg",
+    "medium": "Graphite on wove paper",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ap/original/261383.jpg",
+        "http://images.metmuseum.org/CRDImages/ap/original/261384.jpg"
+    ],
+    "title": "Tree (from Sketchbook)",
+    "what": [
+        "Drawings",
+        "Paper",
+        "Graphite",
+        "Wove paper"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "Albert Bierstadt"
+}

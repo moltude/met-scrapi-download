@@ -1,0 +1,120 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/86476"
+            },
+            {
+                "href": "http://scrapi.org/object/156040"
+            },
+            {
+                "href": "http://scrapi.org/object/173723"
+            },
+            {
+                "href": "http://scrapi.org/object/78973"
+            },
+            {
+                "href": "http://scrapi.org/object/154116"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R150_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140407130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwf",
+                "rel": "France, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/156035"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/156035"
+        }
+    },
+    "accession number": "2009.300.1331a\u2013e",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. Frederick H. Prince, Jr., 1967",
+    "culture": "French",
+    "date": "1895\u20131900",
+    "department": "Costume Institute",
+    "description": "Since the 18th century, going to the seaside to experience the restorative effects of salt water and sea air was a common practice. During the 19th century, holidays at the beach were not only seen as beneficial to one's health, but also as fun. Women who participated in these outings wore modest bathing dresses or bathing costumes that many times were not meant to actually swim in, but rather as a more comfortable alternative to the many-layered ensembles of the period. They were worn while walking along the shore or romping in the shallow waves, and were often made in materials, such as the taffeta of this ensemble, that would be ruined by the water.  However functional a bathing ensemble appeared, bathers were still required to wear elements such as a corset and stockings to remain modest. This particular fashionable bathing ensemble comes with two headwear options that would protect the wearer from salt water and sun.",
+    "dimensions": [
+        "Length at CB (a) 40 in. (101.6 cm)",
+        "(d) 14 x 13 1/2 in. (35.6 x 34.3 cm)"
+    ],
+    "id": 156035,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/67.110.95a-b_d-e_front_CP4.jpg",
+    "medium": "silk, cotton, mother-of-pearl",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/67.110.95a-b_d-e_front_CP4.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/67.110.95a-b_d-e_back_CP4.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/67.110.95a-c_e_CP4.jpg"
+    ],
+    "title": "Beachwear",
+    "what": [
+        "Costume",
+        "Silk",
+        "Cotton",
+        "Pearl",
+        "Sports clothing",
+        "Beachwear"
+    ],
+    "where": [
+        "Europe",
+        "France"
+    ]
+}

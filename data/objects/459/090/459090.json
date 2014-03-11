@@ -1,0 +1,140 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/436541"
+            },
+            {
+                "href": "http://scrapi.org/object/436545"
+            },
+            {
+                "href": "http://scrapi.org/object/436542"
+            },
+            {
+                "href": "http://scrapi.org/object/436543"
+            },
+            {
+                "href": "http://scrapi.org/object/436544"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R125_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140303134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R126_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140304134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R127_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140305134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R128_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140306134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R129_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140307134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R130_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140310134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R131_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140311134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R132_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140312134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R133_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140313134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R134_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140314134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/goya/hd_goya.htm",
+                "rel": "Francisco de Goya (1746\u20131828) and the Spanish Enlightenment"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=eusi",
+                "rel": "Iberian Peninsula, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/459090"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/459090"
+        }
+    },
+    "accession number": "1975.1.148",
+    "credit line": [
+        "Robert Lehman Collection, 1975",
+        "1975.1.148"
+    ],
+    "date": "1787\u201388",
+    "department": "Robert Lehman Collection",
+    "description": "This imposing portrait is one of four that Goya painted of members of Count Altamira's family. (Another is the Museum's portrait of Don Manuel Osorio Manrique de Zu\u00f1iga [49.7.41].) The patronage of this powerful family greatly advanced the artist's career; shortly after this work was completed, he was appointed court painter to Charles IV, king of Spain. Goya's brilliant treatment of the countess' gown, with its shimmering embroidered silk, attests to his mastery of technique, while the distant, introspective expressions of the sitters reveal his ability to endow even the most formal of portraits with a penetrating psychological immediacy.",
+    "dimensions": "76 3/4 x 45 1/4 in. (195 x 115 cm)",
+    "gallery-id": 612,
+    "id": 459090,
+    "image": "http://images.metmuseum.org/CRDImages/rl/original/DP295708.jpg",
+    "medium": "Oil on canvas",
+    "provenance": [
+        "Commissioned by Vicente Joaqu\u00edn Osorio Moscoso y Guzm\u00e1n (1756\u20131816), 11th conde de Altamira and marqu\u00e9s de Astorga",
+        "by descent to Vicente P\u00edo Osorio de Moscoso Ponce de Le\u00f3n (1801\u20131864), conde de Altamira",
+        "by descent to his daughter, Mar\u00eda Rosal\u00eda Luisa, duquesa de Baena, until ca.1870",
+        "marqu\u00e9s de Corvera, Madrid, 1900",
+        "L\u00e9opold Goldschmidt, Paris, ca.1903",
+        "Count Pastr\u00e9, Paris",
+        "[F. Kleinberger Galleries, Paris, ca. 1910]",
+        "acquired by Philip Lehman from Kleinberger in October 1911."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/rl/original/DP295708.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/DP296530.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/DP296532.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/DP296533.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/DP296534.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/DT716.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/0799.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/ep1975.1.148.bw.R.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/rl1975.1.148.R.jpg"
+    ],
+    "title": "Condesa de Altamira and Her Daughter, Mar\u00eda Agustina",
+    "what": [
+        "Paintings",
+        "Canvas",
+        "Oil paintings"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "Spain"
+    ],
+    "who": "Goya (Francisco de Goya y Lucientes)"
+}

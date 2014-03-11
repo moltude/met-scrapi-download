@@ -1,0 +1,104 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/155848"
+            },
+            {
+                "href": "http://scrapi.org/object/155926"
+            },
+            {
+                "href": "http://scrapi.org/object/156765"
+            },
+            {
+                "href": "http://scrapi.org/object/156899"
+            },
+            {
+                "href": "http://scrapi.org/object/156902"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R150_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140407130000",
+                "rel": "Fashion in Art"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/157141"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/157141"
+        }
+    },
+    "accession number": "2009.300.2328",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Henry DuPont, 1932",
+    "culture": "European, Eastern",
+    "date": "ca. 1930",
+    "department": "Costume Institute",
+    "description": "The black accents add a decorative and individual character to the otherwise functional form of this hat, which is made from indigenous materials for warmth and protection from the elements. The hat is identified as being from Yugoslavia (the \"land of south Slavs\"), a name that was formally adopted in 1929 for the post-World War I Balkan region known as the Kingdom of Serbs, Croats, and Slovenes. The governance and make-up of the country known as Yugoslavia, at the crossroads of a politically sensitive region, changed repeatedly during the 20th century. Temporarily dissolved during World War II, the name was abolished in 2003 in favor of the State Union of Serbia and Montenegro; the state itself ceased to exist by 2006. The hat was given to the collection by Henry F. DuPont, who had an important folk costume collection.",
+    "dimensions": "10 x 18 1/2 in. (25.4 x 47 cm)",
+    "id": 157141,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/32.1669.2_CP4.jpg",
+    "medium": "wool",
+    "title": "Hat",
+    "what": [
+        "Costume",
+        "Wool",
+        "Hats"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe"
+    ]
+}

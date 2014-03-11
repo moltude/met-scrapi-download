@@ -1,0 +1,127 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/451946"
+            },
+            {
+                "href": "http://scrapi.org/object/446964"
+            },
+            {
+                "href": "http://scrapi.org/object/447185"
+            },
+            {
+                "href": "http://scrapi.org/object/446907"
+            },
+            {
+                "href": "http://scrapi.org/object/451041"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A232_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134244",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A237_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134557",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/programs-for-visitors-with-disabilities/visitors-who-are-deaf/beauty-and-innovation?eid=A001_%7b77D8F57E-5FC9-4578-8A95-30A43C89CFDD%7d_20140210164006",
+                "rel": "Met Signs Tours in ASL\u2014Beauty and Innovation: Understanding Islamic Art"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A251_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114408",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=07\u00aeion=wai",
+                "rel": "Iran, 1000\u20131400 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/451434"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/451434"
+        }
+    },
+    "accession number": "57.61.6",
+    "credit line": "Henry G. Leberthon Collection, Gift of Mr. and Mrs. A. Wallace Chauncey, 1957",
+    "culture": "Islamic",
+    "date": "late 12th\u2013early 13th century",
+    "department": "Islamic Art",
+    "description": "In one group of ceramics, potters combined the technique of mina'i painting with decoration in low relief, which is further highlighted by gilding, to create an even more sumptuous effect. The imagery on this bottle conveys the princely themes so characteristic of the Seljuq period: enthroned rulers, seated sphinxes, and entertainers, against raised and gilded patterns of foliate and zigzag designs. A band with a Persian inscription, also raised and gilded, divides the shoulder from the body.",
+    "dimensions": [
+        "H. 12 1/2 in. (31.8 cm)",
+        "Diam. 8 in. (20.3 cm)"
+    ],
+    "gallery-id": 453,
+    "id": 451434,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/Cbottle57.61.6.jpg",
+    "medium": "Stonepaste; applied decoration, polychrome inglaze and overglaze painted and gilded on opaque monochrome glaze (mina'i)",
+    "provenance": [
+        "Henry G. Leberthon,  Hempstead, NY (by 1931\u2013d. 1939; bequeathed to Mrs. Chauncey)",
+        "Louise Ruxton Chauncey, New York (1939\u201357; gifted to MMA)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/Cbottle57.61.6.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-57.61.6.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-57.61.6b.JPG"
+    ],
+    "title": "Two Gilded Mina'i Ceramics",
+    "what": [
+        "Ceramics",
+        "Vessels",
+        "Gilt",
+        "Painting",
+        "Glaze",
+        "Bottles",
+        "Overglazing"
+    ],
+    "when": "A.D. 1000-1400",
+    "where": [
+        "Asia",
+        "Iran"
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/92196"
+            },
+            {
+                "href": "http://scrapi.org/object/129816"
+            },
+            {
+                "href": "http://scrapi.org/object/129817"
+            },
+            {
+                "href": "http://scrapi.org/object/130133"
+            },
+            {
+                "href": "http://scrapi.org/object/129658"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R150_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140407130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwb",
+                "rel": "Great Britain and Ireland, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/129822"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/129822"
+        }
+    },
+    "accession number": "2006.373a\u2013h",
+    "credit line": "Gift of Richard James, 2006",
+    "culture": "British",
+    "date": "2006",
+    "department": "Costume Institute",
+    "dimensions": [
+        "Length at CB (a) 33 in. (83.8 cm)",
+        "Length at Side Seam (b) 49 in. (124.5 cm)",
+        "Length at CB (c) 34 in. (86.4 cm)",
+        "Length (d) 61 in. (154.9 cm)",
+        "Length (e,f) 1 1/4 in. (3.2 cm)",
+        "Length (g,h) 1 1/4 in. (3.2 cm)"
+    ],
+    "id": 129822,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/2006.373acd_F.jpg",
+    "medium": "a) wool, silk, plastic; b) wool, cotton, plastic; c) cotton, plastic; d) silk; e-h) acrylic, metal",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.373acd_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.373a_label.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.373a_label2.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.373b_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.373c_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.373c_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.373c_label.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.373d.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.373g\u2013j_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/br.1156.jpg"
+    ],
+    "title": "Suit",
+    "what": [
+        "Metal",
+        "Costume",
+        "Silk",
+        "Cotton",
+        "Wool",
+        "Plastic",
+        "Suits",
+        "Acrylic"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "United Kingdom"
+    ],
+    "who": "Richard James"
+}

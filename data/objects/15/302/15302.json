@@ -1,0 +1,140 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/13503"
+            },
+            {
+                "href": "http://scrapi.org/object/9819"
+            },
+            {
+                "href": "http://scrapi.org/object/13585"
+            },
+            {
+                "href": "http://scrapi.org/object/17523"
+            },
+            {
+                "href": "http://scrapi.org/object/5498"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 18, 2013",
+                "href": "/exhibitions/listings/2013/american-west",
+                "rel": "The American West in Bronze, 1850\u20131925"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R105_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140311120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R079_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140311134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R106_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140312120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R080_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140312134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R107_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140313120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R081_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140313134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/saturday-seminar-spring-2014?eid=R002_%7bE063A39F-FC40-4ECC-B690-C4C13F70B2A0%7d_20140315103000",
+                "rel": "Saturday Seminar with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/programs-for-visitors-with-disabilities/visitors-with-developmental-and-learning-disabilities/discoveries-westward-bound?eid=A001_%7bE5928C68-7EDB-4853-BA5C-44B6BAEFED3E%7d_20140206162625",
+                "rel": "Discoveries\u2014Westward Bound (Ages 18 and above)"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/programs-for-visitors-with-disabilities/visitors-with-developmental-and-learning-disabilities/discoveries-family-westward-bound?eid=A001_%7b4560930D-CFDB-4C16-9050-2BA6AE2F478C%7d_20140206163830",
+                "rel": "Discoveries\u2014Westward Bound (Ages 5\u201317)"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/talks/gallery-talks/the-american-west-in-bronze-spring?eid=A001_%7b354F82EB-4CF6-4AA3-A112-410983A132BF%7d_20140206161314",
+                "rel": "Exhibition Tour\u2014The American West in Bronze, 1850\u20131925"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/amer/hd_amer.htm",
+                "rel": "America Comes of Age: 1876\u20131900"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/artn/hd_artn.htm",
+                "rel": "Art Nouveau"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/tiff/hd_tiff.htm",
+                "rel": "Louis Comfort Tiffany (1848\u20131933)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/ajew/hd_ajew.htm",
+                "rel": "Nineteenth\u2013Century American Jewelry"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/acam/hd_acam.htm",
+                "rel": "The Arts and Crafts Movement in America"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/15302"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/15302"
+        }
+    },
+    "accession number": "1995.204",
+    "credit line": "Gift of Frank Stanton, in memory of Ruth Stephenson Stanton, 1995",
+    "culture": "American",
+    "date": "ca. 1902\u20131915",
+    "department": "American Decorative Arts",
+    "dimensions": "100 x 56 in. (254 x 142.2 cm)",
+    "gallery-id": 743,
+    "id": 15302,
+    "image": "http://images.metmuseum.org/CRDImages/ad/original/DT3875.jpg",
+    "medium": "Leaded Favrile glass",
+    "title": "Dogwood",
+    "what": [
+        "Glass",
+        "Windows"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States",
+        "New York",
+        "New York City"
+    ],
+    "who": [
+        "Louis Comfort Tiffany",
+        "Tiffany Studios"
+    ]
+}

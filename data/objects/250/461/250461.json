@@ -1,0 +1,119 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/255912"
+            },
+            {
+                "href": "http://scrapi.org/object/250218"
+            },
+            {
+                "href": "http://scrapi.org/object/248103"
+            },
+            {
+                "href": "http://scrapi.org/object/248707"
+            },
+            {
+                "href": "http://scrapi.org/object/248706"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R105_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140311123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R106_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140313123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R027_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140313130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R107_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140314123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/conversations-with-curators-and-conservators/terracotta-column-krater?eid=A001_%7b1CC4797D-7295-4614-9ACD-19C00BA693F4%7d_20140204162630",
+                "rel": "Conversation with a Curator\u2014Terracotta Column-Krater"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A144_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142257",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A145_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142312",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R116_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140331123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R117_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140401123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=04\u00aeion=eust",
+                "rel": "Italian Peninsula, 1000 B.C.\u20131 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=05\u00aeion=eust",
+                "rel": "Italian Peninsula, 1\u2013500A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/250461"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/250461"
+        }
+    },
+    "accession number": "17.194.2122",
+    "credit line": "Gift of J. Pierpont Morgan, 1917",
+    "culture": "Roman, Gallic",
+    "date": "1st century B.C.\u20131st century A.D.",
+    "department": "Greek and Roman Art",
+    "description": "The Roman pottery of the Rhone Valley is characterized by the profligate use of relief medallions applied to the exterior surface of their vases. This mold was likely used to make such a medallion, and there is another identical example as well, now in the Musee de Saint Germain, Iseres, France. This ancient clay mold (and the modern plaster case made from it displayed nearby) attests to the iconographical and pictorial complexity of such reliefs. The scene depicted here shows Mercury with his herald's staff, wearing a cape and winged shoes, seated on a rock in his sanctuary, indicated by the temple facade in upper left. He sits before a flaming altar, at which a sacrifice in his honor is being performed by a draped male figure, while a flute player provides musical accompaniment . A small ram at the lower left is perhaps the intended victim. The tortoise to the right of Mercury's foot alludes to his invention of the lyre from the shell of this creature, an early episode in his mythology preserved in the Homeric Hymn to Hermes, his Greek counterpart.",
+    "dimensions": "h. 15.19 cm.",
+    "gallery-id": 171,
+    "id": 250461,
+    "image": "http://images.metmuseum.org/CRDImages/gr/original/DP147259.jpg",
+    "medium": "Terracotta",
+    "provenance": [
+        "Said to be from Viennes (Isere), France"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/gr/original/DP147259.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP145585.jpg"
+    ],
+    "title": "Terracotta mold for a relief applique",
+    "what": [
+        "Sculpture",
+        "Clay",
+        "Vessels",
+        "Vases",
+        "Terracotta",
+        "Reliefs"
+    ],
+    "where": [
+        "Roman Empire"
+    ]
+}

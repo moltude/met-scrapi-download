@@ -1,0 +1,162 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/437468"
+            },
+            {
+                "href": "http://scrapi.org/object/437479"
+            },
+            {
+                "href": "http://scrapi.org/object/437471"
+            },
+            {
+                "href": "http://scrapi.org/object/437473"
+            },
+            {
+                "href": "http://scrapi.org/object/437474"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/piero-della-francesca",
+                "rel": "Piero della Francesca"
+            },
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "From April 22, 2014",
+                "href": "/exhibitions/listings/2014/goya",
+                "rel": "Goya and the Altamira Family"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/talks/gallery-talks/piero-della-francesca?eid=A001_%7bE50FD455-5FC1-41D0-9391-C456264363EF%7d_20140206160624",
+                "rel": "Exhibition Tour\u2014Piero della Francesca: Personal Encounters"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=A257_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20131127123002",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/monday-at-the-met-spring-2014?eid=R001_%7bBB2BF277-3666-435E-8B95-12CDE21533EA%7d_20140303100000",
+                "rel": "Monday at the Met with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R100_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140303123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R101_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140304123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R102_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140305123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R026_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140306140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R103_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140307123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/talks/the-observant-eye/stepping-out-of-the-frame?eid=A001_%7b438572AD-6B0F-4DA2-94FB-49B8931634C1%7d_20140123142901",
+                "rel": "Stepping Out of the Frame: Three-Dimensionality in the New Galleries for European Paintings"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/saturday-seminar-spring-2014?eid=R001_%7bE063A39F-FC40-4ECC-B690-C4C13F70B2A0%7d_20140308103000",
+                "rel": "Saturday Seminar with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/gard_2/hd_gard_2.htm",
+                "rel": "From Italy to France: Gardens in the Court of Louis XIV and After"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/gard_1/hd_gard_1.htm",
+                "rel": "Gardens of Western Europe, 1600\u20131800"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/frac/hd_frac.htm",
+                "rel": "The French Academy in Rome"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwf",
+                "rel": "France, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/437470"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/437470"
+        }
+    },
+    "accession number": "17.190.25",
+    "credit line": "Gift of J. Pierpont Morgan, 1917",
+    "date": "1784",
+    "department": "European Paintings",
+    "dimensions": "68 3/4 x 31 1/4 in. (174.6 x 79.4 cm)",
+    "gallery-id": 524,
+    "id": 437470,
+    "image": "http://images.metmuseum.org/CRDImages/ep/original/DP264464.jpg",
+    "medium": "Oil on canvas",
+    "provenance": [
+        "Charles Philippe, comte d'Artois, ch\u00e2teau de Bagatelle, near Paris (until 1789)",
+        "at Bagatelle, nationalized by the Assembl\u00e9e and incorporated into the commune of Neuilly by spring 1792 (1789\u201396)",
+        "Claude Leuthereau, Bagatelle (1796\u201397)",
+        "Andr\u00e9 Lh\u00e9ritier and a consortium of investors, Bagatelle (1797)",
+        "Andr\u00e9 Lh\u00e9ritier and the Soci\u00e9t\u00e9 des Entrepreneurs de F\u00eates, Bagatelle (1797\u20131806)",
+        "at Bagatelle, which was purchased by Napoleon's Administration des Domaines in 1806",
+        "sale, H\u00f4tel de Bullion, Paris, Clisorius and Masson jeune, April 4, 1808, no. 151, as \"Six Tableaux sous ce num\u00e9ro",
+        "ils repr\u00e9sentent des monuments d'Italie et amusements champ\u00eatres. Ils ont \u00e9t\u00e9s peints pour le ci-devant comte d'Artois, \u00e0 Bagatelle. Toile.\"",
+        "the lot was divided into two parts, the first went for Fr 381, the second for Fr 240, both to Brunot",
+        "?[Jacques Nicolas Brunot, from 1808]",
+        "Pierre Justin Armand Verdier, comte de Flaux, ch\u00e2teau de Flaux, near Uz\u00e8s (until d. 1883)",
+        "\u00c9douard Henri Roger Verdier, comte de Flaux, ch\u00e2teau de Flaux (1883\u2013d. 1898)",
+        "Cl\u00e9mence Pascal Verdier, comtesse douairi\u00e8re de Flaux, ch\u00e2teau de Flaux (1898\u2013d. 1908)",
+        "Flaux estate (under arbitration, 1908\u201310)",
+        "Eliane Berger, Roger de Flaux's daughter (1910\u201311; offered for sale to MMA and J. Pierpont Morgan through Maurice de Verneuil)",
+        "J. Pierpont Morgan, New York (1911\u2013d. 1913; his estate, 1913\u201317; on loan to MMA from April 1912)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ep/original/DP264464.jpg",
+        "http://images.metmuseum.org/CRDImages/ep/original/DP264481.jpg"
+    ],
+    "title": "The Mouth of a Cave",
+    "what": [
+        "Paintings",
+        "Canvas",
+        "Oil paint"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Hubert Robert"
+}

@@ -1,0 +1,134 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/451754"
+            },
+            {
+                "href": "http://scrapi.org/object/445279"
+            },
+            {
+                "href": "http://scrapi.org/object/442975"
+            },
+            {
+                "href": "http://scrapi.org/object/453503"
+            },
+            {
+                "href": "http://scrapi.org/object/451737"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A232_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134244",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A237_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134557",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/programs-for-visitors-with-disabilities/visitors-who-are-deaf/beauty-and-innovation?eid=A001_%7b77D8F57E-5FC9-4578-8A95-30A43C89CFDD%7d_20140210164006",
+                "rel": "Met Signs Tours in ASL\u2014Beauty and Innovation: Understanding Islamic Art"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A251_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114408",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/vmos/hd_vmos.htm",
+                "rel": "Venice's Principal Muslim Trading Partners: the Mamluks, the Ottomans, and the Safavids"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=wai",
+                "rel": "Iran, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/451368"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/451368"
+        }
+    },
+    "accession number": "56.222",
+    "credit line": "Rogers Fund, 1956",
+    "culture": "Islamic",
+    "date": "16th century",
+    "department": "Islamic Art",
+    "description": "The stamped and gilded techniques used for this leather binding were common in the Middle East, especially in Iran where the art first developed, and in Turkey, where it was perfected. Central almond-shaped medallions and concave fillings in the four corners are common features of Islamic books. Ottoman book covers with this kind of composition and floral design served as models for a great number of Venetian Renaissance bookbindings and, more surprisingly, Venetian furniture as well.",
+    "dimensions": [
+        "H. 14 in. (35.6 cm)",
+        "W. (closed) 10 in. (25.4 cm)",
+        "W. (open) 27 in. (68.6 cm)",
+        "D. 1 1/2 in. (3.8 cm)"
+    ],
+    "gallery-id": 462,
+    "id": 451368,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/DP137555.jpg",
+    "medium": "Leather; stamped, painted, gilded, and inset with turquoise",
+    "provenance": [
+        "[ John Howell, San Francisco, until 1956",
+        "sold to MMA]"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/DP137555.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/sf56-222a.jpg"
+    ],
+    "title": "Qur'an Bookbinding Inset with Turquoise",
+    "what": [
+        "Gilt",
+        "Leather",
+        "Painting",
+        "Manuscripts",
+        "Codices",
+        "Turquoise",
+        "Bindings",
+        "Stamping"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Asia",
+        "Iran"
+    ]
+}

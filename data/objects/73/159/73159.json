@@ -1,0 +1,153 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/36075"
+            },
+            {
+                "href": "http://scrapi.org/object/36149"
+            },
+            {
+                "href": "http://scrapi.org/object/36150"
+            },
+            {
+                "href": "http://scrapi.org/object/36152"
+            },
+            {
+                "href": "http://scrapi.org/object/36153"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 8, 2014",
+                "href": "/exhibitions/listings/2014/tibet-and-india",
+                "rel": "Tibet and India"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/chinese-carving",
+                "rel": "Colors of the Universe"
+            },
+            {
+                "date": "From July 19, 2013",
+                "href": "/exhibitions/listings/2013/chinese-snuff-bottles",
+                "rel": "Small Delights"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/ink-art",
+                "rel": "Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "From February 1, 2014",
+                "href": "/exhibitions/listings/2014/edo-period-painting",
+                "rel": "The Flowering of Edo Period Painting"
+            },
+            {
+                "date": "From April 14, 2014",
+                "href": "/exhibitions/listings/2014/lost-kingdoms",
+                "rel": "Lost Kingdoms"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/highlights-of-asia?eid=A041_%7b93924202-8616-42E2-8DA1-39A4591F1426%7d_20140122180137",
+                "rel": "Highlights of Asia"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R100_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140303111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R100_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140303131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R101_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140304111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R101_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140304120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R101_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140304131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/talks/gallery-talks/the-flowering-of-edo-period-painting-spring?eid=A001_%7bB9065A06-A3F9-4CAB-8F49-ED3038F1E7A2%7d_20140205171419",
+                "rel": "Exhibition Tour\u2014The Flowering of Edo Period Painting: Japanese Masterworks from the Feinberg Collection"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=A092_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20131018142423",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R102_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140305120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R102_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140305131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=nc",
+                "rel": "Central and North Asia, 1800\u20131900 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=eac",
+                "rel": "China, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/73159"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/73159"
+        }
+    },
+    "accession number": "2005.510.2",
+    "credit line": "The Lin Yutang Family Collection, Gift of Hsiang Ju Lin, in memory of Taiyi Lin Lai, 2005",
+    "culture": "China",
+    "date": "dated 1817",
+    "department": "Asian Art",
+    "description": "This painting portrays Li Xiangjun (fl. mid-seventeenth century), a courtesan celebrated for rebuking powerful but treacherous politicians and risking her life to remain chaste for her true love, Hou Fangyu (1618\u20131654). When a high-ranking official tried to take her by force, Li struck her head against the floor in an attempted suicide. Her blood spattered a fan given to her by Hou, which was later transformed into a painting of peach blossoms. This heroic deed was immortalized in Peach Blossom Fan, a well-known play by Kong Shangren (1648\u20131718). Above the painting is a transcription of Hou Fangyu's biography of Li.Here Li is shown in her boudoir holding a fan painted with peach blossoms. She leans against a circular opening framed by willow boughs, symbolic of her profession as a courtesan, and a grove of blossoming trees. An open book on the table tells us that she is notonly virtuous but also literate.Twelve colophons embellish this scroll, mostly written by scholars from northeastern Zhejiang between 1916 and 1927. Lin Yutang, who greatly admired Li Xiangjun, added the last colophon below the painting after purchasing it in 1934.",
+    "dimensions": [
+        "Image 20 5/8 x 49 in. (52.4 x 124.5 cm)",
+        "Overall with knobs 104 1/16 x 30 1/4 in. (264.3 x 76.8 cm)"
+    ],
+    "id": 73159,
+    "image": "http://images.metmuseum.org/CRDImages/as/original/DP146997.jpg",
+    "medium": "Hanging scroll; ink and color on paper",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/as/original/DP146997.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP146994.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP146995.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP146996.jpg"
+    ],
+    "title": "Portrait of Li Xiangjun",
+    "what": [
+        "Ink",
+        "Paper",
+        "Paintings",
+        "Scroll paintings",
+        "Scrolls",
+        "Hanging scrolls"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Asia",
+        "China"
+    ],
+    "who": "Cui He"
+}

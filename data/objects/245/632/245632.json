@@ -1,0 +1,112 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/245383"
+            },
+            {
+                "href": "http://scrapi.org/object/245486"
+            },
+            {
+                "href": "http://scrapi.org/object/245487"
+            },
+            {
+                "href": "http://scrapi.org/object/245488"
+            },
+            {
+                "href": "http://scrapi.org/object/245490"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R105_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140311123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R106_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140313123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R027_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140313130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R107_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140314123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/conversations-with-curators-and-conservators/terracotta-column-krater?eid=A001_%7b1CC4797D-7295-4614-9ACD-19C00BA693F4%7d_20140204162630",
+                "rel": "Conversation with a Curator\u2014Terracotta Column-Krater"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A144_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142257",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A145_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142312",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R116_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140331123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R117_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140401123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=04\u00aeion=eusb",
+                "rel": "Ancient Greece, 1000 B.C.\u20131 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/245632"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/245632"
+        }
+    },
+    "accession number": "91.1.1239",
+    "credit line": "Edward C. Moore Collection, Bequest of Edward C. Moore, 1891",
+    "culture": "Greek, Eastern Mediterranean",
+    "date": "late 6th\u20135th century B.C.",
+    "department": "Greek and Roman Art",
+    "description": "Opaque white, with handles and knob-base in same color; trails in translucent purple.Broad, inward-sloping oval rim-disk with radiating tool marks on upper surface and small mouth; tall cylindrical neck tapering upward; broad, sloping shoulder; elongated ovoid body tapering to a point; slanting circular base-knob with rounded edge and flat bottom; two vertical strap handles applied at top of shoulder, drawn up vertically, turned in, and pressed on to underside of rim-disk and top of neck.One uneven trail attached at edge of rim-disk; another trail wound round in an uneven spiral on shoulder, then tooled into a zigzag pattern on upper body, with twenty-two deep vertical tooling indents; a third trail applied to lower body, also tooled into an irregular zigzag pattern; finally, a fourth trail applied around edge and underside of knob-base.Complete, but part of rim-disk broken and repaired, leaving one large chip and smaller hole; internal cracks in body; dulling, pitting, and faint iridescence.",
+    "dimensions": "H. 4 3/4 in. (12.1 cm)",
+    "gallery-id": 152,
+    "id": 245632,
+    "image": "http://images.metmuseum.org/CRDImages/gr/original/DP151373.jpg",
+    "medium": "Glass; core-formed, Group I",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/gr/original/DP151373.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP276484.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP276562.jpg"
+    ],
+    "title": "Glass amphoriskos (perfume bottle)",
+    "what": [
+        "Glass",
+        "Amphorae",
+        "Neck amphorae",
+        "Amphoriskoi"
+    ],
+    "when": "1000 B.C.-A.D. 1",
+    "where": [
+        "Europe",
+        "Greece"
+    ]
+}

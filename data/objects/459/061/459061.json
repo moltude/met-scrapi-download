@@ -1,0 +1,134 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/459062"
+            },
+            {
+                "href": "http://scrapi.org/object/459063"
+            },
+            {
+                "href": "http://scrapi.org/object/459060"
+            },
+            {
+                "href": "http://scrapi.org/object/438385"
+            },
+            {
+                "href": "http://scrapi.org/object/459253"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R125_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140303134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R126_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140304134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R127_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140305134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R128_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140306134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R129_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140307134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R130_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140310134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R131_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140311134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R132_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140312134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R133_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140313134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R134_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140314134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/gera/hd_gera.htm",
+                "rel": "Gerard David (born about 1455, died 1523)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=euwl",
+                "rel": "Low Countries, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/459061"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/459061"
+        }
+    },
+    "accession number": "1975.1.119",
+    "credit line": "Robert Lehman Collection, 1975",
+    "date": "ca. 1510",
+    "department": "Robert Lehman Collection",
+    "description": "Gerard David painted in Bruges all his life. Where he trained is unknown, though his early works show the influence of his northern Netherlandish roots. The Annunciation panels (1975.1.120), which were painted in grisaille to emulate sculpture, originally decorated the reverses of the two Passion scenes and together formed the movable wings of an altarpiece. When the wings were closed, the Virgin Annunciate and the Archangel Gabriel were shown. When opened, on certain feast days, the Christ Carrying the Cross and the Resurrection would have been displayed, flanking a central image, perhaps the Lamentation.",
+    "dimensions": "Left wing 34 1/2 x 11 5/8 in. (87.7 x 29.5 cm), painted surface 34 x 11 in. (86.4 x 27.9 cm); right wing: 34 1/2 x 11 3/4 in. (87.6 x 30 cm), painted surface 34 x 11 1/8 in. (86.4 x 28.2 cm)",
+    "gallery-id": 953,
+    "id": 459061,
+    "image": "http://images.metmuseum.org/CRDImages/rl/original/DT1472.jpg",
+    "medium": "Oil on oak panel",
+    "provenance": [
+        "Fourth earl of Ashburnham, Ashburnham Place, England",
+        "Henry Willet, Brighton, by 1897",
+        "Rodolphe Kann, Paris (d. 1905)",
+        "[Duveen Brothers, Paris and New York], by 1908.  Acquired by Philip Lehman from Duveen in March 1912."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/rl/original/DT1472.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/1291.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/DT3081.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/DT3082.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/ep1975.1.119a.bw.R.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/ep1975.1.119b.bw.R.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/1292.jpg"
+    ],
+    "title": "Christ Carrying the Cross, with the Crucifixion; The Resurrection, with the Pilgrims of Emmaus",
+    "what": [
+        "Paintings",
+        "Wood",
+        "Oil paintings",
+        "Panels",
+        "Oak",
+        "Triptychs"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Netherlands"
+    ],
+    "who": "Gerard David"
+}

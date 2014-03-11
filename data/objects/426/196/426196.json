@@ -1,0 +1,102 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/373677"
+            },
+            {
+                "href": "http://scrapi.org/object/373678"
+            },
+            {
+                "href": "http://scrapi.org/object/373679"
+            },
+            {
+                "href": "http://scrapi.org/object/373680"
+            },
+            {
+                "href": "http://scrapi.org/object/373682"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/dsgn2/hd_dsgn2.htm",
+                "rel": "Design, 1925\u201350"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/geab/hd_geab.htm",
+                "rel": "Geometric Abstraction"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/bauh/hd_bauh.htm",
+                "rel": "The Bauhaus, 1919\u20131933"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/426196"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/426196"
+        }
+    },
+    "accession number": "1970.712.3",
+    "credit line": "Gift of Josef Albers, 1970",
+    "date": "1965",
+    "department": "Drawings and Prints",
+    "description": "Blue and brown squares",
+    "dimensions": "sheet 19 1/8 x 30 1/4 in. (48.6 x 76.8 cm), folded in half",
+    "id": 426196,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP833638.jpg",
+    "medium": "Screenprint",
+    "provenance": [
+        "Donor: Josef Albers (American (born Germany), Bottrop 1888\u20131976 New Haven, Connecticut)"
+    ],
+    "title": "Untitled, (from the Homage au Carr\u00e9 portfolio)",
+    "what": [
+        "Prints",
+        "Screen prints"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "Josef Albers"
+}

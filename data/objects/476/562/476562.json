@@ -1,0 +1,149 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/467523"
+            },
+            {
+                "href": "http://scrapi.org/object/467524"
+            },
+            {
+                "href": "http://scrapi.org/object/467513"
+            },
+            {
+                "href": "http://scrapi.org/object/467514"
+            },
+            {
+                "href": "http://scrapi.org/object/468591"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 25, 2014",
+                "href": "/exhibitions/listings/2014/canterbury-stained-glass",
+                "rel": "Radiant Light"
+            },
+            {
+                "date": "From August 6, 2013",
+                "href": "/exhibitions/listings/2013/design-motifs-in-byzantine-art",
+                "rel": "Design Motifs in Byzantine Art"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/fire-in-medieval-material-culture?eid=A001_%7b2C78BD24-A40E-4EBE-9EF3-5D3150141D52%7d_20140113122213",
+                "rel": "Fire in Medieval Material Culture"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/teen-programs/art-explore/art-explore-medieval-life?eid=A001_%7b4D072AAD-56E3-463E-B4E7-7A438177C278%7d_20131206154555",
+                "rel": "Art Explore\u2014Medieval Life (Ages 11\u201314)"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/events-at-the-cloisters/family-programs-at-the-cloisters/family-workshops-at-the-cloisters/strike-a-pose?eid=A002_%7bC02F326A-E7EB-4BAE-BA6D-6DB770407BD0%7d_20140113155026",
+                "rel": "Strike a Pose"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/fire-in-medieval-material-culture?eid=A002_%7b2C78BD24-A40E-4EBE-9EF3-5D3150141D52%7d_20140113122225",
+                "rel": "Fire in Medieval Material Culture"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R002_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140302150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/welcome-canterbury?eid=A001_%7b53CBD56A-844E-442F-8444-9EF0B22E78BF%7d_20140210170835",
+                "rel": "Welcome and Introduction"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/canterbury-pilgrims?eid=A001_%7b64D05114-6E96-4769-B2D4-EC56F6BFB232%7d_20140210171509",
+                "rel": "Canterbury Pilgrims"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/age-old-splendor?eid=A001_%7b5BD2D112-6561-4BF9-94B6-31F203659DF6%7d_20140210172052",
+                "rel": "Age-Old Splendor\u2014Splendor's Old Age: Preserving Canterbury Cathedral's Medieval Stained Glass"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/reading-from-canterbury?eid=A001_%7b0E6241AC-6A4B-4E28-B4D9-7B95001379DA%7d_20140210172925",
+                "rel": "A Reading from The Canterbury Tales"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R003_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140303150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/priv/hd_priv.htm",
+                "rel": "Private Devotion in Medieval Christianity"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/book/hd_book.htm",
+                "rel": "The Art of the Book in the Middle Ages"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=euwf",
+                "rel": "France, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/476562"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/476562"
+        }
+    },
+    "accession number": "2004.564",
+    "credit line": "Gift of Peter Sharrer, 2004",
+    "culture": "French",
+    "date": "ca. 1485\u201390",
+    "department": "Medieval Art",
+    "description": "As part of a daily cycle of prayers in honor of the Virgin, Matins is habitually illustrated by an Annunciation, with the angel Gabriel announcing to Mary that she will bear the infant Jesus. Inhabitual, however, are details of this composition by Jean Bourdichon of Tours, the foremost illuminator to the court of France during the reigns of Louis XI, Charles VIII, Louis XII, and Francis I (1461-1547). Despite his magnificent wings, the angel appearing from the right with crossed arms seems less a heavenly apparition than a confidant. However, it is the golden light suffusing the scene that conveys an otherworldly aspect. Originally the image would have been framed by a floral border, partly visible at the upper left and upper right, and by the opening words of the prayers.",
+    "dimensions": [
+        "Overall 3 3/4 x 2 3/8 in. (9.6 x 6 cm)",
+        "mat size 11 7/8 x 11 in. (30.2 x 27.9 cm)",
+        "collectors mark in lower right corner  3/16 x 3/16 in. (0.5 x 0.5 cm)"
+    ],
+    "id": 476562,
+    "image": "http://images.metmuseum.org/CRDImages/md/original/tr626-2004s1.jpg",
+    "medium": "Tempera and shell gold on parchment",
+    "provenance": [
+        "comtesse Martine de B\u00e9hague(1870-1939)",
+        "Octave Marie Hubert, marquis de Ganay",
+        "Jean-Louis, marquis de Ganay(sold Sotheby's, Monaco, December 5, 1987)",
+        "[ Sam Fogg Ltd., London and Bruce Ferrini, Akron, Ohio (1988)]",
+        "[ Peter Sharrer, Hillsdale, New Jersey (1988-2004)]"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/md/original/tr626-2004s1.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/tr626-2004s2.jpg"
+    ],
+    "title": "Manuscript Leaf with the Annunciation from a Book of Hours",
+    "what": [
+        "Metal",
+        "Books",
+        "Gold",
+        "Paintings",
+        "Manuscripts",
+        "Tempera",
+        "Shell",
+        "Parchment",
+        "Illuminations",
+        "Shell gold"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "France",
+        "Tours"
+    ],
+    "who": "Jean Bourdichon"
+}

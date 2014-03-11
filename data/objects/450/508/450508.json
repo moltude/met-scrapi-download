@@ -1,0 +1,138 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/445958"
+            },
+            {
+                "href": "http://scrapi.org/object/445648"
+            },
+            {
+                "href": "http://scrapi.org/object/450572"
+            },
+            {
+                "href": "http://scrapi.org/object/451201"
+            },
+            {
+                "href": "http://scrapi.org/object/453287"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A232_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134244",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A237_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134557",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/programs-for-visitors-with-disabilities/visitors-who-are-deaf/beauty-and-innovation?eid=A001_%7b77D8F57E-5FC9-4578-8A95-30A43C89CFDD%7d_20140210164006",
+                "rel": "Met Signs Tours in ASL\u2014Beauty and Innovation: Understanding Islamic Art"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A251_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114408",
+                "rel": "Arts of the Islamic World"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/450508"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/450508"
+        }
+    },
+    "accession number": "43.113",
+    "credit line": "Gift of Clara Livingston Cheesman, 1943",
+    "culture": "Islamic",
+    "date": "second quarter 19th century",
+    "department": "Islamic Art",
+    "dimensions": [
+        "Textile L. 118 1/2 in. (301 cm)",
+        "W. 54 1/2 in. (138.4 cm)"
+    ],
+    "id": 450508,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/DP219229.jpg",
+    "medium": "Wool; twill weave and double interlocking twill tapestry weave",
+    "provenance": [
+        "Clara Livingston Cheesman, New York (until 1943; gifted to MMA)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/DP219229.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/SC152847.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-43.113.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-43.113b.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-43.113c.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-43.113e.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-43.113f.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-43.113g.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-43.113h.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-43.113j.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-43.113i.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-43.113k.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-43.113l.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-43.113m.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-43.113n.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/DP219231.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP219232.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP219233.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP219235.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP219230.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP219234.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP219236.jpg"
+    ],
+    "title": "Shawl",
+    "what": [
+        "Costume",
+        "Textiles",
+        "Wool",
+        "Tapestries",
+        "Outerwear",
+        "Shawls",
+        "Twill"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Asia",
+        "Kashmir"
+    ]
+}

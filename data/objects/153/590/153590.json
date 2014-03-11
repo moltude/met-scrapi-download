@@ -1,0 +1,119 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/153560"
+            },
+            {
+                "href": "http://scrapi.org/object/153561"
+            },
+            {
+                "href": "http://scrapi.org/object/153574"
+            },
+            {
+                "href": "http://scrapi.org/object/153587"
+            },
+            {
+                "href": "http://scrapi.org/object/153548"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R150_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140407130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwcm",
+                "rel": "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/153590"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/153590"
+        }
+    },
+    "accession number": "2009.516.26a\u2013c",
+    "credit line": "Gift of the artist, 2009",
+    "culture": "Austrian",
+    "date": "fall/winter 1999\u20132000",
+    "department": "Costume Institute",
+    "dimensions": [
+        "Length at CB (a) 60 in. (152.4 cm)",
+        "Length (b, c) 5 in. (12.7 cm)"
+    ],
+    "id": 153590,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/2009.516.26a\u2013c_F.JPG",
+    "medium": "silk",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/2009.516.26a\u2013c_F.JPG",
+        "http://images.metmuseum.org/CRDImages/ci/original/2009.516.26a\u2013c_S.JPG",
+        "http://images.metmuseum.org/CRDImages/ci/original/2009.516.26a\u2013c_B.JPG",
+        "http://images.metmuseum.org/CRDImages/ci/original/2009.516.26a_label.JPG",
+        "http://images.metmuseum.org/CRDImages/ci/original/2009.516.26bc_F.JPG"
+    ],
+    "title": "Ensemble",
+    "what": [
+        "Silk",
+        "Ensembles"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "Austria"
+    ],
+    "who": "Helmut Lang"
+}

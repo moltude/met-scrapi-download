@@ -1,0 +1,107 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/157418"
+            },
+            {
+                "href": "http://scrapi.org/object/157417"
+            },
+            {
+                "href": "http://scrapi.org/object/173829"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R150_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140407130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=sa",
+                "rel": "South America, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/157419"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/157419"
+        }
+    },
+    "accession number": "2009.300.2577",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Clare E. Walker, 1967",
+    "culture": "Peruvian",
+    "date": "ca. 1960",
+    "department": "Costume Institute",
+    "description": "This ski mask was sold by the retailer, Pi\u00f1ata Party. Pi\u00f1ata Party, Inc was a New York store specializing in Peruvian merchandise. Founded in 1957, George Grossblatt and Stanley Selengut had the idea for the enterprise while traveling in South America. In addition to selling pre-Columbian art, they employed more than 2,000 Indian craftsmen to create clothing, handcrafts, and folk art. Despite the name, pi\u00f1atas constituted only a very small portion of their stock. Their most successful items were fur hats and slippers, and ski masks.",
+    "dimensions": "11 x 13 1/2 in. (27.9 x 34.3 cm)",
+    "id": 157419,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/67.172.14_CP4.jpg",
+    "medium": "wool, fur",
+    "title": "Ski mask",
+    "what": [
+        "Costume",
+        "Wool",
+        "Hair",
+        "Masks",
+        "Fur"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "South America",
+        "Peru"
+    ],
+    "who": "Pinata Party, Inc."
+}

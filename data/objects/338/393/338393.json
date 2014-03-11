@@ -1,0 +1,103 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/335657"
+            },
+            {
+                "href": "http://scrapi.org/object/335924"
+            },
+            {
+                "href": "http://scrapi.org/object/343068"
+            },
+            {
+                "href": "http://scrapi.org/object/343067"
+            },
+            {
+                "href": "http://scrapi.org/object/343069"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwf",
+                "rel": "France, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/338393"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/338393"
+        }
+    },
+    "accession number": "1999.359",
+    "credit line": "Edward Pearce Casey Fund, 1999",
+    "date": "1726",
+    "department": "Drawings and Prints",
+    "dimensions": "14 3/4 x 14 7/8 in.  (37.5 x 37.8 cm)",
+    "id": 338393,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP214671.jpg",
+    "medium": "Pen and gray and brown ink, brush and gray wash, with watercolor, over black chalk",
+    "provenance": [
+        "Jacques Gabriel Huquier (French, Paris 1730\u20131805 Shrewsbury)his sale, Paris, November 11, 1772, lot 336, \"D\u00e9coration d'un feu d'Artifice pour la Convalescence du roi",
+        "l'architecture dessin\u00e9e par la Jo\u00fce, & les figures par F. le Moine:  dessin distingu\u00e9 \u00e0 la plume & au bistre, m\u00eal\u00e9 d'un peu de couleur\"",
+        "Fran\u00e7ois Joullain (French, Paris 1697\u20131778 Paris)",
+        "Paignon Dijonval (see B\u00e9nard, 1810, p. 141, no. 3302b)",
+        "Samuel Woodburn (British, 1786\u20131853)",
+        "Sir Thomas Lawrence (British, Bristol 1769\u20131830 London)M.C. sale, Paris, May 30, 1924, lot 24",
+        "Clairois (Paris)",
+        "H\u00f4tel Drouot, Paris sale, June 18, 1999, lot 3",
+        "Vendor: Katrin Bellinger Kunsthandel , Munich"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP214671.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DR147.jpg"
+    ],
+    "title": "Fireworks Display for the Convalescence of Louis XV",
+    "what": [
+        "Ink",
+        "Drawings",
+        "Watercolors",
+        "Chalk"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": [
+        "Fran\u00e7ois Le Moyne",
+        "Jacques de Lajo\u00fce"
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/249181"
+            },
+            {
+                "href": "http://scrapi.org/object/249182"
+            },
+            {
+                "href": "http://scrapi.org/object/249183"
+            },
+            {
+                "href": "http://scrapi.org/object/242229"
+            },
+            {
+                "href": "http://scrapi.org/object/254841"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R105_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140311123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R106_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140313123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R027_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140313130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R107_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140314123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/conversations-with-curators-and-conservators/terracotta-column-krater?eid=A001_%7b1CC4797D-7295-4614-9ACD-19C00BA693F4%7d_20140204162630",
+                "rel": "Conversation with a Curator\u2014Terracotta Column-Krater"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A144_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142257",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A145_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142312",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R116_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140331123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R117_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140401123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/banq/hd_banq.htm",
+                "rel": "The Roman Banquet"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=05\u00aeion=eust",
+                "rel": "Italian Peninsula, 1\u2013500A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/249232"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/249232"
+        }
+    },
+    "accession number": "17.190.2076",
+    "credit line": "Gift of J. Pierpont Morgan, 1917",
+    "culture": "Roman",
+    "date": "1st\u20132nd century A.D.",
+    "department": "Greek and Roman Art",
+    "description": "These pieces of furniture have been reassembled from fragments, some of which may come from the imperial villa of Lucius Verus (co-emperor, A.D. 161\u2013169), on the Via Cassia outside Rome. It is not certain that the square glass panels are original to the bed frame and stool, but the carved bone inlays are paralleled on other Roman couches. On the couch legs are friezes of huntsmen, horses, and hounds flanking Ganymede, the handsome Trojan youth who was abducted by Zeus in the guise of an eagle to serve as his wine steward; on the footstool are scenes of winged cupids and leopards; and on the sides of the bed frame, the striking lion protomes have eyes inlaid with glass.",
+    "gallery-id": 168,
+    "id": 249232,
+    "image": "http://images.metmuseum.org/CRDImages/gr/original/DP138722.jpg",
+    "medium": "Wood, bone, glass",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/gr/original/DP138722.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP142998.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP142999.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP143000.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP143001.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP143002.jpg"
+    ],
+    "title": "Couch and footstool with bone carvings and glass inlays",
+    "what": [
+        "Sculpture",
+        "Glass",
+        "Furniture",
+        "Bone",
+        "Ivory",
+        "Seating furniture",
+        "Stools",
+        "Carvings",
+        "Footstools",
+        "Couches"
+    ],
+    "when": "A.D. 1-500",
+    "where": [
+        "Roman Empire"
+    ]
+}

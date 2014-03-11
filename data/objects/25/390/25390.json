@@ -1,0 +1,130 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/25389"
+            },
+            {
+                "href": "http://scrapi.org/object/25391"
+            },
+            {
+                "href": "http://scrapi.org/object/26444"
+            },
+            {
+                "href": "http://scrapi.org/object/27960"
+            },
+            {
+                "href": "http://scrapi.org/object/21981"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From October 2, 2012",
+                "href": "/exhibitions/listings/2012/arms-and-armor",
+                "rel": "Bashford Dean and the Creation of the Arms and Armor Department"
+            },
+            {
+                "date": "From November 11, 2014",
+                "href": "/exhibitions/listings/2014/art-of-collecting-arms-and-armor",
+                "rel": "The Art of Collecting Arms and Armor: Notable Acquisitions, 2003\u20132014"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A074_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112917",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A084_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113556",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A093_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113923",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A075_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112932",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A094_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113938",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 5, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A085_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113610",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161351",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A076_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112951",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 19, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161305",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 26, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A086_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113630",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=eustn",
+                "rel": "Venice and Northern Italy, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/25390"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/25390"
+        }
+    },
+    "accession number": "04.3.231",
+    "credit line": "Rogers Fund, 1904",
+    "culture": "Italian, Milan",
+    "date": "ca. 1470\u201380",
+    "department": "Arms and Armor",
+    "dimensions": "11 1/2 x 10 1/8 in. (29.21 x 25.72 cm); Wt. 5 lb. 14 oz. (2658 g)",
+    "id": 25390,
+    "image": "http://images.metmuseum.org/CRDImages/aa/original/DP22341.jpg",
+    "medium": "Steel",
+    "provenance": [
+        "Ex colls.:  Constantine Ressman, Florence",
+        "Maurice de Talleyrand-P\u00e9rigord, duc de Dino, Paris"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/aa/original/DP22341.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP22494.jpg"
+    ],
+    "title": "Sallet",
+    "what": [
+        "Metal",
+        "Costume",
+        "Iron and iron alloy",
+        "Iron alloy",
+        "Steel",
+        "Armor",
+        "Body armor",
+        "Helmets",
+        "Sallets"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Italy",
+        "Lombardy",
+        "Milan"
+    ]
+}

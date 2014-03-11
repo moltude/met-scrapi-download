@@ -1,0 +1,139 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/447071"
+            },
+            {
+                "href": "http://scrapi.org/object/454608"
+            },
+            {
+                "href": "http://scrapi.org/object/454874"
+            },
+            {
+                "href": "http://scrapi.org/object/454875"
+            },
+            {
+                "href": "http://scrapi.org/object/454876"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A232_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134244",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A237_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134557",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/programs-for-visitors-with-disabilities/visitors-who-are-deaf/beauty-and-innovation?eid=A001_%7b77D8F57E-5FC9-4578-8A95-30A43C89CFDD%7d_20140210164006",
+                "rel": "Met Signs Tours in ASL\u2014Beauty and Innovation: Understanding Islamic Art"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A251_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114408",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=wai",
+                "rel": "Iran, 1400\u20131600 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=wai",
+                "rel": "Iran, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/451256"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/451256"
+        }
+    },
+    "accession number": "55.121.8",
+    "credit line": "Rogers Fund, 1955",
+    "culture": "Islamic",
+    "date": "16th\u201317th century",
+    "department": "Islamic Art",
+    "description": "In the sixteenth and seventeenth centuries, mural paintings were commissioned by Safavid rulers and grandees for their palaces. The most beautiful youths in the court were chosen for the office of cupbearer and were a popular subject for artists, who portrayed them in idealized form. They appeared as shown here, in mural paintings, as well as in paintings intended for albums.",
+    "dimensions": [
+        "H. 21 7/16 in. (54.5 cm)",
+        "W. 8 3/16 in. (20.8 cm)"
+    ],
+    "gallery-id": 462,
+    "id": 451256,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/wb-55.121.8.JPG",
+    "medium": "Ink, opaque watercolor, and gold on plaster",
+    "provenance": [
+        "[ Hagop Kevorkian, New York, until 1955; sold to MMA)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/wb-55.121.8.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-55.121.8c.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-55.121.8e.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-55.121.8f.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-55.121.8g.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-55.121.8h.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-55.121.8i.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-55.121.8j.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-55.121.8b.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-55.121.8c.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/159667.jpg"
+    ],
+    "title": "Man Holding a Bottle and a Cup",
+    "what": [
+        "Metal",
+        "Ink",
+        "Gold",
+        "Watercolors",
+        "Manuscripts",
+        "Codices",
+        "Plaster"
+    ],
+    "where": [
+        "Asia",
+        "Iran",
+        "Isfahan"
+    ]
+}

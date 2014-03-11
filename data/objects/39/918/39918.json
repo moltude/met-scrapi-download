@@ -1,0 +1,188 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/40285"
+            },
+            {
+                "href": "http://scrapi.org/object/40509"
+            },
+            {
+                "href": "http://scrapi.org/object/40512"
+            },
+            {
+                "href": "http://scrapi.org/object/51870"
+            },
+            {
+                "href": "http://scrapi.org/object/39534"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 8, 2014",
+                "href": "/exhibitions/listings/2014/tibet-and-india",
+                "rel": "Tibet and India"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/chinese-carving",
+                "rel": "Colors of the Universe"
+            },
+            {
+                "date": "From July 19, 2013",
+                "href": "/exhibitions/listings/2013/chinese-snuff-bottles",
+                "rel": "Small Delights"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/ink-art",
+                "rel": "Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "From February 1, 2014",
+                "href": "/exhibitions/listings/2014/edo-period-painting",
+                "rel": "The Flowering of Edo Period Painting"
+            },
+            {
+                "date": "From April 14, 2014",
+                "href": "/exhibitions/listings/2014/lost-kingdoms",
+                "rel": "Lost Kingdoms"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/highlights-of-asia?eid=A041_%7b93924202-8616-42E2-8DA1-39A4591F1426%7d_20140122180137",
+                "rel": "Highlights of Asia"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R100_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140303111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R100_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140303131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R101_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140304111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R101_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140304120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R101_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140304131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/talks/gallery-talks/the-flowering-of-edo-period-painting-spring?eid=A001_%7bB9065A06-A3F9-4CAB-8F49-ED3038F1E7A2%7d_20140205171419",
+                "rel": "Exhibition Tour\u2014The Flowering of Edo Period Painting: Japanese Masterworks from the Feinberg Collection"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=A092_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20131018142423",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R102_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140305120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R102_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140305131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/chcl/hd_chcl.htm",
+                "rel": "Chinese Calligraphy"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=07\u00aeion=nc",
+                "rel": "Central and North Asia, 1000\u20131400 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=07\u00aeion=eac",
+                "rel": "China, 1000\u20131400 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/39918"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/39918"
+        }
+    },
+    "accession number": "1989.363.4",
+    "credit line": "Bequest of John M. Crawford Jr., 1988",
+    "culture": "China",
+    "date": "ca. 1095",
+    "department": "Asian Art",
+    "description": "Poet, calligrapher, and Chan (Zen) Buddhist adept, Huang Tingjian believed that calligraphy should be spontaneous and self-expressive\u2014\u201ca picture of the mind.\u201d Containing nearly twelve hundred characters, this handscroll is a master\u00adpiece of cursive-script writing. It transcribes an account of a rivalry between two officials: Lian Po, a distinguished general; and Lin Xiangru, a skilled strategist. Huang\u2019s transcription ends abruptly with Lin\u2019s words: \u201cWhen two tigers fight, one must perish. I behave as I do because I put our country\u2019s fate before private feuds.\u201d Read in the context of Song political infighting, Huang\u2019s transcription becomes a powerful indictment of the partisanship that led to his own banishment in 1094.",
+    "dimensions": [
+        "Image 13 1/4 in. \u00d7 60 ft. 4 1/2 in. (33.7 \u00d7 1840.2 cm)",
+        "Overall with mounting 13 1/2 in. \u00d7 71 ft. 5 5/8 in. (34.3 \u00d7 2178.4 cm)"
+    ],
+    "id": 39918,
+    "image": "http://images.metmuseum.org/CRDImages/as/original/DP153769.jpg",
+    "medium": "Handscroll; ink on paper",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/as/original/DP153769.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP153787.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP153788.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP153789.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP153790.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP153791.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP153792.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP153793.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP153794.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP153795.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP153796.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP153797.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP153798.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP153799.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP153800.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP153801.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP153802.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP153803.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP153804.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP153805.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP153806.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP153807.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP153808.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP153809.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP153810.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP153811.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP153812.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP153813.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP153814.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP153815.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP153816.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP153817.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP276246.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP276210.jpg"
+    ],
+    "title": "Biographies of Lian Po and Lin Xiangru  \r\n\r\n\r\n",
+    "what": [
+        "Ink",
+        "Paper",
+        "Paintings",
+        "Scroll paintings",
+        "Handscrolls",
+        "Calligraphy"
+    ],
+    "when": "A.D. 1000-1400",
+    "where": [
+        "Asia",
+        "China"
+    ],
+    "who": "Huang Tingjian"
+}

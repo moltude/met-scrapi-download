@@ -1,0 +1,97 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/340580"
+            },
+            {
+                "href": "http://scrapi.org/object/352280"
+            },
+            {
+                "href": "http://scrapi.org/object/340577"
+            },
+            {
+                "href": "http://scrapi.org/object/340579"
+            },
+            {
+                "href": "http://scrapi.org/object/340611"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/pope/hd_pope.htm",
+                "rel": "The Papacy and the Vatican Palace"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/337075"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/337075"
+        }
+    },
+    "accession number": "1997.153",
+    "credit line": "Purchase, Lila Acheson Wallace Gift, 1997",
+    "date": "1483\u20131520",
+    "department": "Drawings and Prints",
+    "description": "According to Ovid's Fasti and Livy's History of Rome, the noble matron Lucretia committed suicide after being raped by Sextus, son of the tyrant Tarquin the Proud. Her husband, and later Junius Brutus, avenged her honor by leading a revolt that helped institute the republic as a form of government. The artist recast the heroic early Roman legend to focus on the rhetorical gesture of Lucretia as a model of sublime virtue, heightening the drama of her death. The pose for the monumental female figure was clearly inspired by a Roman sculpture. This is a major example of Raphael's draftsmanship, made during the period of his work on the frescoes of the Stanza della Segnatura in the Vatican Palace. The drawing shows Raphael at his most classical, having already absorbed the influence of the many Roman remains he encountered when he came to Rome in 1508. The sculptural grandeur and monumentality of form evident here reflect this experience.",
+    "dimensions": "15-5/8 x 11-1/2 in.  (39.7 x 29.2 cm)",
+    "id": 337075,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP832662.jpg",
+    "medium": "Pen and brown ink over black chalk, partially incised with a stylus (recto); rubbed with black chalk for transfer(?) (verso)",
+    "provenance": [
+        "William Russell (British, 1800\u20131884 London)",
+        "Christie's, London, December 11, 1884, lot 410",
+        "Sir James Knowles (British, Reigate 1831\u20131908 Brighton)",
+        "Christie's, London, May 27\u201329, 1908, lot 167 (to Dunthorne)",
+        "Private Collection, Montreal"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP832662.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/dp1997.153.R.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DT613.jpg"
+    ],
+    "title": "Lucretia",
+    "what": [
+        "Ink",
+        "Drawings",
+        "Chalk"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Raphael (Raffaello Sanzio  Santi)"
+}

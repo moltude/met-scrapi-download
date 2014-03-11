@@ -1,0 +1,142 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/455055"
+            },
+            {
+                "href": "http://scrapi.org/object/455056"
+            },
+            {
+                "href": "http://scrapi.org/object/455057"
+            },
+            {
+                "href": "http://scrapi.org/object/455058"
+            },
+            {
+                "href": "http://scrapi.org/object/455059"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A232_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134244",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A237_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134557",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/programs-for-visitors-with-disabilities/visitors-who-are-deaf/beauty-and-innovation?eid=A001_%7b77D8F57E-5FC9-4578-8A95-30A43C89CFDD%7d_20140210164006",
+                "rel": "Met Signs Tours in ASL\u2014Beauty and Innovation: Understanding Islamic Art"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A251_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114408",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=nc",
+                "rel": "Central and North Asia, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/446595"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/446595"
+        }
+    },
+    "accession number": "13.228.7.5",
+    "credit line": "Gift of Alexander Smith Cochran, 1913",
+    "culture": "Islamic",
+    "date": "A.H. 931/A.D. 1524\u201325",
+    "department": "Islamic Art",
+    "description": "In Nizami\u2019s tale of Khusrau and Shirin, the princess Shirin has an ardent admirer in the talented sculptor and stonemason, Farhad. When Shirin desires milk from a herd of goats that graze in a distant field, Farhad sets to work cutting a channel from the goats\u2019 mountain pastureland to a pool at the foot of Shirin\u2019s palace. In this painting, Shirin visits Farhad upon his completion of the pool. At the very top of the composition, a goat cavorts in its hillside home.",
+    "dimensions": [
+        "Painting H. 8 3/8 in. (21.3 cm)",
+        "W. 5 1/16 in. (12.9 cm)",
+        "Page H. 12 5/8 in. (32.1 cm)",
+        "W. 8 3/4 in. (22.2 cm)",
+        "Mat H. 19 1/4 in. (48.9 cm)",
+        "W. 14 1/4 in. (36.2 cm)"
+    ],
+    "gallery-id": 455,
+    "id": 446595,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/DP159378.jpg",
+    "medium": "Ink, opaque watercolor, and gold on paper",
+    "provenance": [
+        "F. R. Martin, Sweden",
+        "Alexander Smith Cochran, Yonkers, NY (until 1913; gifted to MMA)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/DP159378.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/43906.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/sf13-228-7-5.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/187666.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP159377.jpg"
+    ],
+    "title": "\"Farhad Carves a Milk Channel for Shirin\", Folio from a Khamsa (Quintet) of Nizami",
+    "what": [
+        "Metal",
+        "Ink",
+        "Paper",
+        "Gold",
+        "Watercolors",
+        "Manuscripts",
+        "Codices",
+        "Folios",
+        "Illuminated manuscripts"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Asia",
+        "Afghanistan",
+        "Herat"
+    ],
+    "who": [
+        "Nizami (Ilyas Abu Muhammad Nizam al-Din of Ganja)",
+        "Sultan Muhammad Nur",
+        "Shaikh Zada",
+        "Mahmud Muzahhib"
+    ]
+}

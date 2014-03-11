@@ -1,0 +1,90 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/284718"
+            },
+            {
+                "href": "http://scrapi.org/object/286605"
+            },
+            {
+                "href": "http://scrapi.org/object/286396"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/289245"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/289245"
+        }
+    },
+    "accession number": "2009.16",
+    "credit line": "Twentieth-Century Photography Fund, 2009",
+    "date": "ca. 1909",
+    "department": "Photographs",
+    "description": "Nineteenth-century police headquarters were host to disorganized \"rogues\u2019 galleries\" swollen with photographic portraits of criminals, which turned even the simplest of searches into a Sisyphean labor. As a response, police clerk Alphonse Bertillon introduced a rigorous system of classification, or signalment, to help organize archives, a process that included not only quantitative anthropometric measurements of the head, body, and extremities but also qualitative descriptions of the face. Photography\u2019s potential for exactitude made it a crucial tool for Bertillon\u2019s system, and his portrait parl\u00e9\u2014the basis for today\u2019s mugshot\u2014posited a powerful analogy between a photographic likeness and the ink fingerprint.Akin to a cheat-sheet for police clerks, this composite photograph illustrates how the mugshot could yield a series of classifications, dividing the male criminal\u2019s face into discrete units of information. Such points of identification include the precise differentiation between left ear and right, the angle of inclination of the chin, and the pattern of the folds on the brow. Although intended merely as a filing aide, this image of the human face in all its striations of repetition and difference renders surveillance as a terrifying manifestation of the modern sublime.",
+    "dimensions": "Image 39.4 x 29.5 cm (15 1/2 x 11 5/8 in.)",
+    "id": 289245,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/Bertillon2009.16.jpg",
+    "medium": "Gelatin silver print",
+    "provenance": [
+        "[Andrew Cahan: Bookseller, Ltd., Chapel Hill, NC]"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ph/original/Bertillon2009.16.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/Bertillon2009.16verso.jpg"
+    ],
+    "title": "Tableau synoptic des traits physionomiques: pour servir a l'\u00e9tude du \"portrait parl\u00e9\"",
+    "what": [
+        "Photographs",
+        "Gelatin silver prints"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Alphonse Bertillon"
+}

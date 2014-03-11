@@ -1,0 +1,122 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/316010"
+            },
+            {
+                "href": "http://scrapi.org/object/316407"
+            },
+            {
+                "href": "http://scrapi.org/object/316149"
+            },
+            {
+                "href": "http://scrapi.org/object/316150"
+            },
+            {
+                "href": "http://scrapi.org/object/316136"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From September 16, 2013",
+                "href": "/exhibitions/listings/2013/feathered-walls",
+                "rel": "Feathered Walls"
+            },
+            {
+                "date": "From October 8, 2013",
+                "href": "/exhibitions/listings/2013/nelson-rockefeller",
+                "rel": "The Nelson A. Rockefeller Vision"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R105_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140311130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R106_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140312130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R107_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140313130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 18, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/shaping-the-african-art-canon?eid=A001_%7b447041C4-D9E7-43A9-AE5F-85BAEB6E7196%7d_20140214113010",
+                "rel": "Shaping the African Art Canon: From the Museum to the Classroom"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/talks/the-observant-eye/shared-memory-sculptural-ancestral-objects-from-oceania?eid=A001_%7b94768B86-339F-4726-A3BC-8F798C423768%7d_20140123143856",
+                "rel": "Shared Memory: Sculptural Ancestral Objects from Oceania"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=A116_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140210093151",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/talks/gallery-talks/ancient-american-sculpture?eid=A002_%7b7A6AA394-9359-47C1-87B4-65B0894C01AB%7d_20140123114700",
+                "rel": "Ancient American Sculpture"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R117_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140401130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R118_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140402130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=sse",
+                "rel": "Southeast Asia, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/316408"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/316408"
+        }
+    },
+    "accession number": "1990.335.4",
+    "credit line": "Gift of Anita E. Spertus and Robert J. Holmgren, in honor of Douglas Newton, 1990",
+    "culture": "Sumba Island",
+    "date": "19th century",
+    "department": "Arts of Africa, Oceania and the Americas",
+    "description": "The distinctive ornaments known as mamuli play an essential role in the elaborate ceremonial gift exchanges practiced on important occasions by the people of Sumba Island in eastern Indonesia. In earlier times, when the Sumbanese practiced artificial elongation of the earlobes, mamuli were worn as ear ornaments, but today they hang around the neck as pendants. In Sumbanese culture, precious metals are believed to be of celestial origin. The sun is made of gold and the moon and stars of silver. Gold and silver are deposited on earth when the sun and moon set or shooting stars falls from the sky. Golden objects signify wealth and divine favor. Kept among the sacred relics housed in the treasuries of Sumbanese clans, mamuli serve, in part, to maintain contact with powerful ancestors and spirits. They are rarely removed from their hiding places lest their dangerous supernatural powers kill onlookers or cause natural disasters. This exquisitely detailed mamuli depicts warriors clad in turbans and loincloths brandishing swords and shields as they stride boldly into battle, accompanied by smaller figures in attitudes of supplication.",
+    "dimensions": "H. 3 3/4 x W. 10 13/16 in. (9.5 x 27.4 cm)",
+    "gallery-id": 355,
+    "id": 316408,
+    "image": "http://images.metmuseum.org/CRDImages/ao/original/DP147124.jpg",
+    "medium": "Gold",
+    "provenance": [
+        "Robert J. Holmgren and Anita E. Spertus, New York, until 1990"
+    ],
+    "title": "Ear Ornament or Pendant (Mamuli)",
+    "what": [
+        "Metal",
+        "Costume",
+        "Gold",
+        "Jewelry",
+        "Ear ornaments"
+    ],
+    "where": [
+        "Asia",
+        "Indonesia",
+        "Nusa Tenggara Timur",
+        "Sumba"
+    ]
+}

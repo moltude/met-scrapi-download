@@ -1,0 +1,113 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/249392"
+            },
+            {
+                "href": "http://scrapi.org/object/249393"
+            },
+            {
+                "href": "http://scrapi.org/object/249416"
+            },
+            {
+                "href": "http://scrapi.org/object/249426"
+            },
+            {
+                "href": "http://scrapi.org/object/249410"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R105_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140311123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R106_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140313123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R027_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140313130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R107_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140314123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/conversations-with-curators-and-conservators/terracotta-column-krater?eid=A001_%7b1CC4797D-7295-4614-9ACD-19C00BA693F4%7d_20140204162630",
+                "rel": "Conversation with a Curator\u2014Terracotta Column-Krater"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A144_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142257",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A145_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142312",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R116_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140331123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R117_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140401123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=05\u00aeion=eust",
+                "rel": "Italian Peninsula, 1\u2013500A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/245364"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/245364"
+        }
+    },
+    "accession number": "81.10.211",
+    "credit line": "Gift of Henry G. Marquand, 1881",
+    "culture": "Roman",
+    "date": "1st half of 1st century A.D.",
+    "department": "Greek and Roman Art",
+    "description": "Translucent pale green.Outsplayed unworked rim; cylindrical body with vertical sides; uneven, flat bottom. Two vertical mold seams run down sides from rim to edge of bottom, with a separate disk-shaped base section.On body, large central frieze bordered above and below by a horizontal wreath with chevrons, facing in opposite directions: the frieze contains six large loops of vine tendrils, three on each side, each loop enclosing a vine leaf in outline or a stylized grape cluster comprising a series of dots; on one side, two leaves flank a cluster; on the other, two clusters flank a leaf. On bottom, projecting rounded ring and central dot.Chips missing in rim and larger holes in lower body and around edge of bottom; few bubbles; some dulling and reddish brown encrustation, with faint weathering and iridescence.Although closely related to Victory beakers, such as 81.10.210 and 81.10.214 also displayed here, this drinking cup has a more general appeal with its decoration of stylized vine leaves and grape clusters.",
+    "dimensions": "diameter     7.01 cm.",
+    "gallery-id": 171,
+    "id": 245364,
+    "image": "http://images.metmuseum.org/CRDImages/gr/original/DP120991.jpg",
+    "medium": "Glass; mold-blown",
+    "provenance": [
+        "Said to be from Idalium, Cyprus (Froehner 1879, p. 65 and note 2; A Descriptive Atlas of the Cesnola Collection\u2026, 1903, vol. 3, pt. 2, pl. LXXVIII, 2)Between 1865 and 1872, excavated in Idalium, Cyprus, by Luigi Palma di Cesnola",
+        "afterwards, collection of L.P. di Cesnola",
+        "before 1879, purchased by Jules Charvet from L.P. di Cesnola",
+        "until 1881, collection of Jules Charvet, Le Pecq, \u00cele-de-France",
+        "1881, purchased from J. Charvet by Henry G. Marquand",
+        "acquired in 1881, gift of Henry G. Marquand."
+    ],
+    "title": "Glass beaker",
+    "what": [
+        "Vessels",
+        "Glass",
+        "Beakers"
+    ],
+    "when": "A.D. 1-500",
+    "where": [
+        "Roman Empire"
+    ]
+}

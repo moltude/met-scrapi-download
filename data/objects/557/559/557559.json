@@ -1,0 +1,113 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/544070"
+            },
+            {
+                "href": "http://scrapi.org/object/544075"
+            },
+            {
+                "href": "http://scrapi.org/object/544743"
+            },
+            {
+                "href": "http://scrapi.org/object/544880"
+            },
+            {
+                "href": "http://scrapi.org/object/544881"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A145_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113221",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/talks/gallery-talks/egyptian-sculpture?eid=A002_%7b09B70F74-B68F-4731-A787-D861CCC990BA%7d_20140123144040",
+                "rel": "Egyptian Sculpture"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/cleopatra-welcome-and-introduction?eid=A001_%7bCE6C92F7-59C2-4721-A363-E48BE5CF7EBF%7d_20140226151517",
+                "rel": "Welcome and Introduction"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=04\u00aeion=afe",
+                "rel": "Egypt, 1000 B.C.\u20131 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/557559"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/557559"
+        }
+    },
+    "accession number": "32.2.1",
+    "credit line": "Rogers Fund, 1932",
+    "date": "400\u2013200 B.C.",
+    "department": "Egyptian Art",
+    "description": "Small Late Period and Ptolemaic reliefs or sculptures that depict a subject in a partial or unfinished way but are themselves finished objects constitute a special class of object. Guidelines like those for artists are often prominently exhibited as part of the object, although, in fact, many instances can be noted where the object simply could not serve as a suitable model for a traditional formal Egyptian representation. Personifications of kingship, figures that may represent the now emerging demigods Imhotep and Amenhotep Son of Hapu, and popular gods like Harpokrates or Isis, are heavily represented within the corpus. Taken together, the figures represented and the other features indicate the reliefs and sculptures of this class, sometimes called by Egyptologists \"sculptor\u2019s models / votives,\" were the material of a donation practice, perhaps connected with the prolific temple building of these centuries. Unfortunately there is little to illuminate us about the mechanics of such a donation practice.The identity of the female with the elaborate bobbed hairstyle, her head terminating prematurely just above the brow - is puzzling. There is no named figure or deity with whom she can be associated, although the figure type may have precursors among female figurines of the Third Intermediate Period and Late Period.",
+    "dimensions": "H. 23 cm with interior hollowed to give Th. 2 cm (9 1/16 x 13/16 in.)",
+    "gallery-id": 134,
+    "id": 557559,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/DP236172.jpg",
+    "medium": "Limestone",
+    "provenance": [
+        "Exhibited by the Museum in 1917 as part of a loan from Mrs. Benjamin Thaw, Pittsburgh and New York. Subsequently collection of Albert Gallatin, New York. Purchased by the museum from Albert Gallatin in 1932."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/eg/original/DP236172.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/DP239021.jpg"
+    ],
+    "title": "Partial female head",
+    "what": "Limestone",
+    "when": "1000 B.C.-A.D. 1",
+    "where": [
+        "Africa",
+        "Egypt"
+    ]
+}

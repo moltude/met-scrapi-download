@@ -1,0 +1,116 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/155885"
+            },
+            {
+                "href": "http://scrapi.org/object/156018"
+            },
+            {
+                "href": "http://scrapi.org/object/156084"
+            },
+            {
+                "href": "http://scrapi.org/object/156071"
+            },
+            {
+                "href": "http://scrapi.org/object/155792"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R150_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140407130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/155937"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/155937"
+        }
+    },
+    "accession number": "2009.300.1243a, b",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Margaret H. Liebman, 1955",
+    "culture": "French",
+    "date": "ca. 1925",
+    "department": "Costume Institute",
+    "description": "This dress is a perfect representation of the flapper era of the 1920s. Breaking free from the confining dresses of days past, the chest was flattened, the waist was dropped and the hemline was raised.  A true flapper never followed the rules and spent her nights at clubs, dancing such crazes as the Charleston and the Black Bottom, sipping cocktails, and having an occasional cigarette.  Featured, is a very fine dress to be worn for an evening on the town.  The construction is ingenious, as it accommodates the pattern of the textile and drapes with the configuration of the scallop pattern.",
+    "dimensions": "Length at CB (a) 43 in. (109.2 cm)",
+    "id": 155937,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/55.204.2a-b_front_CP3.jpg",
+    "medium": "silk, metal",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/55.204.2a-b_front_CP3.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/55.204.2a-b_back_CP3.jpg"
+    ],
+    "title": "Evening dress",
+    "what": [
+        "Metal",
+        "Costume",
+        "Silk",
+        "Dresses",
+        "Evening dresses"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France"
+    ]
+}

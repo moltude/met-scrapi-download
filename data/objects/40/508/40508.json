@@ -1,0 +1,182 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/40507"
+            },
+            {
+                "href": "http://scrapi.org/object/40509"
+            },
+            {
+                "href": "http://scrapi.org/object/51567"
+            },
+            {
+                "href": "http://scrapi.org/object/48929"
+            },
+            {
+                "href": "http://scrapi.org/object/40510"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 8, 2014",
+                "href": "/exhibitions/listings/2014/tibet-and-india",
+                "rel": "Tibet and India"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/chinese-carving",
+                "rel": "Colors of the Universe"
+            },
+            {
+                "date": "From July 19, 2013",
+                "href": "/exhibitions/listings/2013/chinese-snuff-bottles",
+                "rel": "Small Delights"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/ink-art",
+                "rel": "Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "From February 1, 2014",
+                "href": "/exhibitions/listings/2014/edo-period-painting",
+                "rel": "The Flowering of Edo Period Painting"
+            },
+            {
+                "date": "From April 14, 2014",
+                "href": "/exhibitions/listings/2014/lost-kingdoms",
+                "rel": "Lost Kingdoms"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/highlights-of-asia?eid=A041_%7b93924202-8616-42E2-8DA1-39A4591F1426%7d_20140122180137",
+                "rel": "Highlights of Asia"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R100_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140303111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R100_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140303131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R101_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140304111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R101_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140304120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R101_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140304131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/talks/gallery-talks/the-flowering-of-edo-period-painting-spring?eid=A001_%7bB9065A06-A3F9-4CAB-8F49-ED3038F1E7A2%7d_20140205171419",
+                "rel": "Exhibition Tour\u2014The Flowering of Edo Period Painting: Japanese Masterworks from the Feinberg Collection"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=A092_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20131018142423",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R102_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140305120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R102_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140305131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/chcl/hd_chcl.htm",
+                "rel": "Chinese Calligraphy"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/chhs/hd_chhs.htm",
+                "rel": "Chinese Handscrolls"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/chin/hd_chin.htm",
+                "rel": "Chinese Painting"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/clpg/hd_clpg.htm",
+                "rel": "Landscape Painting in Chinese Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/schg/hd_schg.htm",
+                "rel": "Scholar\u2013Officials of China"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/yuan/hd_yuan.htm",
+                "rel": "Yuan Dynasty (1271\u20131368)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=07\u00aeion=eac",
+                "rel": "China, 1000\u20131400 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/40508"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/40508"
+        }
+    },
+    "accession number": "1973.120.5",
+    "credit line": "Ex coll. C. C. Wang Family, Gift of The Dillon Fund, 1973",
+    "culture": "China",
+    "date": "ca. 1310",
+    "department": "Asian Art",
+    "description": "This spare, enigmatic scene represents a revolutionary redirection in Chinese painting. Zhao Mengfu reduces his \"painted\" landscape to a set of calligraphic brush conventions, with the rocks executed in \"flying-white\" cursive and the pines outlined in unmodulated seal script. He thus rejects illusionistic representation and relies instead on expressive brush lines to imbue his imagery with personal meaning. Zhao underscores his commitment to this new approach by adding a title to the right of his pines and writing a long inscription on top of the distant mountains at the left side of the composition, making it clear that his painting is not merely about landscape scenery.Despite his adherence to this new style, Zhao chooses a traditionally significant subject. In Chinese art, pine trees have long been emblems of survival. By representing them here, Zhao may be referring to his own political survival under the Mongol occupation, as well as to the endurance of Chinese culture under foreign rule.DOCUMENTATIONArtist\u2019s inscriptions and signature2 columns in semi-cursive script (undated):Zi\u2019ang [Zhao Mengfu] playfully painted this Twin Pines, Level Distance.\u5b50\u6602\u6232\u4f5c\u96d9\u677e\u5e73\u9060\u30026 columns in semi-cursive script (undated):Ever since my youth, after practicing calligraphy, I have toyed with some small paintings, but landscape is one subject that I have not been able to master.  This is because I have not managed to see even one or two masterpieces by Wang Wei (701\u2013761), the senior and junior general Li [i.e. Li Sixun (active 705\u2013720) and Li Zhaodao (active mid-8th c.)], and Zheng Qian (active mid-8th c.) of the Tang period.  As for works of the Five Dynasties masters, such as Jing Hao (active ca. 870\u2013930), Guan Tong (active ca. 907\u201323), Dong Yuan (active 930s-60s), and Fan Kuan (ca. 960\u2013ca. 1030), who succeeded one another [as leading masters], the \u201cbrush idea\u201d [biyi] of all of them is absolutely different from the style of recent paintings.  As for my own work, I dare not compare it with those of the ancient masters, but when I look at what recent painters have done, I daresay mine is a bit different.  Since [Dong] Yeyun asked for a painting, I wrote this at the end, Mengfu.[1]\u50d5\u81ea\u5e7c\u5c0f\u5b78\u66f8\u4e4b\u9918\uff0c\u6642\u6642\u6232\u5f04\u5c0f\u7b46\uff0c\u7136\u6275\u5c71\u6c34\u7368\u4e0d\u80fd\u5de5\u3002\u84cb\u81ea\u5510\u4ee5\u4f86\uff0c\u5982\u738b\u53f3\u4e1e\u3001\u5927\u5c0f\u674e\u5c07\u8ecd\u3001\u912d\u5ee3\u6587\u8af8\u516c\u5947\u7d55\u4e4b\u8de1\uff0c\u4e0d\u80fd\u4e00\u4e8c\u898b\u3002\u81f3\u4e94\u4ee3\u834a\u95dc\u8463\u8303\u8f29\u51fa\uff0c\u7686\u8207\u8fd1\u4e16\u7b46\u610f\u907c\u7d55\u3002\u50d5\u6240\u4f5c\u8005\uff0c\u96d6\u672a\u6562\u8207\u53e4\u4eba\u6bd4\uff0c\u7136\u8996\u8fd1\u4e16\u756b\u624b\uff0c\u5247\u81ea\u8b02\u5c11\u7570\u8033\u3002\u56e0\u91ce\u96f2\u6c42\u756b\uff0c\u6545\u66f8\u5176\u672b\u3002\u5b5f\u982bArtist's sealsZhao shi Zi\u2019ang \u8d99\u6c0f\u5b50\u6602 Zhao Mengfu yin (partial) \u8d99\u5b5f\u982b\u5370[\u6b98]ColophonsYang Zai \u694a\u8f09 (1271\u20131323), 9 columns in standard script (undated)As the tiny boat tries to advance upriver,Mighty mountain trees are suddenly swept into tumult.Swiftly heavy wind and rain pour through the night,Clapping waves against the sky \u2013 making the oars hard to control![2]My native home is a hut beside the great river, But for many years now I have lived away in the capital.  Today it is as if a fishing pole had come into my hands, As I enjoy perusing this painting. Venerable Songxue [Zhao Mengfu] painted this landscape handscroll for Penal Associate Mr. Dong Yeyun.  Composed by Yang Zai of Pucheng [in Fujian].[3] [seals]: Zai, Zhonghong fu yin, Pucheng Yang shi\u6241\u821f\u6b32\u6cdd\u6c5f\u6d41\u4e0a\uff0c\u5c71\u6728\u9686\u9686\u4fc4\u632f\u97ff\u3002\u5ffd\u805e\u98a8\u96e8\u665a\u4f86\u591a\uff0c\u6ce2\u6d6a\u62cd\u5929\u96e3\u8569\u69f3\u3002\u6211\u5bb6\u8305\u5c4b\u5927\u6c5f\u908a\uff0c\u9060\u5ba2\u4eac\u5e2b\u4eca\u5e7e\u5e74\u3002\u6b64\u65e5\u91e3\u7aff\u65b9\u5165\u624b\uff0c\u5148\u62ab\u5716\u756b\u4ea6\u6b23\u7136\u3002\u677e\u96ea\u7fc1\u70ba\u91ce\u96f2\u61b2\u63be\u8463\u541b\u4f5c\u5c71\u6c34\u890f\u5377\u3002\u6d66\u57ce\u694a\u8f09\u8ce6\u3002[\u5370]\uff1a\u8f09\uff0c\u4ef2\u5f18\u7236\u5370\uff0c\u6d66\u57ce\u694a\u6c0f Tong Xuan \u7ae5\u8ed2 (1425\u20131498), 14 columns in semi-cursive script (undated):The Twin Pines, Pure and Distant scroll, painted and inscribed with a colophon by the respectable Zhao Wenmin [Zhao Mengfu] of Wuxing [in Zhekiang], has been acquired by Academician Suxuan [Qian Ning, died ca. 1522], who appreciates it profoundly.  Suxuan\u2019s character and family background compare closely with Wenmin\u2019s, so, respecting the man, he loves his painting.  In the precious Yuan dynasty, Wenmin attained the position of Recipient of Edicts in the Hanlin Academy through his literary accomplishment.  At the time, scholars and officials admired his superiority in a dozen things; his talents were certainly not limited to painting and calligraphy.  However, as a descendant of the imperial family of the past Song dynasty, he served the Yuan ruler.  I suspect that his fellow scholar-officials\u2019 opinions of him resonated with the message of the poem \u201cReaching Old Age with the Husband\u201d in the Odes of Yong.[4] I wonder how Ban Gu (32\u201392) and Sima Qian (ca. 145\u2013ca. 86 B.C.) would think of him.[5] Inscribed by Tong Xuan of Poyang [in Jiangxi], Assistant Surveillance Commissioner of Yunnan.   [seals]: Shi\u2019ang, Jinmen guli, Qingfeng Ting\u5433\u8208\u8d99\u6587\u654f\u516c\u6240\u756b\u300a\u96d9\u677e\u6e05\u9060\u5716\u300b\u5e76\u8dcb\u8a9e\u4e00\u5377\uff0c\u4eca\u5185\u76f8\u7d20\u8ed2\u516c\u5f97\u4e4b\uff0c\u6e05\u73a9\u4e0d\u5fcd\u91cb\u624b\u3002\u84cb\u516c\u4e4b\u4eba\u54c1\u9580\u7b2c\u751a\u985e\u6587\u654f\uff0c\u6545\u611b\u5176\u4eba\u65af\u611b\u5176\u756b\u4e5f\u3002\u4e14\u6587\u654f\u5728\u524d\u5143\u6642\uff0c\u4ee5\u6587\u5b57\u627f\u65e8\u7ff0\u6797\uff0c\u4e00\u6642\u58eb\u5927\u592b\u7a31\u5176\u904e\u6275\u4eba\u8005\u51e1\u4e00\u5341\u4e8c\u4e8b\uff0c\u56fa\u4e0d\u6b62\u6275\u66f8\u756b\u4e4b\u5999\u800c\u5df2\u3002\u7136\u6587\u654f\u4ee5\u6545\u5b8b\u5b97\u5ba4\u4e4b\u88d4\uff0c\u59d4\u8cea\u5143\u4e3b\uff0c\u7aca\u610f\u7576\u6642\u58eb\u5927\u592b\u4e4b\u8ad6\uff0c\u4ea6\u7336\u300a\u9118\u98a8\u300b\u541b\u5b50\u5055\u8001\u4e4b\u8a69\uff0c\u4e0d\u77e5\u73ed\u3001\u99ac\u4ee5\u7232\u4f55\u5982\u4e5f\u3002\u96f2\u5357\u6309\u5bdf\u53f8\u50c9\u4e8b\u756a\u967d\u7ae5\u8ed2\u8dcb\u3002 [\u5370]\uff1a\u58eb\u6602\uff0c\u91d1\u9580\u6545\u540f\uff0c\u6e05\u98a8\u4eadCollectors\u2019 sealsMu Ying \u6c90\u82f1 (1344\u20131391)Qianning Wang zizisunsun yongbao zhi \u9ed4\u5be7\u738b\u5b50\u5b50\u5b6b\u5b6b\u6c38\u4fdd\u4e4bYang Zun \u694a\u9075 (jinshi 1469)Yang Zun zhi yin \u694a\u9075\u4e4b\u5370Yang shi fashu minghua \u694a\u6c0f\u6cd5\u66f8\u540d\u756bLiang Qingbiao \u6881\u6e05\u6a19 (1620\u20131691)Liang Qingbiao yin \u6881\u6e05\u6a19\u5370Cangyanzi Liang Qingbiao Yuli shi yinzhang \u84bc\u5dcc\u5b50\u6881\u6e05\u6a19\u7389\u7acb\u6c0f\u5370\u7ae0Guan qi dalue \u89c0\u5176\u5927\u7565An Qi \u5b89\u5c90 (1683\u2013after 1742)An shi Yizhou shuhua zhi zhang \u5b89\u6c0f\u5100\u5468\u66f8\u756b\u4e4b\u7ae0Chaoxian ren \u671d\u9bae\u4ebaAn Qi zhi yin \u5b89\u5c90\u4e4b\u5370An Yizhou jia zhencang \u5b89\u5100\u5468\u5bb6\u73cd\u85cfGuxiang Shuwu \u53e4\u9999\u66f8\u5c4bQianlong Emperor \u4e7e\u9686\u5e1d (r. 1736\u201395)Qianlong yulan zhi bao \u4e7e\u9686\u5fa1\u89bd\u4e4b\u5bf3Qianlong jianshang \u4e7e\u9686\u9451\u8cdeShiqu baoji \u77f3\u6e20\u5bf3\u7b08Yi zisun \u5b9c\u5b50\u5b6bSanxi Tang jingjian xi \u4e09\u5e0c\u5802\u7cbe\u92fb\u74bd Miao buke yan \u5999\u4e0d\u53ef\u8a00Zaizhi \u8f09\u6cbb (active mid-19th c.)Zaizhi zhi yin \u8f09\u6cbb\u4e4b\u5370Mi Jin Zhai yinzhang \u79d8\u6649\u9f4b\u5370\u7ae0Mi Jin Zhai yin \u79d8\u6649\u9f4b\u5370Kuai Shoushu \u84af\u58fd\u6a1e (active early-20th c.) Kuai Shoushu jia zhencang \u84af\u58fd\u6a1e\u5bb6\u73cd\u85cfLiqing fujun yiwu \u79ae\u537f\u5e9c\u541b\u907a\u7269Tan Jing \u8b5a\u656c (1911\u20131991)Tan shi Ouzhai shuhua zhi zhang \u8b5a\u6c0f\u5340\u9f4b\u66f8\u756b\u4e4b\u7ae0He\u2019an fu \u548c\u5eb5\u7236Tan Jing siyin \u8b5a\u656c\u79c1\u5370Ouzhai zhencang \u5340\u9f4b\u73cd\u85cfYue ren Tan Jing yin \u7cb5\u4eba\u8b5a\u656c\u5370He\u2019an jianding zhenji \u548c\u5eb5\u9451\u5b9a\u771f\u8de1Wang Jiqian \u738b\u5b63\u9077 (C. C. Wang, 1907\u20132003)Wang Jiqian shi shending zhenji \u738b\u5b63\u9077\u6c0f\u5be9\u5b9a\u771f\u8de1Jiqian xinshang \u5b63\u9077\u5fc3\u8cdeZhenze Wang shi Baowu Tang tushu ji \u9707\u6fa4\u738b\u6c0f\u5bf6\u6b66\u5802\u5716\u66f8\u8a18Wang Jiqian haiwai suojian mingji \u738b\u5b63\u9077\u6d77\u5916\u6240\u898b\u540d\u8de1Ceng gui Zhuli Guan  \u66fe\u6b78\u7af9\u91cc\u9928UnidentifiedLiang Yong zhi yin \u6881\u96dd\u4e4b\u5370Quanwu suqi \u5168\u7121\u4fd7\u6c23Guanmian peiyu \u51a0\u5195\u73ee\u7389Chang yi zisun \u9577\u5b9c\u5b50\u5b6bQingbai zhenwan \u6e05\u767d\u73cd\u73a9Chaofan juesu \u8d85\u51e1\u7d55\u4fd7Bu guoyan yin \u8aa7\u904e\u773c\u5370Zisun shi bao \u5b50\u5b6b\u4e16\u4fdd1. Translation from Shen C. Y. Fu et al., Traces of the Brush: Studies in Chinese Calligraphy. Exhibition catalogue. New Haven, CT: Yale University Press, 1977, cat. no. 13, p. 250.  Modified.2. Translation from Richard M. Barnhart, Along the Border of Heaven: Song and Yuan Paintings from the C. C. Wang Family Collection. Exhibition catalogue. New York: The Metropolitan Museum of Art, 1983, p. 120. 3. Translation by Maxwell K. Hearn. 4. The Odes of Yong is part of the \u201cOdes\u201d section in the Book of Poetry (Shi jing).  This poem concerns a beautiful imperial consort in want of virtue.5. Ban Gu and Sima Qian were ancient historians of high prestige.  The former compiled the History of the Han Dynasty (Han shu), while the latter wrote the Records of the Grand Historian (Shi ji).",
+    "dimensions": [
+        "Image 10 9/16 x 42 5/16 in. (26.8 x 107.5 cm)",
+        "Overall with mounting 10 15/16 x 25 ft. 7 11/16 in. (27.8 x 781.5 cm)"
+    ],
+    "id": 40508,
+    "image": "http://images.metmuseum.org/CRDImages/as/original/DP153682.jpg",
+    "medium": "Handscroll; ink on paper",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/as/original/DP153682.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP153676.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP153653.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP153651.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP153691.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP153711.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP153730.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP153739.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP153664.jpg"
+    ],
+    "title": "Twin Pines, Level Distance",
+    "what": [
+        "Ink",
+        "Paper",
+        "Paintings",
+        "Scroll paintings",
+        "Handscrolls"
+    ],
+    "when": "A.D. 1000-1400",
+    "where": [
+        "Asia",
+        "China"
+    ],
+    "who": "Zhao Mengfu"
+}

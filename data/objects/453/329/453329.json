@@ -1,0 +1,138 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/452912"
+            },
+            {
+                "href": "http://scrapi.org/object/452913"
+            },
+            {
+                "href": "http://scrapi.org/object/447771"
+            },
+            {
+                "href": "http://scrapi.org/object/445997"
+            },
+            {
+                "href": "http://scrapi.org/object/445998"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A232_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134244",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A237_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134557",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/programs-for-visitors-with-disabilities/visitors-who-are-deaf/beauty-and-innovation?eid=A001_%7b77D8F57E-5FC9-4578-8A95-30A43C89CFDD%7d_20140210164006",
+                "rel": "Met Signs Tours in ASL\u2014Beauty and Innovation: Understanding Islamic Art"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A251_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114408",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=ssa",
+                "rel": "South Asia, 1400\u20131600 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=ssa",
+                "rel": "South Asia, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/453329"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/453329"
+        }
+    },
+    "accession number": "1991.347.1",
+    "credit line": "The Alice and Nasli Heeramaneck Collection, Gift of Alice Heeramaneck, 1991",
+    "culture": "Islamic",
+    "date": "ca. 1600",
+    "department": "Islamic Art",
+    "description": "A substantial body of textiles, of which some have only recently come to light, can be tentatively assigned to one of the imperial workshops established by the Mughal emperor Akbar (r. 1550\u20131605) during the late sixteenth century. Although similar in material, color, and structure, these textiles have highly varied patterns. This example has friezes of striding Rajput warriors and riders framed above and below by joined borders featuring lotus medallions.",
+    "dimensions": [
+        "Textile L. 67 11/16 in. (172 cm)",
+        "W. 43 11/16 in. (111 cm)",
+        "Mount L. 72 5/8 in. (184.5 cm)",
+        "W. 49 in. (124.5 cm)",
+        "D. 2 in. (5.1 cm)"
+    ],
+    "id": 453329,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/RT226.jpg",
+    "medium": "Silk; satin weave with weft-patterned and warp-patterned stripes",
+    "provenance": [
+        "Nasli and Alice Heeramaneck, New York (by 1966\u201391, cat., 1966, no. 262)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/RT226.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/TP374.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/RT187.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-1991.347.1b.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-1991.347.1c.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-1991.347.1d.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-1991.347.1e.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-1991.347.1f.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-1991.347.1h.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/DT6732.jpg"
+    ],
+    "title": "Part of a Hanging or Curtain",
+    "what": [
+        "Silk",
+        "Textiles",
+        "Fragments",
+        "Satin"
+    ],
+    "where": [
+        "Asia",
+        "India",
+        "Gujarat",
+        "Ahmadabad"
+    ]
+}

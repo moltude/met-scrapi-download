@@ -1,0 +1,86 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/341163"
+            },
+            {
+                "href": "http://scrapi.org/object/338810"
+            },
+            {
+                "href": "http://scrapi.org/object/343243"
+            },
+            {
+                "href": "http://scrapi.org/object/338790"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/341162"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/341162"
+        }
+    },
+    "accession number": "17.236.28",
+    "credit line": "Gift of Henry Walters, 1917",
+    "date": "1576\u20131623",
+    "department": "Drawings and Prints",
+    "dimensions": "9-5/8 x 5-1/2 in.  (24.4 x 14 cm)",
+    "id": 341162,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP811533.jpg",
+    "medium": "Pen and brown ink, brush and gray-brown wash, over red chalk (recto); design for a frame in red chalk (verso)",
+    "provenance": [
+        "Don Sebasti\u00e1n Gabriel de Borb\u00f3n y Braganza (1811\u20131875)",
+        "Don Pedro Alc\u00e1ntara de Borb\u00f3n y Borb\u00f3n, Duke of D\u00farcal (1862\u20131892)",
+        "American Art Galleries, New YorkApril 10, 1889, part of no. 220(\"Fabricio Santafede [sic], this drawing described as 'A Saint leaning upon a cross. Points upward with left hand, holds book and fish with right.'\")"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP811533.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/17.236.28 RECTO.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/17.236.28 VERSO.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP811534.jpg"
+    ],
+    "title": "Saint Andrew, Apostle, with Transverse Cross, Book, and Fish, verso: Architectural sketch in red chalk",
+    "what": [
+        "Ink",
+        "Drawings",
+        "Chalk"
+    ],
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Fabrizio Santafede"
+}

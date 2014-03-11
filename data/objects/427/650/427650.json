@@ -1,0 +1,82 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/338810"
+            },
+            {
+                "href": "http://scrapi.org/object/343243"
+            },
+            {
+                "href": "http://scrapi.org/object/338774"
+            },
+            {
+                "href": "http://scrapi.org/object/338779"
+            },
+            {
+                "href": "http://scrapi.org/object/338767"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/427650"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/427650"
+        }
+    },
+    "accession number": "2013.150",
+    "credit line": "Purchase, Brooke Russell Astor Bequest, 2013",
+    "date": "early 17th century",
+    "department": "Drawings and Prints",
+    "dimensions": [
+        "Sheet 5 1/2 \u00d7 9 13/16 in. (14 \u00d7 25 cm)",
+        "Overall 6 3/16 \u00d7 10 5/16 in. (15.7 \u00d7 26.2 cm)"
+    ],
+    "id": 427650,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP830343.jpg",
+    "medium": "Pen and brown and black ink with red-brown washes",
+    "provenance": [
+        "John Postle Heseltine (British, London 1843\u20131929 London)",
+        "G. W. Read",
+        "Vendor: Joseph Fach (Frankfurt am Main)"
+    ],
+    "title": "Sculpture Designs for Saint Peter, Saint Paul, and the Angel of Death",
+    "what": [
+        "Ink",
+        "Drawings"
+    ],
+    "when": "A.D. 1600-1800",
+    "who": "Anonymous, German, Augsburg  Munich, early 17th century"
+}

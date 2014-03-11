@@ -1,0 +1,144 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/22626"
+            },
+            {
+                "href": "http://scrapi.org/object/27172"
+            },
+            {
+                "href": "http://scrapi.org/object/34815"
+            },
+            {
+                "href": "http://scrapi.org/object/30612"
+            },
+            {
+                "href": "http://scrapi.org/object/24859"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From October 2, 2012",
+                "href": "/exhibitions/listings/2012/arms-and-armor",
+                "rel": "Bashford Dean and the Creation of the Arms and Armor Department"
+            },
+            {
+                "date": "From November 11, 2014",
+                "href": "/exhibitions/listings/2014/art-of-collecting-arms-and-armor",
+                "rel": "The Art of Collecting Arms and Armor: Notable Acquisitions, 2003\u20132014"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A074_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112917",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A084_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113556",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A093_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113923",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A075_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112932",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A094_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113938",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 5, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A085_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113610",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161351",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A076_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112951",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 19, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161305",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 26, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A086_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113630",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwc",
+                "rel": "Central Europe (including Germany), 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/35703"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/35703"
+        }
+    },
+    "accession number": "2011.354",
+    "credit line": "Purchase, Arthur Ochs Sulzberger and Irene Roosevelt Aitken Gifts, 2011",
+    "culture": "Austrian, Vienna",
+    "date": "ca. 1670\u201373",
+    "department": "Arms and Armor",
+    "description": "This flintlock sporting gun was made in Vienna for Empress Margarita Teresa (reigned 1666\u201373), Infante of Spain and wife of Holy Roman Emperor Leopold I (reigned 1658\u20131705). The empress's crowned monogram in silver is inlaid on each side of the butt, and her arms, an imperial double-headed eagle bearing the shields of Austria and Spain, are engraved on the silver escutcheon on the grip of the stock. The gun's august ownership is matched by the quality of manufacture. It is a work by Jacques (Jacob) Lamarre, a Parisian gunmaker who sought his forture at the imperial court about 1670.This superb weapon is probably one of Lamarre's earliest Viennese works. It still retains a French character, notably the barrel, with its changing faceted and round sections; the lock, with its chiseled, pierced, and engraved ornament; a burlwood stock with distinctive marbled grain; and a classically inspired profile head in the style of Jean Berain the Younger (1640\u20131711) on the silver trigger guard. It compares to the finest French firearms of the period, examples of which were sought out by royalty and nobility throughout Europe.",
+    "dimensions": [
+        "Length, 52 1/8 in. (132.4 cm)",
+        "Length of barrel, 38 3/8 in. (97.5 cm)"
+    ],
+    "gallery-id": 375,
+    "id": 35703,
+    "image": "http://images.metmuseum.org/CRDImages/aa/original/DP268896.jpg",
+    "medium": "Steel, wood, silver, copper alloy, gold",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/aa/original/DP268896.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP271585.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP271587.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP271588.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP271589.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP271590.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP271591.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP271592.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP271601.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP271827.jpg"
+    ],
+    "title": "Flintlock Sporting Gun of Empress Margarita Teresa",
+    "what": [
+        "Metal",
+        "Copper alloy",
+        "Silver",
+        "Gold",
+        "Arms",
+        "Iron and iron alloy",
+        "Copper",
+        "Iron alloy",
+        "Steel",
+        "Firearms",
+        "Locks",
+        "Artillery",
+        "Flintlocks",
+        "Snaphances"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "Austria",
+        "Vienna"
+    ],
+    "who": "Jacques Lamarre"
+}

@@ -1,0 +1,127 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/476566"
+            },
+            {
+                "href": "http://scrapi.org/object/466190"
+            },
+            {
+                "href": "http://scrapi.org/object/466191"
+            },
+            {
+                "href": "http://scrapi.org/object/466192"
+            },
+            {
+                "href": "http://scrapi.org/object/466193"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 25, 2014",
+                "href": "/exhibitions/listings/2014/canterbury-stained-glass",
+                "rel": "Radiant Light"
+            },
+            {
+                "date": "From August 6, 2013",
+                "href": "/exhibitions/listings/2013/design-motifs-in-byzantine-art",
+                "rel": "Design Motifs in Byzantine Art"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/fire-in-medieval-material-culture?eid=A001_%7b2C78BD24-A40E-4EBE-9EF3-5D3150141D52%7d_20140113122213",
+                "rel": "Fire in Medieval Material Culture"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/teen-programs/art-explore/art-explore-medieval-life?eid=A001_%7b4D072AAD-56E3-463E-B4E7-7A438177C278%7d_20131206154555",
+                "rel": "Art Explore\u2014Medieval Life (Ages 11\u201314)"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/events-at-the-cloisters/family-programs-at-the-cloisters/family-workshops-at-the-cloisters/strike-a-pose?eid=A002_%7bC02F326A-E7EB-4BAE-BA6D-6DB770407BD0%7d_20140113155026",
+                "rel": "Strike a Pose"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/fire-in-medieval-material-culture?eid=A002_%7b2C78BD24-A40E-4EBE-9EF3-5D3150141D52%7d_20140113122225",
+                "rel": "Fire in Medieval Material Culture"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R002_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140302150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/welcome-canterbury?eid=A001_%7b53CBD56A-844E-442F-8444-9EF0B22E78BF%7d_20140210170835",
+                "rel": "Welcome and Introduction"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/canterbury-pilgrims?eid=A001_%7b64D05114-6E96-4769-B2D4-EC56F6BFB232%7d_20140210171509",
+                "rel": "Canterbury Pilgrims"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/age-old-splendor?eid=A001_%7b5BD2D112-6561-4BF9-94B6-31F203659DF6%7d_20140210172052",
+                "rel": "Age-Old Splendor\u2014Splendor's Old Age: Preserving Canterbury Cathedral's Medieval Stained Glass"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/reading-from-canterbury?eid=A001_%7b0E6241AC-6A4B-4E28-B4D9-7B95001379DA%7d_20140210172925",
+                "rel": "A Reading from The Canterbury Tales"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R003_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140303150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/book/hd_book.htm",
+                "rel": "The Art of the Book in the Middle Ages"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=07\u00aeion=eusb",
+                "rel": "Balkan Peninsula, 1000\u20131400 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/466196"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/466196"
+        }
+    },
+    "accession number": "1991.232.15",
+    "credit line": "Purchase, The Cloisters Collection, Rogers and Harris Brisbane Dick Funds, and Joseph Pulitzer Bequest, 1991",
+    "culture": "Byzantine",
+    "date": "1101",
+    "department": "The Cloisters",
+    "description": "This leaf, the first page of Saint Paul's Epistle to the Hebrews written in Greek, is decorated with a handsome rectangular headpiece and a letter topped with a portrait bust of the author. The leaf was originally part of a Praxapostolos, a text used only for the celebration of the Eucharist, which was copied by the scribe Joannes Koulix in 1101. Most of the remainder of the manuscript is now in the Biblioth\u00e8que Nationale, Paris.",
+    "dimensions": "7 31/32 x 6 1/4 in.  (20.3 x 16.0 cm)",
+    "id": 466196,
+    "image": "http://images.metmuseum.org/CRDImages/cl/original/DT202813.jpg",
+    "medium": "Tempera, gold and ink on parchment",
+    "provenance": [
+        "Victor Martin Le Roy , Neuilly-sur-Seine",
+        "Jean-Joseph Marquet de Vasselot , Paris",
+        "[ Alain Moatti , Paris (sold 1991)]"
+    ],
+    "title": "Leaf from the Epistle to the Hebrews",
+    "what": [
+        "Metal",
+        "Ink",
+        "Gold",
+        "Paintings",
+        "Manuscripts",
+        "Tempera",
+        "Parchment",
+        "Illuminations"
+    ],
+    "when": "A.D. 1000-1400",
+    "who": "Joannes Koulix"
+}

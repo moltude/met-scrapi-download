@@ -1,0 +1,144 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/61658"
+            },
+            {
+                "href": "http://scrapi.org/object/42727"
+            },
+            {
+                "href": "http://scrapi.org/object/64967"
+            },
+            {
+                "href": "http://scrapi.org/object/42729"
+            },
+            {
+                "href": "http://scrapi.org/object/44613"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 8, 2014",
+                "href": "/exhibitions/listings/2014/tibet-and-india",
+                "rel": "Tibet and India"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/chinese-carving",
+                "rel": "Colors of the Universe"
+            },
+            {
+                "date": "From July 19, 2013",
+                "href": "/exhibitions/listings/2013/chinese-snuff-bottles",
+                "rel": "Small Delights"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/ink-art",
+                "rel": "Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "From February 1, 2014",
+                "href": "/exhibitions/listings/2014/edo-period-painting",
+                "rel": "The Flowering of Edo Period Painting"
+            },
+            {
+                "date": "From April 14, 2014",
+                "href": "/exhibitions/listings/2014/lost-kingdoms",
+                "rel": "Lost Kingdoms"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R105_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140311111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R105_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140311120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R105_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140311131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/talks/gallery-talks/gallery-conv-culture-and-politics?eid=A001_%7b33996DD5-3C4F-473B-BCAE-533DF0BF66F1%7d_20140205160349",
+                "rel": "Gallery Conversation\u2014Culture and Politics in Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=A093_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20131018142432",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R106_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140312120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R106_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140312131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R107_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140313120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/programs-for-visitors-with-disabilities/visitors-who-are-blind-or-partially-sighted/picture-this-workshop-asian-art?eid=A001_%7b9CE222FD-E83F-4619-ADE7-7E4A30CBB471%7d_20140206171620",
+                "rel": "Picture This! Workshop\u2014Asian Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R107_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140314111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=07\u00aeion=nc",
+                "rel": "Central and North Asia, 1000\u20131400 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=07\u00aeion=eac",
+                "rel": "China, 1000\u20131400 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/42731"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/42731"
+        }
+    },
+    "accession number": "28.56",
+    "credit line": "Fletcher Fund, 1928",
+    "culture": "China",
+    "date": "11th century",
+    "department": "Asian Art",
+    "description": "After the tenth century, one of the more prominent representations of Avalokiteshvara shows the bodhisattva seated with the right knee raised and the left leg crossed before the body. The posture represents the Water Moon manifestation, understood as a depiction of the divinity in his Pure Land, or personal paradise. Known as Mount Potalaka, Avalokiteshvara's Pure Land was originally thought to be located on an island somewhere south of India. However, by the time of the Ming dynasty (1368\u20131644), this mythical paradise had been relocated to Mount Putuo, an island off the coast of the eastern Chinese province of Zhejiang, which had by that time become an important pilgrimage site. This sculpture of Avalokiteshvara exhibits the plump cheeks, small features, and pursed mouth characteristic of works produced during the Liao dynasty. He wears a front-tying belt composed of square plaques, a type that first appeared in China in the fourth century. These belts are thought to represent the taste of foreigners living in China at the time, such as the Qidan peoples, from the northeast, who ruled as the Liao dynasty.",
+    "dimensions": "H. 46 1/2 in. (118.1 cm); W. 37 1/2 in. (95.3 cm); D. 28 in. (71.1 cm)",
+    "gallery-id": 208,
+    "id": 42731,
+    "image": "http://images.metmuseum.org/CRDImages/as/original/DP163982.jpg",
+    "medium": "Wood (willow) with traces of pigment; multiple-woodblock construction",
+    "title": "Bodhisattva Avalokiteshvara in \"Water Moon\" Form (Shuiyue Guanyin)",
+    "what": [
+        "Sculpture",
+        "Wood",
+        "Printing blocks",
+        "Wood blocks",
+        "Figures",
+        "Willow"
+    ],
+    "when": "A.D. 1000-1400",
+    "where": [
+        "Asia",
+        "China"
+    ]
+}

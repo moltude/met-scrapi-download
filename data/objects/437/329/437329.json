@@ -1,0 +1,153 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/437326"
+            },
+            {
+                "href": "http://scrapi.org/object/437327"
+            },
+            {
+                "href": "http://scrapi.org/object/437328"
+            },
+            {
+                "href": "http://scrapi.org/object/437330"
+            },
+            {
+                "href": "http://scrapi.org/object/437331"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/piero-della-francesca",
+                "rel": "Piero della Francesca"
+            },
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "From April 22, 2014",
+                "href": "/exhibitions/listings/2014/goya",
+                "rel": "Goya and the Altamira Family"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/talks/gallery-talks/piero-della-francesca?eid=A001_%7bE50FD455-5FC1-41D0-9391-C456264363EF%7d_20140206160624",
+                "rel": "Exhibition Tour\u2014Piero della Francesca: Personal Encounters"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=A257_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20131127123002",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/monday-at-the-met-spring-2014?eid=R001_%7bBB2BF277-3666-435E-8B95-12CDE21533EA%7d_20140303100000",
+                "rel": "Monday at the Met with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R100_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140303123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R101_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140304123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R102_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140305123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R026_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140306140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R103_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140307123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/talks/the-observant-eye/stepping-out-of-the-frame?eid=A001_%7b438572AD-6B0F-4DA2-94FB-49B8931634C1%7d_20140123142901",
+                "rel": "Stepping Out of the Frame: Three-Dimensionality in the New Galleries for European Paintings"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/saturday-seminar-spring-2014?eid=R001_%7bE063A39F-FC40-4ECC-B690-C4C13F70B2A0%7d_20140308103000",
+                "rel": "Saturday Seminar with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/baro/hd_baro.htm",
+                "rel": "Baroque Rome"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/pous/hd_pous.htm",
+                "rel": "Nicolas Poussin (1594\u20131665)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwf",
+                "rel": "France, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/437329"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/437329"
+        }
+    },
+    "accession number": "46.160",
+    "credit line": "Harris Brisbane Dick Fund, 1946",
+    "date": "probably 1633\u201334",
+    "department": "European Paintings",
+    "dimensions": "60 7/8 x 82 5/8 in. (154.6 x 209.9 cm)",
+    "gallery-id": 617,
+    "id": 437329,
+    "image": "http://images.metmuseum.org/CRDImages/ep/original/co.ep.46.160_36.1.jpg",
+    "medium": "Oil on canvas",
+    "provenance": [
+        "Mar\u00e9chal Charles I de Cr\u00e9quy, Paris (from about 1633/34 [when he was ambassador to Rome]\u2013d. 1638; inv. May 10, 1638, no. CXXX, valued at 350 livres)",
+        "Armand-Jean du Plessis, Cardinal de Richelieu, Paris (until d. 1642; his estate, 1642\u201350; inv., January 29, 1643, no. 1002 bis, as \"Ravissement des Sabines du sieur Poussin de quatre piedz et demy de hault sur trois piedz et demy de long . . .\" valued at 1600 livres tournois; his estate sale, Paris, January 7\u2013February 8,1650, no. 1002 bis, sold for 1620 livres tournois to Aiguillon)",
+        "his niece, Marie Wignerod de Pontcourlay, duchesse d'Aiguillon, le Petit Luxembourg, Paris (1650\u2013d. 1675; sold by her heirs to de la Ravoye)",
+        "Jean N\u00e9ret de La Ravoye [or Ravoir], Paris (by 1685)",
+        "B\u00e9nigne de Ragois de Bretonvilliers, Paris (by 1698\u2013d. 1700)",
+        "Jaques Meijers, Rotterdam (by 1714\u201322; cat., 1714, pp. 5\u20136; his sale, Rotterdam, September 9, 1722, no. 233, as the Rape of the Sabine Women by a capable follower of Poussin, for fl. 50)",
+        "Henry Hoare, Stourhead, Bath, Wilts. (by 1762\u2013d. 1785)",
+        "the Hoare family, Stourhead (1785\u20131857)",
+        "by descent to Sir Henry Ainslie Hoare, Stourhead (1857\u201383; his sale, Christie's, London, June 2, 1883, no. 63; to Lesser, for \u00a335)",
+        "[Lesser, London, 1883]",
+        "Sir Francis Cook, Doughty House, Richmond, Surrey (1883\u2013d. 1901)",
+        "his son, Sir Frederick Cook, Doughty House (1901\u2013d. 1920)",
+        "his son, Sir Herbert Cook, Doughty House (1920\u2013d. 1939)",
+        "his son, Sir Francis Ferdinand Maurice Cook (1939\u201346)",
+        "[Knoedler, New York, 1946",
+        "sold to MMA]"
+    ],
+    "title": "The Abduction of the Sabine Women",
+    "what": [
+        "Paintings",
+        "Canvas",
+        "Oil paint"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Nicolas Poussin"
+}

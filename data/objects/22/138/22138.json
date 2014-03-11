@@ -1,0 +1,136 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/22139"
+            },
+            {
+                "href": "http://scrapi.org/object/35896"
+            },
+            {
+                "href": "http://scrapi.org/object/23939"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From October 2, 2012",
+                "href": "/exhibitions/listings/2012/arms-and-armor",
+                "rel": "Bashford Dean and the Creation of the Arms and Armor Department"
+            },
+            {
+                "date": "From November 11, 2014",
+                "href": "/exhibitions/listings/2014/art-of-collecting-arms-and-armor",
+                "rel": "The Art of Collecting Arms and Armor: Notable Acquisitions, 2003\u20132014"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A074_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112917",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A084_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113556",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A093_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113923",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A075_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112932",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A094_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113938",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 5, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A085_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113610",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161351",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A076_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112951",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 19, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161305",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 26, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A086_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113630",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=euwb",
+                "rel": "Great Britain and Ireland, 1400\u20131600 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwb",
+                "rel": "Great Britain and Ireland, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/22138"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/22138"
+        }
+    },
+    "accession number": "11.128.1",
+    "credit line": "Frederick C. Hewitt Fund, 1911",
+    "culture": "British, Greenwich",
+    "date": "ca. 1587",
+    "department": "Arms and Armor",
+    "description": "Sir John Scudamore (1541 or 1542\u20131623) was appointed a Gentleman Pensioner by Queen Elizabeth I (reigned 1558\u20131603) in 1571 or 1572 and knighted in 1592. This armor probably was commissioned by him in preparation for the threatened Spanish invasion of England in 1588. It was made in the royal workshops at Greenwich during the tenure of Jacob Halder (documented in England 1558\u20131608) as master armorer.The remains of this and the later Scudamore armor for his son James in the adjacent case were found, badly damaged and incomplete, in 1909, in Holme Lacy, the ancestral home of the Scudamores. The armors were restored and completed in The Metropolitan Museum of Art in 1915, by the armorer Daniel Tachaux. The parts made by Tachaux include the helmet, left pauldron (shoulder defense), gauntlets, and right sabaton (foot defense).",
+    "dimensions": "Wt., 68 lb. 8 oz. (31.07 kg)",
+    "id": 22138,
+    "image": "http://images.metmuseum.org/CRDImages/aa/original/scaneah11-128-1s1bw259331.jpg",
+    "medium": "Steel, etched and gilt",
+    "provenance": [
+        "Ex. coll.: Sir James Scudamore and Edwyn Francis Scudamore-Stanhope, 10th Earl of Chesterfield, Holme Lacey, Herefordshire, England."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/aa/original/scaneah11-128-1s1bw259331.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/31122.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/sfeah11-128-1mod1ATs1.JPG",
+        "http://images.metmuseum.org/CRDImages/aa/original/sfeah11-128-1bATs1.JPG",
+        "http://images.metmuseum.org/CRDImages/aa/original/sfeah11-128-1h-22-147-4abATs1.JPG",
+        "http://images.metmuseum.org/CRDImages/aa/original/scaneah11-128-11bw49066.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/scaneah11-128-1s2bw32690.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/sfeah11-128-1modhelmS2.JPG",
+        "http://images.metmuseum.org/CRDImages/aa/original/sfeah11-128-1modhelmS3.JPG"
+    ],
+    "title": "Field Armor Probably of Sir John \nScudamore (1541 or 1542\u20131623)",
+    "what": [
+        "Metal",
+        "Costume",
+        "Etching",
+        "Gilt",
+        "Iron and iron alloy",
+        "Iron alloy",
+        "Steel",
+        "Armor"
+    ],
+    "where": [
+        "Europe",
+        "United Kingdom",
+        "England",
+        "London",
+        "Greenwich"
+    ],
+    "who": "Jacob Halder"
+}

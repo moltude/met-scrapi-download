@@ -1,0 +1,120 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/159169"
+            },
+            {
+                "href": "http://scrapi.org/object/159170"
+            },
+            {
+                "href": "http://scrapi.org/object/156242"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R150_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140407130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=na",
+                "rel": "The United States and Canada, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/159173"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/159173"
+        }
+    },
+    "accession number": "2009.300.621a\u2013e",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Edith Gardiner, 1926",
+    "culture": "American",
+    "date": "ca. 1885",
+    "department": "Costume Institute",
+    "description": "This dress was designed to be worn in an open top carriage which, at the time, was a social event and everyone had to dress the part.The bustle silhouette, although primarily associated with the second half of the 19th century, originated in earlier fashions as a simple bump at the back of the dress, such as with late 17th-early 18th century mantuas and late 18th- early 19th century Empire dresses.  The full-blown bustle silhouette had its first Victorian appearance in the late 1860s, which started as fullness in skirts moving to the back of the dress.  This fullness was drawn up in ties for walking that created a fashionable puff.  This trendsetting puff expanded and was then built up with supports from a variety of different things such as horsehair, metal hoops and down.  Styles of this period were often taken from historical inspiration and covered in various types of trim and lace.  Accessories were petite and allowed for the focus on the large elaborate gowns.  Around 1874, the style altered and the skirts began to hug the thighs in the front while the bustle at the back was reduced to a natural flow from the waist to the train.  This period was marked by darker colors, asymmetrical drapery, oversize accessories and elongated forms created by full-length coats.  Near the beginning of the 1880s the trends altered once again to include the bustle, this time it would reach its maximum potential with some skirts having the appearance of a full shelf at the back.  The dense textiles preferred were covered in trimming, beadwork, puffs and bows to visually elevate them further.  The feminine silhouette continued like this through 1889 before the skirts began to reduce and make way for the S-curve silhouette.",
+    "dimensions": [
+        "Length at CB (a) 24 in. (61 cm)",
+        "Length at CB (b) 42 in. (106.7 cm)",
+        "Length at CF (c) 39 in. (99.1 cm)",
+        "6 x 9 in. (15.2 x 22.9 cm)"
+    ],
+    "id": 159173,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/26.371a-b_front_CP4.jpg",
+    "medium": "silk, synthetic, jet, feather",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/26.371a-b_front_CP4.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/26.371b-d_threequarter_front_CP4.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/26.371b-d_back_CP4.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/26.371a-b_side_CP4.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/26.385_CP4.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/26.371b-c,26.385_CP4.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/26.385_CP2.jpg"
+    ],
+    "title": "Ensemble",
+    "what": [
+        "Silk",
+        "Ensembles",
+        "Feather",
+        "Jet"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "Mme. Uoll Gross"
+}

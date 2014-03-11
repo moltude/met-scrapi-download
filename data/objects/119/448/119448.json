@@ -1,0 +1,128 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/158709"
+            },
+            {
+                "href": "http://scrapi.org/object/81694"
+            },
+            {
+                "href": "http://scrapi.org/object/82686"
+            },
+            {
+                "href": "http://scrapi.org/object/85883"
+            },
+            {
+                "href": "http://scrapi.org/object/85862"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R150_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140407130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=eus",
+                "rel": "Southern Europe, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/119448"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/119448"
+        }
+    },
+    "accession number": "C.I.53.11.1a\u2013f",
+    "credit line": "Gift of Mrs. Augustus G. Paine, 1953",
+    "culture": "Greek",
+    "date": "19th century",
+    "department": "Costume Institute",
+    "dimensions": [
+        "(a) Length at CB 21 3/4 in. (55.2 cm)",
+        "(b) Length at CB 18 in. (45.7 cm)",
+        "(c) Length at CF 25 1/2 in. (64.8 cm)",
+        "(d) Length 221 in. (561.3 cm)",
+        "(e, f) Length (foot) 10 1/4 in. (26 cm)"
+    ],
+    "id": 119448,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/CI53.11.1a-f.jpg",
+    "medium": "wool, metallic",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/CI53.11.1a-f.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI53.11.1ab_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI53.11.1ab_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI53.11.1ab_S.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI53.11.1a_d.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI53.11.1b_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI53.11.1b_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI53.11.1b_d2.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI53.11.1b_d1.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI53.11.1c_S.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI53.11.1d.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI53.11.1ef.jpg"
+    ],
+    "title": "Ensemble",
+    "what": [
+        "Wool",
+        "Ensembles"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "Greece"
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/456314"
+            },
+            {
+                "href": "http://scrapi.org/object/453354"
+            },
+            {
+                "href": "http://scrapi.org/object/457788"
+            },
+            {
+                "href": "http://scrapi.org/object/456928"
+            },
+            {
+                "href": "http://scrapi.org/object/454718"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world-french?eid=R025_%7b85906EA1-CA66-4610-A52C-39562E1A4C40%7d_20140303133000",
+                "rel": "Arts du monde Islamique (Arts of the Islamic World in French)"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R125_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140303141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R126_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140304141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R127_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140305141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R128_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140306141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R129_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140307141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A249_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114331",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A250_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114353",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world-french?eid=R026_%7b85906EA1-CA66-4610-A52C-39562E1A4C40%7d_20140310133000",
+                "rel": "Arts du monde Islamique (Arts of the Islamic World in French)"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R130_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140310141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/cpin/hd_cpin.htm",
+                "rel": "Company Painting in Nineteenth\u2013Century India"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/figs/hd_figs.htm",
+                "rel": "Figural Representation in Islamic Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=ssa",
+                "rel": "South Asia, 1600\u20131800 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=ssa",
+                "rel": "South Asia and the Himalayan Region, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/456949"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/456949"
+        }
+    },
+    "accession number": "2008.312",
+    "credit line": "Purchase, Anonymous Gift, Cynthia Hazen Polsky Gift, Virginia G. LeCount Bequest, in memory of The LeCount Family, 2007 Benefit Fund, Louis V. Bell, Harris Brisbane Dick, Fletcher, and Rogers Funds and Joseph Pulitzer Bequest, and Gift of Dr. Mortimer D. Sackler, Theresa Sackler and Family,  2008",
+    "culture": "Colonial British",
+    "date": "ca. 1777\u201382",
+    "department": "Islamic Art",
+    "description": "This watercolor belongs to the larger tradition of Company painting, or works made by Indian artists for English patrons (usually employees of the East India Company, hence the name of the school). Its anonymous artist is believed to have been in the circle of painters who worked for Sir Elijah Impey, Chief Justice of Bengal from 1774 to 1782, and his wife. They collected specimens of Indian flora and fauna at their estate in Calcutta and commissioned local artists to portray them. Although originally intended as a scientific record, the Impey natural studies are considered among the strongest achievements of the Company School.",
+    "dimensions": [
+        "Painting Ht. 23 1/2 in. (59.7 cm)",
+        "W. 32 3/4 in. (83.2 cm)",
+        "Mat size Ht. 27 1/4 in. (69.2 cm)",
+        "W. 35 1/2 in. (90.2 cm)"
+    ],
+    "id": 456949,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/DP167067.jpg",
+    "medium": "Pencil, ink, and opaque watercolor on paper",
+    "provenance": [
+        "Niall Hobhouse, London (by 2001\u20138; cat., 2001, no. 2)",
+        "Hobhouse sale, Christie's, London, May 22, 2008, lot 8, to MMA"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/DP167067.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-tr.355.2008.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-tr.355.2008b.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-tr.355.2008d.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-tr.355.2008c.JPG"
+    ],
+    "title": "Great Indian Fruit Bat",
+    "what": [
+        "Ink",
+        "Paper",
+        "Paintings",
+        "Watercolors",
+        "Pencil"
+    ],
+    "where": [
+        "Asia",
+        "India",
+        "West Bengal",
+        "Calcutta"
+    ],
+    "who": "Bhawani Das"
+}

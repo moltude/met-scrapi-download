@@ -1,0 +1,89 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/340631"
+            },
+            {
+                "href": "http://scrapi.org/object/340633"
+            },
+            {
+                "href": "http://scrapi.org/object/340634"
+            },
+            {
+                "href": "http://scrapi.org/object/340630"
+            },
+            {
+                "href": "http://scrapi.org/object/341968"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/340632"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/340632"
+        }
+    },
+    "accession number": "62.197",
+    "credit line": "Rogers Fund, 1962",
+    "date": "1553\u20131626",
+    "department": "Drawings and Prints",
+    "dimensions": "11-1/16 x 8-3/8 in. (29.4 x 21.3 cm)",
+    "id": 340632,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP811479.jpg",
+    "medium": "Red chalk. Recto faintly squared in red chalk",
+    "provenance": [
+        "William Young Ottley (British, Thatcham, Berkshire 1771\u20131836 London)(on Ottley mount)",
+        "Thomas Philipe (British, 1740\u20131816), Ottley sale, London, June 6\u201323, 1814, no. 1139",
+        "Sir Thomas Lawrence (British, Bristol 1769\u20131830 London)",
+        "Nathan Chaikin (New York and Venth\u00f4ne, 1907\u20131987)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP811479.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/62.197 RECTO.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/62.197 VERSO.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP811480.jpg"
+    ],
+    "title": "Male figure standing on a demon and holding up a skull; possibly a study for a figure in the cupola of the basilica at Loreta (recto); study of a male figure with upraised arm (verso)",
+    "what": [
+        "Drawings",
+        "Chalk"
+    ],
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Pomarancio (Cristoforo Roncalli)"
+}

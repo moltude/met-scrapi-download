@@ -1,0 +1,153 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/459086"
+            },
+            {
+                "href": "http://scrapi.org/object/436675"
+            },
+            {
+                "href": "http://scrapi.org/object/436676"
+            },
+            {
+                "href": "http://scrapi.org/object/436677"
+            },
+            {
+                "href": "http://scrapi.org/object/436678"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R125_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140303134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R126_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140304134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R127_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140305134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R128_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140306134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R129_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140307134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R130_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140310134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R131_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140311134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R132_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140312134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R133_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140313134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R134_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140314134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/gnrn/hd_gnrn.htm",
+                "rel": "Genre Painting in Northern Europe"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/milk/hd_milk.htm",
+                "rel": "Johannes Vermeer (1632\u20131675) and The Milkmaid"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/dutc/hd_dutc.htm",
+                "rel": "The New York Dutch Room"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwl",
+                "rel": "Low Countries, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/459085"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/459085"
+        }
+    },
+    "accession number": "1975.1.143",
+    "credit line": "Robert Lehman Collection, 1975",
+    "date": "ca. 1665-75",
+    "department": "Robert Lehman Collection",
+    "dimensions": "27 x 23 in. (68.6 x 58.4 cm)",
+    "gallery-id": 958,
+    "id": 459085,
+    "image": "http://images.metmuseum.org/CRDImages/rl/original/DT3101.jpg",
+    "medium": "Oil on canvas",
+    "provenance": [
+        "Probably Mr. Pastor, Geneva",
+        "Count de Morny",
+        "his sale, S. J. Philips, London, 20-21 June 1848, lot 81 (sold for 315 pounds)",
+        "Count de M[orny]",
+        "his sale, Paris, 24 May 1852 (Lugt 20855), lot 10 (bought in at FF 18,800)",
+        "Duke (formerly Count) de Morny",
+        "his sale, Paris, 31 May 1865 (Lugt 28564), lot 54 (to Baron Seilli\u00e8re for FF 12,700)",
+        "Baron de Beurnonville, Paris",
+        "George d'Epernay",
+        "Boesch, Vienna",
+        "sale, Christie's, London, 14 July 1888 (Lugt 47575), lot 166 (to Sedelmeyer for 220 10s.)",
+        "[Durand-Ruel and Sons, Paris and New York]",
+        "Charles H. Senff, New York, 1896 (bought from Durand-Ruel)",
+        "his sale, Anderson Galleries, New York, 28-29 March 1928, lot 21, ill. (to Scott and Fowles for $34,000)",
+        "[Scott and Fowles, New York]",
+        "Joseph J. Kerrigan, New York, 1929",
+        "his wife, Ester Slater Kerrigan, New York",
+        "her sale, Parker-Bernet, New York, 8-10 January 1942, no. 279, ill.",
+        "[Scott and Fowles, New York]",
+        "their sale, Parke-Bernet, New York, 28 March 1946, no. 73, ill.  Acquired by Robert Lehman by 1954."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/rl/original/DT3101.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/1660.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/DP146505.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/ep1975.1.143.bw.R.jpg"
+    ],
+    "title": "A Couple Playing Cards, with a Serving Woman",
+    "what": [
+        "Paintings",
+        "Canvas",
+        "Oil paintings"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "Netherlands"
+    ],
+    "who": "Pieter de Hooch"
+}

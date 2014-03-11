@@ -1,0 +1,152 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/492437"
+            },
+            {
+                "href": "http://scrapi.org/object/486313"
+            },
+            {
+                "href": "http://scrapi.org/object/492887"
+            },
+            {
+                "href": "http://scrapi.org/object/484267"
+            },
+            {
+                "href": "http://scrapi.org/object/483048"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From November 20, 2013",
+                "href": "/exhibitions/listings/2013/jewels-by-jar",
+                "rel": "Jewels by JAR"
+            },
+            {
+                "date": "From November 5, 2013",
+                "href": "/exhibitions/listings/2013/carlo-scarpa",
+                "rel": "Venetian Glass by Carlo Scarpa"
+            },
+            {
+                "date": "From February 24, 2014",
+                "href": "/exhibitions/listings/2014/lucas-samaras",
+                "rel": "Lucas Samaras"
+            },
+            {
+                "date": "From December 17, 2013",
+                "href": "/exhibitions/listings/2013/metropolitan-vanities",
+                "rel": "Metropolitan Vanities"
+            },
+            {
+                "date": "From October 22, 2013",
+                "href": "/exhibitions/listings/2013/william-kentridge",
+                "rel": "William Kentridge"
+            },
+            {
+                "date": "From April 29, 2014",
+                "href": "/exhibitions/listings/2014/dan-graham",
+                "rel": "The Roof Garden Commission: Dan Graham"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R100_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140303144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/modern-art-french?eid=R026_%7b96311A2D-1D25-45BE-83E2-2054BC16D70B%7d_20140304133000",
+                "rel": "Art Moderne et Contemporain (Modern and Contemporary Art in French)"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R101_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140304144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R102_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140305144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R026_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140306140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R103_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140306144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/collecting-and-intepreting-at-the-met?eid=A001_%7b6A0B3958-68AC-4F22-BB73-D898FB894401%7d_20140127111701",
+                "rel": "Fellows Colloquium\u2014Collecting and Interpreting at the Met"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/talks/gallery-talks/metropolitan-vanities?eid=A001_%7bF51ADF90-5C6F-45EF-822C-6AE4940219F6%7d_20140206160301",
+                "rel": "Exhibition Tour\u2014Metropolitan Vanities: The History of the Dressing Table"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/college/jewels?eid=A001_%7bB2CEEB36-09E2-43E1-B6FD-1CA91686BA29%7d_20140219113337",
+                "rel": "Jewels by JAR Workshop"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R104_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140310144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/frdc/hd_frdc.htm",
+                "rel": "French Art Deco"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/486818"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/486818"
+        }
+    },
+    "accession number": "1997.110",
+    "credit line": "Purchase, Gifts of Himan Brown and Adele Simpson, by exchange, 1997",
+    "date": "1925",
+    "department": "Modern and Contemporary Art",
+    "description": "The twins Jo\u00ebl and Jan Martel were sculptors best known for their four concrete Cubist \"trees\" designed for a garden setting at the 1925 Exposition des Arts D\u00e9coratifs et Industriels Modernes in Paris. Although the exhibition was intended to feature the best examples of contemporary decorative arts and design, most of the works shown were stylistically rooted in tradition. The few uncompromisingly modernist displays, including the Martel trees, were derided in the popular press: one cartoon depicted a baffled gardener debating whether to water them. More than fifteen feet high, the trees were destroyed when the exhibition closed; this maquette is the only nonphotographic record. Each had a cruciform trunk supporting quadrangular planes attached vertically and at angles, suggesting foliage; their abstract modern sensibility clearly derived from the polemics of Cubism.",
+    "dimensions": [
+        "H. 31-1/2, W. 15-1/8, D. 15 inches",
+        "(80 x 38.4 x 38.1 cm.)"
+    ],
+    "id": 486818,
+    "medium": "Painted wood",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ma/original/DP281152.jpg",
+        "http://images.metmuseum.org/CRDImages/ma/original/DP288715.jpg",
+        "http://images.metmuseum.org/CRDImages/ma/original/DT4164.jpg",
+        "http://images.metmuseum.org/CRDImages/ma/original/DP288716.jpg"
+    ],
+    "title": "Maquette for \"Arbre Cubiste (Cubist Tree)\"",
+    "what": [
+        "Sculpture",
+        "Painting",
+        "Woodwork",
+        "Maquettes"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": [
+        "Jan Martel",
+        "Jo\u00ebl Martel"
+    ]
+}

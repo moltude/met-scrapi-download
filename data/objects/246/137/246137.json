@@ -1,0 +1,138 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/249154"
+            },
+            {
+                "href": "http://scrapi.org/object/255671"
+            },
+            {
+                "href": "http://scrapi.org/object/255703"
+            },
+            {
+                "href": "http://scrapi.org/object/255722"
+            },
+            {
+                "href": "http://scrapi.org/object/256223"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R105_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140311123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R106_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140313123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R027_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140313130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R107_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140314123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/conversations-with-curators-and-conservators/terracotta-column-krater?eid=A001_%7b1CC4797D-7295-4614-9ACD-19C00BA693F4%7d_20140204162630",
+                "rel": "Conversation with a Curator\u2014Terracotta Column-Krater"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A144_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142257",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A145_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142312",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R116_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140331123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R117_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140401123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/grdr/hd_grdr.htm",
+                "rel": "Ancient Greek Dress"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/vase/hd_vase.htm",
+                "rel": "Athenian Vase Painting: Black\u2013 and Red\u2013Figure Techniques"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/grmu/hd_grmu.htm",
+                "rel": "Music in Ancient Greece"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/symp/hd_symp.htm",
+                "rel": "The Symposium in Ancient Greece"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=04\u00aeion=eusb",
+                "rel": "Ancient Greece, 1000 B.C.\u20131 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/246137"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/246137"
+        }
+    },
+    "accession number": "96.9.37",
+    "credit line": "Purchase, 1896",
+    "culture": "Greek, Attic",
+    "date": "ca. 480\u2013470 B.C.",
+    "department": "Greek and Roman Art",
+    "description": "Thracian womanThe large piece of patterned cloth used as a shield identifies the figure as Thracian. She hastens forward holding a spear in her right hand. The characterization suggests that she is an excerpt from a larger scene depicting the death of Orpheus, the irresistible musician. After losing his wife, Eurydice, Orpheus became a recluse. Thus spurned, the enraged women of Thrace killed him. In one version, they tore him to pieces.",
+    "dimensions": [
+        "H. 3 1/4 in. (8.2 cm)",
+        "diameter  8 3/8 in. (21.3 cm)"
+    ],
+    "gallery-id": 157,
+    "id": 246137,
+    "image": "http://images.metmuseum.org/CRDImages/gr/original/DP284777.jpg",
+    "medium": "Terracotta; red-figure",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/gr/original/DP284777.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP281886.jpg"
+    ],
+    "title": "Terracotta kylix (drinking cup)",
+    "what": [
+        "Clay",
+        "Vessels",
+        "Vases",
+        "Terracotta",
+        "Drinking vessels",
+        "Cups",
+        "Kylikes"
+    ],
+    "when": "1000 B.C.-A.D. 1",
+    "where": [
+        "Europe",
+        "Greece"
+    ],
+    "who": "Brygos Painter"
+}

@@ -1,0 +1,139 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/623327"
+            },
+            {
+                "href": "http://scrapi.org/object/623326"
+            },
+            {
+                "href": "http://scrapi.org/object/133886"
+            },
+            {
+                "href": "http://scrapi.org/object/108236"
+            },
+            {
+                "href": "http://scrapi.org/object/133892"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R150_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140407130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/107238"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/107238"
+        }
+    },
+    "accession number": "2005.299a\u2013e",
+    "credit line": "Gift of Ms. Suzanne K. Cseh, 2005",
+    "culture": "French",
+    "date": "1986",
+    "department": "Costume Institute",
+    "dimensions": [
+        "Length at CB 13 1/2 in. (34.3 cm)",
+        "Length at CB 41 in. (104.1 cm)",
+        "Length at CB 13 1/2 in. (34.3 cm)",
+        "Length 29 1/2 in. (74.9 cm)",
+        "Diameter 8 in. (20.3 cm)"
+    ],
+    "id": 107238,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/2005.299a\u2013d_F.jpg",
+    "medium": "a) silk, faux pearl; b,c) silk; d) silk, leather; e) silk, cotton, metal",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/2005.299a\u2013d_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2005.299a\u2013d_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2005.299a\u2013d_Bd.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2005.299b\u2013d_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2005.299bc_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2005.299bc_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2005.299b_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2005.299c_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2005.299c_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2005.299e_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2005.299e_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2005.299e_S.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2005.299_remnant.jpg"
+    ],
+    "title": "Wedding dress",
+    "what": [
+        "Metal",
+        "Costume",
+        "Silk",
+        "Cotton",
+        "Leather",
+        "Dresses",
+        "Pearl",
+        "Wedding dresses"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": [
+        "Karl Lagerfeld",
+        "Fendi"
+    ]
+}

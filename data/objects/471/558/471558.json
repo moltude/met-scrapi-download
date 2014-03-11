@@ -1,0 +1,128 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/466221"
+            },
+            {
+                "href": "http://scrapi.org/object/471574"
+            },
+            {
+                "href": "http://scrapi.org/object/471575"
+            },
+            {
+                "href": "http://scrapi.org/object/471576"
+            },
+            {
+                "href": "http://scrapi.org/object/471578"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 25, 2014",
+                "href": "/exhibitions/listings/2014/canterbury-stained-glass",
+                "rel": "Radiant Light"
+            },
+            {
+                "date": "From August 6, 2013",
+                "href": "/exhibitions/listings/2013/design-motifs-in-byzantine-art",
+                "rel": "Design Motifs in Byzantine Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R105_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140311104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R010_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140311150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R106_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140312104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R011_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140312150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R107_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140313104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R012_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140313150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R108_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140314104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R013_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140314150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/dresssing-the-part?eid=A001_%7b9C4AFFB5-1623-45E3-BE4C-5DFE582A20E6%7d_20140113143427",
+                "rel": "Dressing the Part: Medieval Costumes for Biblical Prophets and Ancestors"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=euwb",
+                "rel": "Great Britain and Ireland, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/471558"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/471558"
+        }
+    },
+    "accession number": "55.25",
+    "credit line": "The Cloisters Collection, 1955",
+    "culture": "British",
+    "date": "second half 15th century",
+    "department": "The Cloisters",
+    "description": "The term \"mazer\" derives from a German word meaning \"burled\" or \"grained\" and is generally applied to any lathe-turned root or hardwood object.  The inscription on the lip of this drinking bowl reads: \"Reason bade that I should write, think much, and speak little.\"",
+    "dimensions": "Overall H: 2 3/4 x Diam.: 6 1/4 in. (7 x 15.9 cm)",
+    "gallery-id": 14,
+    "id": 471558,
+    "image": "http://images.metmuseum.org/CRDImages/cl/original/cdi55-25s1.jpg",
+    "medium": "Maple with silver-gilt mounts",
+    "provenance": [
+        "Major W.G. Thorold",
+        "[ Martin Norton (sold 1955)]"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/cl/original/cdi55-25s1.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/cdi55-25s2.jpg"
+    ],
+    "title": "Drinking Bowl",
+    "what": [
+        "Metal",
+        "Metalwork",
+        "Silver",
+        "Wood",
+        "Gilt",
+        "Bowls",
+        "Maple"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "United Kingdom"
+    ]
+}

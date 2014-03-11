@@ -1,0 +1,98 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/266710"
+            },
+            {
+                "href": "http://scrapi.org/object/283652"
+            },
+            {
+                "href": "http://scrapi.org/object/286886"
+            },
+            {
+                "href": "http://scrapi.org/object/291714"
+            },
+            {
+                "href": "http://scrapi.org/object/296336"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/302509"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/302509"
+        }
+    },
+    "accession number": "2011.192",
+    "credit line": "Twentieth-Century Photography Fund, 2011",
+    "date": "1956\u201357",
+    "department": "Photographs",
+    "description": "In 1957 the U.S. Army announced that Elvis Presley had been drafted for military service. To simulate what the pop idol would look like with the standard G.I. haircut, a retoucher at the United Press news agency used an airbrush to trim his trademark pompadour and sideburns, revealing a rather misshapen version of the future Private Presley.",
+    "dimensions": [
+        "Image 22.2 x 16.8 cm (8 3/4 x 6 5/8 in.)",
+        "Frame 47 x 57.2 cm (18 1/2 x 22 1/2 in.) (Framed with 2011.191)"
+    ],
+    "id": 302509,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP257711.jpg",
+    "medium": "Gelatin silver print",
+    "provenance": [
+        "[David Winter, New York]"
+    ],
+    "title": "[Elvis Presley After Retouching to Simulate G. I. Haircut]",
+    "what": [
+        "Photographs",
+        "Gelatin silver prints"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": [
+        "Unknown, American",
+        "Elvis Presley"
+    ]
+}

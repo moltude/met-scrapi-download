@@ -1,0 +1,158 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/464494"
+            },
+            {
+                "href": "http://scrapi.org/object/467728"
+            },
+            {
+                "href": "http://scrapi.org/object/464482"
+            },
+            {
+                "href": "http://scrapi.org/object/463680"
+            },
+            {
+                "href": "http://scrapi.org/object/464559"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 25, 2014",
+                "href": "/exhibitions/listings/2014/canterbury-stained-glass",
+                "rel": "Radiant Light"
+            },
+            {
+                "date": "From August 6, 2013",
+                "href": "/exhibitions/listings/2013/design-motifs-in-byzantine-art",
+                "rel": "Design Motifs in Byzantine Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R105_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140311104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R010_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140311150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R106_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140312104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R011_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140312150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R107_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140313104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R012_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140313150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R108_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140314104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R013_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140314150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/dresssing-the-part?eid=A001_%7b9C4AFFB5-1623-45E3-BE4C-5DFE582A20E6%7d_20140113143427",
+                "rel": "Dressing the Part: Medieval Costumes for Biblical Prophets and Ancestors"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/relc/hd_relc.htm",
+                "rel": "Relics and Reliquaries in Medieval Christianity"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=07\u00aeion=euwf",
+                "rel": "France, 1000\u20131400 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/464483"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/464483"
+        }
+    },
+    "accession number": "17.190.514",
+    "credit line": "Gift of J. Pierpont Morgan, 1917",
+    "culture": "French",
+    "date": "ca. 1180\u201390",
+    "department": "Medieval Art",
+    "description": "Shimmering with gold and jewel-like color, enameled altar furnishings from Limoges are luxurious in appearance, yet remarkably sturdy. The unlikely combination of preciousness and practicality contributed to the international renown of Limoges enameling from the twelfth to the fourteenth century.The side plaque with a cross is a replacement. The original, which would have covered a hinged, lockable door, undoubtedly represented Saint Peter as on the chasse exhibited nearby (17.190.523).",
+    "dimensions": "Overall 10 5/16 x 11 7/8 x 4 9/16 in. (26.2 x 30.2 x 11.6 cm)",
+    "gallery-id": 304,
+    "id": 464483,
+    "image": "http://images.metmuseum.org/CRDImages/md/original/DT128.jpg",
+    "medium": "Copper engraved, chiseled, stippled, and gilt; champlev\u00e9 enamel: dark, medium, and light blue; turquoise, dark and light green, yellow, red, and white; wood core, painted red on exterior",
+    "provenance": [
+        "William Beckford, Fonthill Abbey, Wiltshire, England (until 1823)",
+        "Countess Anne of Newburgh(died 1861)",
+        "Fonthill Abbey sale, Phillips, Fonthill (September 9\u2013October 27, 1823, Day 30, no. 1263)",
+        "Hon. Robert Curzon, M.P.(died 1863)",
+        "Robert Curzon(1863-73), Parham, Sussex, England",
+        "Robert Nathaniel Curzon, 15th Baron Zouche(1873-1911)",
+        "Georges Hoentschel (French, Paris 1855\u20131915 Paris)(by 1911)",
+        "Jacques SeligmannParis and New York (in January 1912)",
+        "J. Pierpont Morgan, London and New York (1912-17)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/md/original/DT128.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/sf17-190-514s1.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/sf17-190-514s2.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/sf17-190-514s3.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/sf17-190-514s4.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/DP277953.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/DP277954.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/DP277955.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/sf17-190-514d2.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/DP277957.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/sf17-190-514d4.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/sf17-190-514d1.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/sf17-190-514d3.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/sf17-190-514d5.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/sf17-190-514d7.jpg"
+    ],
+    "title": "Chasse with the Crucifixion and Christ in Majesty",
+    "what": [
+        "Metal",
+        "Engraving",
+        "Gilt",
+        "Copper",
+        "Painting",
+        "Enamels",
+        "Stippling",
+        "Champlev\u00e9",
+        "Reliquaries",
+        "Chasse reliquaries"
+    ],
+    "when": "A.D. 1000-1400",
+    "where": [
+        "Europe",
+        "France",
+        "Limousin",
+        "Limoges"
+    ]
+}

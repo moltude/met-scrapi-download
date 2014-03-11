@@ -22,7 +22,7 @@ import sqlite3
 
 # removes objects with more than 3 or less than two dimesions 
 def remove_rows (): 
-	conn = sqlite3.connect('met-dim.db')
+	conn = sqlite3.connect('./db/met-dim.db')
 	c = conn.cursor()
 
 	for row in c.execute('SELECT DISTINCT obj_id, COUNT(*) FROM dimensions GROUP BY obj_id ORDER BY COUNT(*)' ):
@@ -43,7 +43,7 @@ def is_number(s):
         return False
 
 def calculate (obj_id): 
-	conn = sqlite3.connect('met-dim.db', timeout=1)
+	conn = sqlite3.connect('./db/met-dim.db', timeout=1)
 	c = conn.cursor()
 	values = []
 	calc_val = 0
@@ -69,7 +69,7 @@ def calculate (obj_id):
 		dim_type='volume'
 
 	# insert area/volum into volume_area table
-	conn = sqlite3.connect('met-dim.db', timeout=1)
+	conn = sqlite3.connect('./db/met-dim.db', timeout=1)
 	insert = conn.cursor()
 	insert.execute("INSERT INTO volumne_area VALUES (?,?,?)", (obj_id,calc_val,dim_type))
 	conn.commit()
@@ -84,7 +84,7 @@ def populate_vol_area_table():
 	# remove bad rows from dimensions table
 	remove_rows()
 
-	conn = sqlite3.connect('met-dim.db')
+	conn = sqlite3.connect('./db/met-dim.db')
 	c = conn.cursor()
 	# get the volume for each object in dimensions
 	c.execute('SELECT DISTINCT obj_id FROM dimensions' )
@@ -98,7 +98,7 @@ def populate_vol_area_table():
 # end def
 
 def drop_vol_area_table():
-	conn = sqlite3.connect('met-dim.db')
+	conn = sqlite3.connect('./db/met-dim.db')
 	c = conn.cursor()
 	# delete everything from table
 	c.execute ('DELETE FROM volumne_area')
@@ -106,7 +106,7 @@ def drop_vol_area_table():
 	conn.close()
 
 def dump_pop(): 
-	conn = sqlite3.connect('met-dim.db')
+	conn = sqlite3.connect('./db/met-dim.db')
 	c = conn.cursor()
 	for row in c.execute("SELECT * FROM volumne_area"):
 		print row

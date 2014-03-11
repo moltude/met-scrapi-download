@@ -20,8 +20,11 @@ def get_object(url):
 		try:
 			obj_resp = mechanize.urlopen(url)	
 			nomnom = json.load(obj_resp)
-		except (urllib2.URLError, urllib2.HTTPError) as e:
-			logging.warning('Unable to fetch object...' + url)
+		except (urllib2.URLError, urllib2.HTTPError, httplib.BadStatusLine) as e:
+			logging.warning('HTTP error -- Unable to fetch object...' + url)
+			return
+		except:
+			logging.warning('Something bad happend when fetching object url ' + url)
 			return
 
 	try: 
@@ -29,31 +32,36 @@ def get_object(url):
 	except KeyError:
 		logging.error('No ID present in object record...' + url)
 		return
+	except:
+			logging.warning('Something bad happend when grabbing ID ' + url)
+			return
 
 	# calculate folder to store
 	# that was a blunt and chaotic rewrite of some java and deservers a cleanup
-	str_obj_id = ''
+	str_obj_id = str(obj_id)
 	if (obj_id < 1000):
-		str_obj_id = str(obj_id)
-		while (len(str_obj_id) < 3):
+		while (len(str(str_obj_id)) < 3):
 			str_obj_id = '0' + str_obj_id
 		str_obj_id = "0" + "/" + str_obj_id
 	else:
-		str_obj_id=str(obj_id)[0:len(str_obj_id)-3]+'/'+str(obj_id)[len(str_obj_id)-3:]
+		str_obj_id=str_obj_id)[0:len(str_obj_id)-3]+'/'+str_obj_id)[len(str_obj_id)-3:]
 
 	path = path + str_obj_id + '/'
-	# store locally
+	
+	# does the key path /000/000/ exist? Create it? 
 	if not os.path.exists(path):
 		os.makedirs(path)
 
 	# full file path
 	path = path+str(obj_id)+'.json'
+	# if the JSON file does not exist then 
 	if not os.path.exists(path):
-		# write .json file to @path with formatting
+		# logging 
+		logging.info('Writing JSON file...' + path)
+		# write JSON file to @path with formatting
 		with open(path, 'w') as outfile:
 	  		outfile.write(json.dumps(nomnom, sort_keys=True,indent=4, separators=(',', ': ')))
 	pass
-
 
 # Will load every page from scrapi. 
 # Should then download the json for each object and store it locally
@@ -67,7 +75,7 @@ last_page=''
 while last_page != url:
 	try:
 		response = mechanize.urlopen(url)
-		nomnom = json.load(response)	
+		nomnom = json.load(response)
 		url = nomnom['_links']['next']['href']
 		last_page = nomnom['_links']['last']['href']
 		
@@ -80,7 +88,8 @@ while last_page != url:
 
 	except (urllib2.URLError,urllib2.HTTPError) as e:
 		logging.warning('Unable to fetch page (likely 404)...' + url)
-		# log.write('404 on url\n')
+	except:
+			logging.warning('Something bad happend when fetching page...' + url)
 		
 		
 

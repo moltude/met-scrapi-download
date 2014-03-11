@@ -1,0 +1,130 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/471738"
+            },
+            {
+                "href": "http://scrapi.org/object/471739"
+            },
+            {
+                "href": "http://scrapi.org/object/471740"
+            },
+            {
+                "href": "http://scrapi.org/object/471741"
+            },
+            {
+                "href": "http://scrapi.org/object/471750"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 25, 2014",
+                "href": "/exhibitions/listings/2014/canterbury-stained-glass",
+                "rel": "Radiant Light"
+            },
+            {
+                "date": "From August 6, 2013",
+                "href": "/exhibitions/listings/2013/design-motifs-in-byzantine-art",
+                "rel": "Design Motifs in Byzantine Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R105_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140311104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R010_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140311150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R106_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140312104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R011_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140312150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R107_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140313104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R012_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140313150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R108_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140314104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R013_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140314150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/dresssing-the-part?eid=A001_%7b9C4AFFB5-1623-45E3-BE4C-5DFE582A20E6%7d_20140113143427",
+                "rel": "Dressing the Part: Medieval Costumes for Biblical Prophets and Ancestors"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=eusi",
+                "rel": "Iberian Peninsula, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/471805"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/471805"
+        }
+    },
+    "accession number": "56.171.152",
+    "credit line": "The Cloisters Collection, 1956",
+    "culture": "Spanish",
+    "date": "1430\u20131460",
+    "department": "The Cloisters",
+    "description": "This dish (or brasero) comes from a lavish ensemble of tableware created for the delle Agli family of Florence.  The family's arms, featuring a rampant wolf, appears at the center. (The purplish color is as close as the potters could get to the prescribed red.) The arms are ringed by garlic, a playful reference to the consonance between the family name and the Italian word for garlic (aglio). The scrolling vine pattern of the border is recognizable as bryony.",
+    "dimensions": "Overall 18 3/4 in. (47.6 cm)",
+    "id": 471805,
+    "image": "http://images.metmuseum.org/CRDImages/cl/original/DP203234.jpg",
+    "medium": "Tin-glazed earthenware",
+    "provenance": [
+        "[ H\u00f4tel Drouot , Paris (May 8, 1894, no. 5)]",
+        "[ Arnold Seligmann, Rey & Co., Inc. , Paris and New York]",
+        "William Randolph Hearst American, 1863\u20131951 , New York and San Simeon, CA. (until 1951)",
+        "William Randolph Hearst Foundation , New York (1951\u20131956)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/cl/original/DP203234.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/cdi56-171-152s2.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/cdi56-171-152s3.jpg"
+    ],
+    "title": "Deep Dish",
+    "what": [
+        "Ceramics",
+        "Pottery",
+        "Earthenware",
+        "Dishes",
+        "Glazing"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Spain",
+        "Valencia",
+        "Manises"
+    ]
+}

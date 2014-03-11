@@ -1,0 +1,108 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/335855"
+            },
+            {
+                "href": "http://scrapi.org/object/335856"
+            },
+            {
+                "href": "http://scrapi.org/object/334999"
+            },
+            {
+                "href": "http://scrapi.org/object/489364"
+            },
+            {
+                "href": "http://scrapi.org/object/382183"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=waa",
+                "rel": "Anatolia and the Caucasus, 1800\u20131900 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=nc",
+                "rel": "Central and North Asia, 1800\u20131900 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=eue",
+                "rel": "Eastern Europe and Scandinavia, 1800\u20131900 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=waa",
+                "rel": "Anatolia and the Caucasus, 1900 A.D.\u2013present"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=nc",
+                "rel": "Central and North Asia, 1900 A.D.\u2013present"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=eue",
+                "rel": "Eastern Europe and Scandinavia, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/335857"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/335857"
+        }
+    },
+    "accession number": "66.753.2",
+    "credit line": "Gift of Nikita D. Lobanov, 1966",
+    "date": "n.d.",
+    "department": "Drawings and Prints",
+    "dimensions": "13 1/8 x 9 5/8 in.  (33.3 x 24.5 cm)",
+    "id": 335857,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP804794.jpg",
+    "medium": "Pencil on two sheets of tracing paper glued together",
+    "title": "Tracing of a Ballet Costume: Woman in Ruffles",
+    "what": [
+        "Drawings",
+        "Paper",
+        "Pencil"
+    ],
+    "where": [
+        "Asia",
+        "Russia"
+    ],
+    "who": "L\u00e9on Bakst"
+}

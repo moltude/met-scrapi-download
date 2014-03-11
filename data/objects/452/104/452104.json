@@ -1,0 +1,120 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/454624"
+            },
+            {
+                "href": "http://scrapi.org/object/456875"
+            },
+            {
+                "href": "http://scrapi.org/object/448466"
+            },
+            {
+                "href": "http://scrapi.org/object/448467"
+            },
+            {
+                "href": "http://scrapi.org/object/446567"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A232_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134244",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A237_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134557",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/programs-for-visitors-with-disabilities/visitors-who-are-deaf/beauty-and-innovation?eid=A001_%7b77D8F57E-5FC9-4578-8A95-30A43C89CFDD%7d_20140210164006",
+                "rel": "Met Signs Tours in ASL\u2014Beauty and Innovation: Understanding Islamic Art"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A251_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114408",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=ssa",
+                "rel": "South Asia, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/452104"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/452104"
+        }
+    },
+    "accession number": "1970.217",
+    "credit line": "Rogers Fund, 1970",
+    "culture": "Islamic",
+    "date": "early 17th century",
+    "department": "Islamic Art",
+    "description": "During Akbar\u2019s reign, numerous Christian subjects were copied by Indian artists working from the illustrated Bibles, prints, and paintings that were brought to the Mughal court by Jesuit missionaries and European traders. This image of the Madonna and Child is not an exact copy of a European original, since such details as the depiction of the faces, and the addition of the zoomorphic ewer, show Indian influences.",
+    "dimensions": [
+        "OveralL. 9 9/16 x 5 13/16in. (24.3 x 14.8cm)",
+        "Dimensions of blue frame 2 15/16 x 2 1/4in. (7.5 x 5.7cm)",
+        "Dimensions of painting 5 3/4 x 3 5/16in. (14.6 x 8.4cm)"
+    ],
+    "gallery-id": 463,
+    "id": 452104,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/sf1970-217r.jpg",
+    "medium": "Black and colored ink and gold on paper",
+    "title": "Madonna and Child in a Domestic Interior",
+    "what": [
+        "Metal",
+        "Ink",
+        "Paper",
+        "Gold",
+        "Manuscripts",
+        "Codices",
+        "Colored ink"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Asia",
+        "India"
+    ],
+    "who": "Manohar"
+}

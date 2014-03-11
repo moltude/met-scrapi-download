@@ -1,0 +1,130 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/94831"
+            },
+            {
+                "href": "http://scrapi.org/object/94878"
+            },
+            {
+                "href": "http://scrapi.org/object/92190"
+            },
+            {
+                "href": "http://scrapi.org/object/128083"
+            },
+            {
+                "href": "http://scrapi.org/object/83738"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R150_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140407130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/83263"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/83263"
+        }
+    },
+    "accession number": "C.I.53.40.40a\u2013g",
+    "credit line": "Gift of Mrs. Byron C. Foy, 1953",
+    "culture": "French",
+    "date": "1949\u201351",
+    "department": "Costume Institute",
+    "dimensions": [
+        "(a) Length at CB 46 in. (116.8 cm)",
+        "(b) Length 27 in. (68.6 cm)",
+        "(f, g) Other (circumference) 21 1/2 in. (54.6 cm)"
+    ],
+    "id": 83263,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/CI53.40.40a-d.jpg",
+    "medium": [
+        "(a) wool",
+        "(b,c,d) leather",
+        "(e) wool, feathers"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/CI53.40.40a-d.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI53.40.40a-d_d.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI53.40.40e.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/C.I.53.40.40e_label1.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/C.I.53.40.40e_label2.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI53.40.40fg.jpg"
+    ],
+    "title": "Ensemble",
+    "what": [
+        "Wool",
+        "Leather",
+        "Ensembles",
+        "Feather"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": [
+        "House of Dior",
+        "Christian Dior"
+    ]
+}

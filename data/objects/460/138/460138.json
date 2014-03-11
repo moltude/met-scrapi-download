@@ -1,0 +1,120 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/460128"
+            },
+            {
+                "href": "http://scrapi.org/object/460146"
+            },
+            {
+                "href": "http://scrapi.org/object/460131"
+            },
+            {
+                "href": "http://scrapi.org/object/460133"
+            },
+            {
+                "href": "http://scrapi.org/object/460134"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R131_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140311134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R132_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140312134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R133_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140313134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R134_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140314134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A109_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131126111651",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A115_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131127144444",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A110_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131126111706",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R145_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140331134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/talks/gallery-talks/european-sculpture-in-the-robert-lehman-collection?eid=A001_%7b835B4316-D69F-4E38-A76F-839A55CF6946%7d_20140123112008",
+                "rel": "European Sculpture in the Robert Lehman Collection"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R146_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140401134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/460138"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/460138"
+        }
+    },
+    "accession number": "1975.1.1011",
+    "credit line": "Robert Lehman Collection, 1975",
+    "date": "1506",
+    "department": "Robert Lehman Collection",
+    "dimensions": "H. 13 9/16 in. (34.5 cm)",
+    "gallery-id": 950,
+    "id": 460138,
+    "image": "http://images.metmuseum.org/CRDImages/rl/original/DT3445.jpg",
+    "medium": "Maiolica (tin-glazed earthenware)",
+    "provenance": [
+        "Alfred Israel Pringsheim, Munich, later Zurich (1850-1941)",
+        "sale*, Sotheby's, London, July 20, 1939, lot 305",
+        "[Julius Goldschmidt, London, for Lehman]",
+        "acquired by Robert Lehman through Goldschmidt Galleries, New York, 1939.*In March 1939, the German Ministry of Trade authorized export of  Pringsheim's  Majolica collection to London for auction at Sotheby's, provided that 80% of the proceeds up to \u00a3 20,000 and 70% of the remainder be paid to the German Gold Discount Bank in foreign currency.  Pringsheim was to receive the remaining proceeds.  In exchange, Pringsheim and his wife were allowed to emigrate to Switzerland.  See Timothy Wilson, \"Alfred Pringsheim and his Collection of Italian Maiolica,\" in Otto von Falke, Die Majolikasammlung Alfred Pringsheim, augmented reprint with articles by Tjark Hausman, Carmen Ravanelli-Guidotti and Timothy Wilson, Ferrara 1994, vol. 3, pp. 85-87."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/rl/original/DT3445.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/RLC35.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/DT3446.jpg"
+    ],
+    "title": "Armorial Jug (boccale)",
+    "what": [
+        "Metal",
+        "Ceramics",
+        "Vessels",
+        "Pottery",
+        "Earthenware",
+        "Glaze",
+        "Glazing",
+        "Jugs",
+        "Ceramic glaze",
+        "Maiolica",
+        "Tin",
+        "Tin glaze"
+    ],
+    "when": "A.D. 1400-1600"
+}
