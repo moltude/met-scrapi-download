@@ -1,0 +1,111 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/85827"
+            },
+            {
+                "href": "http://scrapi.org/object/85823"
+            },
+            {
+                "href": "http://scrapi.org/object/110483"
+            },
+            {
+                "href": "http://scrapi.org/object/126875"
+            },
+            {
+                "href": "http://scrapi.org/object/126872"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R150_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140407130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=eus",
+                "rel": "Southern Europe, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/157837"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/157837"
+        }
+    },
+    "accession number": "2009.300.2955",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Museum Expedition 1920, Robert B. Woodward Memorial Fund, 1920",
+    "culture": "Croatian",
+    "date": "fourth quarter 19th century",
+    "department": "Costume Institute",
+    "description": "The lively and exuberant embroidered design of this high-quality apron reflects the celebratory spirit that is the essence of traditional holiday costume.The apron was collected by Stewart Culin (1858-1929) during a collection expedition in 1920. Culin was the Brooklyn Museum's first Curator of Ethnology, serving from 1903 to 1929. Possessing an insatiable curiosity and appetite for collecting objects of all kinds, Culin conducted over twenty worldwide collecting expeditions between 1901 and 1928. The trips covered American Indian territories, New England, Asia, India, Great Britain, and all of Eastern and Western Europe. The seven expeditions between 1917 and 1928 were specifically focused on collecting regional textiles and costumes from Eastern and Western Europe and, to a lesser extent, New England. Culin's goals for these trips were not just to expand the Museum's holdings, but also to preserve their cultural contexts. He did so through amassing photographs, notebooks, and ephemera which documented the social, commercial, and cultural circumstances surrounding their acquisition. His collecting philosophy embraced both rare and high-quality pieces as well as those which represented daily life or were of particular social or historical interest.",
+    "dimensions": "Length at CB 36 in. (91.4 cm)",
+    "id": 157837,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/20.702_CP4.jpg",
+    "medium": "wool, metal",
+    "title": "Apron",
+    "what": [
+        "Metal",
+        "Costume",
+        "Wool",
+        "Aprons"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "Croatia"
+    ]
+}

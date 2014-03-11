@@ -1,0 +1,122 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/156614"
+            },
+            {
+                "href": "http://scrapi.org/object/169894"
+            },
+            {
+                "href": "http://scrapi.org/object/169895"
+            },
+            {
+                "href": "http://scrapi.org/object/84615"
+            },
+            {
+                "href": "http://scrapi.org/object/110469"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R150_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140407130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/shoe/hd_shoe.htm",
+                "rel": "Shoes in The Costume Institute"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/158850"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/158850"
+        }
+    },
+    "accession number": "2009.300.3866a\u2013h",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. Edward G. Sparrow, 1969",
+    "culture": "French",
+    "date": "1925\u201330",
+    "department": "Costume Institute",
+    "description": "Pietro Yantorny (1874-1936), the self-proclaimed \"most expensive shoemaker in the world\", was a consummate craftsman utterly devoted to the art of shoemaking.  Yantorny sought to create the most perfectly crafted shoes possible for a select and exclusive clientele of the most perfectly dressed people. Yantorny required that his clients place orders for no less than ten pair of shoes or boots, accompanying shoe trees, sixty pairs of coordinating stockings, a trunk for said shoes, plus buckles and other accessories, and provide a deposit of $5,000 in1913 dollars, the equivalent of over $100,000 today.  This pair of button shoes with strappy cutouts, an important feature of the late 1910s and 1920s, is accompanied by the shoe trees specifically made by Yantorny for them.",
+    "dimensions": "6 1/4 x 10 in. (15.9 x 25.4 cm)",
+    "id": 158850,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/69.33.26.1a-b,69.33.26.2a-f_CP4.jpg",
+    "medium": "leather, wood, metal",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/69.33.26.1a-b,69.33.26.2a-f_CP4.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/69.33.26.1b,69.33.26.2d-f_CP4.jpg"
+    ],
+    "title": "Shoes",
+    "what": [
+        "Metal",
+        "Costume",
+        "Leather",
+        "Footwear",
+        "Shoes"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Pietro Yantorny"
+}

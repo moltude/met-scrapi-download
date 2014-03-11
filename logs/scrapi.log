@@ -8,3 +8,10 @@ INFO:root:Fetching page...http://scrapi.org/ids?page=6
 INFO:root:Fetching page...http://scrapi.org/ids?page=7
 INFO:root:Fetching page...http://scrapi.org/ids?page=8
 ERROR:root:No ID present in object record...http://scrapi.org/object/224273
+INFO:root:Fetching page...http://scrapi.org/ids?page=9
+ERROR:root:No ID present in object record...http://scrapi.org/object/86366
+INFO:root:Fetching page...http://scrapi.org/ids?page=10
+WARNING:root:Unable to fetch object...http://scrapi.org/object/453187
+INFO:root:Fetching page...http://scrapi.org/ids?page=11
+INFO:root:Fetching page...http://scrapi.org/ids?page=12
+INFO:root:Fetching page...http://scrapi.org/ids?page=13

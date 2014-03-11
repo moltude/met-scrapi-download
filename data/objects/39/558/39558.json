@@ -1,0 +1,153 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/41470"
+            },
+            {
+                "href": "http://scrapi.org/object/36099"
+            },
+            {
+                "href": "http://scrapi.org/object/36098"
+            },
+            {
+                "href": "http://scrapi.org/object/51901"
+            },
+            {
+                "href": "http://scrapi.org/object/37396"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 8, 2014",
+                "href": "/exhibitions/listings/2014/tibet-and-india",
+                "rel": "Tibet and India"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/chinese-carving",
+                "rel": "Colors of the Universe"
+            },
+            {
+                "date": "From July 19, 2013",
+                "href": "/exhibitions/listings/2013/chinese-snuff-bottles",
+                "rel": "Small Delights"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/ink-art",
+                "rel": "Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "From February 1, 2014",
+                "href": "/exhibitions/listings/2014/edo-period-painting",
+                "rel": "The Flowering of Edo Period Painting"
+            },
+            {
+                "date": "From April 14, 2014",
+                "href": "/exhibitions/listings/2014/lost-kingdoms",
+                "rel": "Lost Kingdoms"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/highlights-of-asia?eid=A041_%7b93924202-8616-42E2-8DA1-39A4591F1426%7d_20140122180137",
+                "rel": "Highlights of Asia"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R100_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140303111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R100_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140303131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R101_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140304111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R101_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140304120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R101_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140304131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/talks/gallery-talks/the-flowering-of-edo-period-painting-spring?eid=A001_%7bB9065A06-A3F9-4CAB-8F49-ED3038F1E7A2%7d_20140205171419",
+                "rel": "Exhibition Tour\u2014The Flowering of Edo Period Painting: Japanese Masterworks from the Feinberg Collection"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=A092_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20131018142423",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R102_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140305120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R102_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140305131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/chin/hd_chin.htm",
+                "rel": "Chinese Painting"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=nc",
+                "rel": "Central and North Asia, 1600\u20131800 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=eac",
+                "rel": "China, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/39558"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/39558"
+        }
+    },
+    "accession number": "1972.278.1",
+    "credit line": "Gift of Mr. and Mrs. Earl Morse, 1972",
+    "culture": "China",
+    "date": "dated 1633",
+    "department": "Asian Art",
+    "description": "Between the ages of ten and twenty, Chen Hongshou studied painting in Hangzhou with the professional artist Lan Ying (1585\u20131664), with whom he must have trained by copying Song and Song-style pictures in the local Zhejiang tradition. In his mature years, however, Chen played on the mannerisms and formal distortions of contemporary Song imitations, turning the debased features of this worn-out tradition into elements of a new archaism infused with a highly personal sense of ironic melancholy.In this monumental landscape Chen alludes to the antique blue-and-green style in his use of flat planes of color, patterned foliage, and boldly contoured trees and rocks. Yet the exaggerated landscape forms and stylized banks of mist accentuate the unreality of the archaic conventions, emphasizing the isolation of the sensitively drawn gentleman and his attendant, whose presence gives the scene a troubling psychological edge.",
+    "dimensions": [
+        "Image 92 3/4 x 30 5/8 in. (235.6 x 77.8 cm)",
+        "Overall with mounting 126 5/8 x 34 5/8 in. (321.6 x 87.9 cm)",
+        "Overall with rollers 126 5/8 x 37 5/8 in. (321.6 x 95.6 cm)"
+    ],
+    "id": 39558,
+    "image": "http://images.metmuseum.org/CRDImages/as/original/1972_278_1.jpg",
+    "medium": "Hanging scroll; ink and color on silk",
+    "title": "Landscape in the Blue-and-Green Manner",
+    "what": [
+        "Silk",
+        "Ink",
+        "Paintings",
+        "Scroll paintings",
+        "Scrolls",
+        "Hanging scrolls"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Asia",
+        "China"
+    ],
+    "who": "Chen Hongshou"
+}

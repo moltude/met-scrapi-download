@@ -1,0 +1,139 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/452044"
+            },
+            {
+                "href": "http://scrapi.org/object/452045"
+            },
+            {
+                "href": "http://scrapi.org/object/452046"
+            },
+            {
+                "href": "http://scrapi.org/object/452047"
+            },
+            {
+                "href": "http://scrapi.org/object/452048"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A232_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134244",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A237_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134557",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/programs-for-visitors-with-disabilities/visitors-who-are-deaf/beauty-and-innovation?eid=A001_%7b77D8F57E-5FC9-4578-8A95-30A43C89CFDD%7d_20140210164006",
+                "rel": "Met Signs Tours in ASL\u2014Beauty and Innovation: Understanding Islamic Art"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A251_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114408",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/ilkh/hd_ilkh.htm",
+                "rel": "The Art of the Ilkhanid Period (1256\u20131353)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=07\u00aeion=wam",
+                "rel": "Iraq, 1000\u20131400 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/451412"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/451412"
+        }
+    },
+    "accession number": "57.51.33",
+    "credit line": "Cora Timken Burnett Collection of Persian Miniatures and Other Persian Art Objects, Bequest of Cora Timken Burnett, 1956",
+    "culture": "Islamic",
+    "date": "ca. 1300\u201330",
+    "department": "Islamic Art",
+    "description": "The legendary death of the Sasanian king Yazdegerd I\u2013who was said to have been kicked by a horse that magically emerged from a spring\u2013is charmingly depicted in this leaf from a dispersed manuscript of the Shahnama (Book of Kings) of Firdausi, one of a few codices of small dimensions. The attribution is uncertain either to Iraq or Iran in the Ilkhanid period. The decoratively curving tree and the grassy verge of the groundline, which rings the water, are traditional; the funguslike growths are derived from Chinese art and the costumes are Mongol. The gestures of the figures at the left register astonishment and dismay.",
+    "dimensions": [
+        "Painting H. 2 1/8 in. (5.4 cm)",
+        "W. 4 7/8 in. (12.4 cm)",
+        "Page H. 14 in. (35.6 cm)",
+        "W. 10 13/16 in. (27.5 cm)",
+        "Mat H. 19 1/4 in. (48.9 cm)",
+        "W. 14 1/4 in. (36.2 cm)"
+    ],
+    "id": 451412,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/DP159355.jpg",
+    "medium": "Ink, opaque watercolor, silver, and gold on paper",
+    "provenance": [
+        "Cora Timken Burnett, Alpine, NJ (by 1940\u2013d. 1956; bequeathed to MMA)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/DP159355.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/sf57-51-33r.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DT5165.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/h1_57.51.33.jpg"
+    ],
+    "title": "\"Yazdegird I Kicked to Death by the Water Horse\", Folio from a Shahnama (Book of Kings)",
+    "what": [
+        "Metal",
+        "Ink",
+        "Paper",
+        "Silver",
+        "Gold",
+        "Watercolors",
+        "Manuscripts",
+        "Codices",
+        "Folios",
+        "Illuminated manuscripts"
+    ],
+    "when": "A.D. 1000-1400",
+    "where": [
+        "Asia",
+        "Iran"
+    ],
+    "who": "Abu'l Qasim Firdausi"
+}
