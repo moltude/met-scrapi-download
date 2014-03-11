@@ -1,0 +1,103 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/285146"
+            },
+            {
+                "href": "http://scrapi.org/object/285451"
+            },
+            {
+                "href": "http://scrapi.org/object/284614"
+            },
+            {
+                "href": "http://scrapi.org/object/284615"
+            },
+            {
+                "href": "http://scrapi.org/object/267139"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/ap90/hd_ap90.htm",
+                "rel": "Art and Photography: 1990s\u2013Present"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=ca",
+                "rel": "Mexico and Central America, 1900 A.D.\u2013present"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=can",
+                "rel": "Mexico and Central America: Native Peoples, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/285339"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/285339"
+        }
+    },
+    "accession number": "2004.159",
+    "credit line": "Purchase, Anonymous Foundation and Charina Foundation Inc. Gifts, 2004",
+    "date": "2003",
+    "department": "Photographs",
+    "description": "Orozco makes ephemeral sculptures-sand on a table, a shoebox in snow, clay bearing the imprint of his hand-that are given longer life through photography. Whether recording one of his own interventions in the landscape or a found situation, his photographs remind us of the fleeting beauty to be found in simple things and chance occurrences if we only open our eyes and minds. \tThis image of a potato beetle curled in the palm of a hand is characteristic of the artist's photographic work: his subjects are frequently seen in close-up and centered in the frame, which also paradoxically subjects them to sometimes dizzying shifts in scale and perspective. Like his famous early sculpture Yielding Stone (1992)-a Plasticine ball shaped and marked by the artist rolling it in the street-Orozco's photographic subjects seem to exist somewhere between the organic and the handmade and, by extension, at the precise point where imagination and reality intersect.",
+    "dimensions": "Image 40.6 x 50.8 cm (16 x 20 in.)",
+    "id": 285339,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP143688.jpg",
+    "medium": "Chromogenic print",
+    "provenance": [
+        "the artist",
+        "[Marian Goodman Gallery, New York]"
+    ],
+    "title": "Rolling Life's Hand Line",
+    "what": [
+        "Photographs",
+        "Chromogenic prints"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "Mexico"
+    ],
+    "who": "Gabriel Orozco"
+}

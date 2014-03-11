@@ -1,0 +1,113 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/114232"
+            },
+            {
+                "href": "http://scrapi.org/object/169763"
+            },
+            {
+                "href": "http://scrapi.org/object/169761"
+            },
+            {
+                "href": "http://scrapi.org/object/156897"
+            },
+            {
+                "href": "http://scrapi.org/object/169753"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R130_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140310130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/156898"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/156898"
+        }
+    },
+    "accession number": "2009.300.2108",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. Frederick H. Prince, Jr., 1967",
+    "culture": "French",
+    "date": "ca. 1913",
+    "department": "Costume Institute",
+    "description": "Produced by a top Parisian milliner, this robust toque speaks of the high style of the early war period.   Reboux was known for her attention to structure and restraint in decoration, both of which are highlighted in this hat, with its beautiful form and singular trim, executed with obvious skill and forethought.  While the hat retains the heavy feeling and rich texture of its precedents, the shape is strictly controlled and the trim disciplined, features which can been seen to respond to the desire for more practical apparel and a cleaner, more modern look.",
+    "dimensions": "8 1/2 x 13 in. (21.6 x 33 cm)",
+    "id": 156898,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/67.110.18_CP3.jpg",
+    "medium": "straw, silk",
+    "title": "Toque",
+    "what": [
+        "Costume",
+        "Silk",
+        "Caps",
+        "Straw",
+        "Toques"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Caroline Reboux"
+}

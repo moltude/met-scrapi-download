@@ -1,0 +1,118 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/285742"
+            },
+            {
+                "href": "http://scrapi.org/object/285743"
+            },
+            {
+                "href": "http://scrapi.org/object/285839"
+            },
+            {
+                "href": "http://scrapi.org/object/285840"
+            },
+            {
+                "href": "http://scrapi.org/object/285922"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/hlad/hd_hlad.htm",
+                "rel": "David Octavius Hill (1802\u20131870) and Robert Adamson (1821\u20131848) (1840s)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/bald/hd_bald.htm",
+                "rel": "\u00c9douard  Baldus (1813\u20131889)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/gray/hd_gray.htm",
+                "rel": "Gustave Le Gray (1820\u20131884)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/adag/hd_adag.htm",
+                "rel": "The Daguerreian Era and Early American Photography on Paper, 1839\u20131860"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/tlbt/hd_tlbt.htm",
+                "rel": "William Henry Fox Talbot (1800\u20131877) and the Invention of Photography"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwb",
+                "rel": "Great Britain and Ireland, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/283071"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/283071"
+        }
+    },
+    "accession number": "2005.100.2",
+    "credit line": "Gilman Collection, Gift of The Howard Gilman Foundation, 2005",
+    "date": "1841\u201342",
+    "department": "Photographs",
+    "description": "For some pictures Talbot turned his camera toward subjects traditionally thought suitable for artistic representation, scenes of picturesque beauty or sites of historic interest. For others he arranged objects or people in aesthetic tableaux. For still others, such as this one, Talbot must surely have viewed the world through his camera and found on its ground glass an abstract composition that he would not have envisaged as a picture without the framing and spatial flattening characteristic of photographic observation.",
+    "dimensions": "16.5 x 19.2 cm (6 1/2 x 7 9/16 in. )",
+    "id": 283071,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP148627.jpg",
+    "medium": "Salted paper print from paper negative",
+    "provenance": [
+        "[Hans P. Kraus, Jr., New York]",
+        "Gilman Paper Company Collection, New York, October 18, 1987"
+    ],
+    "title": "[Winter Trees, Reflected in a Pond]",
+    "what": [
+        "Photographs",
+        "Salted paper prints"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "United Kingdom"
+    ],
+    "who": "William Henry Fox Talbot"
+}

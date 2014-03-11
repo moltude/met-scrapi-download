@@ -1,0 +1,131 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/471728"
+            },
+            {
+                "href": "http://scrapi.org/object/471737"
+            },
+            {
+                "href": "http://scrapi.org/object/471849"
+            },
+            {
+                "href": "http://scrapi.org/object/471852"
+            },
+            {
+                "href": "http://scrapi.org/object/466287"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 25, 2014",
+                "href": "/exhibitions/listings/2014/canterbury-stained-glass",
+                "rel": "Radiant Light"
+            },
+            {
+                "date": "From August 6, 2013",
+                "href": "/exhibitions/listings/2013/design-motifs-in-byzantine-art",
+                "rel": "Design Motifs in Byzantine Art"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/ancestors-of-christ?eid=A001_%7b64F28017-6AB0-4B00-864F-E5676EE07585%7d_20140113142350",
+                "rel": "The Ancestors of Christ: Stained Glass Windows from Canterbury Cathedral"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/ancestors-of-christ?eid=A002_%7b64F28017-6AB0-4B00-864F-E5676EE07585%7d_20140113142402",
+                "rel": "The Ancestors of Christ: Stained Glass Windows from Canterbury Cathedral"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R008_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140309150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R009_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140310150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R105_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140311104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R010_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140311150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R106_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140312104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R011_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140312150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R107_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140313104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=euwc",
+                "rel": "Central Europe (including Germany), 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/469895"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/469895"
+        }
+    },
+    "accession number": "1985.136",
+    "credit line": "Gift of Ruth Blumka, in honor of Ashton Hawkins, 1985",
+    "culture": "North Netherlandish or German",
+    "date": "ca. 1500",
+    "department": "The Cloisters",
+    "description": "In about 1500 workshops in Northern Europe produced a number of astonishingly detailed \"microcarvings\" in boxwood. Traditionally such carvings have been attributed to Brabant, in the South Lowlands, but convincing new arguments suggest that they were carved in the North Lowlands or Lower Rhineland. Of these, miniature altarpieces and rosary pendants survive in the greatest numbers. This memento mori, or reminder of the inevitability of death, is more unusual. The object takes the form of a casket embellished with scenes and inscriptions referring to the parable of the rich man who refused charity to Lazarus. In the Middle Ages, that man came to be identified with the name \"Dives,\" Latin for rich, and inside the casket we see an image of Dives being tormented in hell for eternity.",
+    "dimensions": "Overall 2 7/16 x 13/16in. (6.2 x 2.1cm)",
+    "gallery-id": 19,
+    "id": 469895,
+    "image": "http://images.metmuseum.org/CRDImages/cl/original/DP102943.jpg",
+    "medium": "Boxwood",
+    "provenance": [
+        "Ruth and Leopold Blumka , New York (until 1985)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/cl/original/DP102943.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/cdi1985-136s5.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/cdi1985-136s2.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/cdi1985-136s3.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/cdi1985-136s4.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/cdi1985-136s6.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/cdi1985-136s7.jpg"
+    ],
+    "title": "Memento Mori: Dives in Hell",
+    "what": [
+        "Sculpture",
+        "Paintings",
+        "Wood",
+        "Miniatures",
+        "Boxwood",
+        "Caskets"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Germany"
+    ]
+}

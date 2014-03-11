@@ -1,0 +1,140 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/334754"
+            },
+            {
+                "href": "http://scrapi.org/object/334755"
+            },
+            {
+                "href": "http://scrapi.org/object/336041"
+            },
+            {
+                "href": "http://scrapi.org/object/336522"
+            },
+            {
+                "href": "http://scrapi.org/object/336526"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/lith/hd_lith.htm",
+                "rel": "Lithography in the Nineteenth Century"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/nadr/hd_nadr.htm",
+                "rel": "Nadar (1820\u20131910)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/euor/hd_euor.htm",
+                "rel": "Orientalism in Nineteenth\u2013Century Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/aest/hd_aest.htm",
+                "rel": "The Aesthetic of the Sketch in Nineteenth\u2013Century France"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/prnt2/hd_prnt2.htm",
+                "rel": "The Print in the Nineteenth Century"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/frph/hd_frph.htm",
+                "rel": "The Rise of Paper Photography in 1850s France"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/roma/hd_roma.htm",
+                "rel": "Romanticism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/sara/hd_sara.htm",
+                "rel": "The Salon and The Royal Academy"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/gogh/hd_gogh.htm",
+                "rel": "Vincent van Gogh (1853\u20131890)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwf",
+                "rel": "France, 1600\u20131800 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwf",
+                "rel": "France, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/334753"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/334753"
+        }
+    },
+    "accession number": "59.23.27",
+    "credit line": "Bequest of Alexandrine Sinsheimer, 1958",
+    "department": "Drawings and Prints",
+    "dimensions": "9-1/16 x 7-3/8 in.  (23.0 x 18.7 cm)",
+    "id": 334753,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP805837.jpg",
+    "medium": "Graphite on laid paper, mounted on cardboard",
+    "provenance": [
+        "Donor: Alexandrine Sinsheimer"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP805837.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/59.23.27.jpg"
+    ],
+    "title": "Sheet of figure studies: two studies of a reclining figure, and a seated figure holding a lyre (?).",
+    "what": [
+        "Drawings",
+        "Paper",
+        "Graphite",
+        "Laid paper"
+    ],
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Eug\u00e8ne Delacroix"
+}

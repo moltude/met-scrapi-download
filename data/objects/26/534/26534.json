@@ -1,0 +1,139 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/23207"
+            },
+            {
+                "href": "http://scrapi.org/object/23016"
+            },
+            {
+                "href": "http://scrapi.org/object/23203"
+            },
+            {
+                "href": "http://scrapi.org/object/35873"
+            },
+            {
+                "href": "http://scrapi.org/object/22333"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From October 2, 2012",
+                "href": "/exhibitions/listings/2012/arms-and-armor",
+                "rel": "Bashford Dean and the Creation of the Arms and Armor Department"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A074_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112917",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A084_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113556",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A093_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113923",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A075_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112932",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A094_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113938",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 5, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A085_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113610",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161351",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A076_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112951",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 19, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161305",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 26, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A086_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113630",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=euwc",
+                "rel": "Central Europe (including Germany), 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/26534"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/26534"
+        }
+    },
+    "accession number": "38.163.1a\u2013d",
+    "credit line": "Fletcher Fund, 1938",
+    "culture": "German, Augsburg",
+    "date": "1582",
+    "department": "Arms and Armor",
+    "description": "Peffenhauser was among the most celebrated and long-lived armorers of Augsburg, a city famous for its armor-makers. The pieces displayed here are thought to be part of a garniture commissioned by Elector August of Saxony (1526\u20131586) in 1582. Because of its slender proportions, the armor is assumed to have been ordered as a present for the elector\u2019s son, Christian (1560\u20131591), who later succeeded his father as archduke and elector of Saxony. These elements were intended for light cavalry or infantry use. The original garniture also included a complete armor for heavy cavalry with exchange pieces for the tournament, parts of which are still preserved in the Saxon Electoral Armory in Dresden.",
+    "dimensions": [
+        "Length of breastplate, 19 1/2 in. (49.6 cm)",
+        "Greatest width of breastplate, 15 3/8 in. (39 cm)",
+        "Length of backplate, 17 1/2 in. (44.5 cm)",
+        "Greatest width of backplate, 14 3/16 in. (36 cm)",
+        "Length of right cuisse, 16 in. (40.6 cm)",
+        "Greatest width of right cuisse, 7 3/8 in. (18.7 cm)",
+        "Weigth of right cuisse, 2 lb. 6 oz. (1088 g)",
+        "Length of left cuisse, 16 1/2 in. (41.9 cm)",
+        "Greatest width of left cuisse, 7 1/2 in. (19 cm)",
+        "Weight of left cuisse, 2 lb. 7 oz. (1098 g)"
+    ],
+    "id": 26534,
+    "image": "http://images.metmuseum.org/CRDImages/aa/original/sfsb38.163.1a_121731.jpg",
+    "medium": "Embossed, etched, and partly gilt steel",
+    "provenance": [
+        "Ex. coll.: William Randolph Hearst, New York."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/aa/original/sfsb38.163.1a_121731.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/sfsb38.163.1c_d_121732.jpg"
+    ],
+    "title": "Elements from a Garniture Attributed to Christian I of Saxony (1560\u20131591)",
+    "what": [
+        "Metal",
+        "Costume",
+        "Etching",
+        "Gilt",
+        "Iron and iron alloy",
+        "Iron alloy",
+        "Steel",
+        "Armor",
+        "Embossing",
+        "Armors",
+        "Garnitures"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Germany",
+        "Bavaria",
+        "Augsburg"
+    ],
+    "who": "Anton Peffenhauser"
+}

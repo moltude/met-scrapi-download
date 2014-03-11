@@ -1,0 +1,86 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/266710"
+            },
+            {
+                "href": "http://scrapi.org/object/283652"
+            },
+            {
+                "href": "http://scrapi.org/object/286886"
+            },
+            {
+                "href": "http://scrapi.org/object/291714"
+            },
+            {
+                "href": "http://scrapi.org/object/282522"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/294832"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/294832"
+        }
+    },
+    "accession number": "2011.189",
+    "credit line": "Twentieth-Century Photography Fund, 2011",
+    "date": "1930",
+    "department": "Photographs",
+    "description": "In 1930 International News Photos transmitted over the wires this photograph of the U.S. Navy dirigible Los Angeles docked at a mooring mast atop the Empire State Building. In fact, no airship ever docked there, and the notion of the mast itself was a publicity stunt perpetrated by the building\u2019s backers. In late 1929 Alfred E. Smith, the leader of a group of investors erecting the Empire State Building, announced that they would be increasing the building\u2019s height by two hundred feet, making it slightly taller than its rival, the Chrysler Building. The tower\u2019s extension was to serve as a mooring mast for zeppelins from which weary European travelers would be able to disembark via a gangplank into a private elevator that would whisk them to street level in just seven minutes. Ultimately, the unceasing gusty winds at the tower\u2019s pinnacle made the plan impossible to execute, but the mast remained, allowing the Empire State Building to claim the title of world\u2019s tallest skyscraper.",
+    "dimensions": [
+        "Image 25.4 x 20.3 cm (10 x 8 in.)",
+        "Frame 50.8 x 40.6 cm (20 x 16 in.)"
+    ],
+    "id": 294832,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP257705.jpg",
+    "medium": "Gelatin silver print",
+    "provenance": [
+        "[Keith de Lellis Gallery, New York]"
+    ],
+    "title": "[Dirigible Docked on Empire State Building, New York]",
+    "what": [
+        "Photographs",
+        "Gelatin silver prints"
+    ],
+    "when": "A.D. 1900-present",
+    "who": "Unknown, American"
+}

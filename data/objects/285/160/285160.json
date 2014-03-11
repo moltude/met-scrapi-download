@@ -1,0 +1,98 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/285146"
+            },
+            {
+                "href": "http://scrapi.org/object/285339"
+            },
+            {
+                "href": "http://scrapi.org/object/271213"
+            },
+            {
+                "href": "http://scrapi.org/object/286429"
+            },
+            {
+                "href": "http://scrapi.org/object/265576"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=ca",
+                "rel": "Mexico and Central America, 1900 A.D.\u2013present"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=can",
+                "rel": "Mexico and Central America: Native Peoples, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/285160"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/285160"
+        }
+    },
+    "accession number": "2003.348a\u2013f",
+    "credit line": "Purchase, The Horace W. Goldsmith Foundation Gift, through Joyce and Robert Menschel, 2003",
+    "date": "2002",
+    "department": "Photographs",
+    "description": "Ortega dropped out of school at the age of sixteen to begin a career as a political cartoonist in the tradition of Jos\u00e9 Guadalupe Posada before turning to sculpture and photography. Jardineras belongs to an ongoing project devoted to the sidewalks of his native Mexico City, studies of man-made decay and natural renewal-from sinuous arabesques of grass sprouting from cracks in pavement to the barren, crumbling tree planters shown here. With its grid structure and entropic content, Jardineras wittily references the 1960s Minimalist work of Sol Lewitt and Robert Smithson. It also relates to a project of 2001 in which Ortega organized a campaign to raise awareness of the global problem of CO2 emissions by encouraging museum visitors to sponsor the planting of trees in the center of a busy traffic hub to absorb the poisonous gas. In both works, the artist converts the flaneur's refined yet passive appreciation of urban disarray into a socially engaged art without sacrificing his trademark poetry and wit.",
+    "dimensions": "Image 40.6 x 50.8 cm (16 x 20 in.) each",
+    "id": 285160,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/Ortega2003.348af.jpg",
+    "medium": "Chromogenic print",
+    "provenance": [
+        "the artist",
+        "[Kurimanzutto, Mexico City]"
+    ],
+    "title": "Untitled (Jardineras)",
+    "what": [
+        "Photographs",
+        "Chromogenic prints"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "Mexico"
+    ],
+    "who": "Damian Ortega"
+}

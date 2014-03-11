@@ -1,0 +1,138 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/437173"
+            },
+            {
+                "href": "http://scrapi.org/object/437175"
+            },
+            {
+                "href": "http://scrapi.org/object/437172"
+            },
+            {
+                "href": "http://scrapi.org/object/336191"
+            },
+            {
+                "href": "http://scrapi.org/object/336199"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/piero-della-francesca",
+                "rel": "Piero della Francesca"
+            },
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "From April 22, 2014",
+                "href": "/exhibitions/listings/2014/goya",
+                "rel": "Goya and the Altamira Family"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/talks/gallery-talks/piero-della-francesca?eid=A001_%7bE50FD455-5FC1-41D0-9391-C456264363EF%7d_20140206160624",
+                "rel": "Exhibition Tour\u2014Piero della Francesca: Personal Encounters"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=A257_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20131127123002",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/monday-at-the-met-spring-2014?eid=R001_%7bBB2BF277-3666-435E-8B95-12CDE21533EA%7d_20140303100000",
+                "rel": "Monday at the Met with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R100_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140303123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R101_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140304123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R102_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140305123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R026_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140306140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R103_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140307123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/talks/the-observant-eye/stepping-out-of-the-frame?eid=A001_%7b438572AD-6B0F-4DA2-94FB-49B8931634C1%7d_20140123142901",
+                "rel": "Stepping Out of the Frame: Three-Dimensionality in the New Galleries for European Paintings"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/saturday-seminar-spring-2014?eid=R001_%7bE063A39F-FC40-4ECC-B690-C4C13F70B2A0%7d_20140308103000",
+                "rel": "Saturday Seminar with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=eusi",
+                "rel": "Iberian Peninsula, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/437174"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/437174"
+        }
+    },
+    "accession number": "54.190",
+    "credit line": "Gift of Rudolf J. Heinemann, 1954",
+    "date": "ca. 1650\u201355",
+    "department": "European Paintings",
+    "dimensions": "Overall, with added strips, 77 x 43 3/4 in. (195.6 x 111.1 cm); original canvas 77 x 38 1/2 in. (195.6 x 97.8 cm)",
+    "gallery-id": 610,
+    "id": 437174,
+    "image": "http://images.metmuseum.org/CRDImages/ep/original/DP223490.jpg",
+    "medium": "Oil on canvas",
+    "provenance": [
+        "?unverified sale [\"Zubieta\" according to Angulo I\u00f1iguez], London, June 12, 1874, as \"Don Pedro N\u00fa\u00f1ez de Villavicencio, friend and disciple of Murillo and knight of a military order,\" for \u00a3178.10 to Palmer",
+        "Julian Williams, Seville (about 1883) described by Curtis as \"a full-length portrait of Villavicencio, about thirty-five years of age, with hooked nose, moustache, and long black hair, wearing a black dress with open sleeves, a hat in his hand, a sword at his side\"",
+        "Francisco Merry y Colom Gaite y Osorio, 1st Conde de Benomar, London [d. 1899]",
+        "?sale, Christie's, London, July 6, 1899, for \u00a3210 to Lesser",
+        "[Lesser, London, 1899\u20131912",
+        "posthumous sale, Christie's, London, February 10, 1912, no. 18, as \"Don Pedro Nu\u00f1ez de Villavicencio, in black dress with braided sleeves, and white stockings, standing, holding his glove and hat, and wearing the Riband and Order of Saint John of Jerusalem ([sic] our sitter wears the ribbon and order of the knights of Alc\u00e1ntara or Calatrava), 75 in. by 48 in.\" for \u00a381.18.0 to Nicholson]",
+        "[(?A. L.) Nicholson, from 1912]",
+        "[Rudolf J. Heinemann, Munich, in 1927]",
+        "?[Fleischmann, Munich, by 1928\u2013at least 1930]",
+        "?[F. Mont, New York, in 1950]",
+        "[Pinakos Inc. (Rudolf J. Heinemann), until 1954]"
+    ],
+    "title": "A Knight of Alc\u00e1ntara or Calatrava",
+    "what": [
+        "Paintings",
+        "Canvas",
+        "Oil paint"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "Spain"
+    ],
+    "who": "Bartolom\u00e9 Esteb\u00e1n Murillo"
+}

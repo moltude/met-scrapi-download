@@ -1,0 +1,141 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/79042"
+            },
+            {
+                "href": "http://scrapi.org/object/83579"
+            },
+            {
+                "href": "http://scrapi.org/object/83560"
+            },
+            {
+                "href": "http://scrapi.org/object/83583"
+            },
+            {
+                "href": "http://scrapi.org/object/83586"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R150_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140407130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/chnl/hd_chnl.htm",
+                "rel": "Gabrielle \"Coco\" Chanel (1883\u20131971) and the House of Chanel"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/81483"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/81483"
+        }
+    },
+    "accession number": "1984.31a\u2013c",
+    "credit line": "Isabel Shults Fund, 1984",
+    "culture": "French",
+    "date": "1929",
+    "department": "Costume Institute",
+    "dimensions": [
+        "Length at CB (a) 43 in. (109.2 cm)",
+        "Length at CB (b) 42 in. (106.7 cm)",
+        "Length (c) 66 1/4 in. (168.3 cm)"
+    ],
+    "id": 81483,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/DT7674.jpg",
+    "medium": "silk, wool",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/DT7674.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/DT253728.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/DT7673.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/DP115503.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/DP115502.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/DP115501.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1984.31a-c.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1984.31a-ccolor.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/DT7679.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/DT7675.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/DT7676.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/DT7677.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/DT7678.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI.1984.31T.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1984.31a_label.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1984.31a_label3.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1984.31a_label2.jpg"
+    ],
+    "title": "Ensemble",
+    "what": [
+        "Silk",
+        "Wool",
+        "Ensembles"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": [
+        "House of Chanel",
+        "Gabrielle \"Coco\" Chanel"
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/339750"
+            },
+            {
+                "href": "http://scrapi.org/object/339751"
+            },
+            {
+                "href": "http://scrapi.org/object/339752"
+            },
+            {
+                "href": "http://scrapi.org/object/339754"
+            },
+            {
+                "href": "http://scrapi.org/object/339757"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/seni/hd_seni.htm",
+                "rel": "Georges Seurat (1859\u20131891) and Neo\u2013Impressionism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/poim/hd_poim.htm",
+                "rel": "Post\u2013Impressionism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/mont/hd_mont.htm",
+                "rel": "The Lure of Montmartre, 1880\u20131900"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/lafr/hd_lafr.htm",
+                "rel": "The Transformation of Landscape Painting in France"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/gogh/hd_gogh.htm",
+                "rel": "Vincent van Gogh (1853\u20131890)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/gogh_d/hd_gogh_d.htm",
+                "rel": "Vincent van Gogh (1853\u20131890): The Drawings"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwf",
+                "rel": "France, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/334174"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/334174"
+        }
+    },
+    "accession number": "55.21.4",
+    "credit line": "Purchase, Joseph Pulitzer Bequest, 1951; acquired from The Museum of Modern Art, Lillie P. Bliss Collection",
+    "date": "1884",
+    "department": "Drawings and Prints",
+    "dimensions": "12 1/8 x 9 3/8 in. (30.8 x 23.8 cm)",
+    "id": 334174,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DT205022.jpg",
+    "medium": "Cont\u00e9 crayon",
+    "provenance": [
+        "\u00c9mile Seurat (French, 1891\u20131906)from 1891 until no later than 1906",
+        "F\u00e9lix F\u00e9n\u00e9on (French (born Italy), Turin 1861\u20131944 Ch\u00e2tenay-Malabry)by 1926, until January 1928",
+        "De Hauke & Co., New York, for Jacques Seligmann & Co., Jan - March 1928[stock no. 1141]",
+        "William Macbeth Inc., New York, from March 1928 until 1929",
+        "Lizzie Plummer Bliss, by 1929 until her death in 1931",
+        "Museum of Modern Art, New York 1934 until purchase by MMA, 1951"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DT205022.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/55.21.4.jpg"
+    ],
+    "title": "A Woman Fishing",
+    "what": [
+        "Drawings",
+        "Crayons",
+        "Cont\u00e9 crayons"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Georges Seurat"
+}

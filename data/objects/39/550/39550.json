@@ -1,0 +1,165 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/45637"
+            },
+            {
+                "href": "http://scrapi.org/object/44702"
+            },
+            {
+                "href": "http://scrapi.org/object/63217"
+            },
+            {
+                "href": "http://scrapi.org/object/63327"
+            },
+            {
+                "href": "http://scrapi.org/object/63682"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 8, 2014",
+                "href": "/exhibitions/listings/2014/tibet-and-india",
+                "rel": "Tibet and India"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/chinese-carving",
+                "rel": "Colors of the Universe"
+            },
+            {
+                "date": "From July 19, 2013",
+                "href": "/exhibitions/listings/2013/chinese-snuff-bottles",
+                "rel": "Small Delights"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/ink-art",
+                "rel": "Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "From February 1, 2014",
+                "href": "/exhibitions/listings/2014/edo-period-painting",
+                "rel": "The Flowering of Edo Period Painting"
+            },
+            {
+                "date": "From April 14, 2014",
+                "href": "/exhibitions/listings/2014/lost-kingdoms",
+                "rel": "Lost Kingdoms"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/highlights-of-asia?eid=A041_%7b93924202-8616-42E2-8DA1-39A4591F1426%7d_20140122180137",
+                "rel": "Highlights of Asia"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R100_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140303111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R100_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140303131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R101_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140304111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R101_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140304120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R101_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140304131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/talks/gallery-talks/the-flowering-of-edo-period-painting-spring?eid=A001_%7bB9065A06-A3F9-4CAB-8F49-ED3038F1E7A2%7d_20140205171419",
+                "rel": "Exhibition Tour\u2014The Flowering of Edo Period Painting: Japanese Masterworks from the Feinberg Collection"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=A092_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20131018142423",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R102_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140305120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R102_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140305131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/clpg/hd_clpg.htm",
+                "rel": "Landscape Painting in Chinese Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/yuan/hd_yuan.htm",
+                "rel": "Yuan Dynasty (1271\u20131368)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=07\u00aeion=nc",
+                "rel": "Central and North Asia, 1000\u20131400 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=07\u00aeion=eac",
+                "rel": "China, 1000\u20131400 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/39550"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/39550"
+        }
+    },
+    "accession number": "2012.526.2",
+    "credit line": "Ex coll. C. C. Wang Family, Gift of Oscar L. Tang Family, 2012",
+    "culture": "China",
+    "date": "ca. 1370",
+    "department": "Asian Art",
+    "description": "Wang Meng depicted scholars in their retreats, creating imaginary portraits that capture not the physical likeness of a person or place but rather an interior world of shared associations and ideals. He presented the master of Simple Retreat as a gentleman recluse. Seated at the front gate of a rustic hermitage, he is shown holding a magic fungus, as a servant and two deer approach from the woods. In the courtyard, another servant offers a sprig of herbs to a crane. The auspicious Daoist imagery of fungus, crane, and deer as well as the archaic simplicity of the figures and dwelling evokes a dreamlike vision of paradise.In creating this visionary world, Wang transformed the monumental landscape imagery of the tenth-century master Dong Yuan. Rocks and trees, animated with fluttering texture strokes, dots, color washes, and daubs of bright mineral pigment, pulse with a calligraphic energy barely contained within the traditional landscape structure. Encircled by this energized mountainscape, the retreat becomes a reservoir of calm at the vortex of a world whose dynamic configurations embody nature's creative potential but may also suggest the ever-shifting terrain of political power.",
+    "dimensions": [
+        "Image 53 3/4 x 17 5/8 in. (136.5 x 44.8 cm)",
+        "Overall with mounting 101 1/4 x 24 3/4 in. (257.2 x 62.9 cm)",
+        "Overall with knobs 101 1/4 x 28 11/16 in. (257.2 x 72.9 cm)"
+    ],
+    "id": 39550,
+    "image": "http://images.metmuseum.org/CRDImages/as/original/DP235599.jpg",
+    "medium": "Hanging scroll; ink and color on paper",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/as/original/DP235599.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP235600.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP157298.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP157299.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP235586.jpg"
+    ],
+    "title": "The Simple Retreat",
+    "what": [
+        "Ink",
+        "Paper",
+        "Paintings",
+        "Scroll paintings",
+        "Scrolls",
+        "Hanging scrolls"
+    ],
+    "when": "A.D. 1000-1400",
+    "where": [
+        "Asia",
+        "China"
+    ],
+    "who": "Wang Meng"
+}

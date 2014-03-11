@@ -1,0 +1,298 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/26549"
+            },
+            {
+                "href": "http://scrapi.org/object/23198"
+            },
+            {
+                "href": "http://scrapi.org/object/23358"
+            },
+            {
+                "href": "http://scrapi.org/object/24940"
+            },
+            {
+                "href": "http://scrapi.org/object/25387"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From October 2, 2012",
+                "href": "/exhibitions/listings/2012/arms-and-armor",
+                "rel": "Bashford Dean and the Creation of the Arms and Armor Department"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A074_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112917",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A084_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113556",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A093_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113923",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A075_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112932",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A094_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113938",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 5, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A085_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113610",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161351",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A076_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112951",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 19, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161305",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 26, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A086_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113630",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/rarm/hd_rarm.htm",
+                "rel": "Arms and Armor in Renaissance Europe"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/hors/hd_hors.htm",
+                "rel": "Horse Armor in Europe"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/deca/hd_deca.htm",
+                "rel": "The Decoration of European Armor"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=euwc",
+                "rel": "Central Europe (including Germany), 1400\u20131600 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwc",
+                "rel": "Central Europe (including Germany), 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/25111"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/25111"
+        }
+    },
+    "accession number": "22.229",
+    "credit line": "Rogers Fund, 1922",
+    "culture": "German, Nuremberg",
+    "date": "late 16th\u2013mid-17th century",
+    "department": "Arms and Armor",
+    "description": "This 112-sheet manuscript includes depictions of contestants equipped for various tournaments; a parade preceding a late form of tournament called a carrousel; participants in tournaments known as Gesellenstrechen, or bachelors' jousts, held in Nuremberg between 1446 and 1561; and depictions of pageant sleighs, some of which were used in a parade held in the winter of 1640\u201341. The illustrations are probably the work of a Briefmaler, or letter painter, who also would have written and embellished official documents and painted coats-of-arms.In many instances, the names of the tournament participants are written above them. They are armed for the Gestech, the joust fought with blunt lances. A helmet and a four-pronged lance head similar to those in the album are also on display in gallery 373 (acc. nos. 29.156.67a, 42.50.40). Albums such as this provide an invaluable record of the jousters' colorful costumes, fanciful crests, and humorous, often satirical emblems that decorated the jouster's shields and horse trappings.",
+    "dimensions": "cover 14 x 10 3/8 in. (35.56 x 26.35 cm); page: 13 5/8 x 9 7/8 in. (34.61 x 25.08 cm)",
+    "gallery-id": 373,
+    "id": 25111,
+    "image": "http://images.metmuseum.org/CRDImages/aa/original/DT770.jpg",
+    "medium": "Pen and ink, watercolor, gold and silver washes; paper bound in gold-tooled leather",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/aa/original/DT770.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DT11922.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP202047.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP202048.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP202051.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP237297.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP231811.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP237295.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP237296.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP237298.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP202049.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP202050.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238582.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238599.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238600.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238601.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238602.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238609.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238612.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238614.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238616.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238652.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238653.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238655.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP237299.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP237302.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP237303.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP237304.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238656.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238657.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238658.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238659.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238689.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238690.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238696.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238699.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238702.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238703.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238705.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238713.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238714.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238715.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238716.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238717.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238718.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238719.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238720.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238721.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238722.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238723.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238724.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238725.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238726.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238734.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238742.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238744.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238746.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238748.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238750.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238752.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238765.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238767.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238769.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238771.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238773.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238775.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238777.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238779.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238781.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238783.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238795.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238802.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238804.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238806.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238808.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238810.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238812.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238814.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238816.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238818.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238823.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238825.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238827.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238829.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238831.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238833.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238837.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238839.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238841.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238852.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238854.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238856.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238858.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238860.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238862.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238864.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238866.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238868.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238870.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238872.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238874.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238876.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238878.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238880.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238882.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238888.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238890.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238896.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238897.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP239087.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP239088.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP239089.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP239091.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238693.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238611.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238695.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238645.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238627.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238654.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238647.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238613.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238648.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238700.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238617.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238643.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238603.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP239086.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238651.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238620.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238622.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238704.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238618.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238708.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238692.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238644.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238691.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238623.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238707.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238701.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238624.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238649.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238646.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238650.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238697.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP239085.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238712.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238698.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238706.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238619.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238615.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238621.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238610.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238835.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP242358.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP242359.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP242360.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP238817.jpg"
+    ],
+    "title": "Album of Tournaments and Parades in Nuremberg",
+    "what": [
+        "Metal",
+        "Ink",
+        "Paper",
+        "Books",
+        "Silver",
+        "Gold",
+        "Watercolors",
+        "Leather",
+        "Manuscripts",
+        "Pen"
+    ],
+    "where": [
+        "Europe",
+        "Germany",
+        "Bavaria",
+        "Nuremberg"
+    ]
+}

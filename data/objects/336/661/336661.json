@@ -1,0 +1,92 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/336659"
+            },
+            {
+                "href": "http://scrapi.org/object/336660"
+            },
+            {
+                "href": "http://scrapi.org/object/395757"
+            },
+            {
+                "href": "http://scrapi.org/object/346508"
+            },
+            {
+                "href": "http://scrapi.org/object/227724"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwf",
+                "rel": "France, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/336661"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/336661"
+        }
+    },
+    "accession number": "1983.432",
+    "credit line": "Van Day Truex Fund, 1983",
+    "department": "Drawings and Prints",
+    "dimensions": "6 7/16 x 5 11/16 in.  (16.3 x 14.5 cm)",
+    "id": 336661,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP805777.jpg",
+    "medium": "Red chalk, over traces of graphite. Squared in black chalk.",
+    "provenance": [
+        "Pamela Gordon Bought at Sotheby's sale, New York, Parke Bernet, January 20, 1983 (Sotheby's Arcade Auctions), no. 609, as Charles-Antoine Coypel, \"Cupid and Psyche,\" not repr.",
+        "Vendor: Pamela Gordon"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP805777.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/1983.432.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DT223680.jpg"
+    ],
+    "title": "Zephyr and Flora",
+    "what": [
+        "Drawings",
+        "Graphite",
+        "Chalk"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Antoine Coypel"
+}

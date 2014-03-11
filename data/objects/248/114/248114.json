@@ -1,0 +1,107 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/248113"
+            },
+            {
+                "href": "http://scrapi.org/object/247985"
+            },
+            {
+                "href": "http://scrapi.org/object/247987"
+            },
+            {
+                "href": "http://scrapi.org/object/247172"
+            },
+            {
+                "href": "http://scrapi.org/object/248499"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A146_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142808",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R104_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140310123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R105_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140311123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R106_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140313123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R027_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140313130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R107_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140314123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/conversations-with-curators-and-conservators/terracotta-column-krater?eid=A001_%7b1CC4797D-7295-4614-9ACD-19C00BA693F4%7d_20140204162630",
+                "rel": "Conversation with a Curator\u2014Terracotta Column-Krater"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A144_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142257",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A145_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142312",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=04\u00aeion=eusb",
+                "rel": "Ancient Greece, 1000 B.C.\u20131 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/248114"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/248114"
+        }
+    },
+    "accession number": "08.258.42",
+    "credit line": "Rogers Fund, 1908",
+    "culture": "Greek, Boeotian",
+    "date": "425-400 B.C.",
+    "department": "Greek and Roman Art",
+    "description": "The deceased, seated on a chair, holds a lekythos (oil flask) in her raised left hand and a large pyxis (box) on her lap. Although the stele is said to be from Attica, the simplified treatment of the pediment, the somewhat stiff pose of the figure, and the type of marble suggest that it was carved in Boeotia. A flat area at the upper right of the relief has been worked over with a claw chisel, leaving short, parallel, toothlike marks. Such marks would be unlikely on finished grave reliefs of the classical period, for they would have been smoothed with a flat chisel. The presence of the marks suggests that the stele was reworked at a later time. A number of stelai with similar reworked surfaces have been found at Thespiae, in Boeotia. During the Roman period, the Thespians reused ancestral gravestones from the late fifth and fourth centuries B.C. to mark the graves of their own dead. The reliefs were often slightly refurbished: surfaces might be reworked with a claw chisel, inscriptions replaced with new ones, and figures totally removed.",
+    "dimensions": "Overall 62 1/4 x 38in. (158.1 x 96.5cm)",
+    "gallery-id": 156,
+    "id": 248114,
+    "image": "http://images.metmuseum.org/CRDImages/gr/original/GR25.jpg",
+    "medium": "Marble, Pentelic",
+    "title": "Marble grave stele of a woman",
+    "what": [
+        "Sculpture",
+        "Stone",
+        "Marble",
+        "Stelae"
+    ],
+    "when": "1000 B.C.-A.D. 1",
+    "where": [
+        "Europe",
+        "Greece"
+    ]
+}

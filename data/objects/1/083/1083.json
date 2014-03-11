@@ -1,0 +1,129 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/2051"
+            },
+            {
+                "href": "http://scrapi.org/object/3170"
+            },
+            {
+                "href": "http://scrapi.org/object/3489"
+            },
+            {
+                "href": "http://scrapi.org/object/3483"
+            },
+            {
+                "href": "http://scrapi.org/object/7745"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 18, 2013",
+                "href": "/exhibitions/listings/2013/american-west",
+                "rel": "The American West in Bronze, 1850\u20131925"
+            },
+            {
+                "date": "February 24, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R096_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140224120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "February 25, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R097_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140225120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "February 25, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R073_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140225134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "February 26, 2014",
+                "href": "/events/programs/talks/gallery-talks/light-in-american-art-hudson-river-school?eid=A003_%7b86B27E91-724D-4796-8075-F3123974AE65%7d_20131016163855",
+                "rel": "Light in American Art: Hudson River School to Abstract Expressionism"
+            },
+            {
+                "date": "February 26, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R098_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140226120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "February 26, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R074_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140226134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "February 27, 2014",
+                "href": "/events/programs/talks/gallery-talks/the-american-west-in-bronze?eid=A001_%7bF8FF67EB-DE74-4A7A-B860-AAB9F09B0E26%7d_20131024112254",
+                "rel": "Exhibition Tour\u2014The American West in Bronze, 1850\u20131925"
+            },
+            {
+                "date": "February 27, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R099_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140227120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "February 27, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R075_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140227134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "March 1, 2014",
+                "href": "/events/programs/tours/american-art-weekend?eid=A180_%7b501B6EDB-D4CC-4402-98B8-688E06337497%7d_20131127140947",
+                "rel": "American Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/revi/hd_revi.htm",
+                "rel": "American Revival Styles, 1840\u20131876"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=na",
+                "rel": "The United States and Canada, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/1083"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/1083"
+        }
+    },
+    "accession number": "1985.116",
+    "credit line": "Friends of the American Wing Fund, 1985",
+    "culture": "American",
+    "date": "ca. 1877\u201380",
+    "department": "American Decorative Arts",
+    "description": "This Modern Gothic cabinet superbly demonstrates the influence of British reform theory on American design in the late nineteenth century. In form and decoration, it is indebted to the British architect Bruce J. Talbert, whose book \"Gothic Forms Applied to  Furniture, Metal Work, and Decoration for Domestic Purposes\" (Birmingham, 1867; Boston, 1873) was influential in this country. A kinship with the work of the Philadelphia architect Frank Furness is also evident in the overall form of the cabinet, the verticality and shingled \"roof\" of which somewhat resemble Furness's bank buildings of the 1870s. The reverse-painted ribbed-glass panels are of a type Furness began to use on buildings as architectural decoration in 1876. Their stylized floral motif recalls the geometric plant forms of Christopher Dresser, a leading English ornamentist of the period who visited the Centennial Exhibition in Philadelphia in 1876 and whose published  designs were well known in this country. Daniel Pabst, a leading manufacturer of artistic furniture in Philadelphia, probably executed the cabinet. A related cabinet, now in the Brooklyn Museum of Art, is documented to Pabst.",
+    "dimensions": "96 x 42 x 20 in. (243.8 x 106.7 x 50.8 cm)",
+    "gallery-id": 743,
+    "id": 1083,
+    "image": "http://images.metmuseum.org/CRDImages/ad/original/DT180.jpg",
+    "medium": "Walnut, maple, white pine, glass",
+    "provenance": [
+        "Granville H. Triplett, Catonsville, Maryland",
+        "Robert Edwards, Bryn Mawr, Pennsylvania, until 1985"
+    ],
+    "title": "Cabinet",
+    "what": [
+        "Glass",
+        "Wood",
+        "Furniture",
+        "Softwood",
+        "Walnut",
+        "Pine",
+        "Case furniture",
+        "Maple",
+        "Cabinets"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "North and Central America",
+        "United States",
+        "Pennsylvania",
+        "Philadelphia"
+    ],
+    "who": "Daniel Pabst"
+}

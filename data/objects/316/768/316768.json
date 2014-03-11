@@ -1,0 +1,116 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/312599"
+            },
+            {
+                "href": "http://scrapi.org/object/312601"
+            },
+            {
+                "href": "http://scrapi.org/object/315712"
+            },
+            {
+                "href": "http://scrapi.org/object/312600"
+            },
+            {
+                "href": "http://scrapi.org/object/313369"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From September 16, 2013",
+                "href": "/exhibitions/listings/2013/feathered-walls",
+                "rel": "Feathered Walls"
+            },
+            {
+                "date": "From October 8, 2013",
+                "href": "/exhibitions/listings/2013/nelson-rockefeller",
+                "rel": "The Nelson A. Rockefeller Vision"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R105_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140311130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R106_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140312130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R107_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140313130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 18, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/shaping-the-african-art-canon?eid=A001_%7b447041C4-D9E7-43A9-AE5F-85BAEB6E7196%7d_20140214113010",
+                "rel": "Shaping the African Art Canon: From the Museum to the Classroom"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/talks/the-observant-eye/shared-memory-sculptural-ancestral-objects-from-oceania?eid=A001_%7b94768B86-339F-4726-A3BC-8F798C423768%7d_20140123143856",
+                "rel": "Shared Memory: Sculptural Ancestral Objects from Oceania"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=A116_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140210093151",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/talks/gallery-talks/ancient-american-sculpture?eid=A002_%7b7A6AA394-9359-47C1-87B4-65B0894C01AB%7d_20140123114700",
+                "rel": "Ancient American Sculpture"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R117_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140401130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R118_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140402130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=06\u00aeion=cac",
+                "rel": "Central America and the Caribbean, 500\u20131000 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/316768"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/316768"
+        }
+    },
+    "accession number": "1993.79.3",
+    "credit line": "Gift of Mr. and Mrs. John P. Hollihan III, 1993",
+    "culture": "Atlantic Watershed",
+    "date": "1st\u20135th century",
+    "department": "Arts of Africa, Oceania and the Americas",
+    "description": "The simple shape of this wide-mouthed jar is elaborated by the presence of three-dimensional bodies of abstract lizards or alligators presented as an identical repeated form around the vessel body. The segmented reptilian creatures were added to the finished jar after its upper surface received an allover patterning of diagonal grooves. The three lizards are formed by individual pieces of clay appliqu\u00e9d to the vessel, creating bodies that crawl up the wall and tails that curve around and terminate on the underside of the flared lip. The jar is slipped on the lower portion of the exterior, on the lip, and in the interior. Although the reptilian forms are abstract, there is a degree of reality, as they appear to rest in stillness like those that soak up the midday sun.",
+    "dimensions": "H x Diam. 5 1/4 x 5 3/4 in. (13.3 x 14.6 cm)",
+    "id": 316768,
+    "image": "http://images.metmuseum.org/CRDImages/ao/original/DP102131.jpg",
+    "medium": "Ceramic",
+    "provenance": [
+        "Mary Ann and John Hollihan III, London, until 1993"
+    ],
+    "title": "Bowl with Lizards",
+    "what": [
+        "Ceramics",
+        "Bowls"
+    ],
+    "where": [
+        "North and Central America",
+        "Costa Rica"
+    ]
+}

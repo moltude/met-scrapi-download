@@ -1,0 +1,97 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/338089"
+            },
+            {
+                "href": "http://scrapi.org/object/335055"
+            },
+            {
+                "href": "http://scrapi.org/object/335056"
+            },
+            {
+                "href": "http://scrapi.org/object/334847"
+            },
+            {
+                "href": "http://scrapi.org/object/334848"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/bouc/hd_bouc.htm",
+                "rel": "Fran\u00e7ois Boucher (1703\u20131770)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwf",
+                "rel": "France, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/336356"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/336356"
+        }
+    },
+    "accession number": "60.175.1",
+    "credit line": "Gift of Charles K. Lock, 1960",
+    "date": "ca. 1750",
+    "department": "Drawings and Prints",
+    "dimensions": "8 5/16 x 9 1/4 in.  (21.1 x 23.5 cm)",
+    "id": 336356,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP805466.jpg",
+    "medium": "Black chalk, brush and gray wash, and white chalk",
+    "provenance": [
+        "Donor: Charles K. Lock"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP805466.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/172063.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DT5199.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/60.175.1.jpg"
+    ],
+    "title": "Winged Putti with Flowers",
+    "what": [
+        "Drawings",
+        "Chalk"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Fran\u00e7ois Boucher"
+}

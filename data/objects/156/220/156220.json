@@ -1,0 +1,119 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/156218"
+            },
+            {
+                "href": "http://scrapi.org/object/156223"
+            },
+            {
+                "href": "http://scrapi.org/object/156225"
+            },
+            {
+                "href": "http://scrapi.org/object/156224"
+            },
+            {
+                "href": "http://scrapi.org/object/83364"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R130_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140310130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/elsa/hd_elsa.htm",
+                "rel": "Elsa Schiaparelli (1890\u20131973)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/156220"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/156220"
+        }
+    },
+    "accession number": "2009.300.1499a\u2013i",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of  Arturo and Paul Peralta-Ramos, 1955",
+    "culture": "French",
+    "date": "fall 1938",
+    "department": "Costume Institute",
+    "description": "Several of these buttons and fasteners were shown in \"A Slice of Schiaparelli: Surrealism in Fashion from the Brooklyn Museum.\" Patricia Mears named and dated them as follows:\"Tinsel Candlestick\" jacket fasteners, winter 1937-38\"Playing Card\" emblem buttons, fall-winter 1939\"Ship Tacking Hinge\" jacket pins, ca. 1935\"Crown\" button, fall 1937\"Victorian mirror\" suit pins, spring 1938\"Cricket\" jacket pins, fall 1938Yet another example of the fall 1938 pagan collection in the Brooklyn Museum's collection, these ornamental cricket buttons are a quintessential representation of the collection's theme as a whole and of Schiaparelli's Surrealist sensibility. Schiaparelli designed clothing as an expression of her Surrealist aesthetic that included iconography that would normally be considered odd or even repugnant in association with something to be worn, for instance the well-known lobster dress of 1937 worn by the Duchess of Windsor and the plentiful insects of the pagan collection, seen on jewelry, hats, as decoration and, as seen here, fasteners. The interloping insects would seem to be crawling on high-style clothing and jewelry, the ultimate Surrealist declaration.",
+    "dimensions": "2 1/4 in. (5.7 cm)",
+    "id": 156220,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/55.26.271a-c_CP4.jpg",
+    "medium": "synthetic, metal",
+    "title": "Button",
+    "what": [
+        "Metal",
+        "Buttons"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": [
+        "Elsa Schiaparelli",
+        "Jean Clem\u00e9nt",
+        "Roger Jean-Pierre"
+    ]
+}

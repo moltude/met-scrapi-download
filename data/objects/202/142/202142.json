@@ -1,0 +1,154 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/236075"
+            },
+            {
+                "href": "http://scrapi.org/object/202145"
+            },
+            {
+                "href": "http://scrapi.org/object/202141"
+            },
+            {
+                "href": "http://scrapi.org/object/189386"
+            },
+            {
+                "href": "http://scrapi.org/object/202143"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 3, 2014",
+                "href": "/exhibitions/listings/2014/william-morris",
+                "rel": "William Morris"
+            },
+            {
+                "date": "From November 22, 2011",
+                "href": "/exhibitions/listings/2011/faberge",
+                "rel": "Faberg\u00e9 from the Matilda Geddings Gray Foundation Collection"
+            },
+            {
+                "date": "From February 4, 2014",
+                "href": "/exhibitions/listings/2014/french-ceramics",
+                "rel": "Making Pottery Art"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/carpeaux",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "From January 22, 2014",
+                "href": "/exhibitions/listings/2014/antonio-canova",
+                "rel": "Antonio Canova"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/membership-events/evening-receptions/carpeaux-supporting-reception?eid=A001_%7b60301F85-6473-4C1C-8DAB-5D8B2E9406EE%7d_20140107151713",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R105_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140311131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/membership-events/evening-receptions/carpeaux-sustaining-reception?eid=A001_%7bB97F7097-C940-4FDB-8982-A3EC61BD9084%7d_20140107152519",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/world-enlightened?eid=R002_%7bEC37AED7-F558-4A27-A806-094491540250%7d_20140312101500",
+                "rel": "Cultural Discoveries\u2014Wednesdays with Olivier Bernier: Europe in the Eighteenth Century, A World Enlightened"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/talks/gallery-talks/the-passions-of-jean-baptiste-carpeaux?eid=A003_%7b7437318B-B35F-4C96-BAA4-FF8EDD85D6CA%7d_20140206123059",
+                "rel": "Exhibition Tour\u2014The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R106_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140313131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R107_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140314131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/art-making-programs/artist-demonstrations/sculpting-in-clay?eid=A001_%7bC514395B-8A7D-4198-93C8-44AD416FF697%7d_20131025175140",
+                "rel": "Sculpting in Clay"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/friday-evening-gallery-event-what-moves-you?eid=A001_%7b1EC22848-690F-4DDE-99C8-D3C4580691E8%7d_20140130135425",
+                "rel": "Friday Evening Gallery Event\u2014What Moves You?"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/art-making-programs/drop-in-drawing/gesture-and-movement?eid=A001_%7bACC3D053-EBAF-4C6F-9C96-0EFE6188B165%7d_20140214095024",
+                "rel": "Gesture and Movement: European Sculpture"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwf",
+                "rel": "France, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/202142"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/202142"
+        }
+    },
+    "accession number": "58.75.26",
+    "credit line": "Gift of Samuel H. Kress Foundation, 1958",
+    "culture": "French, Paris",
+    "date": "ca. 1780\u201385",
+    "department": "European Sculpture and Decorative Arts",
+    "description": "The Museum has two armchairs (fauteuils \u00e0 la reine) and two side chairs (chaises courantes) that were made about 1780 by Jacob; one of the armchairs is shown here.  The carved and gilded frames reveal the finesse of the woodcarver's technique.  The pieces are upholstered in white silk satin embroidered with colored silks; the design is in the style of Philippe de la Salle, the most prominent designer of woven silk fabrics of the period.",
+    "dimensions": "H. 40 1/4 in. (102.2 cm), W. 29 1/2 in. (74.9 cm), D. 30 5/8 in. (77.8 cm)",
+    "gallery-id": 524,
+    "id": 202142,
+    "image": "http://images.metmuseum.org/CRDImages/es/original/ES5029.jpg",
+    "medium": "Carved and gilded walnut; embroidered silk satin",
+    "provenance": [
+        "Louis-Jean-Marie de Bourbon, duc de Penthi\u00e8vre , H\u00f4tel de Toulouse, Paris (ca. 1780\u201393)",
+        "Louise-Marie-Ad\u00e9la\u00efde de Bourbon-Penthi\u00e8vre, duchesse d'Orl\u00e9ans (1793\u201397)",
+        "probably Gabriel-Julien Ouvrard , Paris (1793)",
+        "Louis Philippe Joseph, duc d'Orl\u00e9ans (1814\u201343)",
+        "Marie-Cl\u00e9mentine-Caroline-L\u00e9opoldine-Clothilde d'Orl\u00e9ans, Princess of Saxe Coburg and Gotha (1843\u20131907)",
+        "The Samuel H. Kress Foundation (until 1958; to MMA)"
+    ],
+    "title": "Armchair (Fauteuil \u00e0 la reine)",
+    "what": [
+        "Silk",
+        "Needlework",
+        "Wood",
+        "Gilt",
+        "Furniture",
+        "Embroidery",
+        "Woodwork",
+        "Seating furniture",
+        "Chairs",
+        "Walnut",
+        "Armchairs",
+        "Satin",
+        "Fauteuils \u00e0 la reine"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "France",
+        "Paris"
+    ],
+    "who": [
+        "Georges Jacob",
+        "Joseph-Fran\u00e7ois-Xavier Baudoin"
+    ]
+}

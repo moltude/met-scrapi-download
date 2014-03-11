@@ -1,0 +1,163 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/56115"
+            },
+            {
+                "href": "http://scrapi.org/object/57810"
+            },
+            {
+                "href": "http://scrapi.org/object/78659"
+            },
+            {
+                "href": "http://scrapi.org/object/57816"
+            },
+            {
+                "href": "http://scrapi.org/object/44896"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 8, 2014",
+                "href": "/exhibitions/listings/2014/tibet-and-india",
+                "rel": "Tibet and India"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/chinese-carving",
+                "rel": "Colors of the Universe"
+            },
+            {
+                "date": "From July 19, 2013",
+                "href": "/exhibitions/listings/2013/chinese-snuff-bottles",
+                "rel": "Small Delights"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/ink-art",
+                "rel": "Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "From February 1, 2014",
+                "href": "/exhibitions/listings/2014/edo-period-painting",
+                "rel": "The Flowering of Edo Period Painting"
+            },
+            {
+                "date": "From April 14, 2014",
+                "href": "/exhibitions/listings/2014/lost-kingdoms",
+                "rel": "Lost Kingdoms"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/talks/gallery-talks/chinese-buddhist-sculpture?eid=A001_%7b539805A7-4AAC-4214-A063-93083E921332%7d_20140123142801",
+                "rel": "Chinese Buddhist Sculpture"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R104_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140310111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R104_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140310131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R105_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140311111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R105_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140311120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R105_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140311131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/talks/gallery-talks/gallery-conv-culture-and-politics?eid=A001_%7b33996DD5-3C4F-473B-BCAE-533DF0BF66F1%7d_20140205160349",
+                "rel": "Gallery Conversation\u2014Culture and Politics in Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=A093_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20131018142432",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R106_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140312120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R106_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140312131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/edop/hd_edop.htm",
+                "rel": "Art of the Edo Period (1615\u20131868)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/nets/hd_nets.htm",
+                "rel": "Netsuke: From Fashion Fobs to Coveted Collectibles"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/pfor/hd_pfor.htm",
+                "rel": "Painting Formats in East Asian Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/rinp/hd_rinp.htm",
+                "rel": "Rinpa Painting Style"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/seim/hd_seim.htm",
+                "rel": "Seasonal Imagery in Japanese Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=eaj",
+                "rel": "Japan, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/56114"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/56114"
+        }
+    },
+    "accession number": "JP1828",
+    "credit line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+    "culture": "Japan",
+    "department": "Asian Art",
+    "dimensions": "H. 10 in. (25.4 cm); W. 14 3/16 in. (36 cm)",
+    "id": 56114,
+    "image": "http://images.metmuseum.org/CRDImages/as/original/DP124258.jpg",
+    "medium": "Polychrome woodblock print (leaf from an album); ink and color on paper",
+    "title": "Design of Flowers",
+    "what": [
+        "Prints",
+        "Ink",
+        "Paper",
+        "Books",
+        "Printing blocks",
+        "Wood blocks",
+        "Albums"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Asia",
+        "Japan"
+    ],
+    "who": "Ogata K\u014drin"
+}

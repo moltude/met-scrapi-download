@@ -1,0 +1,132 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/483986"
+            },
+            {
+                "href": "http://scrapi.org/object/483987"
+            },
+            {
+                "href": "http://scrapi.org/object/483989"
+            },
+            {
+                "href": "http://scrapi.org/object/484000"
+            },
+            {
+                "href": "http://scrapi.org/object/484001"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From November 20, 2013",
+                "href": "/exhibitions/listings/2013/jewels-by-jar",
+                "rel": "Jewels by JAR"
+            },
+            {
+                "date": "From February 24, 2014",
+                "href": "/exhibitions/listings/2014/lucas-samaras",
+                "rel": "Lucas Samaras"
+            },
+            {
+                "date": "From December 17, 2013",
+                "href": "/exhibitions/listings/2013/metropolitan-vanities",
+                "rel": "Metropolitan Vanities"
+            },
+            {
+                "date": "From October 22, 2013",
+                "href": "/exhibitions/listings/2013/william-kentridge",
+                "rel": "William Kentridge"
+            },
+            {
+                "date": "From April 29, 2014",
+                "href": "/exhibitions/listings/2014/dan-graham",
+                "rel": "The Roof Garden Commission: Dan Graham"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R104_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140310144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/modern-art-french?eid=R027_%7b96311A2D-1D25-45BE-83E2-2054BC16D70B%7d_20140311133000",
+                "rel": "Art Moderne et Contemporain (Modern and Contemporary Art in French)"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R105_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140311144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R106_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140312144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R027_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140313140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R107_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140313144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=A076_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20131126112236",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/faces?eid=A002_%7b8EAA5A8F-1DA9-4AC7-8199-BDE367AC2FB1%7d_20140124163826",
+                "rel": "Faces! Drawing in the Galleries for Adults"
+            },
+            {
+                "date": "March 18, 2014",
+                "href": "/events/programs/tours/modern-art-french?eid=R028_%7b96311A2D-1D25-45BE-83E2-2054BC16D70B%7d_20140318133000",
+                "rel": "Art Moderne et Contemporain (Modern and Contemporary Art in French)"
+            },
+            {
+                "date": "March 20, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R028_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140320140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwcm",
+                "rel": "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/484005"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/484005"
+        }
+    },
+    "accession number": "1985.198.143.13",
+    "credit line": "Gift of Jack Lenor Larsen Incorporated, 1985",
+    "date": "ca. 1927",
+    "department": "Modern and Contemporary Art",
+    "description": "Reindl, a student at the Bauhaus, probably made this group of tiny collages as an exercise in abstract design. The school's academic staff, which included the painter Paul Klee, who taught an influential elemental design theory class, argued that that beauty need not depend on ornament but could be achieved through the manipulation of form and the judicious use of color and texture. These collages, with their juxtapositions of varicolored geometric shapes, exhibit the simplicity, aesthetic economy, and wit that are the hallmarks of the best Bauhaus design.",
+    "dimensions": [
+        "H. 15, W. 15 inches",
+        "(38.1 x 38.1 cm.)"
+    ],
+    "id": 484005,
+    "image": "http://images.metmuseum.org/CRDImages/ma/original/DP8572.jpg",
+    "medium": "Paper",
+    "title": "BAUHAUS ARCHIVE",
+    "what": [
+        "Drawings",
+        "Paper"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "Germany"
+    ],
+    "who": "Hilde Reindl"
+}

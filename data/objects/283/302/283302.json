@@ -1,0 +1,97 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/286506"
+            },
+            {
+                "href": "http://scrapi.org/object/286508"
+            },
+            {
+                "href": "http://scrapi.org/object/285867"
+            },
+            {
+                "href": "http://scrapi.org/object/286004"
+            },
+            {
+                "href": "http://scrapi.org/object/286016"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwb",
+                "rel": "Great Britain and Ireland, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/283302"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/283302"
+        }
+    },
+    "accession number": "2005.100.159",
+    "credit line": "Gilman Collection, Purchase, Ann Tenenbaum and Thomas H. Lee Gift, 2005",
+    "date": "ca. 1937",
+    "department": "Photographs",
+    "description": "Bill Brandt's career, which spanned nearly sixty years, reveals two distinct phases. His work from 1928 until 1945 can be described as a kind of social documentation that delineated the sharp contrasts that existed among the many strata of British society. And the subject matter he took up after World War II, portraits of literary figures, landscapes, and studies of the nude, reflects the recurrent influence of Surrealism, to which he was exposed during his brief tenure as Man Ray's assistant in Paris in 1929.     The son of a British father and a German mother, Hermann Wilhelm Brandt spent his childhood and early adult years primarily in Germany. Thus, when he settled in London in 1931, he was able to cast an objective, if not critical, eye on the customs of the society. The photographs in his first two publications, \"The English at Home\" (1936) and \"A Night in London\" (1938), suggest two important influences from his childhood years: Jugendstil poster design, with its stark graphic contrasts and silhouetted figures, and English nursery-book illustrations, with their characterizations of British types in the context of their social roles. Brandt attempted to re-create these roles in his early photographs, often enlisting members of his own family to pose for those scenarios that took place in upper-class milieus. In the image seen here, for example, which appears as plate 4 in \"A Night in London,\" Brandt directed Pratt, a maidservant in the employ of his banker uncle, to draw a bath for \"Madam,\" who is shown leaving for a party in plate 5.",
+    "dimensions": "23 x 18.7 cm (9 1/16 x 7 3/8 in.)",
+    "id": 283302,
+    "medium": "Gelatin silver print",
+    "provenance": [
+        "Norman Hall Collection",
+        "[Marlborough Gallery, New York and London]",
+        "Gilman Paper Company Collection, New York, May 17, 1976"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ph/original/DP150978.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/Brandt2005.100.159verso.jpg"
+    ],
+    "title": "Parlourmaid Preparing a Bath Before Dinner",
+    "what": [
+        "Photographs",
+        "Gelatin silver prints"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "United Kingdom"
+    ],
+    "who": "Bill Brandt"
+}

@@ -1,0 +1,115 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/322598"
+            },
+            {
+                "href": "http://scrapi.org/object/322889"
+            },
+            {
+                "href": "http://scrapi.org/object/327319"
+            },
+            {
+                "href": "http://scrapi.org/object/325834"
+            },
+            {
+                "href": "http://scrapi.org/object/325093"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R104_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140310121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R105_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140312121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R106_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140313121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R107_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140314121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R116_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140331121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R117_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140402121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R118_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140403121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=03\u00aeion=wae",
+                "rel": "The Eastern Mediterranean, 2000\u20131000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/327231"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/327231"
+        }
+    },
+    "accession number": "1986.42",
+    "credit line": "Purchase, Leon Levy and Shelby White Gift, 1986",
+    "culture": "Canaanite",
+    "date": "ca. 15th\u201314th century B.C.",
+    "department": "Ancient Near Eastern Art",
+    "description": "This figure strides with one arm raised and the other held out, each having wielded a weapon such as a spear and mace or thunderbolt. His pierced ears had earrings, perhaps of gold, and he is clad in an Egyptian-style kilt. The crown is the distinctive Egyptian atef crown of Osiris, god of the dead, with uraeus at the forehead, worn by the pharaoh at his jubilee festival or in mortuary contexts. Here the figure represented is not the Egyptian king but rather an ancient Near Eastern depiction of a local deity of the Levant area.In the Late Bronze Age, a time of intense international economic, political, and cultural connections, artistic elements of a variety of cultures were incorporated into local styles. Egyptian art especially influenced the art of the Levant at this time, resulting in an \"Egyptianizing\" style. Excavations at Ugarit, an international emporium in Syria, unearthed numerous examples of small statues of local gods. While motifs used may be the same or similar to Egyptian ones, the meaning was probably different and adapted to a local deity's persona. While much is known about the local religions through the textual sources, especially from the Ugarit archives, one cannot be sure of the precise identification of such deity statuettes.",
+    "dimensions": "H. 21.1 cm, W. 7.5 cm",
+    "gallery-id": 403,
+    "id": 327231,
+    "image": "http://images.metmuseum.org/CRDImages/an/original/an1986.42.jpg",
+    "medium": "Bronze",
+    "provenance": [
+        "[Since 1976, Alain de Monbrison, Paris]",
+        "[by 1985, Alan Brandt, New York]",
+        "acquired by the Museum in 1986, purchased from Alan Brandt, New York."
+    ],
+    "title": "Smiting god, wearing an Egyptian atef crown",
+    "what": [
+        "Metal",
+        "Sculpture",
+        "Copper alloy",
+        "Metalwork",
+        "Bronze",
+        "Figures"
+    ],
+    "when": "2000-1000 B.C.",
+    "where": [
+        "Asia",
+        "Levant"
+    ],
+    "who": "Canaanite"
+}

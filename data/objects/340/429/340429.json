@@ -1,0 +1,105 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/337498"
+            },
+            {
+                "href": "http://scrapi.org/object/340433"
+            },
+            {
+                "href": "http://scrapi.org/object/340431"
+            },
+            {
+                "href": "http://scrapi.org/object/340430"
+            },
+            {
+                "href": "http://scrapi.org/object/343263"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/neoc_1/hd_neoc_1.htm",
+                "rel": "Neoclassicism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/frac/hd_frac.htm",
+                "rel": "The French Academy in Rome"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/grtr/hd_grtr.htm",
+                "rel": "The Grand Tour"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/340429"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/340429"
+        }
+    },
+    "accession number": "68.53",
+    "credit line": "Rogers Fund, 1968",
+    "date": "1691\u20131765",
+    "department": "Drawings and Prints",
+    "dimensions": "13-3/8 x 21-7/16 in.  (34 x 54.5 cm)",
+    "id": 340429,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP820572.jpg",
+    "medium": "Pen and black ink, watercolor, over graphite.  Framing lines in pen and black ink at left, right, and upper margins",
+    "provenance": [
+        "Zabert (Turin)",
+        "Thomas Agnew & Sons, Ltd. (London)",
+        "Vendor: Thomas Agnew & Sons, Ltd. (London)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP820572.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DT209219.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP820573.jpg"
+    ],
+    "title": "The Lottery in Piazza di Montecitorio",
+    "what": [
+        "Ink",
+        "Drawings",
+        "Watercolors",
+        "Graphite"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Giovanni Paolo Panini"
+}

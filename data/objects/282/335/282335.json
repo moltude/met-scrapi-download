@@ -1,0 +1,95 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/284022"
+            },
+            {
+                "href": "http://scrapi.org/object/284122"
+            },
+            {
+                "href": "http://scrapi.org/object/284006"
+            },
+            {
+                "href": "http://scrapi.org/object/284121"
+            },
+            {
+                "href": "http://scrapi.org/object/283738"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwb",
+                "rel": "Great Britain and Ireland, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/282335"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/282335"
+        }
+    },
+    "accession number": "1997.526",
+    "credit line": "Gift of Howard and Katia Read, 1997",
+    "date": "1997",
+    "department": "Photographs",
+    "description": "For the past two decades Fuss has been using living things-from mushrooms to babies-in his photograms, allowing the chance effects of their movement to help generate the picture's design. For this work, he let loose half a dozen snakes on a large sheet of photographic paper dusted with a fine coating of talcum powder. Over time, as the paper was exposed to light, the movement of the snakes \"drew\" the image by more or less delicately shifting the powder into fan- and swag-shaped forms. With its monumental scale, allover composition, and gestural vitality, the picture recalls the work of Abstract Expressionists such as Pollock and De Kooning, but here the guiding hand of the artist has been replaced by the ego-less energy of reptilian life.",
+    "dimensions": [
+        "Image 174.6 x 130.7cm (68 3/4 x 51 7/16in.)",
+        "Frame 199.4 x 154.9 x 7.6 cm (78 1/2 x 61 x 3 in.)"
+    ],
+    "id": 282335,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DT4256.jpg",
+    "medium": "Gelatin silver print",
+    "provenance": [
+        "From the artist to his dealer Howard Read."
+    ],
+    "title": "Untitled",
+    "what": [
+        "Photographs",
+        "Gelatin silver prints"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "United Kingdom"
+    ],
+    "who": "Adam Fuss"
+}

@@ -1,0 +1,96 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/267024"
+            },
+            {
+                "href": "http://scrapi.org/object/267025"
+            },
+            {
+                "href": "http://scrapi.org/object/267026"
+            },
+            {
+                "href": "http://scrapi.org/object/266930"
+            },
+            {
+                "href": "http://scrapi.org/object/288466"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=eak",
+                "rel": "Korea, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/266946"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/266946"
+        }
+    },
+    "accession number": "1993.412",
+    "credit line": "Gift of the artist, 1993",
+    "date": "1989",
+    "department": "Photographs",
+    "description": "Trained in traditional Korean calligraphy and ceramics, Lee imbues her photographs with a delicate handcrafted quality and a palpable sense of the texture and physicality of the print surface. Rather than using commercially produced photographic paper, she prints her negatives on large sheets of handmade rice paper, which she brushes with liquid photosensitive emulsion. The subtle variations in print texture and contrast are balanced by the understated simplicity of Lee's images. This photograph of the worn sole of an old tennis shoe was made on one of her many road trips across the American desert.",
+    "dimensions": [
+        "Image 50.8 x 51.8 cm (20 x 20 3/8 in.)",
+        "Sheet 81.9 x 51.8cm (32 1/4 x 20 3/8in.)",
+        "Frame 104.1 x 71.8 cm (41 x 28 1/4 in.)"
+    ],
+    "id": 266946,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP217035.jpg",
+    "medium": "Gelatin silver print",
+    "provenance": [
+        "Jungjin Lee"
+    ],
+    "title": "[Sole of Tennis Shoe]",
+    "what": [
+        "Photographs",
+        "Gelatin silver prints"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Asia",
+        "Korea"
+    ],
+    "who": "Jungjin Lee"
+}

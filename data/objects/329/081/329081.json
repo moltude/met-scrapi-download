@@ -1,0 +1,121 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/327384"
+            },
+            {
+                "href": "http://scrapi.org/object/327385"
+            },
+            {
+                "href": "http://scrapi.org/object/321795"
+            },
+            {
+                "href": "http://scrapi.org/object/324592"
+            },
+            {
+                "href": "http://scrapi.org/object/325269"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R104_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140310121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R105_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140312121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R106_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140313121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R107_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140314121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R116_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140331121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R117_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140402121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R118_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140403121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=02\u00aeion=wam",
+                "rel": "Mesopotamia, 8000\u20132000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/329081"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/329081"
+        }
+    },
+    "accession number": "1988.433.1",
+    "credit line": "Purchase, Raymond and Beverly Sackler Gift, 1988",
+    "culture": "Sumerian",
+    "date": "ca. 3100\u20132900 B.C.",
+    "department": "Ancient Near Eastern Art",
+    "description": "In about 3300 B.C. writing was invented in Mesopotamia, perhaps in the city of Uruk, where the earliest inscribed clay tablets have been found in abundance. This was not an isolated development but occurred during a period of profound transformations in politics, economy, and representational art. During the Uruk period of the fourth millennium B.C., the first Mesopotamian cities were settled, the first kings were crowned, and a range of goods\u2014from ceramic vessels to textiles\u2014were mass-produced in state workshops. Early writing was used primarily as a means of recording and storing economic information, but from the beginnings a significant component of the written tradition consisted of lists of words and names that scribes needed to know in order to keep their accounts. Signs were drawn with a reed stylus on pillow-shaped tablets, most of which were only a few inches wide. The stylus left small marks in the clay which we call cuneiform, or wedge-shaped, writing.This tablet most likely documents grain distributed by a large temple, although the absence of verbs in early texts make them difficult to interpret with certainty. The seal impression depicts a male figure guiding two dogs on a leash and hunting or herding boars in a marsh environment.",
+    "dimensions": "2.17 x 2.36 x 1.63 in. (5.5 x 6 x 4.15 cm)",
+    "gallery-id": 402,
+    "id": 329081,
+    "image": "http://images.metmuseum.org/CRDImages/an/original/DT847.jpg",
+    "medium": "Clay",
+    "provenance": [
+        "Until 1988, Erlenmeyer collection, purchased by Professor Hans and Marie-Louise Erlenmeyer between 1943 and the early 1960s",
+        "acquired by the Museum in 1988, purchased at the sale of Ancient Near Eastern texts form the Erlenmeyer collection, Christie's, London, December 13, 1988, lot 21."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/an/original/DT847.jpg",
+        "http://images.metmuseum.org/CRDImages/an/original/011.alt.jpg",
+        "http://images.metmuseum.org/CRDImages/an/original/DP297595.jpg"
+    ],
+    "title": "Cuneiform tablet: administrative account of barley distribution with cylinder seal impression of a male figure, hunting dogs, and boars",
+    "what": [
+        "Clay",
+        "Figures",
+        "Seals",
+        "Tablets",
+        "Cylinder seals",
+        "Cuneiform",
+        "Stamps"
+    ],
+    "when": "8000-2000 B.C.",
+    "where": [
+        "Asia",
+        "Iraq",
+        "Warka"
+    ],
+    "who": "Sumerian"
+}

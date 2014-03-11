@@ -1,0 +1,104 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/301937"
+            },
+            {
+                "href": "http://scrapi.org/object/301938"
+            },
+            {
+                "href": "http://scrapi.org/object/301939"
+            },
+            {
+                "href": "http://scrapi.org/object/301940"
+            },
+            {
+                "href": "http://scrapi.org/object/301941"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/296338"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/296338"
+        }
+    },
+    "accession number": "2011.326\u2013.343",
+    "credit line": "Purchase, The Buddy Taub Foundation Gift, Dennis A. Roach and Jill Roach, Directors, 2011",
+    "date": "1870\u201379",
+    "department": "Photographs",
+    "description": "Introduced to the United States in 1856, the tintype was a process that produced hardy, portable, and unique photographs at low cost, characteristics that made it perfect for an expanding portrait market. Likely made by a local Philadelphia photographer, these nine tintypes (from a group of eighteen) capture not a distinguishing likeness but its endless variation when shaped by a leading pantomimist\u2019s greatest attributes\u2014his expressive features, gesturing hands, and simple costumes. The actor\u2019s wild poses are matched to the relatively faster exposure times that characterize small tintype cameras, further supporting the notion that, in general, the camera isolates any instant among many rather than one representative of a whole. The malleable face on display here probably belongs to Fawdon Vokes (n\u00e9 Walter Fawdon) who joined the ranks of the Vokes Family, a group of London performers who toured the United States starting in 1872.",
+    "dimensions": "Each approximately 13.5 x 9 cm (5 5/16 x 3 9/16 in.), irregular",
+    "id": 296338,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/UnknownTR.186.1.2011.jpg",
+    "medium": "Tintypes",
+    "provenance": [
+        "(Sotheby's, New York, April 22, 2006, no. 62)",
+        "[Hans P. Kraus, Jr. Inc., New York, 2006\u201311]"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ph/original/UnknownTR.186.1.2011.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/UnknownTR.186.2.2011.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/UnknownTR.186.3.2011.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/UnknownTR.186.4.2011.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/UnknownTR.186.5.2011.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/UnknownTR.186.6.2011.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/UnknownTR.186.7.2011.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/UnknownTR.186.8.2011.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/UnknownTR.186.9.2011.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/UnknownTR.186.10.2011.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/UnknownTR.186.11.2011.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/UnknownTR.186.12.2011.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/UnknownTR.186.13.2011.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/UnknownTR.186.14.2011.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/UnknownTR.186.15.2011.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/UnknownTR.186.16.2011.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/UnknownTR.186.17.2011.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/UnknownTR.186.18.2011.jpg"
+    ],
+    "title": "[Pantomimist]",
+    "what": [
+        "Photographs",
+        "Tintypes"
+    ],
+    "when": "A.D. 1800-1900",
+    "who": "Unknown, American"
+}

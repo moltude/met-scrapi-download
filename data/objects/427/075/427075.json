@@ -1,0 +1,85 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/350255"
+            },
+            {
+                "href": "http://scrapi.org/object/427318"
+            },
+            {
+                "href": "http://scrapi.org/object/427319"
+            },
+            {
+                "href": "http://scrapi.org/object/427323"
+            },
+            {
+                "href": "http://scrapi.org/object/427326"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/427075"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/427075"
+        }
+    },
+    "accession number": "59.570.331",
+    "credit line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1959",
+    "date": "1659",
+    "department": "Drawings and Prints",
+    "description": "This print is from L'Idea di un Principe ed Eroe Cristiano in Francesco I d'Este, di Modena e Reggio Duca VIII [...] collected in an album of brown boards. Four prints are hinged on each page of the album with a seventeenth- or eighteenth-century inscription pasted beneath the print on the album page.  The prints are etched in the manner of Callot and illustrate Francesco I d'Este's virtuous nature as a ruler in battle, in religious matters, and in daily life. Three of the prints are signed by Jean Sauv\u00e9, who presumably worked with Fenice on the execution of the illustrations for this book. There are sixty-seven copper plates and forty-five preparatory drawings in the Museo Civico di Modena.",
+    "dimensions": "Sheet 4 13/16 \u00d7 6 5/16 in. (12.3 \u00d7 16 cm)",
+    "id": 427075,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP830710.jpg",
+    "medium": "Etching",
+    "provenance": [
+        "Vendor: P. & D. Colnaghi & Co., Ltd."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP830710.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP830711.jpg"
+    ],
+    "title": "Francesco I d'Este Instructing for Alms to be Given to the Poor, from L'Idea di un Principe ed Eroe Cristiano in Francesco I d'Este, di Modena e Reggio Duca VIII [...]",
+    "what": [
+        "Prints",
+        "Etching"
+    ],
+    "when": "A.D. 1600-1800",
+    "who": [
+        "Bartolomeo Fenice (F\u00e9nis)",
+        "Domenico Gamberti"
+    ]
+}

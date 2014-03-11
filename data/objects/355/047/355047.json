@@ -1,0 +1,129 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/355053"
+            },
+            {
+                "href": "http://scrapi.org/object/355048"
+            },
+            {
+                "href": "http://scrapi.org/object/355049"
+            },
+            {
+                "href": "http://scrapi.org/object/345396"
+            },
+            {
+                "href": "http://scrapi.org/object/361996"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/itar/hd_itar.htm",
+                "rel": "Architecture in Renaissance Italy"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/villa/hd_villa.htm",
+                "rel": "The Idea and Invention of the Villa"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/villa/hd_villa.htm",
+                "rel": "The Idea and Invention of the Villa"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/prnt/hd_prnt.htm",
+                "rel": "The Printed Image in the West: History and Techniques"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/clan/hd_clan.htm",
+                "rel": "The Rediscovery of Classical Antiquity"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=euwc",
+                "rel": "Central Europe (including Germany), 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/355047"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/355047"
+        }
+    },
+    "accession number": "41.100.126",
+    "credit line": "Bequest of W. Gedney Beatty, 1941",
+    "date": "1570",
+    "department": "Drawings and Prints",
+    "dimensions": [
+        "Overall 11 5/8 x 8 1/4 x 1 in. (29.5 x 21 x 2.5 cm)",
+        "sheet 11 5/16 x 7 11/16 in. (28.8 x 19.5 cm)",
+        "Storage 12 13/16 x 9 3/8 x 2 1/16 in. (32.5 x 23.8 x 5.2 cm)"
+    ],
+    "id": 355047,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP109542.jpg",
+    "medium": "Printed book with woodcut illustrations",
+    "provenance": [
+        "Donor: William Gedney Beatty"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP109542.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP109543.jpg"
+    ],
+    "title": "I quattro libri dell'architettura di Andrea Palladio",
+    "what": [
+        "Prints",
+        "Books",
+        "Relief prints",
+        "Woodblock prints",
+        "Illustrations"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Germany"
+    ],
+    "who": [
+        "Andrea Palladio",
+        "Johann Chrieger",
+        "Christoph Krieger",
+        "Dominico de' Franceschi",
+        "Emanuele Filiberto",
+        "Giacomo Angarano"
+    ]
+}

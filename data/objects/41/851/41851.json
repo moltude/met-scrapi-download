@@ -1,0 +1,153 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/41796"
+            },
+            {
+                "href": "http://scrapi.org/object/41820"
+            },
+            {
+                "href": "http://scrapi.org/object/41797"
+            },
+            {
+                "href": "http://scrapi.org/object/41821"
+            },
+            {
+                "href": "http://scrapi.org/object/41822"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 8, 2014",
+                "href": "/exhibitions/listings/2014/tibet-and-india",
+                "rel": "Tibet and India"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/chinese-carving",
+                "rel": "Colors of the Universe"
+            },
+            {
+                "date": "From July 19, 2013",
+                "href": "/exhibitions/listings/2013/chinese-snuff-bottles",
+                "rel": "Small Delights"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/ink-art",
+                "rel": "Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "From February 1, 2014",
+                "href": "/exhibitions/listings/2014/edo-period-painting",
+                "rel": "The Flowering of Edo Period Painting"
+            },
+            {
+                "date": "From April 14, 2014",
+                "href": "/exhibitions/listings/2014/lost-kingdoms",
+                "rel": "Lost Kingdoms"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R104_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140310111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R104_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140310131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R105_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140311111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R105_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140311120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R105_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140311131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/talks/gallery-talks/gallery-conv-culture-and-politics?eid=A001_%7b33996DD5-3C4F-473B-BCAE-533DF0BF66F1%7d_20140205160349",
+                "rel": "Gallery Conversation\u2014Culture and Politics in Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=A093_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20131018142432",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R106_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140312120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R106_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140312131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R107_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140313120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=nc",
+                "rel": "Central and North Asia, 1800\u20131900 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=eac",
+                "rel": "China, 1800\u20131900 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=nc",
+                "rel": "Central and North Asia, 1900 A.D.\u2013present"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=eac",
+                "rel": "China, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/41851"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/41851"
+        }
+    },
+    "accession number": "30.76.271",
+    "credit line": "Rogers Fund, 1929",
+    "culture": "China",
+    "date": "late 19th\u2013early 20th century",
+    "department": "Asian Art",
+    "description": "This ink tablet is from a sixty-four-tablet set (30.76.216\u2013.279) commissioned by the Jiaqing emperor from the Studio for Appreciating the Antique (Jiangu Zhai) manufactory of the Wang Jinsheng family in Huizhou, Anhui Province. Each ink tablet commemorates a hall or pavilion in one of the imperial gardens. Each site\u2019s name is written in gilt characters on one side; a view of the site is presented on the other. Such inks were purely decorative and not intended for use.",
+    "dimensions": "H. 2 5/8 in. (6.7 cm); W. 2 in. (5.1 cm)",
+    "id": 41851,
+    "image": "http://images.metmuseum.org/CRDImages/as/original/30_76_271_F.JPG",
+    "medium": "Ink",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/as/original/30_76_271_F.JPG",
+        "http://images.metmuseum.org/CRDImages/as/original/30_76_271_B.jpg"
+    ],
+    "title": "Clear Brilliance Terrace",
+    "what": [
+        "Ink",
+        "Tablets"
+    ],
+    "where": [
+        "Asia",
+        "China"
+    ],
+    "who": "Jian Guzhai"
+}

@@ -1,0 +1,121 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/460611"
+            },
+            {
+                "href": "http://scrapi.org/object/461044"
+            },
+            {
+                "href": "http://scrapi.org/object/461135"
+            },
+            {
+                "href": "http://scrapi.org/object/461479"
+            },
+            {
+                "href": "http://scrapi.org/object/460282"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R130_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140310134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R131_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140311134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R132_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140312134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R133_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140313134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R134_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140314134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A109_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131126111651",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A115_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131127144444",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A110_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131126111706",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R145_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140331134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/talks/gallery-talks/european-sculpture-in-the-robert-lehman-collection?eid=A001_%7b835B4316-D69F-4E38-A76F-839A55CF6946%7d_20140123112008",
+                "rel": "European Sculpture in the Robert Lehman Collection"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/460609"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/460609"
+        }
+    },
+    "accession number": "1975.1.1975 ab",
+    "credit line": "Robert Lehman Collection, 1975",
+    "date": "16th century, partly; late 19th or early 20th century",
+    "department": "Robert Lehman Collection",
+    "description": "The two Dantesca-type chairs with S-curved arm supports and legs have been associated as a pair through the application of textile pieces with an identical repeat pattern. 1975.1.1975 a,b is carved on the arms with an overlapping nailed rosette motif; the hand pieces have carved rosettes; and a lion\u2019s mask is applied to the round intersection. There are carved leaf ornaments and stylized claw feet on the front. 1975.1.1976 a,b is molded on the curved arms and carved on the front with an interlaced band ornament; a large rosette decorates the intersection. The arms end in volute hand pieces with carved rosettes at the side. The base rails are shaped on the underside. See 1975.1.1971 a,b and 1975.1.1972. Catalogue entry from: Wolfram Koeppe. The Robert Lehman Collection. Decorative Arts, Vol. XV. Wolfram Koeppe, et al. New York: The Metropolitan Museum of Art in association with Princeton University Press, 2012, pp. 235-36.",
+    "dimensions": [
+        "H. 91.5 cm, W. 67 cm, D. 50.5 cm.",
+        "Back 26 x 74 cm. ; Seat: 31 x 74 cm."
+    ],
+    "id": 460609,
+    "image": "http://images.metmuseum.org/CRDImages/rl/original/SF-1975-1-1975.jpg",
+    "medium": "Walnut, carved; silk cut velvet, metal.",
+    "provenance": [
+        "Not established."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/rl/original/SF-1975-1-1975.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/SF-1975-1-1975b.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/SF-1975-1-1975c.jpg"
+    ],
+    "title": "Hip-joint armchair (Dantesca type, associated with 1975.1.1976 a,b)",
+    "what": [
+        "Metal",
+        "Silk",
+        "Textiles",
+        "Wood",
+        "Furniture",
+        "Woodwork",
+        "Seating furniture",
+        "Chairs",
+        "Walnut",
+        "Armchairs"
+    ],
+    "who": [
+        "Italian",
+        "American (United States)"
+    ]
+}

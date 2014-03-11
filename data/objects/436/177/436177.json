@@ -1,0 +1,177 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/438814"
+            },
+            {
+                "href": "http://scrapi.org/object/436175"
+            },
+            {
+                "href": "http://scrapi.org/object/436176"
+            },
+            {
+                "href": "http://scrapi.org/object/436178"
+            },
+            {
+                "href": "http://scrapi.org/object/436179"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/piero-della-francesca",
+                "rel": "Piero della Francesca"
+            },
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "From April 22, 2014",
+                "href": "/exhibitions/listings/2014/goya",
+                "rel": "Goya and the Altamira Family"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/talks/gallery-talks/piero-della-francesca?eid=A001_%7bE50FD455-5FC1-41D0-9391-C456264363EF%7d_20140206160624",
+                "rel": "Exhibition Tour\u2014Piero della Francesca: Personal Encounters"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=A257_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20131127123002",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/monday-at-the-met-spring-2014?eid=R001_%7bBB2BF277-3666-435E-8B95-12CDE21533EA%7d_20140303100000",
+                "rel": "Monday at the Met with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R100_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140303123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R101_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140304123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R102_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140305123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R026_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140306140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R103_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140307123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/talks/the-observant-eye/stepping-out-of-the-frame?eid=A001_%7b438572AD-6B0F-4DA2-94FB-49B8931634C1%7d_20140123142901",
+                "rel": "Stepping Out of the Frame: Three-Dimensionality in the New Galleries for European Paintings"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/saturday-seminar-spring-2014?eid=R001_%7bE063A39F-FC40-4ECC-B690-C4C13F70B2A0%7d_20140308103000",
+                "rel": "Saturday Seminar with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/lith/hd_lith.htm",
+                "rel": "Lithography in the Nineteenth Century"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/nadr/hd_nadr.htm",
+                "rel": "Nadar (1820\u20131910)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/euor/hd_euor.htm",
+                "rel": "Orientalism in Nineteenth\u2013Century Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/aest/hd_aest.htm",
+                "rel": "The Aesthetic of the Sketch in Nineteenth\u2013Century France"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/prnt2/hd_prnt2.htm",
+                "rel": "The Print in the Nineteenth Century"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/frph/hd_frph.htm",
+                "rel": "The Rise of Paper Photography in 1850s France"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/roma/hd_roma.htm",
+                "rel": "Romanticism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/sara/hd_sara.htm",
+                "rel": "The Salon and The Royal Academy"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/gogh/hd_gogh.htm",
+                "rel": "Vincent van Gogh (1853\u20131890)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwf",
+                "rel": "France, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/436177"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/436177"
+        }
+    },
+    "accession number": "22.27.4",
+    "credit line": "Purchase, Dikran G. Kelekian Gift, 1922",
+    "date": "1840s",
+    "department": "European Paintings",
+    "dimensions": "17 7/8 x 21 3/4 in. (45.4 x 55.2 cm)",
+    "id": 436177,
+    "image": "http://images.metmuseum.org/CRDImages/ep/original/DT2003.jpg",
+    "medium": "Oil on canvas",
+    "provenance": [
+        "George Sand, Nohant (given to her by the artist; until at least 1864; her anonymous sale, H\u00f4tel Drouot, Paris, April 23, 1864, no. 14, as \"Jardin \u00e0 Nohant,\" bought in?)",
+        "her son, Maurice Sand (until d. 1889; sale, H\u00f4tel Drouot, Paris, March 31 and April 1, 1890, no. 33, as \"Le Parc de Nohant,\" for Fr 1,700 to Mayer)",
+        "Paul Arthur Ch\u00e9ramy, Paris (until 1908; cat., 1908, no. 183, ill.; sale, Galerie Georges Petit, Paris, May 5\u20137, 1908, no. 179, as \"Le Parc de Nohant, chez George Sand,\" for Fr 2,100 to Kelekian)",
+        "[Dikran Khan Kelekian, Paris and New York, 1908\u201322",
+        "cat., 1920, pl. 37",
+        "his sale, American Art Association, New York, January 30\u201331, 1922, no. 126]"
+    ],
+    "title": "George Sand's Garden at Nohant",
+    "what": [
+        "Paintings",
+        "Canvas",
+        "Oil paint"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Eug\u00e8ne Delacroix"
+}

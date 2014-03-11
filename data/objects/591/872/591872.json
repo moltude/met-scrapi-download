@@ -1,0 +1,50 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/591849"
+            },
+            {
+                "href": "http://scrapi.org/object/591851"
+            },
+            {
+                "href": "http://scrapi.org/object/591824"
+            },
+            {
+                "href": "http://scrapi.org/object/591830"
+            },
+            {
+                "href": "http://scrapi.org/object/591834"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwcm",
+                "rel": "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/591872"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/591872"
+        }
+    },
+    "accession number": "100.53  B45  Q",
+    "credit line": "Purchased with income from the Jacob S. Rogers Fund",
+    "date": "1939",
+    "department": "The Libraries",
+    "description": "\"Berlin, Rom, Tokio\" is a rare racist serial that was produced monthly in Germany. Edited by German foreign minister Joachim von Ribbentrop, \"Berlin, Rom, Tokio\" was intended to promote a political and cultural alliance between Germany, Italy, and Japan and to inspire youth in their role as contributors to the planned new world order. The Watson Library's bound copy contains issues 1 through 5 and 8, May 5\u2013December 5, 1939.Illustrated: Cover",
+    "dimensions": "vols. 1\u20138; H. 14 5/8 in. (37 cm)",
+    "id": 591872,
+    "image": "http://images.metmuseum.org/CRDImages/li/original/li100.53  B45  Q.R.jpg",
+    "medium": "Serial publication, illustrated",
+    "title": "Berlin, Rom, Tokio",
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "Germany",
+        "Berlin"
+    ]
+}

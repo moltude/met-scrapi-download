@@ -1,0 +1,110 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/325132"
+            },
+            {
+                "href": "http://scrapi.org/object/325133"
+            },
+            {
+                "href": "http://scrapi.org/object/325134"
+            },
+            {
+                "href": "http://scrapi.org/object/325153"
+            },
+            {
+                "href": "http://scrapi.org/object/325155"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R105_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140312121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R106_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140313121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R107_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140314121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R116_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140331121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R117_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140402121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R118_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140403121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R119_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140404121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=04\u00aeion=wai",
+                "rel": "Iran, 1000 B.C.\u20131 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/325154"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/325154"
+        }
+    },
+    "accession number": "61.100.20",
+    "credit line": "Purchase, Mrs. Constantine Sidamon-Eristoff Gift, 1961",
+    "date": "ca. 9th century B.C.",
+    "department": "Ancient Near Eastern Art",
+    "dimensions": "2.01 in. (5.11 cm)",
+    "id": 325154,
+    "image": "http://images.metmuseum.org/CRDImages/an/original/ME61_100_20.jpg",
+    "medium": "Copper, bronze",
+    "provenance": [
+        "1960, excavated by Robert H. Dyson Jr. on behalf of the Hasanlu Project sponsored by the University Museum of the University of Pennsylvania, the Archaeological Service of Iran, and The Metropolitan Museum of Art",
+        "acquired by the Museum in 1961, as a result of its financial contribution to the excavations."
+    ],
+    "title": "Mace head",
+    "what": [
+        "Metal",
+        "Copper alloy",
+        "Metalwork",
+        "Bronze",
+        "Copper"
+    ],
+    "when": "1000 B.C.-A.D. 1",
+    "where": [
+        "Asia",
+        "Iran",
+        "Hasanlu"
+    ]
+}

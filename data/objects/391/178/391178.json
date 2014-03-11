@@ -1,0 +1,137 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/336219"
+            },
+            {
+                "href": "http://scrapi.org/object/336220"
+            },
+            {
+                "href": "http://scrapi.org/object/336221"
+            },
+            {
+                "href": "http://scrapi.org/object/336223"
+            },
+            {
+                "href": "http://scrapi.org/object/336228"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/durr/hd_durr.htm",
+                "rel": "Albrecht D\u00fcrer (1471\u20131528)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/kief/hd_kief.htm",
+                "rel": "Anselm Kiefer (born 1945)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/expl/hd_expl.htm",
+                "rel": "Europe and the Age of Exploration"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/goss/hd_goss.htm",
+                "rel": "Jan Gossart (ca. 1478\u20131532) and His Circle"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/port/hd_port.htm",
+                "rel": "Portraiture in Renaissance and Baroque Europe"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/decaa/hd_decaa.htm",
+                "rel": "The Decoration of Arms and Armor"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/aams/hd_aams.htm",
+                "rel": "Arms and Armor \u2013 Common Misconceptions and Frequently Asked Questions"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/rembp/hd_rembp.htm",
+                "rel": "Rembrandt van Rijn (1606\u20131669): Prints"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/prnt/hd_prnt.htm",
+                "rel": "The Printed Image in the West: History and Techniques"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/clan/hd_clan.htm",
+                "rel": "The Rediscovery of Classical Antiquity"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/refo/hd_refo.htm",
+                "rel": "The Reformation"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=euwc",
+                "rel": "Central Europe (including Germany), 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/391178"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/391178"
+        }
+    },
+    "accession number": "19.73.15",
+    "credit line": "Fletcher Fund, 1919",
+    "date": "1512",
+    "department": "Drawings and Prints",
+    "id": 391178,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP815596.jpg",
+    "medium": "Engraving",
+    "title": "The Entombment, from The Passion",
+    "what": [
+        "Prints",
+        "Engraving"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Germany"
+    ],
+    "who": "Albrecht D\u00fcrer"
+}

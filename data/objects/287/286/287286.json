@@ -1,0 +1,95 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/288028"
+            },
+            {
+                "href": "http://scrapi.org/object/285460"
+            },
+            {
+                "href": "http://scrapi.org/object/265713"
+            },
+            {
+                "href": "http://scrapi.org/object/265913"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/287286"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/287286"
+        }
+    },
+    "accession number": "2006.182a\u2013d",
+    "credit line": "Purchase, Alfred Stieglitz Society Gifts, 2006",
+    "date": "2005",
+    "department": "Photographs",
+    "description": "Specially designated though infrequently used zones off the freeways of Southern California, accident investigation sites are peculiar to the apocalyptic imagination that courses beneath the sunny optimism of Los Angeles and which has been examined in literature from Nathaniel West's The Day of the Locust to Joan Didion's The White Album.  Coolidge is especially attuned to how such fears are simultaneously conjured up and managed-as a teenager armed with his first camera, the budding artist set up and recorded every possible fire hazard he could envision around his house, and for his 1996 series entitled \"Safetyville\" he photographed a miniaturized town where schoolchildren are taught traffic safety.  The accidents captured in this remarkable photograph are of the kind gazed upon by artists reaching back to Leonardo, who sought inspiration from the random designs of cracks in a wall, and stretching forward to the modernist predilection for chance procedures by artists from Marcel Duchamp and the Surrealists to John Cage, Jackson Pollock, and Cy Twombly; the tire track at lower right is a neat quotation of Cage and Robert Rauschenberg's famous monoprint made by driving a car with an inked tire along a scroll of paper.  The unnerving effects of seemingly infinite, ungraspable detail on a massive, yet perfectly one-to-one, scale, and the subject's reorientation from under our feet to before our eyes are counterbalanced by the picture's capacity for sustained contemplation and its suggestion of celestial or molecular worlds.",
+    "dimensions": [
+        "Image 228.6 x 167.6 cm (90 x 66 in.), each",
+        "228.6 x 670.6 x 2.5 cm (90 x 264 x 1 in.)"
+    ],
+    "id": 287286,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/CoolidgeL.2006.9.jpg",
+    "medium": "Chromogenic print",
+    "provenance": [
+        "[Casey Kaplan Gallery, New York]"
+    ],
+    "title": "Accident Investigation Site",
+    "what": [
+        "Photographs",
+        "Chromogenic prints"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": [
+        "Miles Coolidge",
+        "Options"
+    ]
+}

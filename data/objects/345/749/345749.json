@@ -1,0 +1,88 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/343253"
+            },
+            {
+                "href": "http://scrapi.org/object/343256"
+            },
+            {
+                "href": "http://scrapi.org/object/343260"
+            },
+            {
+                "href": "http://scrapi.org/object/345741"
+            },
+            {
+                "href": "http://scrapi.org/object/345745"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/345749"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/345749"
+        }
+    },
+    "accession number": "49.63.277",
+    "credit line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1949",
+    "date": "1720-1740 ca.",
+    "department": "Drawings and Prints",
+    "description": "This beautiful design for a mirror was made by the Italian artist Giovanni Battista Natali III. He has drawn one half of the mirror in full detail, and only suggested certain details for the other half where changes to the design could be considered. The mirror is rendered in a late Baroque style, which places it relatively early in Natali\u2019s career. His later designs show the emergence of the new Rococo style which culminates in his involvement in the production of the so-called Salottino di Porcellana (Small Porcelain Room) for the Queen of Naples, Maria Amalia of Saxony. Not much is known about Natali\u2019s career, which can partly be credited to the fact that he was active in various art disciplines in different cities throughout Italy, making it difficult to trace his oeuvre. He was, moreover, also involved in the production of artworks of an ephemeral nature, such as set pieces for festivals and the theater which were usually destroyed after they had served their purpose. The 18th-century Italian inscription on this sheet attributes its design to the Venetian artist Carlo de\u2019 Nobili, demonstrating that even though in this case the work of art has survived, its author was forgotten relatively soon after its creation.",
+    "dimensions": "sheet 13 3/4 x 8 in. (34.9 x 20.3 cm)",
+    "id": 345749,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP810909.jpg",
+    "medium": "Pen and brown ink, brush with gray and brown wash, over traces of graphite or black chalk",
+    "provenance": [
+        "Vendor: Bruscoli (Italian, Florence)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP810909.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/49.63.277.jpg"
+    ],
+    "title": "Design for Mirror Frame",
+    "what": [
+        "Ink",
+        "Drawings",
+        "Graphite",
+        "Chalk"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Giovanni Battista Natali III"
+}

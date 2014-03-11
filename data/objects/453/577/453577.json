@@ -1,0 +1,120 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/452960"
+            },
+            {
+                "href": "http://scrapi.org/object/451029"
+            },
+            {
+                "href": "http://scrapi.org/object/451129"
+            },
+            {
+                "href": "http://scrapi.org/object/451130"
+            },
+            {
+                "href": "http://scrapi.org/object/451122"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A250_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114353",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world-french?eid=R026_%7b85906EA1-CA66-4610-A52C-39562E1A4C40%7d_20140310133000",
+                "rel": "Arts du monde Islamique (Arts of the Islamic World in French)"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R130_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140310141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A232_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134244",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=06\u00aeion=wam",
+                "rel": "Iraq (Mesopotamia) 500\u20131000 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/453577"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/453577"
+        }
+    },
+    "accession number": "1998.330",
+    "credit line": "Gift of Mrs. E. S. David, in memory of her husband, E. S. David, 1998",
+    "culture": "Islamic",
+    "date": "8th century",
+    "department": "Islamic Art",
+    "description": "Other large jars, similar to this one, display inscriptions suggesting that they were used to store water, which would be kept cool by evaporation through the vessels\u2019 unglazed porous walls. Whether incised, molded, stamped, or in the barbotine technique (in which rolled strips and circles of clay are applied to the surface), the vegetal and geometric motifs on these containers were likely inspired by pre-Islamic designs.",
+    "dimensions": [
+        "H. 29 in. (73.7 cm)",
+        "Diam. 19 in. (48.3 cm)",
+        "Wt. 53 lbs. (24 kg)"
+    ],
+    "gallery-id": 451,
+    "id": 453577,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/1998.330.JPG",
+    "medium": "Earthenware; applied and incised decoration, unglazed",
+    "provenance": [
+        "Mr. and Mrs. Elias S. David, Forest Hills, NY (by 1967\u201398)"
+    ],
+    "title": "Large Storage Jar",
+    "what": [
+        "Ceramics",
+        "Vessels",
+        "Pottery",
+        "Earthenware",
+        "Jars"
+    ],
+    "when": "A.D. 500-1000",
+    "where": [
+        "Asia",
+        "Iraq"
+    ]
+}

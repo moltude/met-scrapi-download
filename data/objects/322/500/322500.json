@@ -1,0 +1,108 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/322496"
+            },
+            {
+                "href": "http://scrapi.org/object/322499"
+            },
+            {
+                "href": "http://scrapi.org/object/322501"
+            },
+            {
+                "href": "http://scrapi.org/object/322495"
+            },
+            {
+                "href": "http://scrapi.org/object/322498"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R105_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140312121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R106_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140313121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R107_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140314121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R116_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140331121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R117_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140402121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R118_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140403121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R119_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140404121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/322500"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/322500"
+        }
+    },
+    "accession number": "21.166.6",
+    "credit line": "Rogers Fund, 1921",
+    "date": "ca. A.D. 1st\u20132nd century",
+    "department": "Ancient Near Eastern Art",
+    "dimensions": "H. 5 x L. 5 3/8 in. (12.7 x 13.7 cm)",
+    "gallery-id": 404,
+    "id": 322500,
+    "image": "http://images.metmuseum.org/CRDImages/an/original/me21_166_6.jpg",
+    "medium": "Bronze, brass",
+    "provenance": [
+        "By 1913\u2013until 1921, collection of Claude Anet, Paris",
+        "acquired by the Museum in 1921, purchased from Joseph Brummer, New York."
+    ],
+    "title": "Belt clasp",
+    "what": [
+        "Metal",
+        "Costume",
+        "Copper alloy",
+        "Metalwork",
+        "Bronze",
+        "Brass",
+        "Belts",
+        "Clasps"
+    ],
+    "when": "A.D. 1-500",
+    "where": [
+        "Asia",
+        "Transcaucasia"
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/247509"
+            },
+            {
+                "href": "http://scrapi.org/object/248079"
+            },
+            {
+                "href": "http://scrapi.org/object/248082"
+            },
+            {
+                "href": "http://scrapi.org/object/248083"
+            },
+            {
+                "href": "http://scrapi.org/object/248077"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R103_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140307123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A146_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142808",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R104_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140310123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R105_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140311123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R106_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140313123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R027_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140313130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R107_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140314123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/conversations-with-curators-and-conservators/terracotta-column-krater?eid=A001_%7b1CC4797D-7295-4614-9ACD-19C00BA693F4%7d_20140204162630",
+                "rel": "Conversation with a Curator\u2014Terracotta Column-Krater"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A144_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142257",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/grlg/hd_grlg.htm",
+                "rel": "Greek Gods and Religious Practices"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=04\u00aeion=eusb",
+                "rel": "Ancient Greece, 1000 B.C.\u20131 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/254502"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/254502"
+        }
+    },
+    "accession number": "43.11.4",
+    "credit line": "Rogers Fund, 1943",
+    "culture": "Greek",
+    "date": "3rd-2nd century B.C.",
+    "department": "Greek and Roman Art",
+    "description": "The Hellenistic period introduced the accurate characterization of age. Young children enjoyed great favor, whether in mythological form, as baby Herakles or Eros, or in genre scenes, playing with each other or with pets. This Eros, god of love, has been brought down to earth and disarmed, a conception considerably different from that of the powerful, often cruel, and capricious being so often addressed in Archaic poetry. One of the few bronze statues to have survived from antiquity, this figure of a plump baby in relaxed pose conveys a sense of the immediacy and naturalistic detail that the medium of bronze made possible. He is clearly based on firsthand observation. The support on which the god rests is a modern addition, but the work originally would have had a separate base, most likely of stone.  This statue is the finest example of its kind. Judging from the large number of extant replicas, the type was popular in Hellenistic and, especially, Roman times. In the Roman period, Sleeping Eros statues decorated villa gardens and fountains. Their function in the Hellenistic period is less clear. They may have been used as dedications within a sanctuary of Aphrodite or possibly may have been erected in a public park or private, even royal, garden.",
+    "dimensions": "length  33 9/16 in. (85.24 cm)",
+    "gallery-id": 164,
+    "id": 254502,
+    "image": "http://images.metmuseum.org/CRDImages/gr/original/DP123903.jpg",
+    "medium": "Bronze",
+    "provenance": [
+        "Said to have been found on Rhodes (Richter 1943-44, p. 122).[1930, purchased by Joseph Brummer from E. Geladakis, Paris]",
+        "acquired in 1943, purchased from Joseph Brummer, New York."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/gr/original/DP123903.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/gr43.11.4.R.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/gr43.11.4.AV1.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP123904.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP123905.jpg"
+    ],
+    "title": "Bronze statue of Eros sleeping",
+    "what": [
+        "Metal",
+        "Sculpture",
+        "Copper alloy",
+        "Bronze",
+        "Statues"
+    ],
+    "when": "1000 B.C.-A.D. 1",
+    "where": [
+        "Europe",
+        "Greece"
+    ]
+}

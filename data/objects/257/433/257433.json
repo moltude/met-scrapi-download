@@ -1,0 +1,105 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/248141"
+            },
+            {
+                "href": "http://scrapi.org/object/248315"
+            },
+            {
+                "href": "http://scrapi.org/object/248470"
+            },
+            {
+                "href": "http://scrapi.org/object/248740"
+            },
+            {
+                "href": "http://scrapi.org/object/248800"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A146_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142808",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R104_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140310123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R105_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140311123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R106_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140313123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R027_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140313130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R107_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140314123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/conversations-with-curators-and-conservators/terracotta-column-krater?eid=A001_%7b1CC4797D-7295-4614-9ACD-19C00BA693F4%7d_20140204162630",
+                "rel": "Conversation with a Curator\u2014Terracotta Column-Krater"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A144_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142257",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A145_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142312",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=04\u00aeion=eust",
+                "rel": "Italian Peninsula, 1000 B.C.\u20131 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/257433"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/257433"
+        }
+    },
+    "accession number": "2000.38",
+    "credit line": "Purchase, Philodoroi Gifts, 2000",
+    "culture": "Roman",
+    "date": "ca. 40\u201320 B.C.",
+    "department": "Greek and Roman Art",
+    "description": "This portrait of an elderly Roman matron conveys an air of gravitas and dignity that befits the social standing of the subject. Like most portraits of Roman women, this one can be dated closely by the hairstyle, which combines a braided bun worn high on the head and the so-called nodus, a flat braid pulled back over the top of the head.      In antiquity, all marble sculpture was painted. Here, the indication of eyelashes can still be seen on the upper lid of the right eye, and traces of pigment remain on the same eye and on the hair.",
+    "dimensions": "10 1/4 x 6 1/2 x 7 3/4 in.  (26 x 16.5 x 19.7 cm)",
+    "gallery-id": 166,
+    "id": 257433,
+    "image": "http://images.metmuseum.org/CRDImages/gr/original/9 Cat. no. I.04R1_98Q.jpg",
+    "medium": "Marble",
+    "title": "Marble head of an elderly woman",
+    "what": [
+        "Sculpture",
+        "Stone",
+        "Marble"
+    ],
+    "when": "1000 B.C.-A.D. 1",
+    "where": [
+        "Roman Empire"
+    ]
+}

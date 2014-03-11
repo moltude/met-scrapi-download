@@ -1,0 +1,120 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/310258"
+            },
+            {
+                "href": "http://scrapi.org/object/313344"
+            },
+            {
+                "href": "http://scrapi.org/object/313345"
+            },
+            {
+                "href": "http://scrapi.org/object/313346"
+            },
+            {
+                "href": "http://scrapi.org/object/310663"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From September 16, 2013",
+                "href": "/exhibitions/listings/2013/feathered-walls",
+                "rel": "Feathered Walls"
+            },
+            {
+                "date": "From October 8, 2013",
+                "href": "/exhibitions/listings/2013/nelson-rockefeller",
+                "rel": "The Nelson A. Rockefeller Vision"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R105_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140311130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R106_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140312130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R107_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140313130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 18, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/shaping-the-african-art-canon?eid=A001_%7b447041C4-D9E7-43A9-AE5F-85BAEB6E7196%7d_20140214113010",
+                "rel": "Shaping the African Art Canon: From the Museum to the Classroom"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/talks/the-observant-eye/shared-memory-sculptural-ancestral-objects-from-oceania?eid=A001_%7b94768B86-339F-4726-A3BC-8F798C423768%7d_20140123143856",
+                "rel": "Shared Memory: Sculptural Ancestral Objects from Oceania"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=A116_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140210093151",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/talks/gallery-talks/ancient-american-sculpture?eid=A002_%7b7A6AA394-9359-47C1-87B4-65B0894C01AB%7d_20140123114700",
+                "rel": "Ancient American Sculpture"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R117_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140401130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R118_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140402130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=canm",
+                "rel": "Mexico, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/317878"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/317878"
+        }
+    },
+    "accession number": "1998.39.1-.20",
+    "credit line": "Gift of Jan Mitchell and Sons, in memory of Ellin Mitchell, 1998",
+    "culture": "Aztec or Mixtec",
+    "date": "15th\u2013early 16th century",
+    "department": "Arts of Africa, Oceania and the Americas",
+    "description": "Necklaces made of numerous small beads often in the form of animals, including shells, turtles, and frogs, are among the many types of gold ornaments worn by Aztec nobility. These creatures are all associated with water and rain and the sustenance it assures. Fertility connotations of frogs and turtles are further supported by the fact that these animals lay thousands of eggs and assume a squatting position similar to that of women in childbirth.The ornaments were cast individually by the lost-wax process, each with its own separate clay mold which was broken after casting to release the object, explaining the slight differences in size and detail. These ornaments are said to have been found in the southern Mexico state of Chiapas.Ancient Mexican gold objects are usually attributed to the Mixtec people, contemporaries of the Aztecs in southern Mexico. Important burials in the state of Oaxaca particularly have yielded the most impressive and technologically accomplished works in gold. The Mixtecs were renowned as the finest craftsmen in the land and perfected the art of casting from wax models. Undoubtedly their talent was much sought after by the Aztec elite. Since virtually none of the exquisite gold ornaments offered to the Spanish conquerors by the Aztecs and described by eyewitnesses survive, the distinction between Mixtec and Aztec gold objects is problematic.",
+    "dimensions": "H. 7/8 in. (2.1 cm)",
+    "gallery-id": 357,
+    "id": 317878,
+    "image": "http://images.metmuseum.org/CRDImages/ao/original/DT4265.jpg",
+    "medium": "Gold",
+    "provenance": [
+        "[Stendahl Gallery, Los Angeles]",
+        "Jan Mitchell, New York, by 1968\u20131998"
+    ],
+    "title": "Necklace Ornaments, Frogs",
+    "what": [
+        "Metal",
+        "Gold"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "North and Central America",
+        "Mexico"
+    ],
+    "who": "Aztec"
+}

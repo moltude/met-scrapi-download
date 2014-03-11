@@ -1,0 +1,123 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/83295"
+            },
+            {
+                "href": "http://scrapi.org/object/83208"
+            },
+            {
+                "href": "http://scrapi.org/object/94709"
+            },
+            {
+                "href": "http://scrapi.org/object/94710"
+            },
+            {
+                "href": "http://scrapi.org/object/94712"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R150_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140407130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/dior/hd_dior.htm",
+                "rel": "Christian Dior (1905\u20131957)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/94858"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/94858"
+        }
+    },
+    "accession number": "C.I.57.62.1a\u2013c",
+    "credit line": "Gift of Mrs. A. Moore Montgomery, 1957",
+    "culture": "French",
+    "date": "spring/summer 1953",
+    "department": "Costume Institute",
+    "dimensions": "Length at CB 47 1/2 in. (120.7 cm)",
+    "id": 94858,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/DP108281.jpg",
+    "medium": "silk",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/DP108281.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI57.62.1a\u2013c_B.jpg"
+    ],
+    "title": "Coat",
+    "what": [
+        "Costume",
+        "Silk",
+        "Coats"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": [
+        "House of Dior",
+        "Christian Dior",
+        "Hattie Carnegie, Inc."
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/267094"
+            },
+            {
+                "href": "http://scrapi.org/object/286396"
+            },
+            {
+                "href": "http://scrapi.org/object/286470"
+            },
+            {
+                "href": "http://scrapi.org/object/286471"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/286057"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/286057"
+        }
+    },
+    "accession number": "2005.100.303",
+    "credit line": "Gilman Collection, Purchase, Denise and Andrew Saul Gift, 2005",
+    "date": "1929",
+    "department": "Photographs",
+    "description": "Born in Paris of Romanian parents, Lotar was a Surrealist filmmaker and photographer in the circle of Ren\u00e9 Clair, Luis Bu\u00f1uel, Germaine Krull, and Andr\u00e9 Kert\u00e9sz. In 1929 he accepted a commission from the review Documents, the voice of a Surrealist splinter group headed by Georges Bataille, to illustrate the word abattoir (\u201cslaughterhouse\u201d) in the \u201cDictionary\u201d section of the journal. In response, Lotar produced a photographic reportage of unsparing realism. His images are particularly shocking for their juxtapositions of killing on the one hand and banal order on the other. This subject is an array of amputated calves\u2019 feet.",
+    "dimensions": "Image 22.2 x 16.2 cm (8 3/4 x 6 3/8 in.)",
+    "gallery-id": 852,
+    "id": 286057,
+    "medium": "Gelatin silver print",
+    "provenance": [
+        "Estate of Jacob Bean",
+        "[Julien Levy]",
+        "(sold, Sotheby's Sale 6468, Oct. 7, 1993, Lot 375)",
+        "Gilman Paper Company Collection, New York"
+    ],
+    "title": "Aux abbatoirs de La Villette",
+    "what": [
+        "Photographs",
+        "Gelatin silver prints"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Eli Lotar"
+}

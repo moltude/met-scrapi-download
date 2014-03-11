@@ -1,0 +1,137 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/486362"
+            },
+            {
+                "href": "http://scrapi.org/object/487055"
+            },
+            {
+                "href": "http://scrapi.org/object/490736"
+            },
+            {
+                "href": "http://scrapi.org/object/485330"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From November 20, 2013",
+                "href": "/exhibitions/listings/2013/jewels-by-jar",
+                "rel": "Jewels by JAR"
+            },
+            {
+                "date": "From February 24, 2014",
+                "href": "/exhibitions/listings/2014/lucas-samaras",
+                "rel": "Lucas Samaras"
+            },
+            {
+                "date": "From December 17, 2013",
+                "href": "/exhibitions/listings/2013/metropolitan-vanities",
+                "rel": "Metropolitan Vanities"
+            },
+            {
+                "date": "From October 22, 2013",
+                "href": "/exhibitions/listings/2013/william-kentridge",
+                "rel": "William Kentridge"
+            },
+            {
+                "date": "From April 29, 2014",
+                "href": "/exhibitions/listings/2014/dan-graham",
+                "rel": "The Roof Garden Commission: Dan Graham"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R104_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140310144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/modern-art-french?eid=R027_%7b96311A2D-1D25-45BE-83E2-2054BC16D70B%7d_20140311133000",
+                "rel": "Art Moderne et Contemporain (Modern and Contemporary Art in French)"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R105_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140311144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R106_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140312144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R027_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140313140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R107_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140313144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=A076_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20131126112236",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/faces?eid=A002_%7b8EAA5A8F-1DA9-4AC7-8199-BDE367AC2FB1%7d_20140124163826",
+                "rel": "Faces! Drawing in the Galleries for Adults"
+            },
+            {
+                "date": "March 18, 2014",
+                "href": "/events/programs/tours/modern-art-french?eid=R028_%7b96311A2D-1D25-45BE-83E2-2054BC16D70B%7d_20140318133000",
+                "rel": "Art Moderne et Contemporain (Modern and Contemporary Art in French)"
+            },
+            {
+                "date": "March 20, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R028_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140320140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/dsgn4/hd_dsgn4.htm",
+                "rel": "Design, 1975\u2013present"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=eaj",
+                "rel": "Japan, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/486361"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/486361"
+        }
+    },
+    "accession number": "1994.221.1",
+    "credit line": "Purchase, Lita Annenberg Hazen Charitable Trust Gift, 1994",
+    "date": "ca. 1990",
+    "department": "Modern and Contemporary Art",
+    "description": "Miyashita Zenji draws on the rich and varied traditions of Japanese ceramics to create highly evocative yet functional modern objects. In this vase, Miyashita employs the traditional Japanese ceramic technique of saidei, in which layer upon layer of different colored clays are applied to create a striated appearance. It is at once abstractly geometric and naturalistic, suggesting rugged mountain peaks and valleys in its richly patterned surface. Like many of Miyashita's works, the form of this vase is simple, prismatic, and unmistakably modern. Its pure and functional form also serves as a reminder that it is a useful object as well as a work of art.",
+    "dimensions": [
+        "H. 16-1/4, W. 10-1/2, D. 4 inches",
+        "(41.3 x 26.7 x 10.2 cm.)"
+    ],
+    "id": 486361,
+    "image": "http://images.metmuseum.org/CRDImages/ma/original/DT3701.jpg",
+    "medium": "Stoneware",
+    "title": "Vase",
+    "what": [
+        "Ceramics",
+        "Vessels",
+        "Pottery",
+        "Vases",
+        "Stoneware"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Asia",
+        "Japan"
+    ],
+    "who": "Zenji Miyashita"
+}

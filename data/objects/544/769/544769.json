@@ -1,0 +1,126 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/546943"
+            },
+            {
+                "href": "http://scrapi.org/object/553290"
+            },
+            {
+                "href": "http://scrapi.org/object/545121"
+            },
+            {
+                "href": "http://scrapi.org/object/547617"
+            },
+            {
+                "href": "http://scrapi.org/object/547621"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/teen-programs/saturday-sketching/saturday-sketching-egyptian-art?eid=A001_%7b8698F79D-A7E0-44F1-99CF-57C8A2E2471A%7d_20131211143556",
+                "rel": "Saturday Sketching\u2014Egyptian Art (Ages 11\u201318)"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A151_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113641",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R130_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140310140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=03\u00aeion=afe",
+                "rel": "Egypt, 2000\u20131000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/544769"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/544769"
+        }
+    },
+    "accession number": "30.8.66",
+    "credit line": [
+        "Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915",
+        "Purchase, Edward S. Harkness Gift, 1926 (26.7.1346, .1348)"
+    ],
+    "date": "ca. 1200\u20131186 B.C.",
+    "department": "Egyptian Art",
+    "description": "The cornflower and ball beads in this necklace were made by soldering wire rings of several different diameters into the desired forms. The piece is an early example of the technique known as filagree. Discovered with a cache of jewelry in the Valley of the Kings, the necklace is thought to have belonged to Tawosret, wife of the Seti II and regent for her husband's successor Siptah. Tawosret, who reigned Egypt in her own right for several years at the end of Dynasty 19, was one of the few female rulers of Egypt, the most famous of whom are Hatshepsut and Cleopatra VII.",
+    "dimensions": "l. 58 cm (24 in); h. of cornflowers 2.6 cm (7/8 in); w. of umbel .55 cm; diam. of ball bead 0.6-0.8 cm",
+    "gallery-id": 124,
+    "id": 544769,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/30.8.66_EGDP010684.jpg",
+    "medium": "Gold",
+    "provenance": [
+        "Excavated by Theodore M. Davis and Edward R. Ayrton, Jan. 1908. Allotted to Davis by the Egyptian Government in the division of finds. Davis Collection 1908-1915",
+        "on loan to the museum from 1913.. Bequeathed to the Metropolitan Museum of Art by Davis, 1915. Two cornflower beads (26.7.1346, .1348) purchased in Luxor by Lord Carnarvon before 1923.  Carnarvon Collection until 1926. Purchased by the Metropolitan Museum of Art from Almina, Countess of Carnarvon, 1926."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/eg/original/30.8.66_EGDP010684.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/DT301244.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/30.8.66.jpg"
+    ],
+    "title": "Necklace in Gold Filagree of Queen Tausret",
+    "what": [
+        "Metal",
+        "Costume",
+        "Gold",
+        "Jewelry",
+        "Necklaces"
+    ],
+    "when": "2000-1000 B.C.",
+    "where": [
+        "Africa",
+        "Egypt",
+        "Upper Egypt",
+        "Thebes"
+    ]
+}

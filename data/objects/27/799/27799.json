@@ -1,0 +1,128 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/22035"
+            },
+            {
+                "href": "http://scrapi.org/object/24182"
+            },
+            {
+                "href": "http://scrapi.org/object/22683"
+            },
+            {
+                "href": "http://scrapi.org/object/27722"
+            },
+            {
+                "href": "http://scrapi.org/object/22496"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From October 2, 2012",
+                "href": "/exhibitions/listings/2012/arms-and-armor",
+                "rel": "Bashford Dean and the Creation of the Arms and Armor Department"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A074_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112917",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A084_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113556",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A093_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113923",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A075_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112932",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A094_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113938",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 5, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A085_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113610",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161351",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A076_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112951",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 19, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161305",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 26, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A086_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113630",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=ssh",
+                "rel": "Himalayan Region, 1600\u20131800 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=ssa",
+                "rel": "South Asia and the Himalayan Region, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/27799"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/27799"
+        }
+    },
+    "accession number": "36.25.351",
+    "credit line": "Bequest of George C. Stone, 1935",
+    "culture": "Nepalese",
+    "date": "18th\u201319th century",
+    "department": "Arms and Armor",
+    "gallery-id": 378,
+    "id": 27799,
+    "image": "http://images.metmuseum.org/CRDImages/aa/original/DP114094.jpg",
+    "medium": "Iron, textile, leather",
+    "provenance": [
+        "Ex. coll.: George C. Stone."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/aa/original/DP114094.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP114095.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP124299.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP124300.jpg"
+    ],
+    "title": "Cuirass (Char-aina)",
+    "what": [
+        "Metal",
+        "Costume",
+        "Textiles",
+        "Iron and iron alloy",
+        "Leather",
+        "Iron",
+        "Armor",
+        "Body armor",
+        "Cuirasses"
+    ],
+    "where": [
+        "Asia",
+        "Nepal"
+    ]
+}

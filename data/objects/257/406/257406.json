@@ -1,0 +1,112 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/247373"
+            },
+            {
+                "href": "http://scrapi.org/object/247404"
+            },
+            {
+                "href": "http://scrapi.org/object/247392"
+            },
+            {
+                "href": "http://scrapi.org/object/249074"
+            },
+            {
+                "href": "http://scrapi.org/object/249076"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A146_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142808",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R104_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140310123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R105_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140311123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R106_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140313123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R027_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140313130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R107_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140314123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/conversations-with-curators-and-conservators/terracotta-column-krater?eid=A001_%7b1CC4797D-7295-4614-9ACD-19C00BA693F4%7d_20140204162630",
+                "rel": "Conversation with a Curator\u2014Terracotta Column-Krater"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A144_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142257",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A145_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142312",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=04\u00aeion=eusb",
+                "rel": "Ancient Greece, 1000 B.C.\u20131 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/257406"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/257406"
+        }
+    },
+    "accession number": "1999.315",
+    "credit line": "Rogers Fund, 1999",
+    "culture": "Greek",
+    "date": "ca. 2nd century B.C.",
+    "department": "Greek and Roman Art",
+    "description": "Colorless with pale yellowish tinge.Plain rounded rim; straight side tapering diagonally downward; slightly concave bottom.On interior, a band below rim, comprising two horizontal grooves, the upper narrow and the lower broader, and halfway down side a broader band comprising a fine groove, followed below by a broader groove, then a ridge, undercut below with another broad groove, and finally another narrow groove. On exterior, traces of gilding on sides and bottom.Broken and repaired, with four small areas of fill; many pinprick and a few larger bubbles; dulling, pitting, iridescence, and small patches of creamy brown weathering.Rotary grinding marks on interior and exterior.This dish finds its closest parallels among the so-called Canosa Group of Hellenistic glass tableware and, like them, it probably comes from South Italy.",
+    "dimensions": [
+        "H. 2 5/8 in. (6.7 cm)",
+        "diameter  10 3/4 (27.3 cm)"
+    ],
+    "gallery-id": 162,
+    "id": 257406,
+    "image": "http://images.metmuseum.org/CRDImages/gr/original/DT4437.jpg",
+    "medium": "Glass; cast and cut",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/gr/original/DT4437.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DT4438.jpg"
+    ],
+    "title": "Glass dish with gilding",
+    "what": [
+        "Glass",
+        "Dishes"
+    ],
+    "when": "1000 B.C.-A.D. 1",
+    "where": [
+        "Europe",
+        "Greece"
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/318950"
+            },
+            {
+                "href": "http://scrapi.org/object/318951"
+            },
+            {
+                "href": "http://scrapi.org/object/318949"
+            },
+            {
+                "href": "http://scrapi.org/object/315036"
+            },
+            {
+                "href": "http://scrapi.org/object/313847"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From September 16, 2013",
+                "href": "/exhibitions/listings/2013/feathered-walls",
+                "rel": "Feathered Walls"
+            },
+            {
+                "date": "From October 8, 2013",
+                "href": "/exhibitions/listings/2013/nelson-rockefeller",
+                "rel": "The Nelson A. Rockefeller Vision"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R105_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140311130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R106_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140312130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R107_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140313130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 18, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/shaping-the-african-art-canon?eid=A001_%7b447041C4-D9E7-43A9-AE5F-85BAEB6E7196%7d_20140214113010",
+                "rel": "Shaping the African Art Canon: From the Museum to the Classroom"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/talks/the-observant-eye/shared-memory-sculptural-ancestral-objects-from-oceania?eid=A001_%7b94768B86-339F-4726-A3BC-8F798C423768%7d_20140123143856",
+                "rel": "Shared Memory: Sculptural Ancestral Objects from Oceania"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=A116_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140210093151",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/talks/gallery-talks/ancient-american-sculpture?eid=A002_%7b7A6AA394-9359-47C1-87B4-65B0894C01AB%7d_20140123114700",
+                "rel": "Ancient American Sculpture"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R117_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140401130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R118_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140402130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=sfs",
+                "rel": "Southern Africa, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/318948"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/318948"
+        }
+    },
+    "accession number": "2001.759.1",
+    "credit line": "Gift of Drs. James J. and Gladys W. Strain, 2001",
+    "culture": "Shona peoples",
+    "date": "19th\u201320th century",
+    "department": "Arts of Africa, Oceania and the Americas",
+    "description": "The use of headrests in southern Africa is ancient and has been traced back to the twelfth-century archaeological site of Mapungubwe, an urban center along the Limpopo River. There, evidence of gold sheeting believed to have adorned a long-disintegrated wooden headrest has been recovered. While headrests were designed to serve a functional purpose--to support the head while sleeping in order to protect elaborate hairstyles--their intimate connection with their owners is such that they are also seen as precious vehicles for communicating with an ancestral realm. In many instances, such artifacts are buried with their owners along with other personal items.   The design of such works is reflected in a range of regional styles. Shona sculptors and their neighbors to the southeast, the Tsonga, have been credited with the most varied formal solutions to the carving of the support element.",
+    "dimensions": "H. 4 x W. 2 1/2 x D. 6 3/4 in. (10.2 x 6.4 x 17.1 cm)",
+    "gallery-id": 352,
+    "id": 318948,
+    "image": "http://images.metmuseum.org/CRDImages/ao/original/DT5354.jpg",
+    "medium": "Wood and elephant hair",
+    "provenance": [
+        "James J. and Gladys W. Strain, New York, until 2001"
+    ],
+    "title": "Headrest",
+    "what": [
+        "Wood",
+        "Furniture",
+        "Hair",
+        "Headrests"
+    ],
+    "where": [
+        "Africa",
+        "Zimbabwe"
+    ],
+    "who": "Shona"
+}

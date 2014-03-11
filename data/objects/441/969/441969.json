@@ -1,0 +1,135 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/438546"
+            },
+            {
+                "href": "http://scrapi.org/object/226354"
+            },
+            {
+                "href": "http://scrapi.org/object/388973"
+            },
+            {
+                "href": "http://scrapi.org/object/394541"
+            },
+            {
+                "href": "http://scrapi.org/object/394533"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/piero-della-francesca",
+                "rel": "Piero della Francesca"
+            },
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "From April 22, 2014",
+                "href": "/exhibitions/listings/2014/goya",
+                "rel": "Goya and the Altamira Family"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/talks/gallery-talks/piero-della-francesca?eid=A001_%7bE50FD455-5FC1-41D0-9391-C456264363EF%7d_20140206160624",
+                "rel": "Exhibition Tour\u2014Piero della Francesca: Personal Encounters"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=A257_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20131127123002",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/monday-at-the-met-spring-2014?eid=R001_%7bBB2BF277-3666-435E-8B95-12CDE21533EA%7d_20140303100000",
+                "rel": "Monday at the Met with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R100_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140303123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R101_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140304123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R102_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140305123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R026_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140306140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R103_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140307123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/talks/the-observant-eye/stepping-out-of-the-frame?eid=A001_%7b438572AD-6B0F-4DA2-94FB-49B8931634C1%7d_20140123142901",
+                "rel": "Stepping Out of the Frame: Three-Dimensionality in the New Galleries for European Paintings"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/saturday-seminar-spring-2014?eid=R001_%7bE063A39F-FC40-4ECC-B690-C4C13F70B2A0%7d_20140308103000",
+                "rel": "Saturday Seminar with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwf",
+                "rel": "France, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/441969"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/441969"
+        }
+    },
+    "accession number": "2012.348",
+    "credit line": "Purchase, Mrs. Charles Wrightsman Gift, 2012",
+    "date": "1808",
+    "department": "European Paintings",
+    "dimensions": "83 7/8 x 57 7/8 in. (213 x 147 cm)",
+    "gallery-id": 614,
+    "id": 441969,
+    "image": "http://images.metmuseum.org/CRDImages/ep/original/DP277234.jpg",
+    "medium": "Oil on canvas",
+    "provenance": [
+        "the sitter (1808\u2013d. 1838; possibly commissioned for Fr 6,000)",
+        "his nephew, Edmond de Talleyrand, comte de P\u00e9rigord, duc de Talleyrand, duc de Dino, Paris and Zag\u00e1n (Sagan), Lower Silesia (1838\u2013d. 1872)",
+        "by descent (1872\u20131913) to Howard de Talleyrand-P\u00e9rigord, duc de Sagan (1913\u2013d. 1929),  Zag\u00e1n, where it remained throughout World War II and until 1947",
+        "Muzeum Narodowe, Warsaw (1947\u201367)",
+        "by treaty in 1967 to the duc de Sagan's sister, H\u00e9l\u00e8ne-Violette de Talleyrand-P\u00e9rigord, duchesse de Sagan, comtesse de Pourtal\u00e8s, later Mme Gaston Palewski, Ch\u00e2teau du Marais, Saint-Ch\u00e9ron (1969\u2013d. 2003)",
+        "her son, comte H\u00e9lie Alfred G\u00e9rard de Pourtal\u00e8s de Talleyrand, duc de Sagan, Ch\u00e2teau de Bandeville, Saint-Cyr-sous-Dourdain (2003\u201312; sold to Wildenstein)",
+        "[Wildenstein, New York, 2012",
+        "sold to MMA]"
+    ],
+    "title": "Charles Maurice de Talleyrand P\u00e9rigord (1754\u20131838), Prince de B\u00e9n\u00e9vent",
+    "what": [
+        "Paintings",
+        "Canvas",
+        "Oil paint"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "baron Fran\u00e7ois G\u00e9rard"
+}

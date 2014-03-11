@@ -1,0 +1,170 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/189265"
+            },
+            {
+                "href": "http://scrapi.org/object/191081"
+            },
+            {
+                "href": "http://scrapi.org/object/204765"
+            },
+            {
+                "href": "http://scrapi.org/object/204766"
+            },
+            {
+                "href": "http://scrapi.org/object/207567"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 3, 2014",
+                "href": "/exhibitions/listings/2014/william-morris",
+                "rel": "William Morris"
+            },
+            {
+                "date": "From November 22, 2011",
+                "href": "/exhibitions/listings/2011/faberge",
+                "rel": "Faberg\u00e9 from the Matilda Geddings Gray Foundation Collection"
+            },
+            {
+                "date": "From February 4, 2014",
+                "href": "/exhibitions/listings/2014/french-ceramics",
+                "rel": "Making Pottery Art"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/carpeaux",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "From January 22, 2014",
+                "href": "/exhibitions/listings/2014/antonio-canova",
+                "rel": "Antonio Canova"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/membership-events/evening-receptions/carpeaux-supporting-reception?eid=A001_%7b60301F85-6473-4C1C-8DAB-5D8B2E9406EE%7d_20140107151713",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R105_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140311131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/membership-events/evening-receptions/carpeaux-sustaining-reception?eid=A001_%7bB97F7097-C940-4FDB-8982-A3EC61BD9084%7d_20140107152519",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/world-enlightened?eid=R002_%7bEC37AED7-F558-4A27-A806-094491540250%7d_20140312101500",
+                "rel": "Cultural Discoveries\u2014Wednesdays with Olivier Bernier: Europe in the Eighteenth Century, A World Enlightened"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/talks/gallery-talks/the-passions-of-jean-baptiste-carpeaux?eid=A003_%7b7437318B-B35F-4C96-BAA4-FF8EDD85D6CA%7d_20140206123059",
+                "rel": "Exhibition Tour\u2014The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R106_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140313131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R107_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140314131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/art-making-programs/artist-demonstrations/sculpting-in-clay?eid=A001_%7bC514395B-8A7D-4198-93C8-44AD416FF697%7d_20131025175140",
+                "rel": "Sculpting in Clay"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/friday-evening-gallery-event-what-moves-you?eid=A001_%7b1EC22848-690F-4DDE-99C8-D3C4580691E8%7d_20140130135425",
+                "rel": "Friday Evening Gallery Event\u2014What Moves You?"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/art-making-programs/drop-in-drawing/gesture-and-movement?eid=A001_%7bACC3D053-EBAF-4C6F-9C96-0EFE6188B165%7d_20140214095024",
+                "rel": "Gesture and Movement: European Sculpture"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/ap80/hd_ap80.htm",
+                "rel": "Art and Photography: The 1980s"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/rodn/hd_rodn.htm",
+                "rel": "Auguste Rodin (1840\u20131917)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/stei/hd_stei.htm",
+                "rel": "Edward Steichen (1879\u20131973): The Photo\u2013Secession Years"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwf",
+                "rel": "France, 1800\u20131900 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/191811"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/191811"
+        }
+    },
+    "accession number": "11.173.9",
+    "credit line": "Gift of Thomas F. Ryan, 1910",
+    "culture": "French",
+    "date": "first modeled probably in 1880, this bronze cast ca. 1910",
+    "department": "European Sculpture and Decorative Arts",
+    "dimensions": "H. 27 5/8 in. (70.2 cm.)",
+    "gallery-id": 800,
+    "id": 191811,
+    "image": "http://images.metmuseum.org/CRDImages/es/original/131255.jpg",
+    "medium": "Bronze",
+    "provenance": [
+        "Thomas Fortune Ryan (until 1910; to MMA)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/es/original/131255.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/131262.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/131261.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/131260.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/131259.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/131258.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/131257.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/131256.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/100500.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/11405.jpg"
+    ],
+    "title": "The Thinker",
+    "what": [
+        "Metal",
+        "Sculpture",
+        "Copper alloy",
+        "Bronze",
+        "Statues"
+    ],
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": [
+        "Auguste Rodin",
+        "Alexis Rudier"
+    ]
+}

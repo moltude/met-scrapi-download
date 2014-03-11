@@ -1,0 +1,128 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/447019"
+            },
+            {
+                "href": "http://scrapi.org/object/452102"
+            },
+            {
+                "href": "http://scrapi.org/object/444549"
+            },
+            {
+                "href": "http://scrapi.org/object/444550"
+            },
+            {
+                "href": "http://scrapi.org/object/450511"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A232_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134244",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A237_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134557",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/programs-for-visitors-with-disabilities/visitors-who-are-deaf/beauty-and-innovation?eid=A001_%7b77D8F57E-5FC9-4578-8A95-30A43C89CFDD%7d_20140210164006",
+                "rel": "Met Signs Tours in ASL\u2014Beauty and Innovation: Understanding Islamic Art"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A251_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114408",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=07\u00aeion=wae",
+                "rel": "The Eastern Mediterranean, 1000\u20131400 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/447008"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/447008"
+        }
+    },
+    "accession number": "17.190.1716",
+    "credit line": "Gift of J. Pierpont Morgan, 1917",
+    "culture": "Islamic",
+    "date": "late 13th\u2013early 14th century",
+    "department": "Islamic Art",
+    "description": "Damascus was producing luxury\u2011quality inlaid metalwork by the early thirteenth century. Many of these objects were made by artists trained in the Mosul tradition and share characteristics with Jaziran works, such as the use of the T\u2011fret background and the Z\u2011shaped whorl motif. An emphasis on princely imagery, is demonstrated by the formal enthronement scenes depicted here. The inclusion of gold as an inlay material is thought to indicate Damascus manufacture.",
+    "dimensions": [
+        "H. 8 3/8 in.  (21.3 cm)",
+        "L. 9 1/2 in.  (24.1 cm)",
+        "Diam. 4 in.  (10.2 cm)"
+    ],
+    "gallery-id": 453,
+    "id": 447008,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/DP245169.jpg",
+    "medium": "Brass; cast with handle made of separately hammered sheet, pierced, inlaid with silver and gold",
+    "provenance": [
+        "J. Pierpont Morgan, New York (until d. 1913; his estate 1913\u201317; gifted to MMA)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/DP245169.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/sf17-190-1716a.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP253490.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/sf17-190-1716b.jpg"
+    ],
+    "title": "Incense Burner",
+    "what": [
+        "Metal",
+        "Copper alloy",
+        "Silver",
+        "Gold",
+        "Brass",
+        "Incense burners"
+    ],
+    "when": "A.D. 1000-1400",
+    "where": [
+        "Asia",
+        "Syria",
+        "Damascus"
+    ]
+}

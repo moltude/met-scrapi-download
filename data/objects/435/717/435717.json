@@ -1,0 +1,150 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/435714"
+            },
+            {
+                "href": "http://scrapi.org/object/435715"
+            },
+            {
+                "href": "http://scrapi.org/object/435716"
+            },
+            {
+                "href": "http://scrapi.org/object/435718"
+            },
+            {
+                "href": "http://scrapi.org/object/459083"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/piero-della-francesca",
+                "rel": "Piero della Francesca"
+            },
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "From April 22, 2014",
+                "href": "/exhibitions/listings/2014/goya",
+                "rel": "Goya and the Altamira Family"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/talks/gallery-talks/piero-della-francesca?eid=A001_%7bE50FD455-5FC1-41D0-9391-C456264363EF%7d_20140206160624",
+                "rel": "Exhibition Tour\u2014Piero della Francesca: Personal Encounters"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=A257_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20131127123002",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/monday-at-the-met-spring-2014?eid=R001_%7bBB2BF277-3666-435E-8B95-12CDE21533EA%7d_20140303100000",
+                "rel": "Monday at the Met with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R100_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140303123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R101_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140304123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R102_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140305123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R026_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140306140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R103_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140307123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/talks/the-observant-eye/stepping-out-of-the-frame?eid=A001_%7b438572AD-6B0F-4DA2-94FB-49B8931634C1%7d_20140123142901",
+                "rel": "Stepping Out of the Frame: Three-Dimensionality in the New Galleries for European Paintings"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/saturday-seminar-spring-2014?eid=R001_%7bE063A39F-FC40-4ECC-B690-C4C13F70B2A0%7d_20140308103000",
+                "rel": "Saturday Seminar with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/isca/hd_isca.htm",
+                "rel": "Islamic Carpets in European Paintings"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/lute/hd_lute.htm",
+                "rel": "The Lute"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwl",
+                "rel": "Low Countries, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/435717"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/435717"
+        }
+    },
+    "accession number": "14.40.617",
+    "credit line": "Bequest of Benjamin Altman, 1913",
+    "date": "ca. 1658",
+    "department": "European Paintings",
+    "dimensions": "14 1/2 x 12 3/4 in. (36.8 x 32.4 cm)",
+    "gallery-id": 634,
+    "id": 435717,
+    "image": "http://images.metmuseum.org/CRDImages/ep/original/DP145907.jpg",
+    "medium": "Oil on wood",
+    "provenance": [
+        "Willem Lormier, The Hague (by 1752, sold to Lormier for fl. 160)",
+        "his sister, L. Lormier, Rotterdam (by 1754; cat., 1754, no. 296)",
+        "agent of Willem Lormier (until 1763; his sale, The Hague, July 4, 1763, no. 285, for fl. 420 to Cocq)",
+        "Abel Fran\u00e7ois Poisson, marquis de Vandi\u00e8res, later marquis de Marigny, still later marquis de M\u00e9nars, Paris (until d. 1781; his estate sale, Basan & Joullain, Paris, March 18\u2013April 6, 1782, no. 108, for Fr 1,900 to Le Brun)",
+        "[Jean Baptiste Pierre Le Brun, Paris, from 1782]",
+        "Charles d'Arverley, Paris (bequeathed to Calonne)",
+        "Charles-Alexandre da Calonne, Paris (by 1788\u201395; sale, Paris, April 21\u201330, 1788, no. 74, bought in; sale, Skinner & Dyke, London, March 23\u201328, 1795, no. 32)",
+        "William Wells, Redleaf, Kent (by 1829\u2013at least 1876)",
+        "Adolphe de Rothschild, London (in 1884; cat., 1884, no. 33)",
+        "Francis Denzil Edward Baring, 5th Baron Ashburton, The Grange, Alresford, Hampshire and London (until 1907; sold to Agnew)",
+        "[Agnew, London, 1907]",
+        "[D. S. Hess & Co., New York, 1907\u20138",
+        "sold to Altman for $29,331.56, on January 23, 1908]",
+        "Benjamin Altman, New York (1908\u2013d. 1913)"
+    ],
+    "title": "A Woman Playing the Theorbo-Lute and a Cavalier",
+    "what": [
+        "Paintings",
+        "Oil paint"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "Netherlands"
+    ],
+    "who": "Gerard ter Borch the Younger"
+}

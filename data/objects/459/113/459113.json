@@ -1,0 +1,157 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/459111"
+            },
+            {
+                "href": "http://scrapi.org/object/459112"
+            },
+            {
+                "href": "http://scrapi.org/object/459109"
+            },
+            {
+                "href": "http://scrapi.org/object/459110"
+            },
+            {
+                "href": "http://scrapi.org/object/437432"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R125_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140303134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R126_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140304134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R127_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140305134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R128_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140306134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R129_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140307134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R130_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140310134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R131_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140311134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R132_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140312134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R133_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140313134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R134_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140314134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/augu/hd_augu.htm",
+                "rel": "Auguste Renoir (1841\u20131919)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/cmon/hd_cmon.htm",
+                "rel": "Claude Monet (1840\u20131926)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/dsrf/hd_dsrf.htm",
+                "rel": "Design Reform"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/imml/hd_imml.htm",
+                "rel": "Impressionism: Art and Modernity"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/amcm/hd_amcm.htm",
+                "rel": "Nineteenth\u2013Century Classical Music"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/mont/hd_mont.htm",
+                "rel": "The Lure of Montmartre, 1880\u20131900"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/lafr/hd_lafr.htm",
+                "rel": "The Transformation of Landscape Painting in France"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/459113"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/459113"
+        }
+    },
+    "accession number": "1975.1.202",
+    "credit line": "Robert Lehman Collection, 1975",
+    "date": "1900\u20131905",
+    "department": "Robert Lehman Collection",
+    "description": "Renouncing the informal approach of Impressionist painters during his later career, Renoir returned to more traditionally inspired motifs. This autumn landscape shows a view of the courtyard on the north side of the chateau of Versailles. Chestnut trees line the all\u00e9e and are painted softly with detached brushwork in vibrant colors of the season. Sculpture is prominently featured in this painting, and indeed Renoir\u2019s interest in sculpture becomes apparent as he later visits the medium for the first time. In his last years, he sculpts several monumental figures with the help of Richard Guino, the assistant to the established French sculptor, Aristide Maillol. The date for this landscape is not certain, though it is likely that Renoir painted it between 1900 and 1905 when he is said to have rented a house in nearby Saint-Cloud for a summer.",
+    "dimensions": "20 1/2 x 24 7/8 in. (52.1 x 63.2 cm)",
+    "gallery-id": 961,
+    "id": 459113,
+    "image": "http://images.metmuseum.org/CRDImages/rl/original/0202-1.jpg",
+    "medium": "Oil on canvas",
+    "provenance": [
+        "Ambroise Vollard, Paris",
+        "acquired from an undocumented source by Robert Lehman, New York, by 1950."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/rl/original/0202-1.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/sf-rlc-1975-1-202.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/2434.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/ep1975.1.202.bw.R.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/DP240424.jpg"
+    ],
+    "title": "Versailles",
+    "what": [
+        "Paintings",
+        "Canvas",
+        "Oil paintings"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Auguste Renoir"
+}

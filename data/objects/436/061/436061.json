@@ -1,0 +1,140 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/436062"
+            },
+            {
+                "href": "http://scrapi.org/object/436063"
+            },
+            {
+                "href": "http://scrapi.org/object/436064"
+            },
+            {
+                "href": "http://scrapi.org/object/436065"
+            },
+            {
+                "href": "http://scrapi.org/object/335189"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/piero-della-francesca",
+                "rel": "Piero della Francesca"
+            },
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "From April 22, 2014",
+                "href": "/exhibitions/listings/2014/goya",
+                "rel": "Goya and the Altamira Family"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/talks/gallery-talks/piero-della-francesca?eid=A001_%7bE50FD455-5FC1-41D0-9391-C456264363EF%7d_20140206160624",
+                "rel": "Exhibition Tour\u2014Piero della Francesca: Personal Encounters"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=A257_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20131127123002",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/monday-at-the-met-spring-2014?eid=R001_%7bBB2BF277-3666-435E-8B95-12CDE21533EA%7d_20140303100000",
+                "rel": "Monday at the Met with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R100_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140303123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R101_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140304123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R102_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140305123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R026_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140306140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R103_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140307123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/talks/the-observant-eye/stepping-out-of-the-frame?eid=A001_%7b438572AD-6B0F-4DA2-94FB-49B8931634C1%7d_20140123142901",
+                "rel": "Stepping Out of the Frame: Three-Dimensionality in the New Galleries for European Paintings"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/saturday-seminar-spring-2014?eid=R001_%7bE063A39F-FC40-4ECC-B690-C4C13F70B2A0%7d_20140308103000",
+                "rel": "Saturday Seminar with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwl",
+                "rel": "Low Countries, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/436061"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/436061"
+        }
+    },
+    "accession number": "1973.155.2",
+    "credit line": "Bequest of Josephine Bieber, in memory of her husband, Siegfried Bieber, 1970",
+    "date": "ca. 1650",
+    "department": "European Paintings",
+    "dimensions": "18 x 22 7/8 in. (45.7 x 58.1 cm)",
+    "gallery-id": 638,
+    "id": 436061,
+    "image": "http://images.metmuseum.org/CRDImages/ep/original/DP143208.jpg",
+    "medium": "Oil on wood",
+    "provenance": [
+        "Mrs. Edward Romilly, London (until d. 1878; posthumous sale, Christie's, London, March 23, 1878, no. 128, for 290 gns. to Colnaghi)",
+        "[Colnaghi, London, from 1878]",
+        "\u00c9tienne Martin, baron de Beurnonville, Paris (until 1881; his sale, Pillet, Paris, May 9\u201316, 1881, no. 247, as \"Paysage, soleil couchant,\" for Fr 10,050 to Sedelmeyer)",
+        "[Sedelmeyer, Paris, from 1881",
+        "cat., 1898, no. 10",
+        "sold to Kann]",
+        "Rodolphe Kann, Paris (by 1898\u2013d. 1905; his estate, 1905\u20137; cat., 1907, vol. 1, no. 34; sold to Duveen)",
+        "[Duveen, London and New York, 1907\u201315",
+        "their sale, American Art Association, New York, April 29, 1915, no. 9, for $4,000 to Knoedler]",
+        "[Knoedler, New York, 1915\u201327",
+        "sale, Christie's, London, July 8, 1927, no. 114, for \u00a3441 to Duits]",
+        "[Duits, London, from 1927]",
+        "[A. S. Drey, Munich, in 1931]",
+        "Mrs. Siegfried (Josephine) Bieber, Berlin and New York (until d. 1970)"
+    ],
+    "title": "Landscape with the Flight into Egypt",
+    "what": [
+        "Paintings",
+        "Oil paint"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "Netherlands"
+    ],
+    "who": "Aelbert Cuyp"
+}

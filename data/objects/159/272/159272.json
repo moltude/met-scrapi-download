@@ -1,0 +1,127 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/156161"
+            },
+            {
+                "href": "http://scrapi.org/object/159266"
+            },
+            {
+                "href": "http://scrapi.org/object/159279"
+            },
+            {
+                "href": "http://scrapi.org/object/159289"
+            },
+            {
+                "href": "http://scrapi.org/object/159274"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R150_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140407130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/159272"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/159272"
+        }
+    },
+    "accession number": "2009.300.711a, b",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Syndicat de la Couture de Paris, 1949",
+    "culture": "French",
+    "date": "1949",
+    "department": "Costume Institute",
+    "description": "In 1947, in response to the suffering of post-World War II France, an American grassroots campaign organized a large-scale relief package. The following year France, moved by this generosity, organized a gift in kind. As the aide was sent to France housed in boxcars and dubbed the \"American Friendship Train\" the French created the \"Gratitude\" or \"Merci Train\", a set of 49 boxcars filled with gifts of thanks. Each of the 48 states was to receive a boxcar with the 49th shared between Washington D.C., and the Territory of Hawaii, which had contributed sugar on the Friendship Train. A wide array of items was included in these cars, from handmade children's toys to priceless works of art. The Chambre Syndicale de la Couture de Parisienne, who, to raise money for the French people, had two years prior organized the Theatre de la Mode, a group of fashion dolls dressed in clothing from the 1947 couture collections,  chose to create a new set of fashion dolls, this time representing the evolution of French fashion rather than the current season. Once again, the Syndicat tapped the most talented and well-known fashion designers, hairstylists, and accessory designers of the time to create these miniature masterpieces. The unique design of the fashion doll, originally created for Theatre de la Mode and used again for the Gratitude Train was conceived by Eileen Bonabel, the plaster head by the artist Rebull. Each doll measures approximately 24 inches tall, with bodies made entirely of open wire.  Human hair was used to fashion the hairstyles.  Each designer chose a year between 1715 and 1906 for which to dress his doll. Their varying sources of inspiration included works of art, literature, and historic fashion plates. The Gratitude Train fashion dolls represent  a unique moment in the history of couture as they represent not only creative interpretations of historic fashions by the greatest designers of the period, but also are infused with the unparalleled skill, care, and attention to detail that would have been applied in their full-size counterparts. Marcelle Dormoy's creation for the Gratitude Train was designed after a dress by Mlle. Palmyre, whose salon served the ruling class, including Queen Marie-Am\u00e9lie and Empress Eug\u00e9nie. The quality of construction is particularly fine and evident in the pantaloons of this doll.",
+    "dimensions": "32 1/2 x 17 in. (82.6 x 43.2 cm)",
+    "id": 159272,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/49.139.22_front_CP4.jpg",
+    "medium": "metal, plaster, hair, silk, straw, cotton, feather, linen",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/49.139.22_front_CP4.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/49.139.22_view2_CP4.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/49.139.22_back_CP4.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/49.139.22_side_CP4.jpg"
+    ],
+    "title": "\"1832 Doll\"",
+    "what": [
+        "Metal",
+        "Silk",
+        "Cotton",
+        "Linen",
+        "Hair",
+        "Plaster",
+        "Feather",
+        "Straw",
+        "Toys"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": [
+        "Antoine",
+        "Rose Descat",
+        "Marcelle Dormoy"
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/560852"
+            },
+            {
+                "href": "http://scrapi.org/object/560858"
+            },
+            {
+                "href": "http://scrapi.org/object/551264"
+            },
+            {
+                "href": "http://scrapi.org/object/551853"
+            },
+            {
+                "href": "http://scrapi.org/object/552507"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/teen-programs/saturday-sketching/saturday-sketching-egyptian-art?eid=A001_%7b8698F79D-A7E0-44F1-99CF-57C8A2E2471A%7d_20131211143556",
+                "rel": "Saturday Sketching\u2014Egyptian Art (Ages 11\u201318)"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A151_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113641",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R130_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140310140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=03\u00aeion=afe",
+                "rel": "Egypt, 2000\u20131000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/547681"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/547681"
+        }
+    },
+    "accession number": "36.3.9",
+    "credit line": "Rogers Fund, 1936",
+    "date": "ca. 1492\u20131473 B.C.",
+    "department": "Egyptian Art",
+    "dimensions": "H. 1.8 cm (11/16 in); diam. 8 cm (3 1/8 in)",
+    "gallery-id": 116,
+    "id": 547681,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/DP116026.jpg",
+    "medium": "Faience",
+    "provenance": [
+        "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art, 1935\u20131936. Acquired by the Museum in the division of finds, 1936."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/eg/original/DP116026.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/36.3.9_back.jpg"
+    ],
+    "title": "Dish Inscribed with the Cartouche of Thutmose II",
+    "what": [
+        "Faience",
+        "Dishes"
+    ],
+    "when": "2000-1000 B.C.",
+    "where": [
+        "Africa",
+        "Egypt",
+        "Upper Egypt",
+        "Thebes"
+    ]
+}

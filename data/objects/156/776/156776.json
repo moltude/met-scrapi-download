@@ -1,0 +1,121 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/79233"
+            },
+            {
+                "href": "http://scrapi.org/object/79234"
+            },
+            {
+                "href": "http://scrapi.org/object/79235"
+            },
+            {
+                "href": "http://scrapi.org/object/79630"
+            },
+            {
+                "href": "http://scrapi.org/object/79821"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R130_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140310130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/156776"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/156776"
+        }
+    },
+    "accession number": "2009.300.19a\u2013c",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. Hans H. Zinsser, 1964",
+    "culture": "French",
+    "date": "spring/summer 1956",
+    "department": "Costume Institute",
+    "description": "A classic Christian Dior cocktail dress from the mid-1950s, the abstract floral print of this dress takes the place of more elaborate applied trimming. The feminine bouffant silhouette shows Dior's continued commitment to \"The New Look\" which had made his debut collection a success in 1947. The genius of this design in its versatility; a matching blouse can be worn as an alternate bodice, transforming the cocktail look into lady-like day wear.",
+    "dimensions": [
+        "Length at CB (a) 15 in. (38.1 cm)",
+        "Length at CB (b) 27 in. (68.6 cm)",
+        "Length at CB (c) 23 in. (58.4 cm)"
+    ],
+    "id": 156776,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/64.256.2a-b_CP3.jpg",
+    "medium": "silk",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/64.256.2a-b_CP3.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/64.256.2b_and_69.158.2_CP3.JPG"
+    ],
+    "title": "Cocktail ensemble",
+    "what": [
+        "Silk",
+        "Ensembles"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": [
+        "House of Dior",
+        "Christian Dior"
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/504531"
+            },
+            {
+                "href": "http://scrapi.org/object/504937"
+            },
+            {
+                "href": "http://scrapi.org/object/502198"
+            },
+            {
+                "href": "http://scrapi.org/object/502199"
+            },
+            {
+                "href": "http://scrapi.org/object/501955"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/early-guitars",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/concerts-and-performances/ernie-sites?eid=A001_%7bE8CB7AEE-6F19-46A1-BCDF-ACF04F0FA0A0%7d_20140221154312",
+                "rel": "Gallery Concert: Ernie Sites, Guitar"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A001_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203181946",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A002_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203182002",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A004_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203182034",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A006_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203182105",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A005_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20140206152942",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A001_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115501",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A002_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115523",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A003_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115537",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A004_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115549",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwc",
+                "rel": "Central Europe and Low Countries, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/504209"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/504209"
+        }
+    },
+    "accession number": "89.4.2459",
+    "credit line": "The Crosby Brown Collection of Musical Instruments, 1889",
+    "date": "after 1852",
+    "department": "Musical Instruments",
+    "dimensions": [
+        "Length (bell to bend at base)                                  853 mm.",
+        "Diameter of bell                                                         157 mm.",
+        "Length of tube (approx.)                                         1925 mm.",
+        "Mouthpiece                                                                  92 mm.",
+        "Crook (approx.)                                                            300 mm.",
+        "Tube length",
+        "left side of tube (bell end to bottom of bend) ca. 660 mm.",
+        "right side of tube                                                       650 mm.",
+        "Bell                                                                                 210 mm."
+    ],
+    "gallery-id": 684,
+    "id": 504209,
+    "image": "http://images.metmuseum.org/CRDImages/mi/original/202657.jpg",
+    "medium": "Various materials",
+    "provenance": [
+        "Old catalogue card states: source obtained - purchased in Bologna.There was a dealer in Bologna, Pietro Borsani correspondence 6/14/1899 but no evidence that this was purchased from him. (KM)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/mi/original/202657.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/MUS1307B6.jpg"
+    ],
+    "title": "Bass Clarinet in B-flat",
+    "what": [
+        "Musical instruments",
+        "Aerophones",
+        "Reeds",
+        "Reedpipes",
+        "Clarinets",
+        "Bass"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "Czech Republic",
+        "Olomouc",
+        "Severomoravsk\u00fd"
+    ],
+    "who": "Franz Losschmidt"
+}

@@ -1,0 +1,113 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/155877"
+            },
+            {
+                "href": "http://scrapi.org/object/155988"
+            },
+            {
+                "href": "http://scrapi.org/object/157169"
+            },
+            {
+                "href": "http://scrapi.org/object/157177"
+            },
+            {
+                "href": "http://scrapi.org/object/157507"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R130_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140310130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/155876"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/155876"
+        }
+    },
+    "accession number": "2009.300.118a\u2013c",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Madame Eta Hentz, 1946",
+    "culture": "American",
+    "date": "spring/summer 1944",
+    "department": "Costume Institute",
+    "description": "Madame Eta Hentz was born in Budapest and educated at the Hungarian Royal State Academy of Industrial Arts.  During the 1920s she was involved in a business partnership with Maurice Rentner for a company called Ren-Eta.  Then in the late 1930s, she started her own company with Ann Sadowsky.  She is most known for her Grecian themed collection of 1943.  Some of her other collections, all well designed, were based on Cape Cod (1944) and the Middle Ages (winter 1945).  Her clothes were thought to be flattering, especially for matronly figures and were readily available on a ready-to-wear basis.With the war restrictions on fabric usage during the 1940s, designers became very inventive, using every bit of yardage and leaving no waste.  The silhouette was more streamlined due to this fact, which is exemplified by this chic, fitted day dress.  The graphic use of black and white is quite eye-catching and the overall refinement of this dress represents the high quality and inventiveness found in American ready-to-wear.",
+    "dimensions": [
+        "Length at CB (a) 47 in. (119.4 cm)",
+        "(b) 32 in. (81.3 cm)"
+    ],
+    "id": 155876,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/46.20.2a-b_CP4.jpg",
+    "medium": "synthetic",
+    "title": "Dress",
+    "what": [
+        "Costume",
+        "Dresses"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "Mme. Eta Hentz"
+}

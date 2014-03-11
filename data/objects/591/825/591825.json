@@ -1,0 +1,53 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/591845"
+            },
+            {
+                "href": "http://scrapi.org/object/591827"
+            },
+            {
+                "href": "http://scrapi.org/object/591828"
+            },
+            {
+                "href": "http://scrapi.org/object/591829"
+            },
+            {
+                "href": "http://scrapi.org/object/591824"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=eusts",
+                "rel": "Rome and Southern Italy, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/591825"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/591825"
+        }
+    },
+    "accession number": "131.1M58 C75",
+    "credit line": "Purchased with income from the Jacob S. Rogers Fund",
+    "culture": "Rome Antonio Blado, 1553 (1st ed.)",
+    "date": "1553",
+    "department": "The Libraries",
+    "description": "A painter in his own right, Condivi is perhaps best known as Michelangelo's biographer. Writing in part as a response to Vasari's 1550 account of the artist's life, Condivi had the benefit of working closely with Michelangelo on his manuscript. Although it is generally accepted that Condivi (and his subject) took liberties with Michelangelo's lineage, the chronology and details of the artist's working life are still held to be reliable. Condivi's work served as the basis for Vasari's revisions in his 1568 edition of \"Le vite de' pie eccelenti pittori, scultori e architetton.\"Illustrated: title page",
+    "dimensions": "H 7 7/8 in. (20 cm)",
+    "id": 591825,
+    "image": "http://images.metmuseum.org/CRDImages/li/original/li131.1M58 C75.R.jpg",
+    "medium": "Illustrated book",
+    "title": "Vita di Michelagnolo Buonarroti raccolta per Ascanio Condivi da la Ripa Transone",
+    "what": "Books",
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Italy",
+        "Rome"
+    ],
+    "who": "Ascanio Condivi"
+}

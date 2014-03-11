@@ -1,0 +1,129 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/345891"
+            },
+            {
+                "href": "http://scrapi.org/object/371122"
+            },
+            {
+                "href": "http://scrapi.org/object/371131"
+            },
+            {
+                "href": "http://scrapi.org/object/371132"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwf",
+                "rel": "France, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/344561"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/344561"
+        }
+    },
+    "accession number": "31.77.30",
+    "credit line": "Harris Brisbane Dick Fund, 1931",
+    "date": "1677",
+    "department": "Drawings and Prints",
+    "dimensions": "Overall 8 7/16 x 5 13/16 x 3/4 in. (21.5 x 14.7 x 1.9 cm)",
+    "id": 344561,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP210825.jpg",
+    "medium": "Etching",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP210825.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP210826.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP210827.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP210828.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP210829.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP210830.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP210831.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP210832.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP210833.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP210834.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP210835.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP210836.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP210837.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP210838.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP210839.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP210840.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP210841.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP210842.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP210843.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP210844.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP210848.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP210849.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP210850.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP210851.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP210852.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP210853.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP210854.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP210855.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP210856.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP210857.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP210858.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP210859.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP210860.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP210861.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP210862.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP210863.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP210864.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP210865.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP210866.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP210867.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP210868.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP211776.jpg"
+    ],
+    "title": "Labyrinte de Versailles",
+    "what": [
+        "Etching",
+        "Books"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": [
+        "S\u00e9bastien Leclerc I",
+        "Claude Perrault",
+        "L'Imprimerie Royale",
+        "Isaac de Benserade"
+    ]
+}

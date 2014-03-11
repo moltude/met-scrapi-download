@@ -1,0 +1,55 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/591863"
+            },
+            {
+                "href": "http://scrapi.org/object/591864"
+            },
+            {
+                "href": "http://scrapi.org/object/591852"
+            },
+            {
+                "href": "http://scrapi.org/object/591854"
+            },
+            {
+                "href": "http://scrapi.org/object/591855"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwb",
+                "rel": "Great Britain and Ireland, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/591860"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/591860"
+        }
+    },
+    "accession number": "216.7 T71",
+    "credit line": "Presented by Mr. and Mrs. Edward Dean Adams",
+    "culture": "New York, C. Scribner's Sons, 1903",
+    "date": "1903",
+    "department": "The Libraries",
+    "description": "In 1878 William Loring Andrews became a trustee of The Metropolitan Museum of Art and served as its first librarian. He was a prominent collector of rare books of English and American literature and a founding member of the Grolier Club and the Society of Iconophiles. In 1865 Andrews began to self-publish books in which he was also the author or editor. These works were published in his own taste, through his own direction, and are marked by exquisite taste in type, paper, illustration, and binding. In their production, he engaged the services of engravers Edwin Davis French and S. L. Smith, who designed and engraved bookplates for the Metropolitan Museum, and printers Walter Gillias and Theodore De Vinne. From 1865 to 1908 Andrews issued thirty-six volumes, twenty-six authored by himself. \"The Treatyse of Fysshynge\" was printed on hand-made paper in an edition of 160, at the Gilliss Press; the type, caste specially for the book, was patterned after the traditional Old English characters first used by Wynkyn de Worde. The volume is bound in full limpvellum, with the title gold-tooled on the front cover, and has two green silk ties.Illustrated: pp. 34-35, printed in black and red with woodcut illustrations",
+    "dimensions": "H 7 7/8 in. (20 cm)",
+    "id": 591860,
+    "image": "http://images.metmuseum.org/CRDImages/li/original/li216.7 T71.R.jpg",
+    "medium": "Illustrated book",
+    "title": "The Treatyse of  Fysshynge wyth an Angle from the book of Saint Albans",
+    "what": "Books",
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "United Kingdom"
+    ],
+    "who": [
+        "William Loring Andrews",
+        "Juliana Berners"
+    ]
+}

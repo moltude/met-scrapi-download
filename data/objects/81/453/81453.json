@@ -1,0 +1,118 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/84448"
+            },
+            {
+                "href": "http://scrapi.org/object/94788"
+            },
+            {
+                "href": "http://scrapi.org/object/94789"
+            },
+            {
+                "href": "http://scrapi.org/object/81129"
+            },
+            {
+                "href": "http://scrapi.org/object/84447"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R130_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140310130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/81453"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/81453"
+        }
+    },
+    "accession number": "1978.163.2a\u2013c",
+    "credit line": "Gift of Eddie Kamali, 1978",
+    "culture": "American",
+    "date": "1977",
+    "department": "Costume Institute",
+    "description": "In an inventive combination of informality and grand effect, Kamali exploits the silver and dove silk of parachute cloth for evening wear.  She creates an inflated silhouette akin to eighteenth-century fashioning in the fullness and curtainlike drape of the abundant fabric.  Kamali contrasts the utilitarian material with the lavishness of a profligate billowing skirt. Jumpsuit (1978.163.1a-d) in background of same materials also by Kamali, created especially for Diana Vreeland to be displayed in the exhibition \"Vanity Fair.\"",
+    "dimensions": "No dimensions available.",
+    "id": 81453,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/DT429.jpg",
+    "medium": "silk, nylon, cotton",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/DT429.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/ci1978.163.2a-c.R.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1978.163.2a_label.jpg"
+    ],
+    "title": "Evening ensemble",
+    "what": [
+        "Silk",
+        "Cotton",
+        "Ensembles",
+        "Plastic",
+        "Nylon"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "Norma Kamali"
+}

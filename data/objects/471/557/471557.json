@@ -1,0 +1,136 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/471953"
+            },
+            {
+                "href": "http://scrapi.org/object/469883"
+            },
+            {
+                "href": "http://scrapi.org/object/469904"
+            },
+            {
+                "href": "http://scrapi.org/object/470273"
+            },
+            {
+                "href": "http://scrapi.org/object/470315"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 25, 2014",
+                "href": "/exhibitions/listings/2014/canterbury-stained-glass",
+                "rel": "Radiant Light"
+            },
+            {
+                "date": "From August 6, 2013",
+                "href": "/exhibitions/listings/2013/design-motifs-in-byzantine-art",
+                "rel": "Design Motifs in Byzantine Art"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R008_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140309150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R009_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140310150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R105_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140311104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R010_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140311150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R106_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140312104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R011_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140312150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R107_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140313104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R012_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140313150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R108_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140314104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=euwc",
+                "rel": "Central Europe (including Germany), 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/471557"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/471557"
+        }
+    },
+    "accession number": "55.24",
+    "credit line": "The Cloisters Collection, 1955",
+    "culture": "German",
+    "date": "15th century",
+    "department": "The Cloisters",
+    "description": "The German word Palmesel (palm donkey) refers to the statue of Christ on a donkey, mounted on a wheeled platform, which was part of Palm Sunday processions in many German-speaking regions until the Reformation. In the Middle Ages these processions, which reenacted Christ's entry into Jersualem mounted on an ass, were lively pageants in which hymns were sung, palms strewn, and clothes spread on the ground before the Palmesel. The figure of Christ retains, in contrast, an air of quiet majesty. The donkey's hooves and the fingers on Christ's hands are restored; the platform and wheels are modern.",
+    "dimensions": "Overall (w/ base) 61 1/2 x 23 3/4 x 54 1/2 in., 182lb. (156.2 x 60.3 x 138.4 cm, 82554.7g)",
+    "gallery-id": 20,
+    "id": 471557,
+    "image": "http://images.metmuseum.org/CRDImages/cl/original/cdi55-24.jpg",
+    "medium": "Limewood with paint",
+    "provenance": [
+        "Dompfarrer Ernst Franz August M\u00fcnzenberger , Cologne (until 1892)",
+        "Historisches Museum Frankfurt (1892\u20131920/21)",
+        "Carl von Weinberg German, 1861\u20131943 , Frankfurt (1920/21\u2013forced sale ca. 1938)",
+        "Haus Waldfried , Frankfurt [von Weinberg estate] (sold ca. 1938?)",
+        "restituted to von Weinberg's son-in-law, Baron Richard von Szilvinyi , Frankfurt (ca. 1950)",
+        "[ Wilhem Henrich , Frankfurt (1953\u2013sold 1955)]"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/cl/original/cdi55-24.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/cdi55-24s1.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/cdi55-24s7.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/cdi55-24s6.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/cdi55-24s5.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/cdi55-24s4.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/cdi55-24s3.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/cdi55-24s2.jpg"
+    ],
+    "title": "Palmesel",
+    "what": [
+        "Sculpture",
+        "Wood",
+        "Statues",
+        "Linden"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Germany",
+        "Franconia"
+    ]
+}

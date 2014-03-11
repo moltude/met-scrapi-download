@@ -1,0 +1,151 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/482370"
+            },
+            {
+                "href": "http://scrapi.org/object/489975"
+            },
+            {
+                "href": "http://scrapi.org/object/486578"
+            },
+            {
+                "href": "http://scrapi.org/object/486745"
+            },
+            {
+                "href": "http://scrapi.org/object/491967"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From November 20, 2013",
+                "href": "/exhibitions/listings/2013/jewels-by-jar",
+                "rel": "Jewels by JAR"
+            },
+            {
+                "date": "From November 5, 2013",
+                "href": "/exhibitions/listings/2013/carlo-scarpa",
+                "rel": "Venetian Glass by Carlo Scarpa"
+            },
+            {
+                "date": "From February 24, 2014",
+                "href": "/exhibitions/listings/2014/lucas-samaras",
+                "rel": "Lucas Samaras"
+            },
+            {
+                "date": "From December 17, 2013",
+                "href": "/exhibitions/listings/2013/metropolitan-vanities",
+                "rel": "Metropolitan Vanities"
+            },
+            {
+                "date": "From October 22, 2013",
+                "href": "/exhibitions/listings/2013/william-kentridge",
+                "rel": "William Kentridge"
+            },
+            {
+                "date": "From April 29, 2014",
+                "href": "/exhibitions/listings/2014/dan-graham",
+                "rel": "The Roof Garden Commission: Dan Graham"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R100_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140303144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/modern-art-french?eid=R026_%7b96311A2D-1D25-45BE-83E2-2054BC16D70B%7d_20140304133000",
+                "rel": "Art Moderne et Contemporain (Modern and Contemporary Art in French)"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R101_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140304144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R102_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140305144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R026_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140306140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R103_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140306144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/collecting-and-intepreting-at-the-met?eid=A001_%7b6A0B3958-68AC-4F22-BB73-D898FB894401%7d_20140127111701",
+                "rel": "Fellows Colloquium\u2014Collecting and Interpreting at the Met"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/talks/gallery-talks/metropolitan-vanities?eid=A001_%7bF51ADF90-5C6F-45EF-822C-6AE4940219F6%7d_20140206160301",
+                "rel": "Exhibition Tour\u2014Metropolitan Vanities: The History of the Dressing Table"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/college/jewels?eid=A001_%7bB2CEEB36-09E2-43E1-B6FD-1CA91686BA29%7d_20140219113337",
+                "rel": "Jewels by JAR Workshop"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R104_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140310144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/scpa/hd_scpa.htm",
+                "rel": "School of Paris"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/489963"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/489963"
+        }
+    },
+    "accession number": "1999.363.20",
+    "credit line": "Jacques and Natasha Gelman Collection, 1998",
+    "date": "1946",
+    "department": "Modern and Contemporary Art",
+    "description": "Dubuffet waited until he was forty to devote himself to art.  A man of exceptional intelligence, he painted raw, although childlike, images that combine a bold handling of texture with a wry, dark sense of humor.  The subjects of his early paintings are city streets, ordinary people performing everyday tasks, and likenesses of his friends.  In 1945 Dubuffet had begun creating what he referred to as hautes p\u00e2tes, paintings in which a thick paste served as the ground, color was used sparingly, and contours were scratched like graffiti.  The paste used for the ground was made of tar, asphalt, and white lead, often enriched with cement, plaster, or varnishes, to which sand, coal dust, pebbles, and pieces of glass or straw might also be added.  Gradually, color virtually disappeared from his work altogether.  In this portrait of Jean Paulhan, the ground and the paint surface are built up with heavy chalk, thus continuing Dubuffet's use of the hautes p\u00e2tes technique.  Consistent with his \"anti-art\" position, Dubuffet rejected traditional portraiture, which he regarded as facile imitation.  Instead of conveying a sitter's likeness or personality, he focused on certain odd features, which he then exaggerated.  Paulhan's intense, close-set eyes, long nose, broad upper lip, two prominent upper front teeth, and thick mane of unruly hair are easily recognizable.  His strangely monolithic form seems to emerge from plaster or chalk that has been smeared onto a dark wall; the lines of his face, outstretched hands, jacket, tie, and buttons have been scratched, like graffiti.The painting of Paulhan was part of Dubuffet's large series of 170 portraits of the writers, poets, and painters who were his friends\u2014his sole subject matter at the time.  Between July 1945 and August 1947 Dubuffet drew and painted about twenty-eight portraits of Paulhan, a writer and critic, who was the editor of the literary magazine La nouvelle revue fran\u00e7aise from 1925 until his death in 1968.  Paulhan's collected works fill five volumes and encompass books on modern painting; essays on rhetoric, language, logic, and love; and prefaces to erotic literature, including the works of Sade and Pauline R\u00e9age's Histoire d'O (1954), believed by many to have been written by Paulhan himself.",
+    "dimensions": "42 7/8 x 34 5/8 in. (108.9 x 87.9 cm)",
+    "gallery-id": 906,
+    "id": 489963,
+    "image": "http://images.metmuseum.org/CRDImages/ma/original/ma1999.363.20.jpg",
+    "medium": "Acrylic and oil on Masonite",
+    "provenance": [
+        "the artist (until c. 1947; to Drouin)",
+        "[Galerie Ren\u00e9 Drouin, Paris, from c. 1947]",
+        "Mr. and Mrs. Arnold H. Maremont, Winnetka, Ill. (by 1959\u2013at least 1966)",
+        "private collection, Europe (until 1988; their sale, Sotheby's, London, June 30, no. 648a)",
+        "Stephen Hahn, New York (1988)",
+        "Natasha Gelman, Mexico City and New York (1989\u2013d. 1998; her bequest to MMA)"
+    ],
+    "title": "Jean Paulhan",
+    "what": [
+        "Paintings",
+        "Oil paintings",
+        "Plastic",
+        "Acrylic",
+        "Masonite"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Jean Dubuffet"
+}

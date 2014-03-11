@@ -1,0 +1,124 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/448170"
+            },
+            {
+                "href": "http://scrapi.org/object/448171"
+            },
+            {
+                "href": "http://scrapi.org/object/448172"
+            },
+            {
+                "href": "http://scrapi.org/object/448654"
+            },
+            {
+                "href": "http://scrapi.org/object/447634"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A232_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134244",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A237_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134557",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/programs-for-visitors-with-disabilities/visitors-who-are-deaf/beauty-and-innovation?eid=A001_%7b77D8F57E-5FC9-4578-8A95-30A43C89CFDD%7d_20140210164006",
+                "rel": "Met Signs Tours in ASL\u2014Beauty and Innovation: Understanding Islamic Art"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A251_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114408",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=wap",
+                "rel": "Arabian Peninsula and the Eastern Mediterranean, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/448169"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/448169"
+        }
+    },
+    "accession number": "27.229.1",
+    "credit line": "Purchase, Edward C. Moore Jr. Gift, 1927",
+    "culture": "Islamic",
+    "date": "20th century",
+    "department": "Islamic Art",
+    "description": "This panel exhibits the Beveled style associated with the Abbasid palace city of Samarra. It is one of a pair of wall panels casts taken from surviving ninth\u2011century buildings during excavations at Samarra in the first quarter of the twentieth century.",
+    "dimensions": [
+        "H. 59 5/8 in. (151.4 cm)",
+        "W. 45 3/16 in. (114.8 cm)",
+        "D. 3 1/2 in. (8.9 cm)",
+        "Wt. 296 lbs. (134.3 kg)"
+    ],
+    "gallery-id": 451,
+    "id": 448169,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/27.229.1.jpg",
+    "medium": "Plaster; cast (Stucco; molded, carved)",
+    "provenance": [
+        "Kaiser Friedrich Museum, Berlin (1927; sold to Friedrich Sarre for MMA)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/27.229.1.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/69975.jpg"
+    ],
+    "title": "Dado Panel",
+    "what": [
+        "Panels",
+        "Plaster",
+        "Stucco"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Asia",
+        "Iraq",
+        "Samarra"
+    ]
+}

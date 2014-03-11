@@ -1,0 +1,138 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/459185"
+            },
+            {
+                "href": "http://scrapi.org/object/436330"
+            },
+            {
+                "href": "http://scrapi.org/object/436331"
+            },
+            {
+                "href": "http://scrapi.org/object/438029"
+            },
+            {
+                "href": "http://scrapi.org/object/198556"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R125_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140303134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R126_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140304134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R127_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140305134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R128_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140306134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R129_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140307134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R130_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140310134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R131_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140311134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R132_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140312134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R133_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140313134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R134_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140314134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/kuns/hd_kuns.htm",
+                "rel": "Collecting for the Kunstkammer"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/dome/hd_dome.htm",
+                "rel": "Domestic Art in Renaissance Italy"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/iman/hd_iman.htm",
+                "rel": "Manuscript Illumination in Italy, 1400\u20131600"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/reno/hd_reno.htm",
+                "rel": "Renaissance Organs"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/461450"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/461450"
+        }
+    },
+    "accession number": "1975.1.2474",
+    "credit line": "Robert Lehman Collection, 1975",
+    "date": "ca. 1470\u201375",
+    "department": "Robert Lehman Collection",
+    "description": "Essentially a small painting on parchment, this miniature contains an unusually vivid and naturalistic portrait of the famous Sienese preacher Fra Bernardino degli Albizzeschi (1380\u20131444), canonized by Pope Nicholas V in 1450. He is dressed in the habit of the Franciscan Order, preaching from a wooden pulpit, as was his custom in Siena and in other cities across Italy. The image, perhaps from a book of hymns in honor of Saint Bernardino, was executed by Francesco di Giorgio, a Sienese painter, illuminator, sculptor, architect, and military engineer.",
+    "dimensions": [
+        "8 1/4 x 5 5/8 in. (21 x 14.3cm)",
+        "Inside frame 7 7/8 x 5 1/2 in. (20 x 14cm)"
+    ],
+    "id": 461450,
+    "image": "http://images.metmuseum.org/CRDImages/rl/original/DT3612.jpg",
+    "medium": "Tempera on parchment",
+    "provenance": [
+        "Private collection, Munich (?)",
+        "[Leo S. Olschki, Florence].  Acquired by Robert Lehman from Olschki in summer 1929."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/rl/original/DT3612.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/sf-rlc-1975-1-2474.JPG"
+    ],
+    "title": "Saint Bernardino Preaching from a Pulpit",
+    "what": [
+        "Paintings",
+        "Manuscripts",
+        "Tempera",
+        "Parchment",
+        "Illuminations"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Francesco di Giorgio Martini"
+}

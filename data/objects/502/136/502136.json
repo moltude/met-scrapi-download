@@ -1,0 +1,107 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/313818"
+            },
+            {
+                "href": "http://scrapi.org/object/505086"
+            },
+            {
+                "href": "http://scrapi.org/object/502301"
+            },
+            {
+                "href": "http://scrapi.org/object/313620"
+            },
+            {
+                "href": "http://scrapi.org/object/313626"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/early-guitars",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/musical-instruments-east-and-west?eid=R079_%7bB33A51AA-7250-402C-9FC0-8A302D14AD06%7d_20140311121500",
+                "rel": "Musical Instruments: East and West"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/musical-instruments-east-and-west?eid=R080_%7bB33A51AA-7250-402C-9FC0-8A302D14AD06%7d_20140313121500",
+                "rel": "Musical Instruments: East and West"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/musical-instruments-east-and-west?eid=R081_%7bB33A51AA-7250-402C-9FC0-8A302D14AD06%7d_20140314121500",
+                "rel": "Musical Instruments: East and West"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/family-programs/sunday-studio/string-and-sound?eid=A002_%7b47DD1CB2-ECBA-4009-A975-5F11C7EB2F6A%7d_20131025180255",
+                "rel": "String and Sound: Musical Instruments"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/welcome-guitars?eid=A001_%7bA97BC4B9-BB40-468B-B769-E2288B803700%7d_20140210174255",
+                "rel": "Welcome and Introduction"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/guitars-unlocking?eid=A001_%7b2EF7231E-3208-4491-A372-F94BAC6ACEF2%7d_20140210174844",
+                "rel": "Early American Guitars: Unlocking the Mystery"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/concerts-and-performances/sunday-at-the-met-performance-guitars?eid=A001_%7b307D3D27-A407-452E-8961-47E4218B0B1A%7d_20140210175831",
+                "rel": "Sunday at the Met Performance\u2014Early American Guitars: The Instruments of C. F. Martin"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/concerts-and-performances/sunday-at-the-met-performance-guitars?eid=A002_%7b307D3D27-A407-452E-8961-47E4218B0B1A%7d_20140210175914",
+                "rel": "Sunday at the Met Performance\u2014Early American Guitars: The Instruments of C. F. Martin"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/family-programs/start-with-art-at-the-met-and-start-with-art-at-the-met-plus/making-music?eid=A001_%7b3AE007A9-D4D7-4923-B5F4-F9F8E5300152%7d_20131114160057",
+                "rel": "Start with Art at the Met Plus\u2014Making Music"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/musical-instruments-east-and-west?eid=R088_%7bB33A51AA-7250-402C-9FC0-8A302D14AD06%7d_20140401121500",
+                "rel": "Musical Instruments: East and West"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/502136"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/502136"
+        }
+    },
+    "accession number": "89.4.1561",
+    "credit line": "The Crosby Brown Collection of Musical Instruments, 1889",
+    "culture": "Maori people",
+    "date": "late 19th century",
+    "department": "Musical Instruments",
+    "description": "One of the enigmas of Oceanic music is the putorino, a flute-like instrument once made by the Maori people of Aotearoa (New Zealand).  Fashioned from a piece of split wood, hollowed out and then bound back together to form the body of the instrument, putorino have a single hole at the top and a figure-eight-shaped hole at the center.  It is uncertain exactly how the instrument was originally played but the musician possibly blew into or across the hole at the top and used a finger to cover or uncover the central hole to modify the sound.   Putorino were reportedly played as flutes, trumpets (with the lips vibrating), and also used as megaphones to modify the human voice.  The sound was said to represent Hineraukatauri, a female ancestor who personified flute music. Use of the putorino gradually died out after the mid 1800s but contemporary Maori musicians have begun to recreate the instrument, which is now sometimes played like a Western flute by holding it transversely and blowing across the hole at the center.",
+    "dimensions": "Length 45.7 cm (18 in.);  width top 2.7 cm (1-1/16 in.), middle 4.8 cm (1-7/8 in.), lower end +/-1 cm (+/-3/8 in.)",
+    "id": 502136,
+    "image": "http://images.metmuseum.org/CRDImages/mi/original/148236.jpg",
+    "medium": "wood, cord",
+    "title": "Putorino",
+    "what": [
+        "Musical instruments",
+        "Aerophones",
+        "Flutes",
+        "Cord"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Oceania",
+        "New Zealand"
+    ],
+    "who": "Maori"
+}

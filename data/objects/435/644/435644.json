@@ -1,0 +1,159 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/435641"
+            },
+            {
+                "href": "http://scrapi.org/object/435642"
+            },
+            {
+                "href": "http://scrapi.org/object/435643"
+            },
+            {
+                "href": "http://scrapi.org/object/459023"
+            },
+            {
+                "href": "http://scrapi.org/object/435640"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/piero-della-francesca",
+                "rel": "Piero della Francesca"
+            },
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "From April 22, 2014",
+                "href": "/exhibitions/listings/2014/goya",
+                "rel": "Goya and the Altamira Family"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/talks/gallery-talks/piero-della-francesca?eid=A001_%7bE50FD455-5FC1-41D0-9391-C456264363EF%7d_20140206160624",
+                "rel": "Exhibition Tour\u2014Piero della Francesca: Personal Encounters"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=A257_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20131127123002",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/monday-at-the-met-spring-2014?eid=R001_%7bBB2BF277-3666-435E-8B95-12CDE21533EA%7d_20140303100000",
+                "rel": "Monday at the Met with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R100_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140303123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R101_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140304123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R102_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140305123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R026_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140306140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R103_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140307123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/talks/the-observant-eye/stepping-out-of-the-frame?eid=A001_%7b438572AD-6B0F-4DA2-94FB-49B8931634C1%7d_20140123142901",
+                "rel": "Stepping Out of the Frame: Three-Dimensionality in the New Galleries for European Paintings"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/saturday-seminar-spring-2014?eid=R001_%7bE063A39F-FC40-4ECC-B690-C4C13F70B2A0%7d_20140308103000",
+                "rel": "Saturday Seminar with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/anat/hd_anat.htm",
+                "rel": "Anatomy in the Renaissance"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/food/hd_food.htm",
+                "rel": "Food and Drink in European Painting, 1400\u20131800"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/fram/hd_fram.htm",
+                "rel": "Italian Renaissance Frames"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/venc/hd_venc.htm",
+                "rel": "Venice in the Eighteenth Century"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/wivf/hd_wivf.htm",
+                "rel": "Woodcut Book Illustration in Renaissance Italy: Venice in the 1490s"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/435644"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/435644"
+        }
+    },
+    "accession number": "49.7.2",
+    "credit line": "The Jules Bache Collection, 1949",
+    "date": "ca. 1510",
+    "department": "European Paintings",
+    "dimensions": "Overall 13 1/2 x 10 7/8 in. (34.3 x 27.6 cm); painted surface 12 3/4 x 10 1/8 in. (32.4 x 25.7 cm)",
+    "gallery-id": 606,
+    "id": 435644,
+    "image": "http://images.metmuseum.org/CRDImages/ep/original/DT301874.jpg",
+    "medium": "Oil on wood",
+    "provenance": [
+        "private collection, Venice (until about 1770)",
+        "John Strange, Venice and London (about 1770\u201399; his anonymous sale, 125 Pall Mall, London, December 10ff., 1789, no. 141, as by Cima da Conegliano, bought in; sale, European Museum, London, May 27, 1799, no. 179, as by Cima)",
+        "William Beckford, Fonthill Abbey, Tisbury, Wilts., and Lansdown Tower, Bath (by 1822\u2013d. 1844; his sale, Christie's, Fonthill Abbey, September 24, 1822, no. 41, as by Cima, bought in; sale, English and Fasana, Bath, January 4ff., 1841, no. 14, bought in)",
+        "Duchess of Hamilton (Susan Euphemia Beckford), Hamilton Palace, Lanark (1844\u2013d. 1859)",
+        "William Alexander Anthony Archibald Douglas, 11th Duke of Hamilton, Hamilton Palace (1859\u2013d. 1863)",
+        "William Alexander Louis Stephen Douglas, 12th Duke of Hamilton, Hamilton Palace (1863\u201382; his sale, Christie's, London, June 17\u2013July 20, 1882, no. 395, as by Cima, for \u00a3651 to Agnew)",
+        "[Agnew, London, 1882]",
+        "Sir Michael Robert Shaw-Stewart, Ardgowan, Greenock (by 1894\u2013d. 1903)",
+        "his son, Walter Richard Shaw-Stewart, Fonthill Abbey, Tisbury, Wilts. (1903\u201327; sale, Sotheby's, London, December 7, 1927, no. 44, as by Cima)",
+        "[Paterson, London, 1927]",
+        "[Duveen, London and New York, 1927",
+        "sold for $200,000 to Bache]",
+        "Jules S. Bache, New York (1927\u2013d. 1944; his estate, 1944\u201349; cats., 1929, unnumbered; 1937, no. 2; 1943, no. 2)"
+    ],
+    "title": "Madonna and Child",
+    "what": [
+        "Paintings",
+        "Oil paint"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Giovanni Bellini"
+}

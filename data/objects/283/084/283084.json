@@ -1,0 +1,93 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/285910"
+            },
+            {
+                "href": "http://scrapi.org/object/285615"
+            },
+            {
+                "href": "http://scrapi.org/object/286714"
+            },
+            {
+                "href": "http://scrapi.org/object/265905"
+            },
+            {
+                "href": "http://scrapi.org/object/283083"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwb",
+                "rel": "Great Britain and Ireland, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/283084"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/283084"
+        }
+    },
+    "accession number": "2005.100.12",
+    "credit line": "Gilman Collection, Purchase, The Horace W. Goldsmith Foundation Gift, through Joyce and Robert Menschel, 2005",
+    "date": "1857",
+    "department": "Photographs",
+    "description": "The bow of the \"Great Eastern,\" still embedded in its matrix of scaffolding and timber, looms like a cliff over the marshy landscape of the Isle of Dogs. Designed by Isambard Kingdom Brunel, arguably the greatest engineer of his time, the giant ship had been four years in the making and had generated unabated interest and controversy. Six hundred ninety-two feet in length and weighing 22,500 tons, it was six times the tonnage of any ship yet built and was to be propelled by all the technology then available--screw, paddle, and sail. Because of its size, it had to be moved sideways, foot by foot, and it would take an unprecedented three months to launch. Its success was seen as a matter of national pride, a confirmation of Britain's supremacy at sea.     Robert Howlett, a partner at the Photographic Institution, a leading professional studio in London, was commissioned by the \"London Times\" to document the ship's construction. He made this image sometime before November 3, 1857, the official day of the launching. On January 16, 1858, nine engravings based on Howlett's photographs were published in a special edition of the \"Illustrated Times\" devoted to the \"Leviathan,\" as the ship was then known. A close variant of this image, dated November 2, 1857, is in the collection of the Victoria and Albert Museum.",
+    "dimensions": "27.9 x 36.5 cm (11 x 14 3/8 in. )",
+    "id": 283084,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/PH8937.jpg",
+    "medium": "Albumen silver print from glass negative",
+    "provenance": [
+        "Estate of Isambard Kingdom Brunel (sold, Sotheby's, London, Nov. 6, 1987)",
+        "Gilman Paper Company Collection, New York"
+    ],
+    "title": "[The Bow of the Great Eastern]",
+    "what": [
+        "Photographs",
+        "Albumen silver prints"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "United Kingdom"
+    ],
+    "who": "Robert Howlett"
+}

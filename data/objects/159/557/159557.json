@@ -1,0 +1,135 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/94845"
+            },
+            {
+                "href": "http://scrapi.org/object/79261"
+            },
+            {
+                "href": "http://scrapi.org/object/80187"
+            },
+            {
+                "href": "http://scrapi.org/object/78953"
+            },
+            {
+                "href": "http://scrapi.org/object/79268"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R130_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140310130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/amsp/hd_amsp.htm",
+                "rel": "American Ingenuity: Sportswear, 1930s\u20131970s"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/god2/hd_god2.htm",
+                "rel": "Classical Art and Modern Dress"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/god1/hd_god1.htm",
+                "rel": "Classicism in Modern Dress"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/god3/hd_god3.htm",
+                "rel": "The Chiton, Peplos, and Himation in Modern Dress"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/159557"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/159557"
+        }
+    },
+    "accession number": "2009.300.969a, b",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mildred Custin, 1975",
+    "culture": "American",
+    "date": "ca. 1971",
+    "department": "Costume Institute",
+    "description": "Beginning his career as a milliner, Halston later crossed over to ready-to-wear clothing, promoting minimal design.  His loyal clientele of the rich and famous chose to display his creations in trendy locales such as New York's Studio 54.  In 1971, he began incorporating Ultrasuede into his work, which was an instant success, becoming one of his signature fabrics.  Halston's quick rise to fame ended abruptly when he agreed to design an inexpensive line for J.C. Penney.  While his career ended in the eighties, his innovations continue to be seen in fashion today, and have been resurrected with the Halston brand of the twenty-first century.Sequin-covered silk like the one used in this evening ensemble was a hallmark of Halston's style.  With a relaxed and minimal silhouette, Halston has made the suit appropriate for formal occasions via the sparkle of pearlescent sequins.  To simplify and modernize the dressing process, a zipper closure has been inserted at center front.  Pajama- like in style, the ensemble allows the wearer to be comfortable as well as chic, making this pantsuit appropriate for entertaining at home or dining out.",
+    "dimensions": [
+        "Length at CB (a) 28 in. (71.1 cm)",
+        "Length at CB (b) 41 in. (104.1 cm)"
+    ],
+    "id": 159557,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/75.197.1a-b_CP4.jpg",
+    "medium": "silk",
+    "title": "Evening pantsuit",
+    "what": [
+        "Costume",
+        "Silk",
+        "Suits",
+        "Pantsuits"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "Halston"
+}

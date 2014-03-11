@@ -1,0 +1,123 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/312616"
+            },
+            {
+                "href": "http://scrapi.org/object/312670"
+            },
+            {
+                "href": "http://scrapi.org/object/312786"
+            },
+            {
+                "href": "http://scrapi.org/object/312787"
+            },
+            {
+                "href": "http://scrapi.org/object/312788"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From September 16, 2013",
+                "href": "/exhibitions/listings/2013/feathered-walls",
+                "rel": "Feathered Walls"
+            },
+            {
+                "date": "From October 8, 2013",
+                "href": "/exhibitions/listings/2013/nelson-rockefeller",
+                "rel": "The Nelson A. Rockefeller Vision"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=A115_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140210093011",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/talks/gallery-talks/ancient-american-sculpture?eid=A001_%7b7A6AA394-9359-47C1-87B4-65B0894C01AB%7d_20140123114645",
+                "rel": "Ancient American Sculpture"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R105_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140311130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R106_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140312130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R107_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140313130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 18, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/shaping-the-african-art-canon?eid=A001_%7b447041C4-D9E7-43A9-AE5F-85BAEB6E7196%7d_20140214113010",
+                "rel": "Shaping the African Art Canon: From the Museum to the Classroom"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/talks/the-observant-eye/shared-memory-sculptural-ancestral-objects-from-oceania?eid=A001_%7b94768B86-339F-4726-A3BC-8F798C423768%7d_20140123143856",
+                "rel": "Shared Memory: Sculptural Ancestral Objects from Oceania"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=A116_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140210093151",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/talks/gallery-talks/ancient-american-sculpture?eid=A002_%7b7A6AA394-9359-47C1-87B4-65B0894C01AB%7d_20140123114700",
+                "rel": "Ancient American Sculpture"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=07\u00aeion=sac",
+                "rel": "Central and Southern Andes, 1000\u20131400 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/312796"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/312796"
+        }
+    },
+    "accession number": "1979.206.601",
+    "credit line": "The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+    "culture": "Chim\u00fa",
+    "date": "14th\u201315th century",
+    "department": "Arts of Africa, Oceania and the Americas",
+    "description": "Cloth seems to have been primarily made for garments in the ancient Andes\u2014tunics and loincloths for men, dresses for women, headdresses, belts, mantles, carrying cloths, and bags for both. Funerary wrappings, presumed wall hangings, and large rectangles of unknown use were also made. Chim\u00fa weavers created strikingly graphic designs through the repetition of relatively simple, abstract forms in vivid color combinations. On this hanging, worked in a complex technique called discontinuous warp and weft, stylized long-beaked birds in profile are arranged along diagonals as an infinite pattern running off the edges of the textile. The motif recalls relief sculpture decorating adobe architecture at Chan Chan, the Chim\u00fa capital located on the outskirts of the modern town of Trujillo. Woven entirely of cotton, which is native to the desert coast, its fibers are white, various shades of brown, and gray. Such natural colors were mainly used for all cotton textiles as cotton does not dye easily. Here, the blue is dyed with indigo and the darkest brown with dyes from plants containing tannin.",
+    "dimensions": "H. 82  x  W. 63 7/8 in. (162.2  x  208.3 cm)",
+    "id": 312796,
+    "image": "http://images.metmuseum.org/CRDImages/ao/original/TP399.jpg",
+    "medium": "Cotton",
+    "provenance": [
+        "[Guillermo Salazar, New York, until 1957]",
+        "Nelson A. Rockefeller, 1957, on loan to the Museum of Primitive Art, New York, 1957\u20131978"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ao/original/TP399.jpg",
+        "http://images.metmuseum.org/CRDImages/ao/original/DT9943.jpg"
+    ],
+    "title": "Hanging",
+    "what": [
+        "Textiles",
+        "Cotton",
+        "Woven"
+    ],
+    "where": [
+        "South America",
+        "Peru"
+    ],
+    "who": "Chim\u00fa"
+}

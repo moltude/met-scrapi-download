@@ -1,0 +1,117 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/322909"
+            },
+            {
+                "href": "http://scrapi.org/object/322901"
+            },
+            {
+                "href": "http://scrapi.org/object/322903"
+            },
+            {
+                "href": "http://scrapi.org/object/329588"
+            },
+            {
+                "href": "http://scrapi.org/object/322902"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R105_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140312121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R106_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140313121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R107_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140314121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R116_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140331121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R117_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140402121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R118_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140403121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R119_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140404121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=02\u00aeion=wam",
+                "rel": "Mesopotamia, 8000\u20132000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/322910"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/322910"
+        }
+    },
+    "accession number": "33.35.48",
+    "credit line": "Dodge Fund, 1933",
+    "culture": "Sumerian",
+    "date": "ca. 2600\u20132500 B.C.",
+    "department": "Ancient Near Eastern Art",
+    "description": "These four strands of beads come from the so-called Great Death Pit, one of the royal graves at Ur. The sixty-eight female bodies discovered in the pit were all adorned with the most splendid jewelry made of gold, lapis lazuli, and carnelian.When excavated at Ur, beads were rarely discovered in an undisturbed state, since they had been originally strung together using organic material that has long since disintegrated. Thus, it is not certain in which order the beads were originally strung. These strands consist of biconical shaped beads. They are strung in groups of three gold sheets and six lapis lazuli beads, ending with one of gold and three of lapis. Their repetition gives a sense of rich contrasting color within the highly uniform Sumerian artistic system. It is possible that the different materials held particular meanings, since later texts describe their amuletic and magical properties. They certainly evoked distant lands because none of them are native to southern Mesopotamia and indicate the importance of long-distance connections in the acquisition of precious materials. The lapis lazuli would have originated in the Badakhshan region of Afghanistan and the gold reached Mesopotamia from a number of possible directions since there were ancient sources in Iran, Anatolia, and even as far away as Egypt.",
+    "dimensions": "L. 54 cm",
+    "gallery-id": 403,
+    "id": 322910,
+    "image": "http://images.metmuseum.org/CRDImages/an/original/DP104225.jpg",
+    "medium": "Gold, lapis lazuli",
+    "provenance": [
+        "1928-1929, excavated by Sir Leonard Woolley on behalf of the Joint Expedition of the University Museum, University of Pennsylvania and the British Museum",
+        "ceded to the University Museum in the division of finds",
+        "acquired by the Museum in 1933, purchased from University Museum."
+    ],
+    "title": "Necklace beads",
+    "what": [
+        "Metal",
+        "Costume",
+        "Metalwork",
+        "Gold",
+        "Jewelry",
+        "Necklaces",
+        "Lapis lazuli"
+    ],
+    "when": "8000-2000 B.C.",
+    "where": [
+        "Asia",
+        "Iraq",
+        "Ur"
+    ],
+    "who": "Sumerian"
+}

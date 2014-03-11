@@ -1,0 +1,88 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/266860"
+            },
+            {
+                "href": "http://scrapi.org/object/266861"
+            },
+            {
+                "href": "http://scrapi.org/object/266863"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwcm",
+                "rel": "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/266862"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/266862"
+        }
+    },
+    "accession number": "1992.5159.3",
+    "credit line": "Purchase, Ronald A. Kurtz Gift and The Howard Gilman Founadtion Gift, 1992",
+    "date": "1980",
+    "department": "Photographs",
+    "description": "In contrast to the spare documentary approach of Bernd and Hilla Becher and their students (including Thomas Struth, whose work is on view to the left), which has dominated German photography for the last thirty years, the Blumes' work is refreshingly expressive and humorous.  Bernhard Blume and his wife, Anna, with whom he has collaborated since 1980, studied art in the early 1960s at the D\u00fcsseldorf Academy, where both were tremendously influenced by Josef Beuys as well as the international happenings and Fluxus movements.  Married shortly after graduating, they found jobs teaching high school and soon became the parents of twin daughters.  Using their own middle-class backgrounds and new-found domesticity, they began to stage performances for the camera, posing as \"Kleinb\u00fcrger,\" typical lower-middle-class Germans, in narratives in which aspects of everyday life go wildly out of control.  By transforming the most mundane events into hysterical melodramas, as in this sequence in which Bernhard, in the role of a mild-mannered office worker, goes berserk devouring a head of lettuce, the artist seeks to trigger more serious thoughts about the meaning of life and everyday existence.",
+    "dimensions": "20.4 x 19.2 cm. (8  x 7  9/16  in.)",
+    "id": 266862,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/MM90438_1992.5159.3.jpg",
+    "medium": "Color photocopy from instant color print",
+    "provenance": [
+        "Ehlers Caudill Gallery"
+    ],
+    "title": "Untitled",
+    "what": [
+        "Prints",
+        "Photographs",
+        "Instant prints",
+        "Photocopies"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "Germany"
+    ],
+    "who": "Bernhard Johannes Blume"
+}

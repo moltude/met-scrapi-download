@@ -1,0 +1,132 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/437389"
+            },
+            {
+                "href": "http://scrapi.org/object/437391"
+            },
+            {
+                "href": "http://scrapi.org/object/437394"
+            },
+            {
+                "href": "http://scrapi.org/object/437395"
+            },
+            {
+                "href": "http://scrapi.org/object/437396"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R125_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140303134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R126_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140304134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R127_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140305134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R128_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140306134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R129_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140307134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R130_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140310134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R131_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140311134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R132_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140312134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R133_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140313134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R134_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140314134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/rmbt/hd_rmbt.htm",
+                "rel": "Rembrandt van Rijn (1606\u20131669): Paintings"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwl",
+                "rel": "Low Countries, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/459082"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/459082"
+        }
+    },
+    "accession number": "1975.1.140",
+    "credit line": "Robert Lehman Collection, 1975",
+    "date": "mid-1660s",
+    "department": "Robert Lehman Collection",
+    "description": "Gerard de Lairesse (1641\u20131711) was, in his day, a well-known painter, etcher, and art theorist. He suffered from congenital syphilis, which caused him to go blind about 1690; he subsequently focused his energies on art theory. By the time this portrait was painted, in 1665, the ravaging effects of the disease were visible in his swollen features and bulbous nose. Recording his unfortunate appearance with an uncompromising directness, Rembrandt invested his subject with an air of quiet dignity. Although the sitter's theories on the ideal in painting were antithetical to Rembrandt's style, which Lairesse disparagingly likened to \"liquid mud on the canvas,\" the portrayal is a sympathetic one.",
+    "dimensions": "44 3/8 x 34 1/2 in. (112.7 x 87.6 cm)",
+    "gallery-id": 958,
+    "id": 459082,
+    "image": "http://images.metmuseum.org/CRDImages/rl/original/rl1975.1.140.R.jpg",
+    "medium": "Oil on canvas",
+    "provenance": [
+        "Sale, Amsterdam, 16 June 1802, lot 144 (to Lafontaine for Fl 94)",
+        "Lafontaine",
+        "his sale, Christie's, London 13 June 1807, lot 16",
+        "probably Lord Young, Edinburgh and Silverknowe, Midlothan, Scotland",
+        "his sale, Christie's, London, 29 February 1908, lot 66 (to Lewis and Simmons)",
+        "[Lewis and Simmons, London]",
+        "Leopold Koppel, Berlin, by 1909 and still in 1935",
+        "[M. Knoedler and Co., New York], by 1944. Acquired by Robert Lehman from Knoedler in May 1945."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/rl/original/rl1975.1.140.R.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/1567.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/DP121332.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/ep1975.1.140.bw.R.jpg"
+    ],
+    "title": "Portrait of Gerard de Lairesse",
+    "what": [
+        "Paintings",
+        "Canvas",
+        "Oil paintings"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "Netherlands"
+    ],
+    "who": "Rembrandt (Rembrandt van Rijn)"
+}

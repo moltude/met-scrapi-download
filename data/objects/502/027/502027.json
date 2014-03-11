@@ -1,0 +1,117 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/504197"
+            },
+            {
+                "href": "http://scrapi.org/object/504520"
+            },
+            {
+                "href": "http://scrapi.org/object/504919"
+            },
+            {
+                "href": "http://scrapi.org/object/505518"
+            },
+            {
+                "href": "http://scrapi.org/object/505522"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/early-guitars",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A001_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115501",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A002_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115523",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A003_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115537",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A004_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115549",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A005_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115601",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A006_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115612",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/musical-instruments-east-and-west?eid=R079_%7bB33A51AA-7250-402C-9FC0-8A302D14AD06%7d_20140311121500",
+                "rel": "Musical Instruments: East and West"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/musical-instruments-east-and-west?eid=R080_%7bB33A51AA-7250-402C-9FC0-8A302D14AD06%7d_20140313121500",
+                "rel": "Musical Instruments: East and West"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/musical-instruments-east-and-west?eid=R081_%7bB33A51AA-7250-402C-9FC0-8A302D14AD06%7d_20140314121500",
+                "rel": "Musical Instruments: East and West"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/family-programs/sunday-studio/string-and-sound?eid=A002_%7b47DD1CB2-ECBA-4009-A975-5F11C7EB2F6A%7d_20131025180255",
+                "rel": "String and Sound: Musical Instruments"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=euwc",
+                "rel": "Central Europe (including Germany), 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/502027"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/502027"
+        }
+    },
+    "accession number": "89.4.1572",
+    "credit line": "The Crosby Brown Collection of Musical Instruments, 1889",
+    "culture": "Original--Germany",
+    "date": "19th century copy of 15th century object",
+    "department": "Musical Instruments",
+    "dimensions": [
+        "Height\textreme\t60.0 cm",
+        "length of pillar\t63.5 cm",
+        "above soundboard\t52.0 cm",
+        "Soundboard  resonating length  47.2 cm, greatest width  9.6 cm,",
+        "Strings (sounding length)\tlongest\t49.5 cm",
+        "shortest\t9.5 cm",
+        "c2 string\t28.0 cm"
+    ],
+    "id": 502027,
+    "image": "http://images.metmuseum.org/CRDImages/mi/original/MUS271A.jpg",
+    "medium": "Wood, various materials",
+    "title": "Portable Gothic Harp",
+    "what": [
+        "Musical instruments",
+        "Chordophones",
+        "Harps"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Germany"
+    ]
+}

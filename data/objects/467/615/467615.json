@@ -1,0 +1,118 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/463980"
+            },
+            {
+                "href": "http://scrapi.org/object/463683"
+            },
+            {
+                "href": "http://scrapi.org/object/463684"
+            },
+            {
+                "href": "http://scrapi.org/object/463694"
+            },
+            {
+                "href": "http://scrapi.org/object/463697"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 25, 2014",
+                "href": "/exhibitions/listings/2014/canterbury-stained-glass",
+                "rel": "Radiant Light"
+            },
+            {
+                "date": "From August 6, 2013",
+                "href": "/exhibitions/listings/2013/design-motifs-in-byzantine-art",
+                "rel": "Design Motifs in Byzantine Art"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/ancestors-of-christ?eid=A001_%7b64F28017-6AB0-4B00-864F-E5676EE07585%7d_20140113142350",
+                "rel": "The Ancestors of Christ: Stained Glass Windows from Canterbury Cathedral"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/ancestors-of-christ?eid=A002_%7b64F28017-6AB0-4B00-864F-E5676EE07585%7d_20140113142402",
+                "rel": "The Ancestors of Christ: Stained Glass Windows from Canterbury Cathedral"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R008_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140309150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R009_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140310150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R105_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140311104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R010_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140311150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R106_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140312104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R011_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140312150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R107_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140313104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=euwl",
+                "rel": "Low Countries, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/467615"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/467615"
+        }
+    },
+    "accession number": "35.79.1",
+    "credit line": "Gift of Mrs. Daniel Guggenheim, in memory of her husband, 1935",
+    "culture": "South Netherlandish",
+    "date": "ca. 1515\u201335",
+    "department": "Medieval Art",
+    "dimensions": "Overall 163 1/2 x 128in. (415.3 x 325.1cm)",
+    "id": 467615,
+    "image": "http://images.metmuseum.org/CRDImages/md/original/100638_1.jpg",
+    "medium": "Wool warp;  wool and silk wefts",
+    "provenance": [
+        "Daniel Guggenheim, New York (before 1932)"
+    ],
+    "title": "Four Episodes in the Story of Hercules",
+    "what": [
+        "Silk",
+        "Textiles",
+        "Wool",
+        "Tapestries"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Netherlands"
+    ]
+}

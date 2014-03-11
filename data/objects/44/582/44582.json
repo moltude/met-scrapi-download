@@ -1,0 +1,197 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/45639"
+            },
+            {
+                "href": "http://scrapi.org/object/57182"
+            },
+            {
+                "href": "http://scrapi.org/object/57920"
+            },
+            {
+                "href": "http://scrapi.org/object/57181"
+            },
+            {
+                "href": "http://scrapi.org/object/61180"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 8, 2014",
+                "href": "/exhibitions/listings/2014/tibet-and-india",
+                "rel": "Tibet and India"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/chinese-carving",
+                "rel": "Colors of the Universe"
+            },
+            {
+                "date": "From July 19, 2013",
+                "href": "/exhibitions/listings/2013/chinese-snuff-bottles",
+                "rel": "Small Delights"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/ink-art",
+                "rel": "Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "From February 1, 2014",
+                "href": "/exhibitions/listings/2014/edo-period-painting",
+                "rel": "The Flowering of Edo Period Painting"
+            },
+            {
+                "date": "From April 14, 2014",
+                "href": "/exhibitions/listings/2014/lost-kingdoms",
+                "rel": "Lost Kingdoms"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R104_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140310111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R104_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140310131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R105_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140311111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R105_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140311120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R105_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140311131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/talks/gallery-talks/gallery-conv-culture-and-politics?eid=A001_%7b33996DD5-3C4F-473B-BCAE-533DF0BF66F1%7d_20140205160349",
+                "rel": "Gallery Conversation\u2014Culture and Politics in Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=A093_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20131018142432",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R106_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140312120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R106_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140312131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R107_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140313120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/edop/hd_edop.htm",
+                "rel": "Art of the Edo Period (1615\u20131868)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/jpon/hd_jpon.htm",
+                "rel": "Japonisme"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/momo/hd_momo.htm",
+                "rel": "Momoyama Period (1573\u20131615)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/muro/hd_muro.htm",
+                "rel": "Muromachi Period (1392\u20131573)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/pfor/hd_pfor.htm",
+                "rel": "Painting Formats in East Asian Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/shga/hd_shga.htm",
+                "rel": "Shoguns and Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/seim/hd_seim.htm",
+                "rel": "Seasonal Imagery in Japanese Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/kano/hd_kano.htm",
+                "rel": "The Kano School of Painting"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/zen/hd_zen.htm",
+                "rel": "Zen Buddhism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=eaj",
+                "rel": "Japan, 1400\u20131600 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=eaj",
+                "rel": "Japan, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/44582"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/44582"
+        }
+    },
+    "accession number": "1989.139.2a\u2013d",
+    "credit line": "Purchase, Anonymous Gift, in honor of Ambassador and Mrs. Michael Mansfield, 1989",
+    "culture": "Japan",
+    "date": "ca. 1606",
+    "department": "Asian Art",
+    "description": "On view Rotation 2, November 9, 2013 \u2013January 12, 2014These grandly scaled sliding-door panels, which originally ornamented one wall of an abbot\u2019s quarters at Ry\u014danji in Kyoto, celebrate the life of the literati\u2014the perfected world of mortal men. The central theme of this work is the appreciation of a painting, one of the Four Accomplishments. Inclusion of what appears to be an imaginary portrait of the Tang-dynasty poet Li Bo (shown at the left as a tipsy old man supported by two attendants) lends an untrammeled air to the scene, making it a place where convention could be broken in the pursuit of a truer art.Momoyama paintings treat the human figure as a monumental element, full of the energy of life. Enhancing the effect, the composition and use of space here continue the bold innovations of Kano Eitoku (1543\u20131590). Art historical evidence and stylistic clues suggest that this work was created by painters of the Kano studio under the direction of one of Eitoku\u2019s sons, perhaps Takanobu or Kotonobu.The reflective gold ground heightens the details placed against it. Gold also creates an ambiguous space\u2014it reads both as a flat surface and an infinite void. Very different from the contemplative vistas of formal Kano painting of a generation earlier, the space within these panels, instead of enticing the viewer to wander in a separate world, turns back into the room itself and becomes the viewer\u2019s space as well.",
+    "dimensions": "72 in. \u00d7 24 ft. (182.9 \u00d7 731.5 cm)",
+    "id": 44582,
+    "image": "http://images.metmuseum.org/CRDImages/as/original/1989_139_2.jpg",
+    "medium": "Four of eight panels mounted on sliding-door panels; ink, mineral color, and gold on paper",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/as/original/1989_139_2.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DT6107.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DT6108.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DT6109.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DT6110.jpg"
+    ],
+    "title": "Appreciation of Painting, from a set of the Four Accomplishments",
+    "what": [
+        "Metal",
+        "Ink",
+        "Paper",
+        "Gold",
+        "Furniture",
+        "Panels",
+        "Doors",
+        "Screens"
+    ],
+    "where": [
+        "Asia",
+        "Japan"
+    ],
+    "who": "Kano School"
+}

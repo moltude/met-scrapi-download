@@ -1,0 +1,99 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/270132"
+            },
+            {
+                "href": "http://scrapi.org/object/265438"
+            },
+            {
+                "href": "http://scrapi.org/object/265456"
+            },
+            {
+                "href": "http://scrapi.org/object/283756"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/pstd/hd_pstd.htm",
+                "rel": "Paul Strand (1890\u20131976)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/pheu/hd_pheu.htm",
+                "rel": "Photography in Europe, 1945\u201360"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwcm",
+                "rel": "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/270122"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/270122"
+        }
+    },
+    "accession number": "59.559.4",
+    "credit line": "Gift of Photography in the Fine Arts, 1959",
+    "date": "1952",
+    "department": "Photographs",
+    "description": "An early member of the Magnum photo agency (he was admitted in 1949), Bischof worked mostly in Asia. His early training in applied art and graphic design imbued him with a keen formal eye, which was consistently in evidence as he worked to document newsworthy events and experiences. Here he has captured the delicate furor of a heavy snowstorm while photographing monastic life at the Meiji temple in Tokyo. His rhyming of the lollipop-pruned trees with the figures and their umbrellas, along with the contrast between the wooded environment and the low, geometric forms of the buildings, is a fitting representation of its subject. The building is a Shinto shrine to Emperor Meiji, who was responsible for ushering the modern era into Japan\u2014he instituted educational, social, and governmental reforms that brought the country nearer to normal relations with the West\u2014and the prominence of the natural world in the temple image subtly evokes the tenets of the Shinto religion, which deifies elements such as snow, wind, and trees as sacred spirits of the deceased.",
+    "dimensions": "Image 35.3 x 42.1 cm (13 7/8 x 16 9/16 in.)",
+    "id": 270122,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP109638.jpg",
+    "medium": "Gelatin silver print",
+    "provenance": [
+        "Photography in the Fine Arts"
+    ],
+    "title": "In the Court of the Meiji Temple, Tokyo, Japan",
+    "what": [
+        "Photographs",
+        "Gelatin silver prints"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "Switzerland"
+    ],
+    "who": "Werner Bischof"
+}

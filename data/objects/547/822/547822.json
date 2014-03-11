@@ -1,0 +1,121 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/547257"
+            },
+            {
+                "href": "http://scrapi.org/object/547698"
+            },
+            {
+                "href": "http://scrapi.org/object/547758"
+            },
+            {
+                "href": "http://scrapi.org/object/547855"
+            },
+            {
+                "href": "http://scrapi.org/object/547826"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A151_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113641",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R130_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140310140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A145_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113221",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=04\u00aeion=afe",
+                "rel": "Egypt, 1000 B.C.\u20131 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=05\u00aeion=afe",
+                "rel": "Egypt, 1\u2013500A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/547822"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/547822"
+        }
+    },
+    "accession number": "00.2.12",
+    "credit line": "Rogers Fund, 1900",
+    "date": "A.D. 1st\u20134th century",
+    "department": "Egyptian Art",
+    "dimensions": "h. 20.3 cm (8 in)",
+    "gallery-id": 134,
+    "id": 547822,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/DP266856.jpg",
+    "medium": "Plaster, paint",
+    "provenance": [
+        "Purchased from Andr\u00e9 Bircher in Cairo, 1900."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/eg/original/DP266856.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/DP266868.jpg"
+    ],
+    "title": "Funerary Mask",
+    "what": [
+        "Costume",
+        "Plaster",
+        "Masks"
+    ],
+    "when": "A.D. 1-500",
+    "where": [
+        "Africa",
+        "Egypt"
+    ]
+}

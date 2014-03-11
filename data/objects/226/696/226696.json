@@ -1,0 +1,179 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/226695"
+            },
+            {
+                "href": "http://scrapi.org/object/222566"
+            },
+            {
+                "href": "http://scrapi.org/object/223102"
+            },
+            {
+                "href": "http://scrapi.org/object/227931"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 3, 2014",
+                "href": "/exhibitions/listings/2014/william-morris",
+                "rel": "William Morris"
+            },
+            {
+                "date": "From November 22, 2011",
+                "href": "/exhibitions/listings/2011/faberge",
+                "rel": "Faberg\u00e9 from the Matilda Geddings Gray Foundation Collection"
+            },
+            {
+                "date": "From February 4, 2014",
+                "href": "/exhibitions/listings/2014/french-ceramics",
+                "rel": "Making Pottery Art"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/carpeaux",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "From January 22, 2014",
+                "href": "/exhibitions/listings/2014/antonio-canova",
+                "rel": "Antonio Canova"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining-family-individual?eid=R002_%7b2F11F3B2-6834-484B-AE0F-5066D7E783B5%7d_20140308100000",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining-family-individual?eid=A002_%7b2F11F3B2-6834-484B-AE0F-5066D7E783B5%7d_20140107114234",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R104_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140310131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/membership-events/evening-receptions/carpeaux-supporting-reception?eid=A001_%7b60301F85-6473-4C1C-8DAB-5D8B2E9406EE%7d_20140107151713",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R105_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140311131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/membership-events/evening-receptions/carpeaux-sustaining-reception?eid=A001_%7bB97F7097-C940-4FDB-8982-A3EC61BD9084%7d_20140107152519",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/world-enlightened?eid=R002_%7bEC37AED7-F558-4A27-A806-094491540250%7d_20140312101500",
+                "rel": "Cultural Discoveries\u2014Wednesdays with Olivier Bernier: Europe in the Eighteenth Century, A World Enlightened"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/talks/gallery-talks/the-passions-of-jean-baptiste-carpeaux?eid=A003_%7b7437318B-B35F-4C96-BAA4-FF8EDD85D6CA%7d_20140206123059",
+                "rel": "Exhibition Tour\u2014The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R106_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140313131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R107_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140314131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/taps/hd_taps.htm",
+                "rel": "European Tapestry Production and Patronage, 1400\u20131600"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/tapm/hd_tapm.htm",
+                "rel": "How Medieval and Renaissance Tapestries Were Made"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=euwl",
+                "rel": "Low Countries, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/226696"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/226696"
+        }
+    },
+    "accession number": "41.190.135",
+    "credit line": "Bequest of George Blumenthal, 1941",
+    "culture": "Flemish, Brussels",
+    "date": "ca. 1550",
+    "department": "European Sculpture and Decorative Arts",
+    "description": "The story of the love affair between the god Mercury, son and messenger of Jupiter, and Herse, one of the three daughters of King Cecrops of Athens, is told in Book 2 of Ovid's Metamorphoses; the particular scene depicted in The Bridal Chamber of Herse never actually takes place but instead is a vision which Envy conjures up in the imagination of Herse's sister Aglauros.  The tapestry design has recently been attributed to Giovanni Battista Lodi da Cremona. Basing his composition and the figure of Herse on Caraglio's print after Raphael's Marriage of Alexander and Roxana, the designer has created a palpable moment: Mercury steps from his sandals as he rushes forward toward his beloved; cupids remove his cloak, draw back the bed hangings, and take off a modest Herse's slipper. The borders are thematically unrelated to the main scene. The side figures, representing the Theological Virtues of Faith, Hope, and Charity and the Cardinal Virtue of Justice, are copied from designs first used for one of Raphael's Acts of the Apostles tapestries; in the lower border, the figures of Love, Fortitude, Temperance, and Diligence are based on another source.Woven in Brussels in the preeminent tapestry workshop of Willem de Pannemaker (whose mark appears in the lower right corner), the tapestry demonstrates its weavers'  virtuosity in depicting the details of the lush interior, replete with elaborately patterned wall hangings and bed furnishings",
+    "dimensions": "weight confirmed, includes tube 14 ft. 4 in. \u00d7 17 ft. 9 in., 173 lb. (436.9 \u00d7 541 cm, 78.5 kg)",
+    "id": 226696,
+    "image": "http://images.metmuseum.org/CRDImages/es/original/DT808.jpg",
+    "medium": "Wool, silk, silver, silver-gilt thread (20\u201322 warps per in., 8\u20139 per cm)",
+    "provenance": [
+        "Duke of Lerma, Francisco G\u00f3mez de Sandoval y Rojas",
+        "II Duke of Lerma, Francisco G\u00f3mez de Sandoval y Rojas",
+        "Duchess of Medinaceli, Catalina de Arag\u00f3n",
+        "De La Cerda family, Dukes of Medinaceli, Spain (since the 16th century, possibly)",
+        "Duchess of Denia (by descent, from 1873\u20131903)",
+        "Heirs of De La Cerda family, Dukes of Medinaceli, Spain (by descent)",
+        "Duke of Lerma, Fernando Mar\u00eda Fern\u00e1ndez de C\u00f3rdoba",
+        "[ Heilbronner Gallery",
+        "sold to Jacques Seligmann ]",
+        "[ Jacques Seligmann",
+        "sold to Mr. Blumenthal ]",
+        "George and Florence Blumenthal"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/es/original/DT808.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DT222020.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DT222021.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DT222022.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DT222023.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DT222024.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DT222025.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DT222918.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DT222919.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DT222920.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DT222921.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DT222922.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DT222923.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DT222924.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DT222925.jpg"
+    ],
+    "title": "The Bridal Chamber of Herse, from a set of eight tapestries depicting the Story of Mercury and Herse",
+    "what": [
+        "Metal",
+        "Silk",
+        "Textiles",
+        "Silver",
+        "Wool",
+        "Gilt",
+        "Tapestries"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Belgium",
+        "Brussels"
+    ],
+    "who": [
+        "Giovanni Jacopo Caraglio",
+        "Giovanni Francesco Penni",
+        "Giovanni Battista Lodi da Cremona",
+        "Willem de Pannemaker"
+    ]
+}

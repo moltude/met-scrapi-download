@@ -1,0 +1,80 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/384079"
+            },
+            {
+                "href": "http://scrapi.org/object/383185"
+            },
+            {
+                "href": "http://scrapi.org/object/383107"
+            },
+            {
+                "href": "http://scrapi.org/object/335744"
+            },
+            {
+                "href": "http://scrapi.org/object/336876"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/383164"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/383164"
+        }
+    },
+    "accession number": "42.53.56",
+    "credit line": "Gift of Janos Scholz, 1942",
+    "date": "1730-1740 ca.",
+    "department": "Drawings and Prints",
+    "description": "Although at first sight this design for a cabinet may appear somewhat strange, a second view tells us that we\u2019re looking at the somewhat flattened perspectival view of a concave corner cabinet. A very similar shaped example can be found in the secret library of the Benedictine monastery at Ottobeuren (Schwaben, Germany), where it is part of a larger wall unit dated 1730. The decorations of both cabinets are also very similar with a relatively modest pattern made up out of strapwork which is so typical for the Baroque period. Strongly adding to the decorative effect however, was the interplay of the different wood species used for the marquetry. The cabinet at Ottobeuren is characterized by a base of nut wood, which was contrasted by the dark outline of mahogany and plum and enlivened by the painterly effect of the flaming wood grain of birch and maple wood. Although the draftsman has used a mainly gray-toned palette for this drawing, the different wood species he intended to incorporate in his design can be clearly recognized by his use of light and dark and his accurate rendering of the different types of wood grain.",
+    "dimensions": "sheet 14 1/8 x 9 5/8 in. (35.8 x 24.5 cm)",
+    "id": 383164,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP804524.jpg",
+    "medium": "Pen and black ink, brush and gray and brown wash, watercolor, traces of ruled graphite lines",
+    "provenance": [
+        "Donor: J\u00e1nos Scholz"
+    ],
+    "title": "Design for a Concave Corner Cabinet (Possibly Part of a Larger Wall-Covering Unit)",
+    "what": [
+        "Ink",
+        "Drawings",
+        "Watercolors",
+        "Graphite"
+    ],
+    "when": "A.D. 1600-1800",
+    "who": "Anonymous, German, 18th century"
+}

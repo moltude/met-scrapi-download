@@ -1,0 +1,80 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/410548"
+            },
+            {
+                "href": "http://scrapi.org/object/410549"
+            },
+            {
+                "href": "http://scrapi.org/object/410550"
+            },
+            {
+                "href": "http://scrapi.org/object/410551"
+            },
+            {
+                "href": "http://scrapi.org/object/410552"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/412770"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/412770"
+        }
+    },
+    "accession number": "Burdick 324, R312.30",
+    "credit line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+    "date": "1936",
+    "department": "Drawings and Prints",
+    "description": "Trade cards from the \"Colored Photos Premiums\" series (R312), issued in 1936 by the National Chicle Company. Card is number 20 in the series in a 50 card set.",
+    "dimensions": "Sheet 5 3/8 x 4 in. (13.7 x 10.2 cm)",
+    "id": 412770,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP824894.jpg",
+    "medium": "Commerical Lithograph",
+    "provenance": [
+        "Donor: Jefferson R. Burdick (American, 1900\u20131963)"
+    ],
+    "title": "Joe DiMaggio, from the Colored Photos Premiums series (R312) issued by the National Chicle Gum Company",
+    "what": [
+        "Prints",
+        "Planographic prints",
+        "Lithographs",
+        "Baseball cards"
+    ],
+    "when": "A.D. 1900-present",
+    "who": "National Chicle Gum Company, Cambridge, Massachusetts"
+}

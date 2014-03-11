@@ -1,0 +1,115 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/247464"
+            },
+            {
+                "href": "http://scrapi.org/object/248132"
+            },
+            {
+                "href": "http://scrapi.org/object/248112"
+            },
+            {
+                "href": "http://scrapi.org/object/248117"
+            },
+            {
+                "href": "http://scrapi.org/object/248118"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R104_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140310123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R105_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140311123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R106_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140313123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R027_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140313130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R107_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140314123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/conversations-with-curators-and-conservators/terracotta-column-krater?eid=A001_%7b1CC4797D-7295-4614-9ACD-19C00BA693F4%7d_20140204162630",
+                "rel": "Conversation with a Curator\u2014Terracotta Column-Krater"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A144_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142257",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A145_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142312",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R116_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140331123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/grlg/hd_grlg.htm",
+                "rel": "Greek Gods and Religious Practices"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/rogr/hd_rogr.htm",
+                "rel": "Roman Copies of Greek Statues"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=05\u00aeion=eust",
+                "rel": "Italian Peninsula, 1\u2013500A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/256122"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/256122"
+        }
+    },
+    "accession number": "1992.11.66",
+    "credit line": "Purchase, Anonymous Gift, in memory of Professor Charles M. Edwards, 1992",
+    "culture": "Roman",
+    "date": "ca. A.D.14\u201368",
+    "department": "Greek and Roman Art",
+    "description": "Copy of a Greek work of the 2nd century B.C.Although the back and neck are sheared away, the remaining surface of this head is in exceptionally good condition, retaining red pigment on the eyes, lips and fillet, and traces of gilding in the hair. Other Roman copies of this work are known, as well as an extremely fine marble head found in 1886 on the south slope of the Athenian Acropolis, and now in the National Museum, which most scholars have considered to be the Greek original. There, the head is rotated and tilted upward to its right, creating an expression of pathos. Strut-like projections on the right side of both the Athens marble and this copy may be the remains of fingers on the right hand raised to the cheek. The fillet worn across the forehead is an attribute of Dionysos. The work may represent the god of wine himself, or his consort Ariadne.",
+    "dimensions": "H. 11 15/16 in. (30.4 cm)",
+    "gallery-id": 163,
+    "id": 256122,
+    "image": "http://images.metmuseum.org/CRDImages/gr/original/DT6834.jpg",
+    "medium": "Marble",
+    "title": "Marble head of a deity wearing a Dionysiac fillet",
+    "what": [
+        "Sculpture",
+        "Stone",
+        "Marble"
+    ],
+    "when": "A.D. 1-500",
+    "where": [
+        "Roman Empire"
+    ]
+}

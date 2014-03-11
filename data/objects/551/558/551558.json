@@ -1,0 +1,112 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/544124"
+            },
+            {
+                "href": "http://scrapi.org/object/546057"
+            },
+            {
+                "href": "http://scrapi.org/object/558328"
+            },
+            {
+                "href": "http://scrapi.org/object/558344"
+            },
+            {
+                "href": "http://scrapi.org/object/558375"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A151_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113641",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R130_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140310140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A145_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113221",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=04\u00aeion=afe",
+                "rel": "Egypt, 1000 B.C.\u20131 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/551558"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/551558"
+        }
+    },
+    "accession number": "21.6.25",
+    "credit line": "Fletcher Fund, 1926 and Gift of Lily S. Place, 1921",
+    "date": "400\u201330 B.C.",
+    "department": "Egyptian Art",
+    "description": "Small Late Period and Ptolemaic reliefs or sculptures that depict a subject in a partial or unfinished way but are themselves complete objects constitute a special class of object. Guidelines like those for artists are often prominently exhibited as part of the object, although, in fact, many instances can be noted where the object simply could not serve as a suitable model for a traditional formal Egyptian representation. Personifications of kingship, figures that may represent the now emerging demigods Imhotep and Amenhotep Son of Hapu, and popular gods like Harpokrates or Isis, are heavily represented within the corpus. Taken together, the figures represented and the other features indicate the reliefs and sculptures of this class, sometimes called by Egyptologists \"sculptor\u2019s models / votives,\" were the material of a donation practice, perhaps connected with the prolific temple building of these centuries. Unfortunately there is little to illuminate us about the mechanics of such a donation practice.This example depicts the upper part of a crocodile headed god.",
+    "dimensions": "H. 6 cm x 8.7 cm",
+    "gallery-id": 134,
+    "id": 551558,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/DP236820.jpg",
+    "medium": "Limestone",
+    "provenance": [
+        "Collection of Lily S. Place, Cairo. Donated by Lily Place to the museum, 1921."
+    ],
+    "title": "Relief plaque, upper part of crocodile-headed god",
+    "what": [
+        "Limestone",
+        "Models"
+    ],
+    "when": "1000 B.C.-A.D. 1",
+    "where": [
+        "Africa",
+        "Egypt"
+    ]
+}

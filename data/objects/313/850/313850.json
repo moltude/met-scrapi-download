@@ -1,0 +1,127 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/313631"
+            },
+            {
+                "href": "http://scrapi.org/object/313701"
+            },
+            {
+                "href": "http://scrapi.org/object/313851"
+            },
+            {
+                "href": "http://scrapi.org/object/313852"
+            },
+            {
+                "href": "http://scrapi.org/object/311182"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From September 16, 2013",
+                "href": "/exhibitions/listings/2013/feathered-walls",
+                "rel": "Feathered Walls"
+            },
+            {
+                "date": "From October 8, 2013",
+                "href": "/exhibitions/listings/2013/nelson-rockefeller",
+                "rel": "The Nelson A. Rockefeller Vision"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=A115_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140210093011",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/talks/gallery-talks/ancient-american-sculpture?eid=A001_%7b7A6AA394-9359-47C1-87B4-65B0894C01AB%7d_20140123114645",
+                "rel": "Ancient American Sculpture"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R105_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140311130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R106_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140312130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R107_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140313130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 18, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/shaping-the-african-art-canon?eid=A001_%7b447041C4-D9E7-43A9-AE5F-85BAEB6E7196%7d_20140214113010",
+                "rel": "Shaping the African Art Canon: From the Museum to the Classroom"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/talks/the-observant-eye/shared-memory-sculptural-ancestral-objects-from-oceania?eid=A001_%7b94768B86-339F-4726-A3BC-8F798C423768%7d_20140123143856",
+                "rel": "Shared Memory: Sculptural Ancestral Objects from Oceania"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=A116_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140210093151",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/talks/gallery-talks/ancient-american-sculpture?eid=A002_%7b7A6AA394-9359-47C1-87B4-65B0894C01AB%7d_20140123114700",
+                "rel": "Ancient American Sculpture"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=ocm",
+                "rel": "Melanesia, 1800\u20131900 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=ocm",
+                "rel": "Melanesia, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/313850"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/313850"
+        }
+    },
+    "accession number": "1979.206.1631",
+    "credit line": "The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+    "culture": "Iatmul people",
+    "date": "19th century",
+    "department": "Arts of Africa, Oceania and the Americas",
+    "description": "Iatmul suspension hooks have both utilitarian and ceremonial functions.  Suspended from the rafters by a cord, they are used to safeguard food, clothing, and other items, which are placed in baskets or string bags and hung from the hook-shaped prongs at the base to keep them out of reach of vermin. Most hooks are adorned with representations of ancestral spirits and totemic animals associated with the owner\u2019s clan.  In the past, some suspension hooks, especially thoserepresenting waken, the most powerful Iatmul supernatural beings, served as sacred images through which the supernatural beings they depicted could be consulted. Before embarking on a raid or hunting expedition, men gathered within the ceremonial house to consult the waken through the hook bearing its image. Offerings of chickens, betel nut, or other items were hung from the hook and thenconsumed by a human \u201cattendant,\u201d who went into a trance during which the waken spoke through him, providing advice. Primarily functional, household suspension hooks were also used to contact spirits about more minor matters.",
+    "dimensions": "H. 41 x W. 8 x D. 5 in. (104.1 x 20.3 x 12.7 cm)",
+    "id": 313850,
+    "image": "http://images.metmuseum.org/CRDImages/ao/original/DP148714.jpg",
+    "medium": "Wood",
+    "provenance": [
+        "Count Etienne de Ganay, by 1936\u20131961, collected on La Korrigane Expedition, 1934\u20131936",
+        "(H\u00f4tel Drouot Rive Gauche, Paris, December 4\u20135, 1961, no.153)",
+        "Nelson A. Rockefeller, New York, 1961, on permanent loan to The Museum of Primitive Art, New York, 1961\u20131978"
+    ],
+    "title": "Suspension Hook (Samban or Tshambwan)",
+    "what": [
+        "Sculpture",
+        "Wood",
+        "Hooks"
+    ],
+    "where": [
+        "Oceania",
+        "Papua New Guinea",
+        "East Sepik",
+        "Sepik"
+    ],
+    "who": "Iatmul"
+}

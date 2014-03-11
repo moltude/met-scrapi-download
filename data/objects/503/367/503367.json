@@ -1,0 +1,113 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/503221"
+            },
+            {
+                "href": "http://scrapi.org/object/503266"
+            },
+            {
+                "href": "http://scrapi.org/object/503402"
+            },
+            {
+                "href": "http://scrapi.org/object/503403"
+            },
+            {
+                "href": "http://scrapi.org/object/503009"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/early-guitars",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A001_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203181946",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A002_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203182002",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A004_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203182034",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A006_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203182105",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A005_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20140206152942",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A001_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115501",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A002_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115523",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A003_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115537",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A004_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115549",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A005_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115601",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwf",
+                "rel": "France, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/503367"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/503367"
+        }
+    },
+    "accession number": "1989.146",
+    "credit line": "Purchase, Clara Mertens Bequest, in memory of Andr\u00e9 Mertens, 1989",
+    "date": "late 18th century",
+    "department": "Musical Instruments",
+    "dimensions": "L. of stick 72.9 cm (28.7 in.), L. of hair: 63.5 (25 in.); Wt.: without hair 47.0 gm (1.65 oz.)",
+    "id": 503367,
+    "image": "http://images.metmuseum.org/CRDImages/mi/original/250535.jpg",
+    "medium": "Wood, other materials",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/mi/original/250535.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/midp1989.146det.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/midp1989.146bow.jpg"
+    ],
+    "title": "Violin Bow",
+    "what": [
+        "Musical instruments",
+        "Chordophones",
+        "Bows",
+        "Violins"
+    ],
+    "where": [
+        "Europe",
+        "France"
+    ]
+}

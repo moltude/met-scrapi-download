@@ -1,0 +1,119 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/543948"
+            },
+            {
+                "href": "http://scrapi.org/object/543992"
+            },
+            {
+                "href": "http://scrapi.org/object/544027"
+            },
+            {
+                "href": "http://scrapi.org/object/544073"
+            },
+            {
+                "href": "http://scrapi.org/object/544080"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A151_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113641",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R130_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140310140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A145_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113221",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=03\u00aeion=afe",
+                "rel": "Egypt, 2000\u20131000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/558057"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/558057"
+        }
+    },
+    "accession number": "26.7.1314",
+    "credit line": "Purchase, Edward S. Harkness Gift, 1926",
+    "date": "ca. 1878\u20131805 B.C.",
+    "department": "Egyptian Art",
+    "dimensions": "l. 1.8 cm (11/16 in)",
+    "gallery-id": 111,
+    "id": 558057,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/chr26.7.1313_1314_side.jpg",
+    "medium": "Gold",
+    "provenance": [
+        "Formerly MacGregor Collection",
+        "purchased by Lord CArnarvon at the MacGregor sale [Sotheby, Wilkinson and Hodge 1922]",
+        "Carnarvon Colection purchased by the Museum from Lady Carnarvon, 1926."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/eg/original/chr26.7.1313_1314_side.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/26.7.1313_1314_bot.JPG",
+        "http://images.metmuseum.org/CRDImages/eg/original/26.7.1313_1314_top.JPG",
+        "http://images.metmuseum.org/CRDImages/eg/original/26.7.1313_1314_side.JPG"
+    ],
+    "title": "Two recumbent lions from a bracelet",
+    "what": [
+        "Metal",
+        "Gold"
+    ],
+    "when": "2000-1000 B.C.",
+    "where": [
+        "Africa",
+        "Egypt"
+    ]
+}

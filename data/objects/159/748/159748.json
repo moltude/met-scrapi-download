@@ -1,0 +1,145 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/108597"
+            },
+            {
+                "href": "http://scrapi.org/object/175524"
+            },
+            {
+                "href": "http://scrapi.org/object/82773"
+            },
+            {
+                "href": "http://scrapi.org/object/81365"
+            },
+            {
+                "href": "http://scrapi.org/object/159749"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R130_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140310130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/159748"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/159748"
+        }
+    },
+    "accession number": "2011.435.5a\u2013m",
+    "credit line": "Gift of Heather G. Merkin, 2011",
+    "culture": "American",
+    "date": "ca. 1979",
+    "department": "Costume Institute",
+    "dimensions": [
+        "Length at CB (a) 34 1/2 in. (87.6 cm)",
+        "Length (b) 23 \u00d7 23 in. (58.4 \u00d7 58.4 cm)",
+        "Length at Side Seam (c) 45 in. (114.3 cm)",
+        "Length (d) 37 1/2 in. (95.3 cm)",
+        "Length at CB (e) 34 3/4 in. (88.3 cm)",
+        "Length (f, g) 1 3/16 in. (3 cm)",
+        "Length (h) 36 1/4 in. (92.1 cm)",
+        "Length (i, j) 18 1/2 in. (47 cm)",
+        "Length (k, l) 11 7/8 in. (30.2 cm)",
+        "Diameter (m) 12 1/2 in. (31.8 cm)"
+    ],
+    "id": 159748,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/2011.435.5abe_F.JPG",
+    "medium": "(a) cotton, silk, synthetic; (b) silk; (c) wool, metal; (d) silk, leather, metal; (e) cotton; (f, g) metal, enamel; (h) silk, metal; (i, j) cotton; (k, l) leather; (m) wool, silk, leather.",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/2011.435.5abe_F.JPG",
+        "http://images.metmuseum.org/CRDImages/ci/original/2011.435.5a_label.JPG",
+        "http://images.metmuseum.org/CRDImages/ci/original/2011.435.5b_F.JPG",
+        "http://images.metmuseum.org/CRDImages/ci/original/2011.435.5c_F.JPG",
+        "http://images.metmuseum.org/CRDImages/ci/original/2011.435.5d_F.JPG",
+        "http://images.metmuseum.org/CRDImages/ci/original/2011.435.5d_d.JPG",
+        "http://images.metmuseum.org/CRDImages/ci/original/2011.435.5e_F.JPG",
+        "http://images.metmuseum.org/CRDImages/ci/original/2011.435.5e_label.JPG",
+        "http://images.metmuseum.org/CRDImages/ci/original/2011.435.5e\u2013g_d.JPG",
+        "http://images.metmuseum.org/CRDImages/ci/original/2011.435.5fg_F.JPG",
+        "http://images.metmuseum.org/CRDImages/ci/original/2011.435.5h_F.JPG",
+        "http://images.metmuseum.org/CRDImages/ci/original/2011.435.5ij_F.JPG",
+        "http://images.metmuseum.org/CRDImages/ci/original/2011.435.5kl_F.JPG",
+        "http://images.metmuseum.org/CRDImages/ci/original/2011.435.5kl_B.JPG",
+        "http://images.metmuseum.org/CRDImages/ci/original/2011.435.5m_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2011.435.5m_TQ.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2011.435.5m_S.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2011.435.5m_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2011.435.5m_label.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2011.435.5a\u2013m_shoebags.JPG"
+    ],
+    "title": "Ensemble",
+    "what": [
+        "Metal",
+        "Silk",
+        "Cotton",
+        "Wool",
+        "Leather",
+        "Ensembles"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ]
+}

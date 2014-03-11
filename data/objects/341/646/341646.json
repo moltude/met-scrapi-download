@@ -1,0 +1,100 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/427410"
+            },
+            {
+                "href": "http://scrapi.org/object/352412"
+            },
+            {
+                "href": "http://scrapi.org/object/341618"
+            },
+            {
+                "href": "http://scrapi.org/object/341694"
+            },
+            {
+                "href": "http://scrapi.org/object/341494"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/341646"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/341646"
+        }
+    },
+    "accession number": "61.201",
+    "credit line": "Rogers Fund, 1961",
+    "date": "1565\u201377",
+    "department": "Drawings and Prints",
+    "dimensions": "15-5/8 x 44-15/16 in.  (39.7 x 114.1 cm)",
+    "id": 341646,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP120571-61.201.jpg",
+    "medium": "Pen and brown ink, brush with gray, gray-green, and reddish-brown wash, highlighted with white gouache, left and central sections squared in red chalk, on brownish paper",
+    "provenance": [
+        "Pierre Crozat (French, Toulouse 1665\u20131740 Paris)(?)",
+        "Crozat sale, April 10-May 13, 1741",
+        "Baron von Stumm(according to Hermann Voss)",
+        "Hermann Voss",
+        "Hermann Vossto B\u00f6hler 1961 exhibition according to B\u00f6hler"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP120571-61.201.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/173976.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP306833.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP306832.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP307905.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP315408.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP306809.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP306835.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP306834.jpg"
+    ],
+    "title": "Paradise",
+    "what": [
+        "Ink",
+        "Drawings",
+        "Paper",
+        "Watercolors",
+        "Chalk",
+        "Gouache"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Federico Zuccaro (Zuccari)"
+}

@@ -1,0 +1,124 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/459037"
+            },
+            {
+                "href": "http://scrapi.org/object/461016"
+            },
+            {
+                "href": "http://scrapi.org/object/461007"
+            },
+            {
+                "href": "http://scrapi.org/object/461008"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R125_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140303134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R126_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140304134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R127_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140305134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R128_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140306134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R129_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140307134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R130_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140310134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R131_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140311134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R132_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140312134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R133_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140313134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R134_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140314134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/nupt/hd_nupt.htm",
+                "rel": "Nuptial Furnishings in the Italian Renaissance"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/marr/hd_marr.htm",
+                "rel": "Paintings of Love and Marriage in the Italian Renaissance"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/459038"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/459038"
+        }
+    },
+    "accession number": "1975.1.96",
+    "credit line": "Robert Lehman Collection, 1975",
+    "date": "1494?",
+    "department": "Robert Lehman Collection",
+    "description": "This portrait and its pendant (1975.1.96) represent a husband and wife of the Gozzadini family of Bologna; the family's coat of arms appears prominently in both paintings. The inscribed architectural frieze in the background, which runs across both panels, attests to the commemorative function of the portraits: VT SIT NOSTRA FORMA SVPERSTES (In order that our features may survive). Probably made to celebrate a betrothal or marriage, the portraits contain numerous allusions to love and matrimony, such as the spray of flowers, known as pinks, held by the male sitter, and the fruit (perhaps a quince) held by his wife. The pelican and phoenix at lower left of the male portrait refer respectively to charity and resurrection - Christian virtues here associated with the sacrament of marriage. In the lower right corner of the female portrait are two rabbits and a girl confronting a unicorn, the former connoting fecundity and the latter chastity.",
+    "dimensions": "Overall 19 3/4 x 14 5/8 in. (50.2 x 37.1 cm); painted surface 19 1/8 x 14 1/8 in. (48.6 x 35.9 cm)",
+    "gallery-id": 959,
+    "id": 459038,
+    "image": "http://images.metmuseum.org/CRDImages/rl/original/DT3066.jpg",
+    "medium": "Tempera on wood",
+    "provenance": [
+        "Contessa Gozzadini, Bologna",
+        "Stefano Bardini, Florence",
+        "Bardini sale, Christie's, London, May 26-30, 1902, lot 600 (bt. Anderson)",
+        "[Galerie Trotti, Paris, 1909]",
+        "Acquired by Philip Lehman from Trotti in October 1911."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/rl/original/DT3066.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/0558.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/DP158339.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/210_50N.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/23R5M_50B.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/ep1975.1.96.bw.R.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/124b.jpg"
+    ],
+    "title": "Portrait of a Woman, possibly Ginevra d'Antonio Lupari Gozzadini",
+    "what": [
+        "Paintings",
+        "Tempera"
+    ],
+    "when": "A.D. 1400-1600",
+    "who": "Maestro delle Storie del Pane"
+}

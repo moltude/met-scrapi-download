@@ -1,0 +1,162 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/437673"
+            },
+            {
+                "href": "http://scrapi.org/object/436514"
+            },
+            {
+                "href": "http://scrapi.org/object/436897"
+            },
+            {
+                "href": "http://scrapi.org/object/437604"
+            },
+            {
+                "href": "http://scrapi.org/object/436051"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/piero-della-francesca",
+                "rel": "Piero della Francesca"
+            },
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "From April 22, 2014",
+                "href": "/exhibitions/listings/2014/goya",
+                "rel": "Goya and the Altamira Family"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/talks/gallery-talks/piero-della-francesca?eid=A001_%7bE50FD455-5FC1-41D0-9391-C456264363EF%7d_20140206160624",
+                "rel": "Exhibition Tour\u2014Piero della Francesca: Personal Encounters"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=A257_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20131127123002",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/monday-at-the-met-spring-2014?eid=R001_%7bBB2BF277-3666-435E-8B95-12CDE21533EA%7d_20140303100000",
+                "rel": "Monday at the Met with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R100_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140303123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R101_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140304123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R102_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140305123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R026_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140306140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R103_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140307123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/talks/the-observant-eye/stepping-out-of-the-frame?eid=A001_%7b438572AD-6B0F-4DA2-94FB-49B8931634C1%7d_20140123142901",
+                "rel": "Stepping Out of the Frame: Three-Dimensionality in the New Galleries for European Paintings"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/saturday-seminar-spring-2014?eid=R001_%7bE063A39F-FC40-4ECC-B690-C4C13F70B2A0%7d_20140308103000",
+                "rel": "Saturday Seminar with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/fram/hd_fram.htm",
+                "rel": "Italian Renaissance Frames"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=eustc",
+                "rel": "Florence and Central Italy, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/437372"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/437372"
+        }
+    },
+    "accession number": "16.30ab",
+    "credit line": "Gift of J. Pierpont Morgan, 1916",
+    "date": "ca. 1504",
+    "department": "European Paintings",
+    "dimensions": "Main panel, overall 67 7/8 x 67 7/8 in. (172.4 x 172.4 cm), painted surface 66 3/4 x 66 1/2 in. (169.5 x 168.9 cm); lunette, overall 29 1/2 x 70 7/8 in. (74.9 x 180 cm), painted surface 25 1/2 x 67 1/2 in. (64.8 x 171.5 cm)",
+    "gallery-id": 609,
+    "id": 437372,
+    "image": "http://images.metmuseum.org/CRDImages/ep/original/DT13.jpg",
+    "medium": "Oil and gold on wood",
+    "provenance": [
+        "the convent of Sant'Antonio da Padova, Perugia (until 1678; sold to Bigazzini)",
+        "conte Giovanni Antonio Bigazzini, Rome (from 1678)",
+        "Colonna family, Palazzo Colonna, Rome (from shortly after 1678, until 1798; inv., 1714, no. 653; cat., 1783, no. 130)",
+        "[Alexander Day, Rome, until 1802/3",
+        "sold through Venuti to Ferdinand I]",
+        "Ferdinand I, King of Naples and the two Sicilies, Naples and Palermo (1802/3\u2013d. 1825)",
+        "Francis I, King of Naples and the two Sicilies, Palazzo Reale, Naples (1825\u2013d. 1830)",
+        "Ferdinand II, King of Naples and the two Sicilies, Palazzo Reale, Naples (1830\u2013d. 1859)",
+        "Francis II, King of Naples and the two Sicilies, Palazzo Reale, Naples (1859\u201360) and Gaeta (1860\u201361), and as duca di Castro, Madrid (1861\u2013d. 1894; on loan to the Mus\u00e9e du Louvre, Paris, in 1870; subsequently on loan to the National Gallery, London; his estate, 1894\u201396; sold to Colnaghi)",
+        "[Martin Colnaghi, London, 1896",
+        "sold to Sedelmeyer]",
+        "[Sedelmeyer, Paris, 1896\u20131901",
+        "cat., 1896, no. 75",
+        "sold for Fr 2,000,000 to Morgan]",
+        "J. Pierpont Morgan, London and New York (1901\u2013d. 1913; on loan to the National Gallery, London, 1901\u201313; his estate, 1913\u201316; unnumbered cat., 1907)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ep/original/DT13.jpg",
+        "http://images.metmuseum.org/CRDImages/ep/original/75E_42R4.jpg",
+        "http://images.metmuseum.org/CRDImages/ep/original/75E_44R5.jpg",
+        "http://images.metmuseum.org/CRDImages/ep/original/75N_ElevationV4r1.jpg",
+        "http://images.metmuseum.org/CRDImages/ep/original/Raphael in frame1.jpg",
+        "http://images.metmuseum.org/CRDImages/ep/original/75E_45R4.jpg",
+        "http://images.metmuseum.org/CRDImages/ep/original/75E_46R3.jpg",
+        "http://images.metmuseum.org/CRDImages/ep/original/75E_48R4.jpg",
+        "http://images.metmuseum.org/CRDImages/ep/original/75E_49R4.jpg",
+        "http://images.metmuseum.org/CRDImages/ep/original/Raphael in frame2.jpg",
+        "http://images.metmuseum.org/CRDImages/ep/original/Raphael in frame3.jpg"
+    ],
+    "title": "Madonna and Child Enthroned with Saints",
+    "what": [
+        "Metal",
+        "Gold",
+        "Paintings",
+        "Oil paint",
+        "Altarpieces"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Raphael (Raffaello Sanzio  Santi)"
+}

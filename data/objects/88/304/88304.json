@@ -1,0 +1,132 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/125701"
+            },
+            {
+                "href": "http://scrapi.org/object/88316"
+            },
+            {
+                "href": "http://scrapi.org/object/80511"
+            },
+            {
+                "href": "http://scrapi.org/object/83920"
+            },
+            {
+                "href": "http://scrapi.org/object/138816"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R150_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140407130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=eaj",
+                "rel": "Japan, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/88304"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/88304"
+        }
+    },
+    "accession number": "1993.262.1a\u2013h",
+    "credit line": "Gift of Mr. Hajime Miwa, 1993",
+    "culture": "Japanese",
+    "date": "second half 20th century",
+    "department": "Costume Institute",
+    "dimensions": [
+        "Length at CB (a) 70 1/2 in. (179.1 cm)",
+        "Length at CB (b) 71 in. (180.3 cm)",
+        "Length at CB (c) 74 1/2 in. (189.2 cm)",
+        "Width (d) 12 3/8 in. (31.4 cm)",
+        "Length at CB (e) 2 5/8 in. (6.7 cm)",
+        "Length at CB (f) 27 1/4 in. (69.2 cm)",
+        "Length at CB (g) 39 in. (99.1 cm)",
+        "(h) [no dimensions available]"
+    ],
+    "id": 88304,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/1993.262.1a_F.jpg",
+    "medium": "silk, cotton, metal, paper, wood, paint",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/1993.262.1a_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1993.262.1a_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1993.262.1b_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1993.262.1b_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1993.262.1c_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1993.262.1c_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1993.262.1d.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1993.262.1e.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1993.262.1f_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1993.262.1g.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1993.262.1h.jpg"
+    ],
+    "title": "Dance ensemble",
+    "what": [
+        "Metal",
+        "Silk",
+        "Cotton",
+        "Ensembles"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Asia",
+        "Japan"
+    ]
+}

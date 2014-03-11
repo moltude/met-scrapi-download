@@ -1,0 +1,128 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/454038"
+            },
+            {
+                "href": "http://scrapi.org/object/456951"
+            },
+            {
+                "href": "http://scrapi.org/object/451335"
+            },
+            {
+                "href": "http://scrapi.org/object/445975"
+            },
+            {
+                "href": "http://scrapi.org/object/455027"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A250_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114353",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world-french?eid=R026_%7b85906EA1-CA66-4610-A52C-39562E1A4C40%7d_20140310133000",
+                "rel": "Arts du monde Islamique (Arts of the Islamic World in French)"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R130_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140310141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A232_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134244",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/cpin/hd_cpin.htm",
+                "rel": "Company Painting in Nineteenth\u2013Century India"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=ssa",
+                "rel": "South Asia and the Himalayan Region, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/453350"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/453350"
+        }
+    },
+    "accession number": "1994.71",
+    "credit line": "Louis E. and Theresa S. Seley Purchase Fund for Islamic Art, 1994",
+    "culture": "Colonial British",
+    "date": "ca. 1830\u201340",
+    "department": "Islamic Art",
+    "description": "One genre of Company School painting served to record the wealth of the British in India, and their homes and furniture\u2013as in this painting\u2013were among the primary subjects. This painting also documents the unusual British practice of turning older buildings such as tombs or baths (as the title indicates) into residences. In this instance, the original structure is a domed octagonal chamber with an oculus. The dome itself has been decorated with a diaper-pattern grid. The walls below are articulated with recessed arches and a marble dado inlaid with red and green floral designs. The stone floor has been decorated in a grid pattern with central rosettes and a central inset that resembles a rug. To this basic structure the new owners have added a piano and bench in front of the window. In a niche in the arch behind the piano is a collection of their glass and stone objects.",
+    "dimensions": [
+        "H. 9 1/8 in. (23.2 cm)",
+        "W. 12 1/8 in. (30.8cm)"
+    ],
+    "id": 453350,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/sf1994-71r.jpg",
+    "medium": "Opaque watercolor on paper",
+    "provenance": [
+        "[ Terence McInerney, until 1994",
+        "sold to MMA]"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/sf1994-71r.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/1994.71.jpg"
+    ],
+    "title": "Interior of the Hammam at the Red Fort, Delhi, Furnished According to English Taste",
+    "what": [
+        "Paper",
+        "Watercolors",
+        "Manuscripts",
+        "Codices"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Asia",
+        "India",
+        "Delhi"
+    ]
+}

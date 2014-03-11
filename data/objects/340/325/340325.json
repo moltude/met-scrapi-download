@@ -1,0 +1,122 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/340323"
+            },
+            {
+                "href": "http://scrapi.org/object/436917"
+            },
+            {
+                "href": "http://scrapi.org/object/436918"
+            },
+            {
+                "href": "http://scrapi.org/object/385739"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/bota/hd_bota.htm",
+                "rel": "Botanical Imagery in European Painting"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/cour/hd_cour.htm",
+                "rel": "Courtship and Betrothal in the Italian Renaissance"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/nirp/hd_nirp.htm",
+                "rel": "Northern Italian Renaissance Painting"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/marr/hd_marr.htm",
+                "rel": "Paintings of Love and Marriage in the Italian Renaissance"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/port/hd_port.htm",
+                "rel": "Portraiture in Renaissance and Baroque Europe"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/veve/hd_veve.htm",
+                "rel": "Sixteenth\u2013Century Painting in Venice and the Veneto"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/arlo/hd_arlo.htm",
+                "rel": "Art and Love in the Italian Renaissance"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/isca/hd_isca.htm",
+                "rel": "Islamic Carpets in European Paintings"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/340325"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/340325"
+        }
+    },
+    "accession number": "1996.413",
+    "credit line": "Purchase, Florence B. Selden Bequest, 1996",
+    "date": "1480\u20131556",
+    "department": "Drawings and Prints",
+    "dimensions": "6-5/8 x 5-1/4 in.  (16.9 x 13.4 cm)",
+    "id": 340325,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP810264.jpg",
+    "medium": "Black chalk on paper",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP810264.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DR44.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DT4073.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/1996.413.jpg"
+    ],
+    "title": "Head of a Bearded Man",
+    "what": [
+        "Drawings",
+        "Paper",
+        "Chalk"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Lorenzo Lotto"
+}

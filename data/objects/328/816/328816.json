@@ -1,0 +1,107 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/328839"
+            },
+            {
+                "href": "http://scrapi.org/object/325988"
+            },
+            {
+                "href": "http://scrapi.org/object/325992"
+            },
+            {
+                "href": "http://scrapi.org/object/325986"
+            },
+            {
+                "href": "http://scrapi.org/object/325989"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R104_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140310121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R105_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140312121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R106_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140313121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R107_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140314121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R116_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140331121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R117_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140402121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R118_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140403121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/328816"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/328816"
+        }
+    },
+    "accession number": "2000.507a\u2013d",
+    "credit line": "Purchase, Friends of Inanna Gifts and Rogers Fund, 2000",
+    "date": "ca. 2nd century B.C.\u20131st century A.D.",
+    "department": "Ancient Near Eastern Art",
+    "dimensions": [
+        "a 17.3 x 1.5 in. (44 x 3.8 cm)",
+        "b 12.6 x 1.5 in. (32 x 3.8 cm)",
+        "c 7.1 x 1.5 in. (18 x 3.8 cm)",
+        "d 4.5 x .3 in. (11.5 x .8 cm)"
+    ],
+    "id": 328816,
+    "image": "http://images.metmuseum.org/CRDImages/an/original/sd2000_507.jpg",
+    "medium": "Wool, cotton (braided wool with cotton embroidery)",
+    "provenance": [
+        "Acquired by the Museum in 2000, purchased from Jeremy Pine, London."
+    ],
+    "title": "Four strips with embroidered goats",
+    "what": [
+        "Textiles",
+        "Cotton",
+        "Woven",
+        "Needlework",
+        "Wool",
+        "Embroidery"
+    ],
+    "where": [
+        "Asia"
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/325466"
+            },
+            {
+                "href": "http://scrapi.org/object/325472"
+            },
+            {
+                "href": "http://scrapi.org/object/324874"
+            },
+            {
+                "href": "http://scrapi.org/object/325465"
+            },
+            {
+                "href": "http://scrapi.org/object/325407"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R104_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140310121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R105_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140312121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R106_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140313121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R107_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140314121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R116_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140331121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R117_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140402121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R118_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140403121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=02\u00aeion=wam",
+                "rel": "Mesopotamia, 8000\u20132000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/325467"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/325467"
+        }
+    },
+    "accession number": "62.70.62",
+    "credit line": "Rogers Fund, 1962",
+    "culture": "Sumerian",
+    "date": "ca. 2700\u20132600 B.C.",
+    "department": "Ancient Near Eastern Art",
+    "dimensions": "0.43 x 0.94 in. (1.09 x 2.39 cm)",
+    "id": 325467,
+    "image": "http://images.metmuseum.org/CRDImages/an/original/ME62_70_62.jpg",
+    "medium": "Shell",
+    "provenance": [
+        "1960\u201361, excavated on behalf of the Joint Expedition to Nippur (Baghdad School of the American Schools of Oriental Research and The Oriental Institute of the University of Chicago)",
+        "acquired by the Museum in 1962, as a result of its financial contribution to the excavations."
+    ],
+    "title": "Cow amulet",
+    "what": [
+        "Amulets",
+        "Shell"
+    ],
+    "when": "8000-2000 B.C.",
+    "where": [
+        "Asia",
+        "Iraq",
+        "Nippur"
+    ],
+    "who": "Sumerian"
+}

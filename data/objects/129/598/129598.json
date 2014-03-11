@@ -1,0 +1,134 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/133946"
+            },
+            {
+                "href": "http://scrapi.org/object/101467"
+            },
+            {
+                "href": "http://scrapi.org/object/79168"
+            },
+            {
+                "href": "http://scrapi.org/object/80459"
+            },
+            {
+                "href": "http://scrapi.org/object/81821"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R130_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140310130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/cost/hd_cost.htm",
+                "rel": "Costume in The Metropolitan Museum of Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/coho/hd_coho.htm",
+                "rel": "Dressing for the Cocktail Hour"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/chnl/hd_chnl.htm",
+                "rel": "Gabrielle \"Coco\" Chanel (1883\u20131971) and the House of Chanel"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/129598"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/129598"
+        }
+    },
+    "accession number": "2006.271.38a, b",
+    "credit line": "Bequest of Yolande Fielding\u2013Scheftel, 2006",
+    "culture": "French",
+    "date": "1950s\u201370s",
+    "department": "Costume Institute",
+    "dimensions": "Heel to Toe (a,b) 9 1/4 in. (23.5 cm)",
+    "id": 129598,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/2006.271.38ab_F.jpg",
+    "medium": "a,b) leather, metal",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.271.38ab_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2006.271.38ab_B.jpg"
+    ],
+    "title": "Shoes",
+    "what": [
+        "Metal",
+        "Costume",
+        "Leather",
+        "Footwear",
+        "Shoes"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": [
+        "House of Chanel",
+        "Massaro"
+    ]
+}

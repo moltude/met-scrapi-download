@@ -1,0 +1,114 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/21968"
+            },
+            {
+                "href": "http://scrapi.org/object/32434"
+            },
+            {
+                "href": "http://scrapi.org/object/32435"
+            },
+            {
+                "href": "http://scrapi.org/object/32436"
+            },
+            {
+                "href": "http://scrapi.org/object/32448"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From October 2, 2012",
+                "href": "/exhibitions/listings/2012/arms-and-armor",
+                "rel": "Bashford Dean and the Creation of the Arms and Armor Department"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A083_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113541",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A074_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112917",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A084_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113556",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A093_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113923",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A075_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112932",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A094_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113938",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 5, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A085_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113610",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161351",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A076_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112951",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 19, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161305",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwc",
+                "rel": "Central Europe (including Germany), 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/32301"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/32301"
+        }
+    },
+    "accession number": "32.75.117",
+    "credit line": "The Collection of Giovanni P. Morosini, presented by his daughter Giulia, 1932",
+    "culture": "German",
+    "date": "17th century",
+    "department": "Arms and Armor",
+    "id": 32301,
+    "image": "http://images.metmuseum.org/CRDImages/aa/original/sfsb32.75.117_001.jpg",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/aa/original/sfsb32.75.117_001.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/sfsb32.75.117_002.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/sfsb32.75.117_003.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/sfsb32.75.117_004.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/sfsb32.75.117_005.jpg"
+    ],
+    "title": "Gun, Wheellock",
+    "what": [
+        "Arms",
+        "Firearms",
+        "Artillery"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "Germany"
+    ]
+}

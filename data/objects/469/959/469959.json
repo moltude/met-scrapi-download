@@ -1,0 +1,139 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/469905"
+            },
+            {
+                "href": "http://scrapi.org/object/472167"
+            },
+            {
+                "href": "http://scrapi.org/object/472155"
+            },
+            {
+                "href": "http://scrapi.org/object/472156"
+            },
+            {
+                "href": "http://scrapi.org/object/472157"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 25, 2014",
+                "href": "/exhibitions/listings/2014/canterbury-stained-glass",
+                "rel": "Radiant Light"
+            },
+            {
+                "date": "From August 6, 2013",
+                "href": "/exhibitions/listings/2013/design-motifs-in-byzantine-art",
+                "rel": "Design Motifs in Byzantine Art"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R008_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140309150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R009_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140310150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R105_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140311104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R010_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140311150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R106_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140312104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R011_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140312150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R107_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140313104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R012_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140313150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R108_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140314104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/glas/hd_glas.htm",
+                "rel": "Stained Glass in Medieval Europe"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=07\u00aeion=euwc",
+                "rel": "Central Europe (including Germany), 1000\u20131400 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/469959"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/469959"
+        }
+    },
+    "accession number": "1986.285.1",
+    "credit line": "The Cloisters Collection, 1986",
+    "culture": "Austrian",
+    "date": "ca. 1390",
+    "department": "The Cloisters",
+    "description": "This panel which is part of a larger ensemble was commissioned for the private chapel in the castle of Ebreichsdorf, south of Vienna. Originally, there were eighteen scenes, some extending across two lights of the windows. Except for one panel in Vienna, The Cloisters panels are all that survive. The royal atelier responsible for the glass was established in Vienna, where its early work can be seen in the Church of Maria am Gestade, of about 1365, and in the ducal chapel at the Cathedral of Saint Stephen, of about 1395. The elegant figures, richly damascened background, as well as the wealth of detail and the brilliant palette that enrich the settings, are all characteristic of this court workshop.",
+    "dimensions": [
+        "4 lancets each 11 ft. 8 3/4 x 12 1/8 in. (357.5 x 30.8 cm)",
+        "27 1/4 x 13 in.  (69.2 x 33 cm)"
+    ],
+    "gallery-id": 9,
+    "id": 469959,
+    "image": "http://images.metmuseum.org/CRDImages/cl/original/DT8443.jpg",
+    "medium": "Pot-metal and colorless glass, vitreous paint and silver stain",
+    "provenance": [
+        "Lolowrat-Liebsteinsky , Ebreichsdorf (1843\u201373)",
+        "Count Joseph Arco-Zinneberg , Ebreichsdorf (1873\u20131922)",
+        "[ Duveen Brothers , London, Paris and New York]",
+        "Mrs. Alexander Hamilton Rice , New York (1923\u20131957)",
+        "Smithsonian American Art Museum , Washington, DC (1957\u20131986)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/cl/original/DT8443.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/MED89.jpg"
+    ],
+    "title": "Adoration of the Magi from Seven Scenes from the Life of Christ",
+    "what": [
+        "Metal",
+        "Glass",
+        "Silver",
+        "Panels",
+        "Stained glass"
+    ],
+    "when": "A.D. 1000-1400",
+    "where": [
+        "Europe",
+        "Austria",
+        "Lower Austria",
+        "Ebreichsdorf"
+    ]
+}

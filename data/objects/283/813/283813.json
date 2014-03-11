@@ -1,0 +1,80 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/307064"
+            },
+            {
+                "href": "http://scrapi.org/object/301903"
+            },
+            {
+                "href": "http://scrapi.org/object/299307"
+            },
+            {
+                "href": "http://scrapi.org/object/299308"
+            },
+            {
+                "href": "http://scrapi.org/object/283775"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/283813"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/283813"
+        }
+    },
+    "accession number": "1982.1131",
+    "credit line": "Gift of Monroe I. Warshaw, 1982",
+    "date": "1850s\u201360s",
+    "department": "Photographs",
+    "description": "The invention of photography in 1839 revolutionized the practice of portraiture.  The daguerreotype and its poorer cousin, the ambrotype, were well-suited to the seemingly contradictory goals of realistic representation and soulful content, as the English poet Elizabeth Barrett suggested in 1843: \"I long to have such a memorial of every being dear to me in the world.  It is not merely the likeness which is precious in such cases-but the association and the sense of nearness involved in the thing\u2026the fact of the very shadow of the person lying there fixed forever! \u2026 I would rather have such a memorial of one I dearly loved, than the noblest artist's work ever produced.\"That sense of proximity to the subject was sometimes enhanced by pinning mementos, such as the lock of hair seen here, to the lining of the photograph's case.",
+    "dimensions": "8.8 x 6.6cm (3 7/16 x 2 5/8in.), oval, visible",
+    "id": 283813,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/Unknown1982.1131.jpg",
+    "medium": "Ambrotype",
+    "title": "[Woman]",
+    "what": [
+        "Photographs",
+        "Ambrotypes"
+    ],
+    "when": "A.D. 1800-1900",
+    "who": "Unknown, American"
+}

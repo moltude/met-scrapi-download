@@ -1,0 +1,101 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/285726"
+            },
+            {
+                "href": "http://scrapi.org/object/268366"
+            },
+            {
+                "href": "http://scrapi.org/object/268367"
+            },
+            {
+                "href": "http://scrapi.org/object/268368"
+            },
+            {
+                "href": "http://scrapi.org/object/268369"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwb",
+                "rel": "Great Britain and Ireland, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/306226"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/306226"
+        }
+    },
+    "accession number": "2013.159.23",
+    "credit line": "Bequest of Maurice B. Sendak, 2013",
+    "date": "1845",
+    "department": "Photographs",
+    "description": "This double portrait by the painter David OctaviusHill and the early photographer Robert Adamson is one of some 130 images they would make of the inhabitants of Newhaven and other small fishing villages near Edinburgh, Scotland. Entitled \u201cThe Fishermen and Women of the Firth of Forth,\u201d their project constitutes the first sustained use of photographs for a social documentary purpose. During the age of the Industrial Revolution and its attendant social problems, Hill and Adamson presented Newhaven as an exemplar of village life\u2014a community bound by tradition, mutual support, honest labor, and the continuity of generations. The artists attempted to emphasize these qualities by the careful posing of figures and by embracing the graphic strength and gritty effect of the paper negative (calotype) process. Here the focus is on a pair of young fishermen and the traditional willow basket used to haul their catch up the hill to the bustling market in Edinburgh.",
+    "dimensions": "Approx. 50.8 \u00d7 40.6 cm (20 \u00d7 16 in.)",
+    "gallery-id": 850,
+    "id": 306226,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP310792.jpg",
+    "medium": "Salted paper print from paper negative",
+    "provenance": [
+        "[...]",
+        "Estate of Heinrich Schwarz",
+        "[Hans P. Kraus Jr. Fine Photographs, New York, sold to Sendak on February 27, 2001]",
+        "Maurice Sendak"
+    ],
+    "title": "David Young and Unknown Man, Newhaven",
+    "what": [
+        "Photographs",
+        "Salted paper prints"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "United Kingdom",
+        "Scottish"
+    ],
+    "who": [
+        "David Octavius Hill",
+        "Hill  Adamson",
+        "Robert  Adamson"
+    ]
+}

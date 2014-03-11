@@ -1,0 +1,127 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/156678"
+            },
+            {
+                "href": "http://scrapi.org/object/156691"
+            },
+            {
+                "href": "http://scrapi.org/object/156693"
+            },
+            {
+                "href": "http://scrapi.org/object/156668"
+            },
+            {
+                "href": "http://scrapi.org/object/156677"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R130_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140310130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=ca",
+                "rel": "Mexico and Central America, 1800\u20131900 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=can",
+                "rel": "Mexico and Central America: Native Peoples, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/156674"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/156674"
+        }
+    },
+    "accession number": "2009.300.1907",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Dwight W. Morrow, Jr., Constance Morrow Morgan, and Anne Morrow Lindbergh, 1956",
+    "culture": "Mexican",
+    "date": "1820\u201340",
+    "department": "Costume Institute",
+    "description": "The nesting birds, seen here, convey a strong sense of the domestic realm. The fine construction of the purse itself makes it a good example of its type, particularly in the application of details: especially the gilt metal edging and the beautiful coloration in the ombr\u00e9d ribbon, which forms a lover's knot on the flap. The purse is part of the Mexican beadwork collection of over 600 pieces assembled by Elizabeth Morrow (1873-1955), mother of writer Anne Morrow Lindbergh, the wife of renowned aviator Charles Lindbergh. Morrow collected the objects between 1927 and 1930, when her husband, Dwight Morrow, Sr., served as U.S. ambassador to Mexico. She lent the collection to the Brooklyn Museum in 1938 and upon her death, her children donated it. A collection of 155 pieces of Mexican ceramics and other decorative arts were given to Amherst College, her husband's alma mater. Mrs. Morrow collected Mexican beadwork, along with other examples of colonial and native arts, to decorate their country home in Cuernavaca in order to promote a more peaceful image of that country through its works. The Morrows sought to overturn the perception of post-revolutionary Mexico as a violent and unstable nation by highlighting the richness and diversity of its colonial, folk, and contemporary art. Glass beads were originally imported to New Spain (Mexico) from Italian and Asian sources via Spanish colonial trade routes. By the early part of the nineteenth century, Spain had suffered the loss of almost all of its colonies and with the succeeding establishment of free trade British ships undertook the importation of beads to Mexico. Many of the design influences on the bags and cases in the collection came from Europe; patterns for beadwork designs came from contemporary fashion publications such as \"La Dama Elegante.\"",
+    "dimensions": "3 3/8 x 2 1/2 in. (8.6 x 6.4 cm)",
+    "id": 156674,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/56.137.163_view1_CP4.jpg",
+    "medium": "glass, linen, silk, metal",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/56.137.163_view1_CP4.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/56.137.163_view2_CP4.jpg"
+    ],
+    "title": "Coin purse",
+    "what": [
+        "Metal",
+        "Costume",
+        "Silk",
+        "Glass",
+        "Linen",
+        "Money",
+        "Coins",
+        "Bags",
+        "Purses",
+        "Wallets",
+        "Coin purses"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "North and Central America",
+        "Mexico"
+    ]
+}

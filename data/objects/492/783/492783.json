@@ -1,0 +1,142 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/459239"
+            },
+            {
+                "href": "http://scrapi.org/object/488505"
+            },
+            {
+                "href": "http://scrapi.org/object/491254"
+            },
+            {
+                "href": "http://scrapi.org/object/490813"
+            },
+            {
+                "href": "http://scrapi.org/object/492785"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From November 20, 2013",
+                "href": "/exhibitions/listings/2013/jewels-by-jar",
+                "rel": "Jewels by JAR"
+            },
+            {
+                "date": "From February 24, 2014",
+                "href": "/exhibitions/listings/2014/lucas-samaras",
+                "rel": "Lucas Samaras"
+            },
+            {
+                "date": "From December 17, 2013",
+                "href": "/exhibitions/listings/2013/metropolitan-vanities",
+                "rel": "Metropolitan Vanities"
+            },
+            {
+                "date": "From October 22, 2013",
+                "href": "/exhibitions/listings/2013/william-kentridge",
+                "rel": "William Kentridge"
+            },
+            {
+                "date": "From April 29, 2014",
+                "href": "/exhibitions/listings/2014/dan-graham",
+                "rel": "The Roof Garden Commission: Dan Graham"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/college/jewels?eid=A001_%7bB2CEEB36-09E2-43E1-B6FD-1CA91686BA29%7d_20140219113337",
+                "rel": "Jewels by JAR Workshop"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R104_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140310144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/modern-art-french?eid=R027_%7b96311A2D-1D25-45BE-83E2-2054BC16D70B%7d_20140311133000",
+                "rel": "Art Moderne et Contemporain (Modern and Contemporary Art in French)"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R105_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140311144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R106_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140312144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R027_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140313140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R107_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140313144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=A076_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20131126112236",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/faces?eid=A002_%7b8EAA5A8F-1DA9-4AC7-8199-BDE367AC2FB1%7d_20140124163826",
+                "rel": "Faces! Drawing in the Galleries for Adults"
+            },
+            {
+                "date": "March 18, 2014",
+                "href": "/events/programs/tours/modern-art-french?eid=R028_%7b96311A2D-1D25-45BE-83E2-2054BC16D70B%7d_20140318133000",
+                "rel": "Art Moderne et Contemporain (Modern and Contemporary Art in French)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/mati/hd_mati.htm",
+                "rel": "Henri Matisse (1869\u20131954)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/492783"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/492783"
+        }
+    },
+    "accession number": "2002.456.38",
+    "credit line": "The Pierre and Maria-Gaetana Matisse Collection, 2002",
+    "date": "1912",
+    "department": "Modern and Contemporary Art",
+    "description": "This charcoal drawing depicts one of Matisse's foremost patrons and an early connoisseur of modern art, the Russian merchant Sergei Ivanovich Shchukin (1854-1936). The two first met in Paris in the fall of 1906, although Shchukin had been familiar with Matisse's work since 1904. Between 1906 and 1914, he acquired some forty important paintings by Matisse for his house in Moscow, including two famous decorative panels executed in 1909-10, Dance and Music. Prior to the Russian Revolution in October 1917, Shchukin's entire collection was open to the public one day a week, and provided one of the only places to see European modern art in Moscow.In 1918, the collection was nationalized and eventually divided between the Hermitage in Saint Petersburg and the State Pushkin Museum of Fine Arts in Moscow. Shchukin himself emigrated in August 1919 to Germany and then to France, where he settled in Nice. Although Matisse, then living in nearby Collioure, attempted another meeting, Shchukin remained aloof, possibly because of his diminished financial circumstances.In this preparatory study for an oil painting, which was never realized, Matisse captures the personality of his sitter in several masterly touches. He emphasizes Shchukin's \"exotic\" appearance with his penetrating eyes, bushy eyebrows, high cheekbones, and expressive mouth, and creates a lively tension by positioning the head high and off-center within the pictorial field.",
+    "dimensions": "19 1/2 x 12 in. (49.5 x 30.5 cm)",
+    "id": 492783,
+    "image": "http://images.metmuseum.org/CRDImages/ma/original/DP102751.jpg",
+    "medium": "Charcoal on paper",
+    "provenance": [
+        "the artist (1915 - his d. 1954)",
+        "Estate of Henri Matisse, Paris (1955)",
+        "Pierre Matisse, New York (from his father's estate - his d.1989)",
+        "his widow, Maria-Gaetana Matisse, n\u00e9e von Spreti, New York (1989 - her d. 2001)",
+        "Pierre and Maria Gaetana Matisse Foundation (2002; gift to MMA)."
+    ],
+    "title": "Sergei Ivanovich Shchukin",
+    "what": [
+        "Drawings",
+        "Paper",
+        "Charcoal"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Henri Matisse"
+}

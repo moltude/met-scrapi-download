@@ -1,0 +1,127 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/487481"
+            },
+            {
+                "href": "http://scrapi.org/object/487482"
+            },
+            {
+                "href": "http://scrapi.org/object/487492"
+            },
+            {
+                "href": "http://scrapi.org/object/487490"
+            },
+            {
+                "href": "http://scrapi.org/object/487491"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 24, 2014",
+                "href": "/exhibitions/listings/2014/lucas-samaras",
+                "rel": "Lucas Samaras"
+            },
+            {
+                "date": "From December 17, 2013",
+                "href": "/exhibitions/listings/2013/metropolitan-vanities",
+                "rel": "Metropolitan Vanities"
+            },
+            {
+                "date": "From October 22, 2013",
+                "href": "/exhibitions/listings/2013/william-kentridge",
+                "rel": "William Kentridge"
+            },
+            {
+                "date": "From April 29, 2014",
+                "href": "/exhibitions/listings/2014/dan-graham",
+                "rel": "The Roof Garden Commission: Dan Graham"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/modern-art-french?eid=R027_%7b96311A2D-1D25-45BE-83E2-2054BC16D70B%7d_20140311133000",
+                "rel": "Art Moderne et Contemporain (Modern and Contemporary Art in French)"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R105_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140311144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R106_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140312144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R027_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140313140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R107_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140313144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=A076_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20131126112236",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/faces?eid=A002_%7b8EAA5A8F-1DA9-4AC7-8199-BDE367AC2FB1%7d_20140124163826",
+                "rel": "Faces! Drawing in the Galleries for Adults"
+            },
+            {
+                "date": "March 18, 2014",
+                "href": "/events/programs/tours/modern-art-french?eid=R028_%7b96311A2D-1D25-45BE-83E2-2054BC16D70B%7d_20140318133000",
+                "rel": "Art Moderne et Contemporain (Modern and Contemporary Art in French)"
+            },
+            {
+                "date": "March 20, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R028_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140320140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwc",
+                "rel": "Central Europe and Low Countries, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/487480"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/487480"
+        }
+    },
+    "accession number": "26.228.4",
+    "credit line": "Purchase, Edward C. Moore Jr. Gift, 1926",
+    "date": "ca. 1899",
+    "department": "Modern and Contemporary Art",
+    "description": "Part of a set consisting of a vitrine, table, armchair, and three side chairs, this table was designed by \u00c9douard Colonna for Siegfried Bing's display at the Paris Exposition Universelle in 1900. A German-born, Brussels-trained designer who moved to America in 1882, Colonna first worked for Associated Artists, the design firm of Louis Comfort Tiffany, and then as a stove designer for Barney & Smith Manufacturing Company in Dayton, Ohio. In 1887, he produced a collection of decorative engravings, Essay on Broomcorn, based upon the intertwining strands of a type of sorghum with long flower stalks used in making brooms. Colonna's elegant interpretations of these plants were a testament to his own virtuosity and the arrival of the continental Art Nouveau style in America. Lost by a New York distributor at Colonna's expense, the design book never reached its intended audience of artists. He later returned to Europe and was employed by Siegfried Bing between 1898 and 1903.",
+    "dimensions": "H. 28-1/2, W. 23-1/2, D. 39-1/4 inches (72.4 x 59.7 x 99.7 cm.)",
+    "id": 487480,
+    "medium": "Palissander wood",
+    "title": "Table",
+    "what": [
+        "Wood",
+        "Furniture",
+        "Woodwork",
+        "Tables",
+        "Rosewood",
+        "Brazilian rosewood"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "Germany"
+    ],
+    "who": "Edward Colonna"
+}

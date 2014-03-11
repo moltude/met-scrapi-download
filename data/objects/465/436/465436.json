@@ -1,0 +1,123 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/464925"
+            },
+            {
+                "href": "http://scrapi.org/object/465826"
+            },
+            {
+                "href": "http://scrapi.org/object/465051"
+            },
+            {
+                "href": "http://scrapi.org/object/465303"
+            },
+            {
+                "href": "http://scrapi.org/object/465304"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 25, 2014",
+                "href": "/exhibitions/listings/2014/canterbury-stained-glass",
+                "rel": "Radiant Light"
+            },
+            {
+                "date": "From August 6, 2013",
+                "href": "/exhibitions/listings/2013/design-motifs-in-byzantine-art",
+                "rel": "Design Motifs in Byzantine Art"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R008_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140309150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R009_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140310150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R105_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140311104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R010_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140311150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R106_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140312104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R011_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140312150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R107_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140313104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R012_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140313150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R108_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140314104500",
+                "rel": "Masterpieces of the Middle Ages"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/465436"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/465436"
+        }
+    },
+    "accession number": "17.193.129",
+    "credit line": "Gift of J. Pierpont Morgan, 1917",
+    "culture": "Frankish",
+    "date": "mid-500s",
+    "department": "Medieval Art",
+    "description": "Belts were important features of early medieval dress. Not only did they serve the practical function of holding weapons and tools, but their fittings, which could vary in terms of material, decoration, and size, were also highly visible indicators of rank and status. Iron buckles, many imposing in size, were worn by both men and women. Their intricate decoration was achieved by squeezing narrow twisted strips of silver into patterns engraved on the surface of the prefabricated iron pieces. A complete belt would have consisted of a buckle, a counter plate that was placed opposite the buckle, and sometimes a rectangular plate placed in the middle of the belt at the back for decoration.",
+    "dimensions": "Overall 3 9/16 x 1 7/8 x 11/16 in. (9.1 x 4.7 x 1.8 cm)",
+    "gallery-id": 301,
+    "id": 465436,
+    "image": "http://images.metmuseum.org/CRDImages/md/original/DP30087.jpg",
+    "medium": "Copper alloy, tinned surface",
+    "provenance": [
+        "Friedrich Queckenberg, Niederbreisig, Germany",
+        "Joseph Queckenberg, Niederbreisig, Germany",
+        "J. Pierpont Morgan, London and New York (until 1917)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/md/original/DP30087.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/sf17-193-129s2.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/sf17-193-129d1.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/sf17-193-129d2.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/sf17-193-129d3.jpg"
+    ],
+    "title": "Belt Buckle",
+    "what": [
+        "Metal",
+        "Costume",
+        "Copper alloy",
+        "Metalwork",
+        "Copper",
+        "Buckles",
+        "Belts"
+    ],
+    "when": "A.D. 500-1000"
+}

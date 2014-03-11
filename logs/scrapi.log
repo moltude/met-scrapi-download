@@ -1,0 +1,10 @@
+INFO:root:Fetching page...http://scrapi.org/ids?page=2
+ERROR:root:No ID present in object record...http://scrapi.org/object/480320
+INFO:root:Fetching page...http://scrapi.org/ids?page=3
+INFO:root:Fetching page...http://scrapi.org/ids?page=4
+ERROR:root:No ID present in object record...http://scrapi.org/object/48860
+INFO:root:Fetching page...http://scrapi.org/ids?page=5
+INFO:root:Fetching page...http://scrapi.org/ids?page=6
+INFO:root:Fetching page...http://scrapi.org/ids?page=7
+INFO:root:Fetching page...http://scrapi.org/ids?page=8
+ERROR:root:No ID present in object record...http://scrapi.org/object/224273

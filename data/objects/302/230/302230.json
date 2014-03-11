@@ -1,0 +1,93 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/302231"
+            },
+            {
+                "href": "http://scrapi.org/object/285460"
+            },
+            {
+                "href": "http://scrapi.org/object/265713"
+            },
+            {
+                "href": "http://scrapi.org/object/265913"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/302230"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/302230"
+        }
+    },
+    "accession number": "2012.180",
+    "credit line": "Purchase, Charina Foundation Inc. Gift, 2012",
+    "date": "2006, printed 2012",
+    "department": "Photographs",
+    "description": "Connell\u2019s decade-long project Double Life appears to document an evolving relationship between two women who are strangely similar in appearance\u2014perhaps identical twins. In fact, the photographs are composed of multiple images of the same model, digitally stitched together into seamless composites. Through carefully controlled lighting, body language, and other subtle visual cues, Connell imbues the pictures with an uncanny intimacy, whether the scene is set in the private space of the bedroom or in the public realm of a small-town carnival. \u201cI often think that my photographs lie as documents but tell the truth as images,\u201d the artist explained in an interview. \u201cThere is the essential fiction here that I didn\u2019t photograph two people at the same time and place. But that fiction enables to photographs to portray inner thoughts, vulnerabilities, or memories on the surface.\u201d",
+    "dimensions": [
+        "Image 91.4 x 121.9 cm (36 x 48 in.)",
+        "Frame 94 \u00d7 124.5 cm (37 \u00d7 49 in.)"
+    ],
+    "id": 302230,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/2012-180_Connell.jpg",
+    "medium": "Chromogenic print",
+    "provenance": [
+        "Kelli Connell",
+        "[Catherine Edelman Gallery, Chicago]"
+    ],
+    "title": "Carnival",
+    "what": [
+        "Photographs",
+        "Chromogenic prints"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "Kelli Connell"
+}

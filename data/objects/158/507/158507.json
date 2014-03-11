@@ -1,0 +1,119 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/156640"
+            },
+            {
+                "href": "http://scrapi.org/object/156647"
+            },
+            {
+                "href": "http://scrapi.org/object/158505"
+            },
+            {
+                "href": "http://scrapi.org/object/158503"
+            },
+            {
+                "href": "http://scrapi.org/object/158508"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R150_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140407130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/158507"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/158507"
+        }
+    },
+    "accession number": "2009.300.3557",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Adelaide Goan, 1955",
+    "culture": "French",
+    "date": "1920\u201329",
+    "department": "Costume Institute",
+    "description": "This object is from a collection of sample embroideries, which was originally owned by Morris de Camp Crawford, editor of Women's Wear Daily, who collected objects which told the story of fashion and fabric history. Included in this collection was a group of textiles which illustrated what American and French designers and manufacturers were using. According to Crawford's book The Ways of Fashion, the work of Polish artist Sarah Lipska (1882-1973) was represented in this collection. Lipska is an enigmatic figure, who is known to have worked with Leon Bakst as a set and costume designer for the Ballets Russes, and later in the 1920s as a fashion designer in Paris at 4 rue Belloni, and finally as a sculptor.  Extant examples of her work are rare. Although only a few pieces in the Brooklyn Museum collection bear a label or a signature, others bear hallmarks of her work, such as a distinctive form of whip stitching on appliqu\u00e9 work, unusual abstract motifs, and Cubist-inspired patterns.An example of a working relationship with a well-known company, this fabric was executed by Rodier, a well-known Paris textile manufacturer that worked with many couturiers, such as Poiret and Chanel, while the embroidery itself was designed and possibly executed by Sarah Lipska. She expresses her whimsical design sense in the unusual floral forms enclosed in bold triangles, evoking a fanciful meadow. The opposing navy and white sections are graphically distinctive, and the overall effect is highly fashionable.",
+    "dimensions": "46 in. (116.8 cm)",
+    "id": 158507,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/55.96.109.127_CP4.jpg",
+    "medium": "wool, silk, metal",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/55.96.109.127_CP4.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/55.96.109.127_detail_CP4.jpg"
+    ],
+    "title": "Textile",
+    "what": [
+        "Metal",
+        "Silk",
+        "Textiles",
+        "Wool"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": [
+        "Sarah Lipska",
+        "Rodier"
+    ]
+}

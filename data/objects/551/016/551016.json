@@ -1,0 +1,112 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/558199"
+            },
+            {
+                "href": "http://scrapi.org/object/558252"
+            },
+            {
+                "href": "http://scrapi.org/object/558277"
+            },
+            {
+                "href": "http://scrapi.org/object/558258"
+            },
+            {
+                "href": "http://scrapi.org/object/558260"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A151_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113641",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R130_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140310140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A145_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113221",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=02\u00aeion=afe",
+                "rel": "Egypt, 8000\u20132000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/551016"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/551016"
+        }
+    },
+    "accession number": "O.C.2997",
+    "credit line": "Museum Accession",
+    "date": "ca. 2649\u20132100 B.C.",
+    "department": "Egyptian Art",
+    "dimensions": "Height 5.6 x Diam: 20.8 cm (2 3/16 x 8 3/16 in.)",
+    "id": 551016,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/O.C.2997_EGDP011332.jpg",
+    "medium": "Pottery",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/eg/original/O.C.2997_EGDP011332.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/O.C.2997_EGDP011333.jpg"
+    ],
+    "title": "Bowl",
+    "what": [
+        "Ceramics",
+        "Pottery",
+        "Bowls"
+    ],
+    "when": "8000-2000 B.C.",
+    "where": [
+        "Africa",
+        "Egypt"
+    ]
+}

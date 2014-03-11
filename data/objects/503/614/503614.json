@@ -1,0 +1,129 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/503676"
+            },
+            {
+                "href": "http://scrapi.org/object/505004"
+            },
+            {
+                "href": "http://scrapi.org/object/503898"
+            },
+            {
+                "href": "http://scrapi.org/object/503901"
+            },
+            {
+                "href": "http://scrapi.org/object/504285"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/early-guitars",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/musical-instruments-east-and-west?eid=R079_%7bB33A51AA-7250-402C-9FC0-8A302D14AD06%7d_20140311121500",
+                "rel": "Musical Instruments: East and West"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/musical-instruments-east-and-west?eid=R080_%7bB33A51AA-7250-402C-9FC0-8A302D14AD06%7d_20140313121500",
+                "rel": "Musical Instruments: East and West"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/musical-instruments-east-and-west?eid=R081_%7bB33A51AA-7250-402C-9FC0-8A302D14AD06%7d_20140314121500",
+                "rel": "Musical Instruments: East and West"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/family-programs/sunday-studio/string-and-sound?eid=A002_%7b47DD1CB2-ECBA-4009-A975-5F11C7EB2F6A%7d_20131025180255",
+                "rel": "String and Sound: Musical Instruments"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/welcome-guitars?eid=A001_%7bA97BC4B9-BB40-468B-B769-E2288B803700%7d_20140210174255",
+                "rel": "Welcome and Introduction"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/guitars-unlocking?eid=A001_%7b2EF7231E-3208-4491-A372-F94BAC6ACEF2%7d_20140210174844",
+                "rel": "Early American Guitars: Unlocking the Mystery"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/concerts-and-performances/sunday-at-the-met-performance-guitars?eid=A001_%7b307D3D27-A407-452E-8961-47E4218B0B1A%7d_20140210175831",
+                "rel": "Sunday at the Met Performance\u2014Early American Guitars: The Instruments of C. F. Martin"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/concerts-and-performances/sunday-at-the-met-performance-guitars?eid=A002_%7b307D3D27-A407-452E-8961-47E4218B0B1A%7d_20140210175914",
+                "rel": "Sunday at the Met Performance\u2014Early American Guitars: The Instruments of C. F. Martin"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/family-programs/start-with-art-at-the-met-and-start-with-art-at-the-met-plus/making-music?eid=A001_%7b3AE007A9-D4D7-4923-B5F4-F9F8E5300152%7d_20131114160057",
+                "rel": "Start with Art at the Met Plus\u2014Making Music"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/musical-instruments-east-and-west?eid=R088_%7bB33A51AA-7250-402C-9FC0-8A302D14AD06%7d_20140401121500",
+                "rel": "Musical Instruments: East and West"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/musd/hd_musd.htm",
+                "rel": "Musical Terms for the Seventeenth and Eighteenth Centuries"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwl",
+                "rel": "Low Countries, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/503614"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/503614"
+        }
+    },
+    "accession number": "89.4.2363",
+    "credit line": "The Crosby Brown Collection of Musical Instruments, 1889",
+    "date": "ca. 1650",
+    "department": "Musical Instruments",
+    "description": "Jan Couchet the Elder was the grand-nephew of the famous Flemish keyboard maker Hans Ruckers. Couchet carried on the Ruckers tradition, inheriting the workshop of Ruckers's eldest son in 1643. This harpsichord originally had only one keyboard and one set each of unison and octave strings. In the eighteenth century the case was lengthened and a second keyboard and a second set of unison strings were added. The number of rows of jacks was increased from two to four: a close-plucking \"lute stop\" that plucks one set of unison strings from the upper keyboard, a second row that plucks the other set of unison strings and is operated from both keyboards, a third row that plucks the octave strings, and a fourth row that plucks the same strings as the lute stop. Both the first and the fourth rows divide at middle C, so that it is possible to play the lute stop in the treble from the upper keyboard while playing the farthest unison in the bass from the lower keyboard or vice versa.",
+    "dimensions": [
+        "L. 229 cm (90 1/8 in.); W. 85.5 cm (33 3/4 in.); D. 26.9 cm (10 1/2 in.); 3-octave span 50.1 cm (19 3/4 in.)",
+        "Sounding length (longer 8' choir, plucking points)",
+        "8'                                         4'",
+        "FF               169.3 (15.1)                        92.5 (5.9)",
+        "c2                  33.1 (6.1)                          15.3 (2.8)",
+        "c3                  16.9 (4.4)                            7.7 (2.5)"
+    ],
+    "id": 503614,
+    "image": "http://images.metmuseum.org/CRDImages/mi/original/DT684a.jpg",
+    "medium": "Wood and various materials",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/mi/original/DT684a.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/O1506 89.4.2363.jpg"
+    ],
+    "title": "Harpsichord",
+    "what": [
+        "Musical instruments",
+        "Chordophones",
+        "Zithers",
+        "Harpsichords"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "Flanders",
+        "Belgium",
+        "Antwerp"
+    ],
+    "who": "Jan Couchet the Elder"
+}

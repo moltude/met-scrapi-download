@@ -1,0 +1,119 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/340936"
+            },
+            {
+                "href": "http://scrapi.org/object/340932"
+            },
+            {
+                "href": "http://scrapi.org/object/340935"
+            },
+            {
+                "href": "http://scrapi.org/object/340937"
+            },
+            {
+                "href": "http://scrapi.org/object/340938"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/anat/hd_anat.htm",
+                "rel": "Anatomy in the Renaissance"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/draw/hd_draw.htm",
+                "rel": "Drawing in the Middle Ages"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/mgot/hd_mgot.htm",
+                "rel": "Gothic Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/zino/hd_zino.htm",
+                "rel": "Mannerism: Bronzino (1503\u20131572) and his Contemporaries"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/villa/hd_villa.htm",
+                "rel": "The Idea and Invention of the Villa"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/vefl/hd_vefl.htm",
+                "rel": "Venetian Color and Florentine Design"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/wedd/hd_wedd.htm",
+                "rel": "Weddings in the Italian Renaissance"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/345837"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/345837"
+        }
+    },
+    "accession number": "52.570.59",
+    "credit line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1952",
+    "date": "1511\u201374",
+    "department": "Drawings and Prints",
+    "dimensions": "sheet 13 1/2 x 9 1/2 in. (34.3 x 24.1 cm)",
+    "id": 345837,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP812211.jpg",
+    "medium": "Pen and brown ink, brush and rose-brown wash, over black chalk, and compass and ruled construction",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP812211.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/52.570.59.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/MM59440.jpg"
+    ],
+    "title": "Drawing for Vasari's House in Arezzo",
+    "what": [
+        "Ink",
+        "Drawings",
+        "Chalk"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Giorgio Vasari"
+}

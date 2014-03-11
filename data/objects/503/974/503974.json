@@ -1,0 +1,127 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/503448"
+            },
+            {
+                "href": "http://scrapi.org/object/503530"
+            },
+            {
+                "href": "http://scrapi.org/object/503902"
+            },
+            {
+                "href": "http://scrapi.org/object/504604"
+            },
+            {
+                "href": "http://scrapi.org/object/504597"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/early-guitars",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/musical-instruments-east-and-west?eid=R079_%7bB33A51AA-7250-402C-9FC0-8A302D14AD06%7d_20140311121500",
+                "rel": "Musical Instruments: East and West"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/musical-instruments-east-and-west?eid=R080_%7bB33A51AA-7250-402C-9FC0-8A302D14AD06%7d_20140313121500",
+                "rel": "Musical Instruments: East and West"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/musical-instruments-east-and-west?eid=R081_%7bB33A51AA-7250-402C-9FC0-8A302D14AD06%7d_20140314121500",
+                "rel": "Musical Instruments: East and West"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/family-programs/sunday-studio/string-and-sound?eid=A002_%7b47DD1CB2-ECBA-4009-A975-5F11C7EB2F6A%7d_20131025180255",
+                "rel": "String and Sound: Musical Instruments"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/welcome-guitars?eid=A001_%7bA97BC4B9-BB40-468B-B769-E2288B803700%7d_20140210174255",
+                "rel": "Welcome and Introduction"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/guitars-unlocking?eid=A001_%7b2EF7231E-3208-4491-A372-F94BAC6ACEF2%7d_20140210174844",
+                "rel": "Early American Guitars: Unlocking the Mystery"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/concerts-and-performances/sunday-at-the-met-performance-guitars?eid=A001_%7b307D3D27-A407-452E-8961-47E4218B0B1A%7d_20140210175831",
+                "rel": "Sunday at the Met Performance\u2014Early American Guitars: The Instruments of C. F. Martin"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/concerts-and-performances/sunday-at-the-met-performance-guitars?eid=A002_%7b307D3D27-A407-452E-8961-47E4218B0B1A%7d_20140210175914",
+                "rel": "Sunday at the Met Performance\u2014Early American Guitars: The Instruments of C. F. Martin"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/family-programs/start-with-art-at-the-met-and-start-with-art-at-the-met-plus/making-music?eid=A001_%7b3AE007A9-D4D7-4923-B5F4-F9F8E5300152%7d_20131114160057",
+                "rel": "Start with Art at the Met Plus\u2014Making Music"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/musical-instruments-east-and-west?eid=R088_%7bB33A51AA-7250-402C-9FC0-8A302D14AD06%7d_20140401121500",
+                "rel": "Musical Instruments: East and West"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwc",
+                "rel": "Central Europe (including Germany), 1600\u20131800 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwc",
+                "rel": "Central Europe and Low Countries, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/503974"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/503974"
+        }
+    },
+    "accession number": "1983.108",
+    "credit line": "Gift of Helen C. Lanier, 1983",
+    "date": "ca. 1800",
+    "department": "Musical Instruments",
+    "description": "Also called a \"dulcimer\" or \"harp clock\", this timekeeper marks the hours with a repertoire of six popular tunes as well as a bell. Below the dial is a sound box with wire strings that are struck by 16 little hammers activated by a pinned cylinder. A carved painted panel showing a shepherdess and her flock conceals the strings. A hand-operated mute silences the music at night.",
+    "dimensions": [
+        "Greatest width 42.5 x Total L. excluding ropes: 105cm (16 3/4 x 41 5/16in.)",
+        "c1 54.6 cm; c2 25.6 cm; c3 12.0 cm."
+    ],
+    "id": 503974,
+    "image": "http://images.metmuseum.org/CRDImages/mi/original/C1986 1983.108.jpg",
+    "medium": "Wood, metal",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/mi/original/C1986 1983.108.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/231826.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/231827.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/231828.jpg"
+    ],
+    "title": "Musical Clock",
+    "what": [
+        "Metal",
+        "Musical instruments",
+        "Chordophones",
+        "Timepieces",
+        "Clocks",
+        "Zithers",
+        "Pianos"
+    ],
+    "where": [
+        "Europe",
+        "Germany"
+    ],
+    "who": "Martin Vanlo?"
+}

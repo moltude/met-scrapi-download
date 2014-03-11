@@ -1,0 +1,120 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/313812"
+            },
+            {
+                "href": "http://scrapi.org/object/313813"
+            },
+            {
+                "href": "http://scrapi.org/object/313887"
+            },
+            {
+                "href": "http://scrapi.org/object/313808"
+            },
+            {
+                "href": "http://scrapi.org/object/313809"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From September 16, 2013",
+                "href": "/exhibitions/listings/2013/feathered-walls",
+                "rel": "Feathered Walls"
+            },
+            {
+                "date": "From October 8, 2013",
+                "href": "/exhibitions/listings/2013/nelson-rockefeller",
+                "rel": "The Nelson A. Rockefeller Vision"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/talks/gallery-talks/ancient-american-sculpture?eid=A001_%7b7A6AA394-9359-47C1-87B4-65B0894C01AB%7d_20140123114645",
+                "rel": "Ancient American Sculpture"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R105_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140311130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R106_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140312130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R107_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140313130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 18, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/shaping-the-african-art-canon?eid=A001_%7b447041C4-D9E7-43A9-AE5F-85BAEB6E7196%7d_20140214113010",
+                "rel": "Shaping the African Art Canon: From the Museum to the Classroom"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/talks/the-observant-eye/shared-memory-sculptural-ancestral-objects-from-oceania?eid=A001_%7b94768B86-339F-4726-A3BC-8F798C423768%7d_20140123143856",
+                "rel": "Shared Memory: Sculptural Ancestral Objects from Oceania"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=A116_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140210093151",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/talks/gallery-talks/ancient-american-sculpture?eid=A002_%7b7A6AA394-9359-47C1-87B4-65B0894C01AB%7d_20140123114700",
+                "rel": "Ancient American Sculpture"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R117_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140401130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=sse",
+                "rel": "Southeast Asia, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/311609"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/311609"
+        }
+    },
+    "accession number": "1978.412.1168",
+    "credit line": "The Michael C. Rockefeller Memorial Collection; Gift of Nelson A. Rockefeller and Mrs. Mary C. Rockefeller, 1965",
+    "culture": "Asmat people",
+    "date": "mid-20th century",
+    "department": "Arts of Africa, Oceania and the Americas",
+    "dimensions": "H. 25 in. (63.5 cm)",
+    "id": 311609,
+    "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1978_412_1168.jpg",
+    "medium": "Wood, paint",
+    "provenance": [
+        "Michael C. Rockefeller Expedition, collected 1961",
+        "Nelson A. Rockefeller, New York, 1961\u20131965",
+        "The Museum of Primitive Art, New York, 1965\u20131978"
+    ],
+    "title": "Figure",
+    "what": [
+        "Sculpture",
+        "Wood",
+        "Figures"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Asia",
+        "Indonesia",
+        "Irian Jaya"
+    ]
+}

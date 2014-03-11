@@ -1,0 +1,125 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/466002"
+            },
+            {
+                "href": "http://scrapi.org/object/466013"
+            },
+            {
+                "href": "http://scrapi.org/object/466492"
+            },
+            {
+                "href": "http://scrapi.org/object/464599"
+            },
+            {
+                "href": "http://scrapi.org/object/463758"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 25, 2014",
+                "href": "/exhibitions/listings/2014/canterbury-stained-glass",
+                "rel": "Radiant Light"
+            },
+            {
+                "date": "From August 6, 2013",
+                "href": "/exhibitions/listings/2013/design-motifs-in-byzantine-art",
+                "rel": "Design Motifs in Byzantine Art"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R008_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140309150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R009_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140310150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R105_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140311104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R010_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140311150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R106_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140312104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R011_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140312150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R107_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140313104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R012_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140313150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R108_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140314104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=07\u00aeion=euwf",
+                "rel": "France, 1000\u20131400 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/465991"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/465991"
+        }
+    },
+    "accession number": "1977.346.1",
+    "credit line": "Gift of Ella Brummer, in memory of her husband, Ernest Brummer, 1977",
+    "culture": "French",
+    "date": "ca. 1170",
+    "department": "Medieval Art",
+    "description": "The stained glass produced for the Collegiate Church of Saint-\u00c9tienne in Troyes during the late twelfth century represents a major transition from the Romanesque to the Gothic style.  None of the panels from what was once an ambitious cycle of scenes\u2014ranging in theme from the public life and Passion of Christ and the Dormition of the Virgin to the life of Saint Nicholas of Myra\u2014remains in its original setting, since the church was destroyed in the wake of the French Revolution.  The glass is now scattered in public and private collections in Europe and America.  The Museum's panel of censing angels conforms to a window design of connected semicircles, whose overall subject was the Dormition of the Virgin.  Here, the pairs of angels, seen moving away from the connected arcs, are painted with an exceptional precision, against a ground decorated with a fine pattern of rinceaux.  The organic articulation of the figures and the strikingly balanced colors are analogous to effects found in both manuscript illumination and enamel work.  However, it is the chevron-shaped folds of the drapery, which radiate with a metallic precision, that especially invite comparison to a group of contemporary manuscripts produced in Champagne by illuminators originally trained in northern France.  Stylistic links with Mosan enamel work also demonstrate that the Troyes artist had assimilated techniques, color relationships, and figure types uncharacteristic of twelfth-century stained-glass painting.",
+    "dimensions": "18 1/2 x 17 5/16 in. (47 x 44 cm)",
+    "gallery-id": 304,
+    "id": 465991,
+    "image": "http://images.metmuseum.org/CRDImages/md/original/DT127.jpg",
+    "medium": "Pot-metal glass, vitreous paint, and lead",
+    "provenance": [
+        "[ Andr\u00e9 Lion, Paris (sold 1937) (?)]",
+        "[ Brummer Gallery, Paris and New York (from 1937)]",
+        "Ernest and Ella Brummer, New York (until 1977)"
+    ],
+    "title": "Angels Swinging Censers",
+    "what": [
+        "Metal",
+        "Glass",
+        "Panels",
+        "Lead",
+        "Stained glass"
+    ],
+    "when": "A.D. 1000-1400",
+    "where": [
+        "Europe",
+        "France",
+        "Aube",
+        "Troyes"
+    ]
+}

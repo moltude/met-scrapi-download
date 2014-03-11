@@ -1,0 +1,146 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/49807"
+            },
+            {
+                "href": "http://scrapi.org/object/49820"
+            },
+            {
+                "href": "http://scrapi.org/object/49810"
+            },
+            {
+                "href": "http://scrapi.org/object/49811"
+            },
+            {
+                "href": "http://scrapi.org/object/70778"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 8, 2014",
+                "href": "/exhibitions/listings/2014/tibet-and-india",
+                "rel": "Tibet and India"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/chinese-carving",
+                "rel": "Colors of the Universe"
+            },
+            {
+                "date": "From July 19, 2013",
+                "href": "/exhibitions/listings/2013/chinese-snuff-bottles",
+                "rel": "Small Delights"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/ink-art",
+                "rel": "Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "From February 1, 2014",
+                "href": "/exhibitions/listings/2014/edo-period-painting",
+                "rel": "The Flowering of Edo Period Painting"
+            },
+            {
+                "date": "From April 14, 2014",
+                "href": "/exhibitions/listings/2014/lost-kingdoms",
+                "rel": "Lost Kingdoms"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R105_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140311111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R105_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140311120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R105_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140311131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/talks/gallery-talks/gallery-conv-culture-and-politics?eid=A001_%7b33996DD5-3C4F-473B-BCAE-533DF0BF66F1%7d_20140205160349",
+                "rel": "Gallery Conversation\u2014Culture and Politics in Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=A093_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20131018142432",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R106_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140312120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R106_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140312131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R107_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140313120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/programs-for-visitors-with-disabilities/visitors-who-are-blind-or-partially-sighted/picture-this-workshop-asian-art?eid=A001_%7b9CE222FD-E83F-4619-ADE7-7E4A30CBB471%7d_20140206171620",
+                "rel": "Picture This! Workshop\u2014Asian Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R107_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140314111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=eaj",
+                "rel": "Japan, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/49822"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/49822"
+        }
+    },
+    "accession number": "1998.487.2a, b",
+    "credit line": "Gift of Atsuko Irie, in honor of Suga Irie, 1998",
+    "culture": "Japan",
+    "department": "Asian Art",
+    "description": "A stand of spectacular chrysanthemums commands the bottom of this kimono, their slender petals curving dynamically upward against the rich blue background. The kimono ensemble, consisting of inner and outerrobes both bearing the chrysanthemum design, was worn by a bride on her wedding day in 1923. The 1920s also witnessed the rise in Japan of associations of amateur chrysanthemum enthusiasts.",
+    "dimensions": [
+        "(a) H (shoulder to hem) 62 in. (157.5 cm); W (wrist opening to wrist opening) 49 in. (124.5 cm)",
+        "b) H (shoulder to hem) 62 5/8in. (159 cm); W (wrist opening to wrist opening) 49 3/4 in. (126.4 cm)"
+    ],
+    "id": 49822,
+    "image": "http://images.metmuseum.org/CRDImages/as/original/DP157068.jpg",
+    "medium": "Silk, metallic thread",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/as/original/DP157068.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP157069.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP157070.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP157071.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP157072.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/1998_487_2ab_rel1.jpg"
+    ],
+    "title": "Kimono Ensemble with Chrysanthemums",
+    "what": [
+        "Costume",
+        "Silk",
+        "Ensembles",
+        "Kimonos"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Asia",
+        "Japan"
+    ]
+}

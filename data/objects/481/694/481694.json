@@ -1,0 +1,138 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/482065"
+            },
+            {
+                "href": "http://scrapi.org/object/486921"
+            },
+            {
+                "href": "http://scrapi.org/object/483116"
+            },
+            {
+                "href": "http://scrapi.org/object/484748"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From November 20, 2013",
+                "href": "/exhibitions/listings/2013/jewels-by-jar",
+                "rel": "Jewels by JAR"
+            },
+            {
+                "date": "From February 24, 2014",
+                "href": "/exhibitions/listings/2014/lucas-samaras",
+                "rel": "Lucas Samaras"
+            },
+            {
+                "date": "From December 17, 2013",
+                "href": "/exhibitions/listings/2013/metropolitan-vanities",
+                "rel": "Metropolitan Vanities"
+            },
+            {
+                "date": "From October 22, 2013",
+                "href": "/exhibitions/listings/2013/william-kentridge",
+                "rel": "William Kentridge"
+            },
+            {
+                "date": "From April 29, 2014",
+                "href": "/exhibitions/listings/2014/dan-graham",
+                "rel": "The Roof Garden Commission: Dan Graham"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R104_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140310144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/modern-art-french?eid=R027_%7b96311A2D-1D25-45BE-83E2-2054BC16D70B%7d_20140311133000",
+                "rel": "Art Moderne et Contemporain (Modern and Contemporary Art in French)"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R105_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140311144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R106_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140312144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R027_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140313140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R107_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140313144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=A076_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20131126112236",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/faces?eid=A002_%7b8EAA5A8F-1DA9-4AC7-8199-BDE367AC2FB1%7d_20140124163826",
+                "rel": "Faces! Drawing in the Galleries for Adults"
+            },
+            {
+                "date": "March 18, 2014",
+                "href": "/events/programs/tours/modern-art-french?eid=R028_%7b96311A2D-1D25-45BE-83E2-2054BC16D70B%7d_20140318133000",
+                "rel": "Art Moderne et Contemporain (Modern and Contemporary Art in French)"
+            },
+            {
+                "date": "March 20, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R028_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140320140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/mind/hd_mind.htm",
+                "rel": "Modern Art in India"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=ssa",
+                "rel": "South Asia and the Himalayan Region, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/481694"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/481694"
+        }
+    },
+    "accession number": "1977.73",
+    "credit line": "George A. Hearn Fund, 1977",
+    "date": "1976",
+    "department": "Modern and Contemporary Art",
+    "description": "Bhavsar was born in Gujarat and now lives and New York City. Today he is known for his experiments in color, but his earliest work was figural, based on a cross between Indian miniatures and Cubism. The transformation to an abstract painter occurred during his graduate studies in the United States in the 1960s, when he was much influenced by the color-field painters working at the time. He began to work in their style, but quickly distinguished himself with the invention of his own painting process. This involves soaking the canvas with a clear liquid binder and then sifting a layer of dry pigment onto the canvas, repeating until the composition is finished. In this manner, he applies as many as eighty layers to a canvas. This painting thus explores the emotive and symbolic possibilities of the color yellow.",
+    "dimensions": [
+        "H. 46, W. 42 inches",
+        "(116.8 x 106.7 cm.)"
+    ],
+    "id": 481694,
+    "image": "http://images.metmuseum.org/CRDImages/ma/original/sf1977.73.jpg",
+    "medium": "Acrylic on muslin coated paper",
+    "title": "Dhruva I",
+    "what": [
+        "Drawings",
+        "Paper",
+        "Cotton",
+        "Plastic",
+        "Acrylic",
+        "Muslin"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Asia",
+        "India"
+    ],
+    "who": "Natvar Bhavsar"
+}

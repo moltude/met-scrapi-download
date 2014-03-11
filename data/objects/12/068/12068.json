@@ -1,0 +1,152 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/15444"
+            },
+            {
+                "href": "http://scrapi.org/object/12030"
+            },
+            {
+                "href": "http://scrapi.org/object/12031"
+            },
+            {
+                "href": "http://scrapi.org/object/12033"
+            },
+            {
+                "href": "http://scrapi.org/object/12053"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 18, 2013",
+                "href": "/exhibitions/listings/2013/american-west",
+                "rel": "The American West in Bronze, 1850\u20131925"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/american-art-weekend?eid=A185_%7b501B6EDB-D4CC-4402-98B8-688E06337497%7d_20131127141222",
+                "rel": "American Art"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/monday-at-the-met-spring-2014?eid=R001_%7bBB2BF277-3666-435E-8B95-12CDE21533EA%7d_20140303100000",
+                "rel": "Monday at the Met with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R100_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140303120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R101_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140304120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R076_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140304134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R102_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140305120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R077_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140305134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R103_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140306120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R078_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140306134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/k12-educator-programs/the-american-west?eid=A001_%7b59F3CABA-5299-48C0-8465-1CF2F278D0C3%7d_20131122143623",
+                "rel": "The American West"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/amer/hd_amer.htm",
+                "rel": "America Comes of Age: 1876\u20131900"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/aimp/hd_aimp.htm",
+                "rel": "American Impressionism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/ampa/hd_ampa.htm",
+                "rel": "Americans in Paris, 1860\u20131900"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/sarg/hd_sarg.htm",
+                "rel": "John Singer Sargent (1856\u20131925)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/amdr2/hd_amdr2.htm",
+                "rel": "Nineteenth\u2013Century American Drawings"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=na",
+                "rel": "The United States and Canada, 1800\u20131900 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/12068"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/12068"
+        }
+    },
+    "accession number": "50.130.39",
+    "credit line": "Gift of Mrs. Francis Ormond, 1950",
+    "date": "1895\u20131908 (?)",
+    "department": "American Paintings and Sculpture",
+    "dimensions": "13 15/16 x 9 15/16 in. (35.4 x 25.2 cm)",
+    "id": 12068,
+    "image": "http://images.metmuseum.org/CRDImages/ap/original/DP167101.jpg",
+    "medium": "Watercolor and gouache on white wove paper",
+    "provenance": [
+        "the artist, until d. 1925",
+        "his sisters, Mrs. Francis Ormond (Violet Sargent) and Miss Emily Sargent, until 1936 (Emily Sargent's death)",
+        "Mrs. Francis Ormond, until 1950"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ap/original/DP167101.jpg",
+        "http://images.metmuseum.org/CRDImages/ap/original/ap50.130.39.jpg",
+        "http://images.metmuseum.org/CRDImages/ap/original/50.130.39.jpg",
+        "http://images.metmuseum.org/CRDImages/ap/original/216879.jpg"
+    ],
+    "title": "Arched Doorway",
+    "what": [
+        "Drawings",
+        "Paper",
+        "Paintings",
+        "Watercolors",
+        "Wove paper",
+        "Gouaches"
+    ],
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "John Singer Sargent"
+}

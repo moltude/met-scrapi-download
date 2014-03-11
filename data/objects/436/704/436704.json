@@ -1,0 +1,132 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/438818"
+            },
+            {
+                "href": "http://scrapi.org/object/436703"
+            },
+            {
+                "href": "http://scrapi.org/object/436705"
+            },
+            {
+                "href": "http://scrapi.org/object/436706"
+            },
+            {
+                "href": "http://scrapi.org/object/436707"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/piero-della-francesca",
+                "rel": "Piero della Francesca"
+            },
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "From April 22, 2014",
+                "href": "/exhibitions/listings/2014/goya",
+                "rel": "Goya and the Altamira Family"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/talks/gallery-talks/piero-della-francesca?eid=A001_%7bE50FD455-5FC1-41D0-9391-C456264363EF%7d_20140206160624",
+                "rel": "Exhibition Tour\u2014Piero della Francesca: Personal Encounters"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=A257_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20131127123002",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/monday-at-the-met-spring-2014?eid=R001_%7bBB2BF277-3666-435E-8B95-12CDE21533EA%7d_20140303100000",
+                "rel": "Monday at the Met with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R100_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140303123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R101_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140304123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R102_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140305123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R026_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140306140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R103_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140307123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/talks/the-observant-eye/stepping-out-of-the-frame?eid=A001_%7b438572AD-6B0F-4DA2-94FB-49B8931634C1%7d_20140123142901",
+                "rel": "Stepping Out of the Frame: Three-Dimensionality in the New Galleries for European Paintings"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/saturday-seminar-spring-2014?eid=R001_%7bE063A39F-FC40-4ECC-B690-C4C13F70B2A0%7d_20140308103000",
+                "rel": "Saturday Seminar with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwf",
+                "rel": "France, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/436704"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/436704"
+        }
+    },
+    "accession number": "43.85.2",
+    "credit line": "Bequest of Grace Rainey Rogers, 1943",
+    "date": "1844",
+    "department": "European Paintings",
+    "dimensions": "16 x 12 7/8 in. (40.6 x 32.7 cm)",
+    "gallery-id": 801,
+    "id": 436704,
+    "image": "http://images.metmuseum.org/CRDImages/ep/original/DT1996.jpg",
+    "medium": "Oil on canvas",
+    "provenance": [
+        "Mme Edmond Cav\u00e9, n\u00e9e Marie-\u00c9lisabeth Blavot,  Paris (gift of the artist to the sitter's wife; 1844\u2013at least 1885)",
+        "her son, Marie-Henry-Albert Boulanger-Cav\u00e9, Paris (by 1885\u2013d. 1910)",
+        "his cousin, Gaston Le Roy, Paris (1910\u2013d. 1925; his estate sale, H\u00f4tel Drouot, Paris, May 19\u201320, 1926, no. 54, as \"Portrait de M. Fran\u00e7ois [sic] Cav\u00e9,\"  for Fr 126,000, to Paul and Marcel Jonas for Rosenberg)",
+        "[Paul Rosenberg, Paris, 1926]",
+        "Grace Rainey Rogers, New York, (1926\u2013d. 1943)"
+    ],
+    "title": "Edmond Cav\u00e9 (1794\u20131852)",
+    "what": [
+        "Paintings",
+        "Canvas",
+        "Oil paint"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Jean Auguste Dominique Ingres"
+}

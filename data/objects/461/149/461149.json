@@ -1,0 +1,120 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/460848"
+            },
+            {
+                "href": "http://scrapi.org/object/460955"
+            },
+            {
+                "href": "http://scrapi.org/object/460850"
+            },
+            {
+                "href": "http://scrapi.org/object/197767"
+            },
+            {
+                "href": "http://scrapi.org/object/197773"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R130_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140310134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R131_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140311134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R132_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140312134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R133_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140313134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R134_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140314134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A109_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131126111651",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A115_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131127144444",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A110_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131126111706",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R145_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140331134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/talks/gallery-talks/european-sculpture-in-the-robert-lehman-collection?eid=A001_%7b835B4316-D69F-4E38-A76F-839A55CF6946%7d_20140123112008",
+                "rel": "European Sculpture in the Robert Lehman Collection"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/461149"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/461149"
+        }
+    },
+    "accession number": "1975.1.1296",
+    "credit line": "Robert Lehman Collection, 1975",
+    "date": "ca. 1533 (contemporary cast)",
+    "department": "Robert Lehman Collection",
+    "dimensions": "Diam 5 cm, wt. 12.18 g.",
+    "id": 461149,
+    "image": "http://images.metmuseum.org/CRDImages/rl/original/1296r.jpg",
+    "medium": [
+        "Bronze (Copper alloy with honey-colored",
+        "patina)"
+    ],
+    "provenance": [
+        "T. Whitcombe Greene, Bath",
+        "1 HenryOppenheimer, London",
+        "Oppenheimer sale, Christie\u2019s, London,28 July 1936, lot 178, including No. 81 (1975.1.1295) (to [ John Hunt, London]). Acquired by Robert Lehmanthrough Hunt from the Oppenheimer sale."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/rl/original/1296r.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/1296v.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/SLP1296v.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/SLP1296r.jpg"
+    ],
+    "title": "Medal:  Bust of Christine of Denmark",
+    "what": [
+        "Metal",
+        "Copper alloy",
+        "Bronze",
+        "Copper",
+        "Medals"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Jacopo Nizolla da Trezzo"
+}

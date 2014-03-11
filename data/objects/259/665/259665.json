@@ -1,0 +1,94 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/259628"
+            },
+            {
+                "href": "http://scrapi.org/object/259618"
+            },
+            {
+                "href": "http://scrapi.org/object/259629"
+            },
+            {
+                "href": "http://scrapi.org/object/259612"
+            },
+            {
+                "href": "http://scrapi.org/object/259630"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/259665"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/259665"
+        }
+    },
+    "accession number": "1970.539.58",
+    "credit line": "Gift of James Van DerZee Institute, 1970",
+    "date": "1934",
+    "department": "Photographs",
+    "description": "Originally based in Harlem and co-owned by the famous dancer Bill \"Bojangles\" Robinson, the New York Black Yankees evolved from the very successful New York Lincoln Giants in 1932.  Unfortunately, the Black Yankees had a less impressive record, despite the efforts of gifted players such as Satchel Paige and George \"Mule\" Suttles.  The team played at Yankee Stadium while the Yankees were on the road and joined the Negro National League in 1936.  When Jackie Robinson broke major league baseball's color barrier in 1947, the Negro Leagues were mined for talent, causing many teams to disband, including the New York Black Yankees in 1950.",
+    "dimensions": [
+        "Image 19.1 \u00d7 24.3 cm (7 1/2 \u00d7 9 9/16 in.)",
+        "Sheet 19.1 \u00d7 24.3 cm (7 1/2 \u00d7 9 9/16 in.)"
+    ],
+    "id": 259665,
+    "medium": "Gelatin silver print",
+    "provenance": [
+        "The James Van DerZee Institute"
+    ],
+    "title": "The New York Black Yankees",
+    "what": [
+        "Photographs",
+        "Gelatin silver prints"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "James Van Der Zee"
+}

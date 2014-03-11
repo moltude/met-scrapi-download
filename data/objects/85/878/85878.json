@@ -1,0 +1,128 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/85868"
+            },
+            {
+                "href": "http://scrapi.org/object/85862"
+            },
+            {
+                "href": "http://scrapi.org/object/86082"
+            },
+            {
+                "href": "http://scrapi.org/object/86090"
+            },
+            {
+                "href": "http://scrapi.org/object/113776"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R150_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140407130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=eus",
+                "rel": "Southern Europe, 1800\u20131900 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=eusb",
+                "rel": "Balkan Peninsula, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/85878"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/85878"
+        }
+    },
+    "accession number": "C.I.61.18.2a\u2013d",
+    "credit line": "Purchase, Irene Lewisohn Bequest, 1961",
+    "culture": "Greek",
+    "date": "19th\u2013early 20th century",
+    "department": "Costume Institute",
+    "dimensions": [
+        "Length (a) 41 in. (104.1 cm)",
+        "Length at CF (b) 54 in. (137.2 cm)",
+        "Overall (c) 55 x 58 in. (139.7 x 147.3 cm)",
+        "Length ((d) square) 50 in. (127 cm)"
+    ],
+    "id": 85878,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/CI61.18.2ab_F.jpg",
+    "medium": "silk, cotton, gold metallic",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/CI61.18.2ab_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI61.18.2ab_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI61.18.2b_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI61.18.2b_S.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI61.18.2c.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI61.18.2d.jpg"
+    ],
+    "title": "Ensemble",
+    "what": [
+        "Metal",
+        "Silk",
+        "Gold",
+        "Cotton",
+        "Ensembles"
+    ],
+    "where": [
+        "Europe",
+        "Greece"
+    ]
+}

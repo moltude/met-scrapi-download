@@ -1,0 +1,119 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/553719"
+            },
+            {
+                "href": "http://scrapi.org/object/553721"
+            },
+            {
+                "href": "http://scrapi.org/object/554676"
+            },
+            {
+                "href": "http://scrapi.org/object/554677"
+            },
+            {
+                "href": "http://scrapi.org/object/545452"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/teen-programs/saturday-sketching/saturday-sketching-egyptian-art?eid=A001_%7b8698F79D-A7E0-44F1-99CF-57C8A2E2471A%7d_20131211143556",
+                "rel": "Saturday Sketching\u2014Egyptian Art (Ages 11\u201318)"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A151_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113641",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R130_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140310140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=03\u00aeion=afe",
+                "rel": "Egypt, 2000\u20131000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/545445"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/545445"
+        }
+    },
+    "accession number": "22.3.516",
+    "credit line": "Rogers Fund and Edward S. Harkness Gift, 1922",
+    "date": "ca. 1961\u20131917 B.C.",
+    "department": "Egyptian Art",
+    "description": "Heqanakht was a native of Thebes (present day Luxor) during the early twelfth dynasty.  As \"ka-servant\" of a high official he was responsible for the high official's statue cult and the administration of the land and income that had been endowed to maintain this cult.  The letters and accounts written by Heqanakht and one or more scribes on sheets of papyrus were discovered by Museum excavator Herbert E. Winlock in the excavation season of 1921-1922 in the tomb of Meseh, who had a side passage and crypt in the tomb complex of the vizier Ibi, one of the rock cut tombs along the cliff overlooking the temples at Deir el-Bahri.  The documents - some still folded, tied and sealed, when found -  provide unique insights into the domestic and financial affairs of an average middle class family that lived almost four thousand years ago.   This is the front side (recto) of letter I, written, probably by Heqanakht himself, in columns from right to left on a pristine sheet of papyrus in hieratic script with black ink.  It is addressed to Heqanakht's family, specifically to a man called Merisu, who was a kind of steward responsible for the functioning of the household and its production.  In the letter Heqanakht gives instructions to send two individuals (Nakht, possibly Merisu's deputy, and Sinebniut, a subordinate) to rent land in a place named Perhaa.  He makes comments on the rental fee of land previously leased and gives directions about the rations to be provided for the man Nakht on his mission to Perhaa.",
+    "dimensions": "h. 28.4 cm (11 3/16 in);  w. 27.1 cm (10 11/16 in)",
+    "gallery-id": 107,
+    "id": 545445,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/22.3.516_3189.jpg",
+    "medium": "Papyrus, ink",
+    "provenance": [
+        "Museum excavations",
+        "acquired by the Museum in the division of finds, 1922."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/eg/original/22.3.516_3189.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/EG40_22.3.516.jpg"
+    ],
+    "title": "Heqanakht Letter I",
+    "what": [
+        "Ink",
+        "Papyrus"
+    ],
+    "when": "2000-1000 B.C.",
+    "where": [
+        "Africa",
+        "Egypt",
+        "Upper Egypt",
+        "Thebes"
+    ]
+}

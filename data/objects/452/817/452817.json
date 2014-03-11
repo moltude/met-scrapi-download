@@ -1,0 +1,134 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/445345"
+            },
+            {
+                "href": "http://scrapi.org/object/454764"
+            },
+            {
+                "href": "http://scrapi.org/object/453444"
+            },
+            {
+                "href": "http://scrapi.org/object/453249"
+            },
+            {
+                "href": "http://scrapi.org/object/447168"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A249_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114331",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A250_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114353",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world-french?eid=R026_%7b85906EA1-CA66-4610-A52C-39562E1A4C40%7d_20140310133000",
+                "rel": "Arts du monde Islamique (Arts of the Islamic World in French)"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R130_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140310141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=07\u00aeion=waa",
+                "rel": "Anatolia and the Caucasus, 1000\u20131400 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/452817"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/452817"
+        }
+    },
+    "accession number": "1976.245",
+    "credit line": "Gift of Mr. and Mrs. Jack A. Josephson, 1976",
+    "culture": "Islamic",
+    "date": "late 12th\u2013early 13th century",
+    "department": "Islamic Art",
+    "description": "In Anatolia, ceramic wall tiles, for which Ottoman architecture later became so famous, first appear in twelfth-century Konya. There, tiles like this set decorated the palace pavilion of Anatolian Seljuq sultan Qilij Arslan II (r. 1156\u201392). Both iconograpically and technically, these tiles have affinities with Iranian Seljuq ceramic traditions.",
+    "dimensions": [
+        "Gr. Diam. 9 3/16 in. (23.3 cm)",
+        "H. 9 1/4 in. (23.5 cm)",
+        "W. 8 1/4 in. (21 cm)",
+        "D 1 1/8 in. (2.9 cm)"
+    ],
+    "gallery-id": 454,
+    "id": 452817,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/sf1976-245a.jpg",
+    "medium": "Stonepaste; overglaze painted and gilded",
+    "provenance": [
+        "Octave Homberg(until 1908)",
+        "Homberg sale, Galerie Georges Petit, Paris, May 11\u201316, lot 125",
+        "JeunietteCollection, Paris (from 1908?)",
+        "Alphonse Kann, Paris (until 1927; his sale, American Art Association,New York, January 6\u20138, 1927, lot 233, to Kevorkian)",
+        "The Hagop Kevorkian Fund, New York (1927\u201376; its sale, Sotheby Parke-Bernet, New York,May 8, 1976, lot 103)",
+        "Mr. and Mrs. Jack A. Josephson, New York (1976)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/sf1976-245a.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DT2804.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/h1_1976.245.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/1976.245.jpg"
+    ],
+    "title": "Tile Panel with Sphinx",
+    "what": [
+        "Ceramics",
+        "Gilt",
+        "Painting",
+        "Panels",
+        "Tile",
+        "Overglazing"
+    ],
+    "when": "A.D. 1000-1400",
+    "where": [
+        "Asia",
+        "Turkey",
+        "Konya"
+    ]
+}

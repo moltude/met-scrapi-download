@@ -1,0 +1,96 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/285910"
+            },
+            {
+                "href": "http://scrapi.org/object/285615"
+            },
+            {
+                "href": "http://scrapi.org/object/286714"
+            },
+            {
+                "href": "http://scrapi.org/object/265905"
+            },
+            {
+                "href": "http://scrapi.org/object/283084"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwb",
+                "rel": "Great Britain and Ireland, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/283083"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/283083"
+        }
+    },
+    "accession number": "2005.100.11",
+    "credit line": "Gilman Collection, Purchase, Harriette and Noel Levine Gift, 2005",
+    "date": "1857, printed 1863\u201364",
+    "department": "Photographs",
+    "description": "Four years in the making, 692 feet in length and weighing 22,500 tons, the Great Eastern was six times the tonnage of any ship yet built and was to be propelled by all the technology then available-screw, paddle, and sail. Because of its size, it had to be moved sideways, foot by foot, and it would take an unprecedented three months to launch. Its success was seen as a matter of national pride, a confirmation of Britain's supremacy at sea.Robert Howlett, a partner at the Photographic Institution, a leading professional studio in London, was commissioned by the Illustrated London Times to document the ship's construction. Howlett photographed the ship's designer, Isambard Kingdom Brunel (1806-1859), at the time of the launching. More than anyone else of his generation, Brunel had been responsible for the transformation wrought upon Britain by the Industrial Revolution, building railways, terminals, tunnels, dry docks, piers, and bridges. Two steamships of his design were the largest ships afloat. The Great Eastern, which incorporated many novel solutions to shipbuilding, was intended to be his crowning achievement. It proved, however, to be unsuccessful as a passenger ship and, after several runs on the Atlantic line, was used to lay telegraphic cables.The photographer posed the engineer in front of the giant chains that were wound around the huge checking drums to serve as restraints in the launching. A man of modest stature and strength but of great nervous energy, Brunel was seldom seen in public without a cigar and the cigar box he carried on a strap over his shoulder. The pose and expression convey self-assurance and determination, and the mud-spattered trousers and boots show a man of action involved in all the aspects of the job. A memorable depiction of the engineer as hero, this portrait, which bears Brunel's facsimile signature, was published as a memento in 1863-64, after the deaths of photographer and subject.",
+    "dimensions": [
+        "Image 27.9 x 21.5 cm (11 x 8 7/16 in.)",
+        "Mount 36.4 x 26.6 cm (14 5/16 x 10 1/2 in.)"
+    ],
+    "id": 283083,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DT238395.jpg",
+    "medium": "Albumen silver print from glass negative",
+    "provenance": [
+        "(sold, Sotheby's Belgravia Auction, London, Jan. 7, 1977)",
+        "Gilman Paper Company Collection, New York"
+    ],
+    "title": "[Isambard Kingdom Brunel Standing Before the Launching Chains of the Great Eastern]",
+    "what": [
+        "Photographs",
+        "Albumen silver prints"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "United Kingdom"
+    ],
+    "who": "Robert Howlett"
+}

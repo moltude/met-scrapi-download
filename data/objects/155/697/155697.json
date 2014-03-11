@@ -1,0 +1,117 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/175090"
+            },
+            {
+                "href": "http://scrapi.org/object/175059"
+            },
+            {
+                "href": "http://scrapi.org/object/85180"
+            },
+            {
+                "href": "http://scrapi.org/object/154394"
+            },
+            {
+                "href": "http://scrapi.org/object/79548"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R130_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140310130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/155697"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/155697"
+        }
+    },
+    "accession number": "2009.300.1028a\u2013d",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Youseff Rizkallah, 1986",
+    "culture": "French",
+    "date": "ca. 1970",
+    "department": "Costume Institute",
+    "description": "Yves Saint Laurent's Rive Gauche line for women debuted in 1966, with menswear following in 1969. In promoting ready-to-wear clothing, Saint Laurent successfully outfitted a new group of consumers with his designs. In this example, Saint Laurent showed how a functional garment, a basic man's raincoat, could be adapted, enlivened and made fashionable. Men's clothing in the 1960s incorporated colors far beyond the traditional muted palette and the teal blue of this raincoat illustrates how the \"peacock revolution\" of that decade extended into the 1970s.",
+    "dimensions": "Length at CB 52 in. (132.1 cm)",
+    "id": 155697,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/86.11.11a-b_CP4.jpg",
+    "medium": "cotton",
+    "title": "Raincoat",
+    "what": [
+        "Costume",
+        "Cotton",
+        "Outerwear",
+        "Overcoats",
+        "Raincoats"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": [
+        "Yves Saint Laurent",
+        "Yves Saint Laurent, Paris",
+        "Yves Saint Laurent Rive Gauche"
+    ]
+}

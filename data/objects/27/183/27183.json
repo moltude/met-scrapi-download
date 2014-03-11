@@ -1,0 +1,116 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/22971"
+            },
+            {
+                "href": "http://scrapi.org/object/22972"
+            },
+            {
+                "href": "http://scrapi.org/object/27184"
+            },
+            {
+                "href": "http://scrapi.org/object/27396"
+            },
+            {
+                "href": "http://scrapi.org/object/35372"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From October 2, 2012",
+                "href": "/exhibitions/listings/2012/arms-and-armor",
+                "rel": "Bashford Dean and the Creation of the Arms and Armor Department"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A074_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112917",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A084_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113556",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A093_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113923",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A075_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112932",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A094_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113938",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 5, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A085_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113610",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161351",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A076_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112951",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 19, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161305",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 26, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A086_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113630",
+                "rel": "Arms and Armor"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/27183"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/27183"
+        }
+    },
+    "accession number": "21.102.10",
+    "credit line": "Fletcher Fund, 1921",
+    "culture": "Italian",
+    "date": "ca. 1550\u201360",
+    "department": "Arms and Armor",
+    "description": "This cantle plate is etched (formerly gilt) with five emblematic scenes in rondels, each of which is surrounded by a motto in Spanish. The emblems and mottoes are taken from Los emblemas de Alciato traduciados in rhimas espanolas (Lyon, 1549), the first Spanish edition of the widely influential emblem books of Andrea Alciato (1492\u20131550), a renowned Milanese humanist. The Museum's cantle plate was probably made shortly after 1550, possibly for a Spanish nobleman serving in Italy.",
+    "dimensions": "19 1/2 x 6 1/2 in. (49.5 x 16.5 cm); Wt. 2 lb. 8 oz. (1.13 kg)",
+    "id": 27183,
+    "image": "http://images.metmuseum.org/CRDImages/aa/original/DP108787.jpg",
+    "medium": "Steel, gilding",
+    "provenance": [
+        "Ex. Coll.: Robert Curzon, Baron Zouche of Haryngworth, Parham, Pulborough, Sussex",
+        "Baroness Zouche of Haryngworth"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/aa/original/DP108787.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP108788.jpg"
+    ],
+    "title": "Cantle Plate",
+    "what": [
+        "Metal",
+        "Gilt",
+        "Iron and iron alloy",
+        "Iron alloy",
+        "Steel",
+        "Saddles"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Italy"
+    ]
+}

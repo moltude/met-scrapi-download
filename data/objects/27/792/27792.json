@@ -1,0 +1,143 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/22605"
+            },
+            {
+                "href": "http://scrapi.org/object/22851"
+            },
+            {
+                "href": "http://scrapi.org/object/22856"
+            },
+            {
+                "href": "http://scrapi.org/object/22337"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From October 2, 2012",
+                "href": "/exhibitions/listings/2012/arms-and-armor",
+                "rel": "Bashford Dean and the Creation of the Arms and Armor Department"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A074_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112917",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A084_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113556",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A093_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113923",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A075_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112932",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A094_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113938",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 5, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A085_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113610",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161351",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A076_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112951",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 19, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161305",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 26, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A086_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113630",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/aams/hd_aams.htm",
+                "rel": "Arms and Armor \u2013 Common Misconceptions and Frequently Asked Questions"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/afas17/hd_afas17.htm",
+                "rel": "Fashion in European Armor, 1600\u20131700"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/deca/hd_deca.htm",
+                "rel": "The Decoration of European Armor"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/ufarm/hd_ufarm.htm",
+                "rel": "The Function of Armor in Medieval and Renaissance Europe"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=eusi",
+                "rel": "Iberian Peninsula, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/27792"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/27792"
+        }
+    },
+    "accession number": "15.113.1\u2013.5; 29.158.885",
+    "credit line": "Armor Rogers Fund, 1915; buff coat: Bashford Dean Memorial Collection, Funds from various donors, 1929",
+    "culture": "British, London",
+    "date": "ca. 1683",
+    "department": "Arms and Armor",
+    "description": "This armor can be identified by its decoration as having belonged to Pedro II (reigned 1683\u20131706). The decoration includes the crowned monogram PR for Pedro Rex (Pedro the King) and the cross of the commander of the Order of Christ, a hereditary office held by the kings of Portugal.Harquebusiers were armored cavalrymen generally equipped with a carbine (known as a harquebus) carried at the right side on a shoulder belt, a pair of pistols holstered at the front of the saddle, and a sword. This form of armor, consisting of a triple-barred helmet, a cuirass with a bulletproof reinforcing breastplate, and an elbow gaunlet, was commonplace in England up to about 1645. The armor of King Pedro is significant not only as a very late example of this type but also as the probable work of the London armorer Richard Holden. A very similar armor made by Holden in 1686 for James II of England (reigned 1685\u201388) is in the Royal Armouries in the Tower of London. The armor is shown with an associated buff coat. This sturdy leather defense, which provided effective protection against sword cuts, was worn throughout the seventeenth century, first in conjunction with armor and later alone.",
+    "dimensions": "Wt., 43 lb. 5 oz. (19.6 kg); helmet 14 x 11 x 15 1/4 in. (35.6 x 27.9 x 38.7 cm); Wt., 9 lb. 10 oz. (4354 g); breastplate: 18 1/2 x 16 5/16 x 7 13/16 in. (47 x 41.4 x 19.8 cm); Wt., 10 lb. 14 oz. (4944 g); backplate: 17 1/2 x 16 1/4 x 8 1/2 in. (44.5 x 41.3 x 21.6 cm); Wt., 11 lb. 5 oz. (5126 g); reinforcing breastplate: 17 3/8 x 16 3/16 x 6 13/16 in. (44.1 x 41.1 x 17.3 cm); Wt., 9 lb. 6 oz. (4264 g); bridle gauntlet: 5 1/2 x 19 7/16 x 6 3/4 in. (14 x 49.4 x 17.1 cm); Wt., 2 lb. 2 oz. (953 g)",
+    "gallery-id": 371,
+    "id": 27792,
+    "image": "http://images.metmuseum.org/CRDImages/aa/original/DT755.jpg",
+    "medium": "Steel, engraved, blued, and gilt; leather, string laces",
+    "title": "Harquebusier's Armor of Pedro II, King of Portugal (reigned 1683\u20131706) with Buff Coat",
+    "what": [
+        "Metal",
+        "Costume",
+        "Engraving",
+        "Needlework",
+        "Gilt",
+        "Iron and iron alloy",
+        "Leather",
+        "Lace",
+        "Iron alloy",
+        "Steel",
+        "Armor",
+        "Coats",
+        "Body armor",
+        "Buffs",
+        "Buff coats"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "United Kingdom",
+        "England",
+        "London"
+    ],
+    "who": "Richard Holden"
+}

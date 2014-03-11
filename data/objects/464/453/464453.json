@@ -1,0 +1,129 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/464455"
+            },
+            {
+                "href": "http://scrapi.org/object/469715"
+            },
+            {
+                "href": "http://scrapi.org/object/464359"
+            },
+            {
+                "href": "http://scrapi.org/object/464461"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 25, 2014",
+                "href": "/exhibitions/listings/2014/canterbury-stained-glass",
+                "rel": "Radiant Light"
+            },
+            {
+                "date": "From August 6, 2013",
+                "href": "/exhibitions/listings/2013/design-motifs-in-byzantine-art",
+                "rel": "Design Motifs in Byzantine Art"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R008_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140309150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R009_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140310150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R105_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140311104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R010_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140311150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R106_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140312104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R011_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140312150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R107_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140313104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R012_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140313150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R108_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140314104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/goiv/hd_goiv.htm",
+                "rel": "Ivory Carving in the Gothic Era, 13th\u201315th centuries"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=07\u00aeion=eust",
+                "rel": "Italian Peninsula, 1000\u20131400 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/464453"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/464453"
+        }
+    },
+    "accession number": "17.190.489",
+    "credit line": "Gift of J. Pierpont Morgan, 1917",
+    "culture": "North Italian",
+    "date": "ca. 1390\u20131400",
+    "department": "Medieval Art",
+    "description": "The altarpiece depicts episodes from the life of Christ (central section), of Saint John the Baptist (left), and of Saint John the Evangelist (right). The appearance of Franciscan friars in the Crucifixion scene suggests that the altarpiece was originally commissioned for a Franciscan community. The Embriachi family, which ran successful workshops in Venice and Florence, produced numerous carvings in bone, ivory, and other materials.",
+    "dimensions": "without wooden base 50 1/2 x 60 1/2 in.  (128.3 x 153.7 cm)",
+    "gallery-id": 306,
+    "id": 464453,
+    "image": "http://images.metmuseum.org/CRDImages/md/original/sf17-190-489s01a.jpg",
+    "medium": "Bone framed with intarsia and horn, traces of paint and gilding",
+    "provenance": [
+        "Giovanni Battista Cagnola",
+        "J. Pierpont Morgan, London and New York (until 1913)",
+        "Estate of J. Pierpont Morgan(1913\u20131917)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/md/original/sf17-190-489s01a.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/sf17-190-489Ld01.jpg"
+    ],
+    "title": "Altarpiece",
+    "what": [
+        "Gilt",
+        "Bone",
+        "Ivory",
+        "Horn",
+        "Altarpieces"
+    ],
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Baldassare degli Embriachi"
+}

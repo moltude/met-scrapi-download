@@ -1,0 +1,121 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/503100"
+            },
+            {
+                "href": "http://scrapi.org/object/503101"
+            },
+            {
+                "href": "http://scrapi.org/object/503083"
+            },
+            {
+                "href": "http://scrapi.org/object/503084"
+            },
+            {
+                "href": "http://scrapi.org/object/503085"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/early-guitars",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/musical-instruments-east-and-west?eid=R078_%7bB33A51AA-7250-402C-9FC0-8A302D14AD06%7d_20140307121500",
+                "rel": "Musical Instruments: East and West"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/concerts-and-performances/ernie-sites?eid=A001_%7bE8CB7AEE-6F19-46A1-BCDF-ACF04F0FA0A0%7d_20140221154312",
+                "rel": "Gallery Concert: Ernie Sites, Guitar"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A001_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203181946",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A002_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203182002",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A004_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203182034",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A006_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203182105",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A005_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20140206152942",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A001_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115501",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A002_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115523",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A003_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115537",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=sse",
+                "rel": "Southeast Asia, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/503099"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/503099"
+        }
+    },
+    "accession number": "1977.393.17 a-c",
+    "credit line": "Gift of Carroll C., Beverly and Garry S. Bratman, 1977",
+    "date": "1955\u201360",
+    "department": "Musical Instruments",
+    "description": "This instrument is part of the gamelan built to be used at the 1964 World's Fair in New York City.",
+    "dimensions": "Case L. 164.5 cm (64.76 in.);  D. 55.6 cm (21.89 in. ); H.  49 cm. (19.29 in.).  Bars.   Longest 57.4 cm (22.6 in.); shortest: 27.4 cm (10.79 in.)",
+    "id": 503099,
+    "image": "http://images.metmuseum.org/CRDImages/mi/original/213440.jpg",
+    "medium": "Teak wood, bronze",
+    "provenance": [
+        "This instrument is part of the gamelan used at the 1964 New York World's Fair subsequently purchased by Carroll Music and in 1977 given to the Metropolitan Museum."
+    ],
+    "title": "Gambang Slendro",
+    "what": [
+        "Metal",
+        "Copper alloy",
+        "Bronze",
+        "Wood",
+        "Musical instruments",
+        "Idiophones",
+        "Teak",
+        "Xylophones",
+        "Gambang kayu"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Asia",
+        "Indonesia",
+        "Java",
+        "Solo"
+    ],
+    "who": "Mangkunegaran Gamelan Factory"
+}

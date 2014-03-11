@@ -1,0 +1,123 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/634105"
+            },
+            {
+                "href": "http://scrapi.org/object/466293"
+            },
+            {
+                "href": "http://scrapi.org/object/469987"
+            },
+            {
+                "href": "http://scrapi.org/object/469988"
+            },
+            {
+                "href": "http://scrapi.org/object/469989"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 25, 2014",
+                "href": "/exhibitions/listings/2014/canterbury-stained-glass",
+                "rel": "Radiant Light"
+            },
+            {
+                "date": "From August 6, 2013",
+                "href": "/exhibitions/listings/2013/design-motifs-in-byzantine-art",
+                "rel": "Design Motifs in Byzantine Art"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/ancestors-of-christ?eid=A001_%7b64F28017-6AB0-4B00-864F-E5676EE07585%7d_20140113142350",
+                "rel": "The Ancestors of Christ: Stained Glass Windows from Canterbury Cathedral"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/ancestors-of-christ?eid=A002_%7b64F28017-6AB0-4B00-864F-E5676EE07585%7d_20140113142402",
+                "rel": "The Ancestors of Christ: Stained Glass Windows from Canterbury Cathedral"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R008_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140309150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R009_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140310150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R105_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140311104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R010_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140311150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R106_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140312104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R011_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140312150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R107_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140313104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=euwc",
+                "rel": "Central Europe (including Germany), 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/465954"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/465954"
+        }
+    },
+    "accession number": "1971.43",
+    "credit line": "The Cloisters Collection, 1971",
+    "culture": "Upper Rhenish",
+    "date": "ca. 1490\u20131500",
+    "department": "The Cloisters",
+    "description": "Although the Bible states that the Queen of Sheba posed difficult questions to Solomon, their content, not specified in the biblical text, comes from eastern folklore. Here the queen asks Solomon how to tell the boy from the girl in a look-alike pair and the real flower from an identical artificial flower. Solomon replies that the girl will catch the apple in the lap of her dress and the bee will go only to the real flower. The figure of Solomon shows the influence of the Upper Rhenish engraver Master E.S. The unusual and extensive use of Ghiordes knot in the costumes and in the hair of Solomon is thought to be characteristic of Strasbourg workshops.Please note that this object is exhibited on a rotating basis, due to conservation requirements.",
+    "dimensions": "31 1/2 x 40 in.  (80 x 101.6 cm)",
+    "id": 465954,
+    "image": "http://images.metmuseum.org/CRDImages/cl/original/DT806.jpg",
+    "medium": "Linen warp; wool, linen and metallic wefts",
+    "provenance": [
+        "J. Pierpont Morgan , London and New York (before 1906-1916)",
+        "[ P. W. French & Co. , New York (1916)]",
+        "W. Hinckle Smith , Philadelphia (1916-1970)",
+        "[ P. W. French & Co. New York (1970 - sold 1971)]"
+    ],
+    "title": "Two Riddles of the Queen of Sheba",
+    "what": [
+        "Textiles",
+        "Wool",
+        "Linen",
+        "Tapestries"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Germany",
+        "Rhineland"
+    ]
+}

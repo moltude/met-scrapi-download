@@ -1,0 +1,149 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/447740"
+            },
+            {
+                "href": "http://scrapi.org/object/447510"
+            },
+            {
+                "href": "http://scrapi.org/object/447515"
+            },
+            {
+                "href": "http://scrapi.org/object/452100"
+            },
+            {
+                "href": "http://scrapi.org/object/452309"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A250_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114353",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world-french?eid=R026_%7b85906EA1-CA66-4610-A52C-39562E1A4C40%7d_20140310133000",
+                "rel": "Arts du monde Islamique (Arts of the Islamic World in French)"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R130_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140310141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A232_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134244",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=nfe",
+                "rel": "Egypt, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/452308"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/452308"
+        }
+    },
+    "accession number": "1971.263.1",
+    "credit line": "Gift of Joseph V. McMullan, 1971",
+    "culture": "Islamic",
+    "date": "last quarter 16th century",
+    "department": "Islamic Art",
+    "description": "Documents first refer to Cairo as a carpet-weaving center in the last quarter of the fifteenth century. Carpets of this type figured significantly in Mediterranean commerce and appear in Venetian paintings as early as the mid-sixteenth century. They are characterized by a kaleidoscopic profusion of tiny motifs and a very limited color range, resulting in an iridescent effect. Production of these so-called Mamluk carpets continued through the sixteenth century, even after the Ottoman conquest of Egypt.",
+    "dimensions": [
+        "Rug H. 77 1/2 in. (196.9 cm)",
+        "W. 55 1/2 in. (141 cm)"
+    ],
+    "id": 452308,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/DP274966.jpg",
+    "medium": "Wool (warp, weft, and pile); asymmetrically knotted pile",
+    "provenance": [
+        "Joseph V. McMullan, New York (by 1963\u201371)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/DP274966.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/198331.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-1971.263.1.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-1971.263.1b.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-1971.263.1c.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-1971.263.1d.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-1971.263.1e.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-1971.263.1f.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-1971.263.1g.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-1971.263.1h.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-1971.263.1i.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-1971.263.1j.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-1971.263.1k.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-1971.263.1l.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-1971.263.1m.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-1971.263.1n.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-1971.263.1o.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-1971.263.1p.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-1971.263.1q.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-1971.263.1r.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-1971.263.1s.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-1971.263.1t.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-1971.263.1u.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-1971.263.1v.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-1971.263.1w.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-1971.263.1x.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/DP272799.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP274964.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP274965.jpg"
+    ],
+    "title": "Textile Fragment",
+    "what": [
+        "Textiles",
+        "Fragments",
+        "Wool",
+        "Rugs"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Africa",
+        "Egypt",
+        "Cairo"
+    ]
+}

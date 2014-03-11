@@ -1,0 +1,176 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/456342"
+            },
+            {
+                "href": "http://scrapi.org/object/457728"
+            },
+            {
+                "href": "http://scrapi.org/object/452749"
+            },
+            {
+                "href": "http://scrapi.org/object/453191"
+            },
+            {
+                "href": "http://scrapi.org/object/454083"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A249_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114331",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A250_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114353",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world-french?eid=R026_%7b85906EA1-CA66-4610-A52C-39562E1A4C40%7d_20140310133000",
+                "rel": "Arts du monde Islamique (Arts of the Islamic World in French)"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R130_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140310141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=ssa",
+                "rel": "South Asia, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/453673"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/453673"
+        }
+    },
+    "accession number": "1999.157",
+    "credit line": "Purchase, Friends of Islamic Art Gifts, 1999",
+    "culture": "Islamic",
+    "date": "ca. 1690",
+    "department": "Islamic Art",
+    "description": "The text of this book is a series of moralizing poems on the merits of the ascetic life, three of which are illustrated. The painting illustrates the parable of a recluse who accepts bread from an infidel (depicted here as the English monarch Charles II) and is chided by a dog. The beautiful birds in the margin of the page compete for attention with the witty illustration.Other paintings include one which accompanies a poem on the regrets of a life spent learning useless information; the artist has shown a school where only the sciences are taught, its teachers dozing, meditating and drinking. Another painting accompanies a poem valorizing patience\u2014a recluse, shown praying in the wilderness, does not receive his customary daily bread; when he accepts food offered by an infidel, he is scolded by a dog for not having waiting for God to provide. A final image accompanies a poem about hypocrisy\u2014it shows the widow Bibi Tamiz praying, although she is known to be a prostitute.",
+    "dimensions": [
+        "H. 9 1/4 in. (23.5 cm)",
+        "W. 5 1/2 in. (14 cm)"
+    ],
+    "gallery-id": 463,
+    "id": 453673,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/DP235872.jpg",
+    "medium": [
+        "Ink, opaque watercolor, and gold on paper",
+        "Binding leather"
+    ],
+    "provenance": [
+        "[ Sam Fogg, London, until 1999",
+        "sold to MMA]"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/DP235872.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/267199.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/267201.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/ISL69.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/ISL76.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/ISL77.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/ISL78.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/ISL79.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/ISL80.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/ISL145.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/ISL147.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DT4396.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DT4397.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/266002_1999.157.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/266003_1999.157.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/266004_1999.157.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/266005_1999.157.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/266006_1999.157.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/266007_1999.157.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/266002.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/266003.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/266004.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/266005.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/266006.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/266007.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/1999.157.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP235876.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP235864.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP235870.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP235873.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP234070.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP235871.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP235866.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP235879.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP235869.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP235862.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP235874.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP235880.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP235868.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP235863.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP235878.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP235875.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP235877.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP235867.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP235865.jpg"
+    ],
+    "title": "Nan va Halva (Breads and Sweets)",
+    "what": [
+        "Metal",
+        "Ink",
+        "Gold",
+        "Watercolors",
+        "Leather",
+        "Manuscripts",
+        "Codices",
+        "Illuminated manuscripts",
+        "Binding"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Asia",
+        "India",
+        "Deccan"
+    ],
+    "who": "Muhammad Baha' al-Din al-'Amili"
+}

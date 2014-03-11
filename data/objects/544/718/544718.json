@@ -1,0 +1,119 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/544784"
+            },
+            {
+                "href": "http://scrapi.org/object/548675"
+            },
+            {
+                "href": "http://scrapi.org/object/548676"
+            },
+            {
+                "href": "http://scrapi.org/object/549087"
+            },
+            {
+                "href": "http://scrapi.org/object/555224"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A151_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113641",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R130_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140310140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A145_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113221",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=03\u00aeion=afe",
+                "rel": "Egypt, 2000\u20131000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/544718"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/544718"
+        }
+    },
+    "accession number": "13.183.2a, b",
+    "credit line": "Gift of Edward S. Harkness, 1913",
+    "date": "ca. 1279\u20131213 B.C.",
+    "department": "Egyptian Art",
+    "description": "These colossal blocks come from a large gateway erected in commemoration of one of Ramesses II's royal jubilees. Ttwo offering scenes are set one above the other. In the upper scene Ramesses II is depicted presenting drink offerings to Amun-Rein the form of Kamutef, \"Bull of his Mother,\" who was identified with the fertility god Min. In the lower scene the king is making a prayer for offerings to Ptah-Tatanen, the patron of the royal jubilee. The right side is inscribed with the names and titles of Ramesses II. At the bottom of the doorjamb Ramesses III, a Twentieth Dynasty king, has roughly incised his own cartouches. The blocks were discovered in 1912-1913 by the Museum's Egyptian Expedition where they had been reused in the foundations of a gargantuan temple undertaken by Ramesses IV in the Asasif valley. The temple was laid out over the eastern part of the causeways of Mentuhotep and Thutmose III, leaving uncovered only the causeway to Hatshepsut's Deir el Bahri temple. The construction was continued by Ramesses IV's two successors, but never completed. Ramesses IV seems to have sought to reemphasize the Theban ritual landscape, and the Asasif temple may have been understood as a monumental bark station for the visit of Amun's bark to the Deir el Bahri temple during the Beautiful Festival of the Valley.",
+    "dimensions": "168 1/2 x 54 3/4 x 39 in. (428 x 139 x 99 cm)",
+    "gallery-id": 123,
+    "id": 544718,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/13.183.2_06.jpg",
+    "medium": "Granite",
+    "provenance": [
+        "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art, 1912-1913. Acquired by the Museum in the division of finds, 1913."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/eg/original/13.183.2_06.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/13.183.2ab_01.jpg"
+    ],
+    "title": "Doorjamb from a Temple of Ramesses II, with Added Cartouches of Ramesses III, Reused in the Foundations of a temple begun by Ramesses IV",
+    "what": [
+        "Doors",
+        "Granite",
+        "Jambs"
+    ],
+    "when": "2000-1000 B.C.",
+    "where": [
+        "Africa",
+        "Egypt",
+        "Upper Egypt",
+        "Thebes"
+    ]
+}

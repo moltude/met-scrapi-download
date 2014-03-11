@@ -1,0 +1,143 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/247949"
+            },
+            {
+                "href": "http://scrapi.org/object/255851"
+            },
+            {
+                "href": "http://scrapi.org/object/255526"
+            },
+            {
+                "href": "http://scrapi.org/object/254184"
+            },
+            {
+                "href": "http://scrapi.org/object/248307"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R104_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140310123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R105_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140311123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R106_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140313123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R027_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140313130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R107_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140314123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/conversations-with-curators-and-conservators/terracotta-column-krater?eid=A001_%7b1CC4797D-7295-4614-9ACD-19C00BA693F4%7d_20140204162630",
+                "rel": "Conversation with a Curator\u2014Terracotta Column-Krater"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A144_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142257",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A145_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142312",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R116_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140331123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/grdr/hd_grdr.htm",
+                "rel": "Ancient Greek Dress"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/vase/hd_vase.htm",
+                "rel": "Athenian Vase Painting: Black\u2013 and Red\u2013Figure Techniques"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/grmu/hd_grmu.htm",
+                "rel": "Music in Ancient Greece"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/tacg/hd_tacg.htm",
+                "rel": "The Art of Classical Greece (ca. 480\u2013323 B.C.)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/kith/hd_kith.htm",
+                "rel": "The Kithara in Ancient Greece"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=04\u00aeion=eusb",
+                "rel": "Ancient Greece, 1000 B.C.\u20131 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/254896"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/254896"
+        }
+    },
+    "accession number": "56.171.38",
+    "credit line": "Fletcher Fund, 1956",
+    "culture": "Greek, Attic",
+    "date": "ca. 490 B.C.",
+    "department": "Greek and Roman Art",
+    "description": "Obverse, young man singing and playing the kitharaReverse, judgeThis work is a masterpiece of Greek vase-painting because it brings together many features of Athenian culture in an artistic expression of the highest quality. The shape itself is central to the effect. Through the symmetry, scale, and luminously glossy glaze on the obverse, it offers a carefully composed three-dimensional surface that endows the subject with volume. The identity of the singer is given by his instrument, the kithara, which was a type of lyre used in public performances, including recitations of epic poetry. The figure on the reverse is identified by his garb and wand. While the situation is probably a competition, the subject is the music itself. It transports the performer, determines his pose, and causes the cloth below the instrument to sway gently.",
+    "dimensions": "H. 16 5/16 in. (41.50 cm)",
+    "gallery-id": 157,
+    "id": 254896,
+    "image": "http://images.metmuseum.org/CRDImages/gr/original/gr56.171.38.R.jpg",
+    "medium": "Terracotta; red-figure",
+    "provenance": [
+        "Said to be from Nola (Beazley 1963, p. 197, no. 3).May 22-23, 1919, purchased by W.R. Hearst from Sotheby, Wilkinson and Hodge, London",
+        "from 1919, collection of William Randolph Hearst, New York",
+        "acquired November 26, 1956, purchased from the Hearst Corporation."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/gr/original/gr56.171.38.R.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/gr56.171.38.AV1.jpg"
+    ],
+    "title": "Terracotta amphora (jar)",
+    "what": [
+        "Clay",
+        "Vessels",
+        "Vases",
+        "Terracotta",
+        "Amphorae"
+    ],
+    "when": "1000 B.C.-A.D. 1",
+    "where": [
+        "Europe",
+        "Greece"
+    ],
+    "who": "Berlin Painter"
+}

@@ -1,0 +1,131 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/24835"
+            },
+            {
+                "href": "http://scrapi.org/object/24846"
+            },
+            {
+                "href": "http://scrapi.org/object/24838"
+            },
+            {
+                "href": "http://scrapi.org/object/24855"
+            },
+            {
+                "href": "http://scrapi.org/object/24839"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From October 2, 2012",
+                "href": "/exhibitions/listings/2012/arms-and-armor",
+                "rel": "Bashford Dean and the Creation of the Arms and Armor Department"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A074_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112917",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A084_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113556",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A093_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113923",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A075_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112932",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A094_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113938",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 5, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A085_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113610",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161351",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A076_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112951",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 19, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161305",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 26, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A086_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113630",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/decaa/hd_decaa.htm",
+                "rel": "The Decoration of Arms and Armor"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=na",
+                "rel": "The United States and Canada, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/24841"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/24841"
+        }
+    },
+    "accession number": "57.166.1",
+    "credit line": "Gift of John E. Parsons, 1957",
+    "culture": "American, Paterson, New Jersey",
+    "date": "ca. 1840",
+    "department": "Arms and Armor",
+    "dimensions": "L., 14 in. (35.56 cm); L. of barrel, 9 in. (22.86 cm); Cal., .40 in. (10 mm)",
+    "gallery-id": 372,
+    "id": 24841,
+    "image": "http://images.metmuseum.org/CRDImages/aa/original/DT272495.jpg",
+    "medium": "Steel, engraved and inlaid with silver; mother-of-pearl",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/aa/original/DT272495.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DT272496.jpg"
+    ],
+    "title": "Colt Paterson Percussion Revolver, No. 5, Holster Model, serial no. 940",
+    "what": [
+        "Metal",
+        "Engraving",
+        "Silver",
+        "Arms",
+        "Iron and iron alloy",
+        "Iron alloy",
+        "Steel",
+        "Firearms",
+        "Pearl",
+        "Small arms",
+        "Handguns",
+        "Pistols",
+        "Revolvers"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "North and Central America",
+        "United States",
+        "New Jersey"
+    ],
+    "who": "Samuel Colt"
+}

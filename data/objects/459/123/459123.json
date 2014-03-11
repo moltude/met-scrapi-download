@@ -1,0 +1,161 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/438722"
+            },
+            {
+                "href": "http://scrapi.org/object/436530"
+            },
+            {
+                "href": "http://scrapi.org/object/436531"
+            },
+            {
+                "href": "http://scrapi.org/object/436532"
+            },
+            {
+                "href": "http://scrapi.org/object/436533"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R125_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140303134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R126_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140304134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R127_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140305134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R128_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140306134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R129_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140307134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R130_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140310134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R131_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140311134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R132_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140312134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R133_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140313134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R134_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140314134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/fauv/hd_fauv.htm",
+                "rel": "Fauvism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/rlsm/hd_rlsm.htm",
+                "rel": "Nineteenth\u2013Century French Realism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/poim/hd_poim.htm",
+                "rel": "Post\u2013Impressionism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/mont/hd_mont.htm",
+                "rel": "The Lure of Montmartre, 1880\u20131900"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/lafr/hd_lafr.htm",
+                "rel": "The Transformation of Landscape Painting in France"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/gogh_d/hd_gogh_d.htm",
+                "rel": "Vincent van Gogh (1853\u20131890): The Drawings"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/gogh/hd_gogh.htm",
+                "rel": "Vincent van Gogh (1853\u20131890)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwc",
+                "rel": "Central Europe and Low Countries, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/459123"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/459123"
+        }
+    },
+    "accession number": "1975.1.231",
+    "credit line": "Robert Lehman Collection, 1975",
+    "date": "1888",
+    "department": "Robert Lehman Collection",
+    "description": "This vigorously painted portrait of Augustine Roulin and her infant daughter, Marcelle, is one of Van Gogh's many evocative portraits of the Roulin family, made in November and December, 1888, some six months after the artist relocated from Paris to Arles. The postman Joseph Roulin and his family lived down the street from Van Gogh. Their house became a sympathetic refuge for the troubled young artist. The Lehman picture is essentially a portrait of a fleshy baby, propped upright by her mother. Yet Madame Roulin is scarcely a presence, her profile head scumbled and brushed in a perfunctory manner, barely differentiated from the canvas's thick, flat yellow ground. Only her hard-worked hands summon attention. It has been said that the furrowed brow and jowled cheeks of the baby Marcelle carry an aspect of Van Gogh's mature figures, roughly marked by life. Soon after completing the Lehman portrait, Van Gogh embarked on another of the same subject (Philadelphia Museum of Art). While of a similar palette, it lacks the potent, energetic surface of the Lehman canvas.",
+    "dimensions": "25 x 20 1/8 in.",
+    "id": 459123,
+    "image": "http://images.metmuseum.org/CRDImages/rl/original/DT3154.jpg",
+    "medium": "Oil on canvas",
+    "provenance": [
+        "Paul von Mendelssohn-Bartholdy (1875-1935), Berlin",
+        "Grafin Elsa von Kesselstadt (Mendelssohn's wife)",
+        "Walter Feilchenfeldt, Zurich, 1948",
+        "Acquired by Robert Lehman, New York, summer 1948."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/rl/original/DT3154.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/RLC1.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/ep1975.1.231.bw.R.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/DT280308.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/DT280488.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/DT280489.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/DT280490.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/2489.jpg"
+    ],
+    "title": "Madame Roulin and Her Baby",
+    "what": [
+        "Paintings",
+        "Canvas",
+        "Oil paintings"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "Netherlands"
+    ],
+    "who": "Vincent van Gogh"
+}

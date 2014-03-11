@@ -1,0 +1,124 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/312497"
+            },
+            {
+                "href": "http://scrapi.org/object/312498"
+            },
+            {
+                "href": "http://scrapi.org/object/312499"
+            },
+            {
+                "href": "http://scrapi.org/object/312500"
+            },
+            {
+                "href": "http://scrapi.org/object/312819"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From September 16, 2013",
+                "href": "/exhibitions/listings/2013/feathered-walls",
+                "rel": "Feathered Walls"
+            },
+            {
+                "date": "From October 8, 2013",
+                "href": "/exhibitions/listings/2013/nelson-rockefeller",
+                "rel": "The Nelson A. Rockefeller Vision"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=A115_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140210093011",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/talks/gallery-talks/ancient-american-sculpture?eid=A001_%7b7A6AA394-9359-47C1-87B4-65B0894C01AB%7d_20140123114645",
+                "rel": "Ancient American Sculpture"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R105_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140311130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R106_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140312130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R107_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140313130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 18, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/shaping-the-african-art-canon?eid=A001_%7b447041C4-D9E7-43A9-AE5F-85BAEB6E7196%7d_20140214113010",
+                "rel": "Shaping the African Art Canon: From the Museum to the Classroom"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/talks/the-observant-eye/shared-memory-sculptural-ancestral-objects-from-oceania?eid=A001_%7b94768B86-339F-4726-A3BC-8F798C423768%7d_20140123143856",
+                "rel": "Shared Memory: Sculptural Ancestral Objects from Oceania"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=A116_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140210093151",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/talks/gallery-talks/ancient-american-sculpture?eid=A002_%7b7A6AA394-9359-47C1-87B4-65B0894C01AB%7d_20140123114700",
+                "rel": "Ancient American Sculpture"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=07\u00aeion=sac",
+                "rel": "Central and Southern Andes, 1000\u20131400 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/308287"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/308287"
+        }
+    },
+    "accession number": "59.135.8",
+    "credit line": "Fletcher Fund, 1959",
+    "culture": "Ica (?)",
+    "date": "15th\u2013early 17th century",
+    "department": "Arts of Africa, Oceania and the Americas",
+    "description": "Feathers were considered luxury materials in ancient Peru. They were used to embellish elite costume for thousands of years. Textiles densely covered with the brilliantly colored feathers of tropical rainforest birds are among the most spectacular works produced by ancient Andean artists. Feathered garments lent the wearer status and prestige and indicated wealth. Far-reaching contacts were necessary to bring the Amazonian bird feathers over the long distances between the eastern slopes of the Andes to the desert reaches of the Pacific coast, where this tunic was made. Feathers also referred to the birds' ability to fly. In Andean thought, they may have imbued the wearer with increased spiritual power, enabling communication with other realms.The sleeveless tunic has an opening for the head at the neck and is open at the sides with ties. The individual tiny green, red, yellow, and blue feathers come from parrots and/or parakeets and macaws. They were tied into long strings that were then sewn onto the plain weave fabric. The motifs are unusual and difficult to identify stylistically; however, the paired warps and wefts of the fabric indicate that it was made by the Chim\u00fa people. The designs seem to depict toothy birdlike creatures with spread wings and tails.",
+    "dimensions": "25 x 30 in. (63.5 x 76.2 cm)",
+    "id": 308287,
+    "image": "http://images.metmuseum.org/CRDImages/ao/original/DP216335.jpg",
+    "medium": "Cotton, feathers",
+    "provenance": [
+        "[John Wise, Ltd., New York, until 1959]"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ao/original/DP216335.jpg",
+        "http://images.metmuseum.org/CRDImages/ao/original/DP216336.jpg"
+    ],
+    "title": "Feathered Tabard",
+    "what": [
+        "Costume",
+        "Cotton",
+        "Outerwear",
+        "Feathers",
+        "Tabards"
+    ],
+    "where": [
+        "South America",
+        "Peru"
+    ],
+    "who": "Ica"
+}

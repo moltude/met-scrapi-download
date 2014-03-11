@@ -1,0 +1,162 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/438386"
+            },
+            {
+                "href": "http://scrapi.org/object/437671"
+            },
+            {
+                "href": "http://scrapi.org/object/459118"
+            },
+            {
+                "href": "http://scrapi.org/object/459119"
+            },
+            {
+                "href": "http://scrapi.org/object/459120"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/piero-della-francesca",
+                "rel": "Piero della Francesca"
+            },
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "From April 22, 2014",
+                "href": "/exhibitions/listings/2014/goya",
+                "rel": "Goya and the Altamira Family"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/talks/gallery-talks/piero-della-francesca?eid=A001_%7bE50FD455-5FC1-41D0-9391-C456264363EF%7d_20140206160624",
+                "rel": "Exhibition Tour\u2014Piero della Francesca: Personal Encounters"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=A257_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20131127123002",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/monday-at-the-met-spring-2014?eid=R001_%7bBB2BF277-3666-435E-8B95-12CDE21533EA%7d_20140303100000",
+                "rel": "Monday at the Met with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R100_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140303123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R101_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140304123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R102_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140305123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R026_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140306140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R103_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140307123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/talks/the-observant-eye/stepping-out-of-the-frame?eid=A001_%7b438572AD-6B0F-4DA2-94FB-49B8931634C1%7d_20140123142901",
+                "rel": "Stepping Out of the Frame: Three-Dimensionality in the New Galleries for European Paintings"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/saturday-seminar-spring-2014?eid=R001_%7bE063A39F-FC40-4ECC-B690-C4C13F70B2A0%7d_20140308103000",
+                "rel": "Saturday Seminar with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/seni/hd_seni.htm",
+                "rel": "Georges Seurat (1859\u20131891) and Neo\u2013Impressionism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/mati/hd_mati.htm",
+                "rel": "Henri Matisse (1869\u20131954)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/poim/hd_poim.htm",
+                "rel": "Post\u2013Impressionism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/lafr/hd_lafr.htm",
+                "rel": "The Transformation of Landscape Painting in France"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/gogh/hd_gogh.htm",
+                "rel": "Vincent van Gogh (1853\u20131890)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/gogh_d/hd_gogh_d.htm",
+                "rel": "Vincent van Gogh (1853\u20131890): The Drawings"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/437672"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/437672"
+        }
+    },
+    "accession number": "55.220.1",
+    "credit line": "Gift of Robert Lehman, 1955",
+    "date": "1905\u20136",
+    "department": "European Paintings",
+    "dimensions": "35 x 45 3/4 in. (88.9 x 116.2 cm)",
+    "gallery-id": 826,
+    "id": 437672,
+    "image": "http://images.metmuseum.org/CRDImages/ep/original/DT2567.jpg",
+    "medium": "Oil on canvas",
+    "provenance": [
+        "[Galerie E. Druet, Paris, in 1906]",
+        "[Galerie Moos, Geneva]",
+        "Gaston L\u00e9vy, Paris (1928\u201352)",
+        "his daughter, Andr\u00e9e Samama, Paris (1952; sale, Galerie Charpentier, Paris, May 9, no. 60, as \"La bonne m\u00e8re, Marseille. 1906.,\" for Fr 1,600,000 to Lehman)",
+        "Robert Lehman, New York (1952\u201355)"
+    ],
+    "title": "Notre-Dame-de-la-Garde (La Bonne-M\u00e8re), Marseilles",
+    "what": [
+        "Paintings",
+        "Canvas",
+        "Oil paint"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Paul Signac"
+}

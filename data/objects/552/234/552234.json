@@ -1,0 +1,113 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/543863"
+            },
+            {
+                "href": "http://scrapi.org/object/544005"
+            },
+            {
+                "href": "http://scrapi.org/object/544007"
+            },
+            {
+                "href": "http://scrapi.org/object/544201"
+            },
+            {
+                "href": "http://scrapi.org/object/544273"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/teen-programs/saturday-sketching/saturday-sketching-egyptian-art?eid=A001_%7b8698F79D-A7E0-44F1-99CF-57C8A2E2471A%7d_20131211143556",
+                "rel": "Saturday Sketching\u2014Egyptian Art (Ages 11\u201318)"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A151_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113641",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R130_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140310140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=02\u00aeion=afe",
+                "rel": "Egypt, 8000\u20132000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/552234"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/552234"
+        }
+    },
+    "accession number": "98.4.6",
+    "credit line": "Gift of Egypt Exploration Fund, 1898",
+    "date": "ca. 2323\u20132100 B.C.",
+    "department": "Egyptian Art",
+    "description": "Hetepsi's stela was found in a pit for a burial in the general vicinity of the mastaba of Neferseshempepy, good name Senni, at Dendera, and her stela appears to be by the same hand as the decorations of that mastaba. Hetepsi bears the titles King's Sole Ornament and Priestess of Hathor Mistress of Dendera, and in her latter capacity she carries a sistrum in her hand..",
+    "dimensions": "L. 53 cm (20 7/8 in.); h. 44 cm (17 5/16 in.)",
+    "gallery-id": 103,
+    "id": 552234,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/98.4.6_01.jpg",
+    "medium": "Limestone",
+    "provenance": [
+        "Excavated by Flinders Petrie at Dendera in 1898. Received form the Egyptian Government in division by the Egypitian Exploration Fund Received by the Museum from the EEF in return for its contribution."
+    ],
+    "title": "Tomb Stela of Hetepsi",
+    "what": [
+        "Limestone",
+        "Stelae"
+    ],
+    "when": "8000-2000 B.C.",
+    "where": [
+        "Africa",
+        "Egypt",
+        "Upper Egypt"
+    ]
+}

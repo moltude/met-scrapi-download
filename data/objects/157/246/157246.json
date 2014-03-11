@@ -1,0 +1,114 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/83127"
+            },
+            {
+                "href": "http://scrapi.org/object/83137"
+            },
+            {
+                "href": "http://scrapi.org/object/81692"
+            },
+            {
+                "href": "http://scrapi.org/object/85029"
+            },
+            {
+                "href": "http://scrapi.org/object/85031"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R130_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140310130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/157246"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/157246"
+        }
+    },
+    "accession number": "2009.300.2421a\u2013c",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Arturo and Paul Peralta-Ramos, 1955",
+    "culture": "American",
+    "date": "ca. 1948",
+    "department": "Costume Institute",
+    "description": "Gilbert Adrian designed numerous ensembles for his friend and client, Millicent Rogers (1902-1953), yet few as personal as this dress. Adrian and his wife introduced Rogers to the American southwest by inviting her to Taos area in 1947, igniting a love of the region that lasted for the remainder of Rogers' life. She named the home she bought there \"Turtlewalk.\" Here, Adrian used an appropriate turtle pattern for Rogers and a design that referenced the long fringe of Native American women's traditional dress. Incorporation of these elements suited Rogers, who preferred to wear fashionable garments that referenced local traditional clothing when in residence at each of her homes around the world. With her keen interest in Native American art and folklore, Rogers may also have appreciated her friend's choice of the turtle pattern for its symbolic meaning; the turtle figures prominently in some Native American creation stories and is a symbol of balance, patience, tenacity and self-reliance.",
+    "dimensions": [
+        "Length at CB (a) 52 in. (132.1 cm)",
+        "Length at CB (c) 45 in. (114.3 cm)"
+    ],
+    "id": 157246,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/55.26.73a-c_CP3.jpg",
+    "medium": "synthetic",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/55.26.73a-c_CP3.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/55.26.73a-b_CP3.jpg"
+    ],
+    "title": "Ensemble",
+    "what": "Ensembles",
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "Gilbert Adrian"
+}

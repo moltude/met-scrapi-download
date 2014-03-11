@@ -1,0 +1,154 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/464005"
+            },
+            {
+                "href": "http://scrapi.org/object/464709"
+            },
+            {
+                "href": "http://scrapi.org/object/466104"
+            },
+            {
+                "href": "http://scrapi.org/object/464782"
+            },
+            {
+                "href": "http://scrapi.org/object/464296"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 25, 2014",
+                "href": "/exhibitions/listings/2014/canterbury-stained-glass",
+                "rel": "Radiant Light"
+            },
+            {
+                "date": "From August 6, 2013",
+                "href": "/exhibitions/listings/2013/design-motifs-in-byzantine-art",
+                "rel": "Design Motifs in Byzantine Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R105_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140311104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R010_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140311150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R106_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140312104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R011_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140312150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R107_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140313104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R012_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140313150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R108_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140314104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R013_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140314150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/dresssing-the-part?eid=A001_%7b9C4AFFB5-1623-45E3-BE4C-5DFE582A20E6%7d_20140113143427",
+                "rel": "Dressing the Part: Medieval Costumes for Biblical Prophets and Ancestors"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/valo_1/hd_valo_1.htm",
+                "rel": "Patronage at the Early Valois Courts (1328\u20131461)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/berr/hd_berr.htm",
+                "rel": "Patronage of Jean de Berry (1340\u20131416)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=euwf",
+                "rel": "France, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/464707"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/464707"
+        }
+    },
+    "accession number": "17.190.905",
+    "credit line": "Gift of J. Pierpont Morgan, 1917",
+    "culture": "French",
+    "date": "early 15th century",
+    "department": "Medieval Art",
+    "description": "Saint Catherine, depicted in the delicately jeweled statuette, was seen to embody the power of Christian erudition. According to legend, Saint Catherine's learned arguments on behalf of Christianity converted not only the court philosophers of the pagan emperor Maxentius, but 200 guardian soldiers and the ruler's wife as well. In retribution, all were put to death. The virtuous saint is shown holding the spiked wheel upon which she was tortured before being decapitated. Though the statue is reputed to have come from a convent in Clermont-Ferrand, the fine workmanship, sensitive modeling, and precious gem-studded decoration are consistent with the finest works produced in Paris. The image may have come from a reliquary, where it and figures of other saints would have been integrated into an architectural ensemble.",
+    "dimensions": [
+        "Overall (without wooden base) 3 7/8 x 2 1/8 x 1 1/8 in. (9.8 x 5.4 x 2.8 cm)",
+        "Overall (with wooden base) 4 13/16 x 2 3/16 x 1 in. (12.3 x 5.5 x 2.6 cm)",
+        "Base (wooden) 1 1/8 x 1 x 2 3/16 in. (2.9 x 2.6 x 5.5 cm)",
+        "Base (Marble) 1 3/4 x 1 3/8 x 2 15/16 in. (4.4 x 3.5 x 7.4 cm)"
+    ],
+    "gallery-id": 306,
+    "id": 464707,
+    "image": "http://images.metmuseum.org/CRDImages/md/original/sf17-190-905s1.jpg",
+    "medium": "Gold, ronde-basse enamel, jewels",
+    "provenance": [
+        "Convent in Clermont Ferrard",
+        "Spanish Cardinal (unnamed)",
+        "Contessa de Munter",
+        "[ Dealer, London]",
+        "[ Dealer, Florence]",
+        "An unnamed connoisseur, Paris",
+        "J. Pierpont Morgan, London and New York (until 1917)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/md/original/sf17-190-905s1.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/sf17-190-905s2at.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/sf17-190-905s3at.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/sf17-190-905s4at.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/sf17-190-905d1at.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/sf17-190-905s5.jpg"
+    ],
+    "title": "Saint Catherine of Alexandria",
+    "what": [
+        "Metal",
+        "Sculpture",
+        "Gold",
+        "Statues",
+        "Figurines",
+        "Enamels",
+        "Gems",
+        "Basse-taille",
+        "En ronde bosse"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "France"
+    ]
+}

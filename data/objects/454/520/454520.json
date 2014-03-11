@@ -1,0 +1,118 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/447085"
+            },
+            {
+                "href": "http://scrapi.org/object/447119"
+            },
+            {
+                "href": "http://scrapi.org/object/445668"
+            },
+            {
+                "href": "http://scrapi.org/object/454518"
+            },
+            {
+                "href": "http://scrapi.org/object/453004"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world-french?eid=R026_%7b85906EA1-CA66-4610-A52C-39562E1A4C40%7d_20140310133000",
+                "rel": "Arts du monde Islamique (Arts of the Islamic World in French)"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R130_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140310141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A232_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134244",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A237_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134557",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=eusi",
+                "rel": "Iberian Peninsula, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/454520"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/454520"
+        }
+    },
+    "accession number": "2002.494.742",
+    "credit line": "Gift of Nanette B. Kelekian, in honor of Olga Raggio, 2002",
+    "culture": "Islamic",
+    "date": "late 15th\u201316th century",
+    "department": "Islamic Art",
+    "description": "Geometric designs such as the ones in this fragment are found ornamenting a wide variety of media produced in Nasrid period (1232\u20131492) Spain, including tile work, woodwork, book binding, and painted stucco. The basic principles of this design include geometric and floral motifs, as well as the classic eight-pointed star, here enclosing a rosette, both of which are nested inside a scalloped medallion. Such bold designs recall the famous wall patterns in the Alhambra palace in Granada. In both the plaster and tile work of the buildings in the palace, interlacery designs are closely related to the star-forms in this weaving.",
+    "dimensions": [
+        "Textile L. 10 1/4 in. (26 cm)",
+        "W. 12 3/4 in. (32.4 cm)"
+    ],
+    "id": 454520,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/ad-2002.494.742.JPG",
+    "medium": "Silk",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/ad-2002.494.742.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/Tr.20.640.2002.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/ad-2002.494.742a.JPG"
+    ],
+    "title": "Textile Fragment",
+    "what": [
+        "Silk",
+        "Textiles",
+        "Fragments"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Spain"
+    ]
+}

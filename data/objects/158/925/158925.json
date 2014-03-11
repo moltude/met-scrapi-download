@@ -1,0 +1,112 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/95171"
+            },
+            {
+                "href": "http://scrapi.org/object/96974"
+            },
+            {
+                "href": "http://scrapi.org/object/88816"
+            },
+            {
+                "href": "http://scrapi.org/object/174791"
+            },
+            {
+                "href": "http://scrapi.org/object/175832"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R130_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140310130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=eust",
+                "rel": "Italian Peninsula, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/158925"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/158925"
+        }
+    },
+    "accession number": "2009.300.399a, b",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Scott Paper Company, 1966",
+    "culture": "Italian",
+    "date": "ca. 1958",
+    "department": "Costume Institute",
+    "description": "Alberto Fabiani was a well-received Italian designer, rising to fame in the 1950s.  He was known for his classic designs and flattering silhouettes.  Interestingly, he married one of his contemporaries, Simonneta Visconti, previously Duchessa Simonetta Colona di Cesaro.  Their design ideas were quite diverse, each fulfilling the needs of a different clientele. The ball gown featured here is a wonderful example of his work as well as an accurate representation of the full skirt, popular during the 1950s.  Refined in every way, this is a stunning piece, perfect for an elaborate entrance.",
+    "dimensions": "Length at CB 55 in. (139.7 cm)",
+    "id": 158925,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/66.105.3a-b_front_CP3.jpg",
+    "medium": "silk",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/66.105.3a-b_front_CP3.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/66.105.3a-b_back_CP3.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/66.105.3a-b_CP1.jpg"
+    ],
+    "title": "Neglige\u00e9",
+    "what": "Silk",
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Alberto Fabiani"
+}

@@ -1,0 +1,108 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/568439"
+            },
+            {
+                "href": "http://scrapi.org/object/568456"
+            },
+            {
+                "href": "http://scrapi.org/object/568458"
+            },
+            {
+                "href": "http://scrapi.org/object/568499"
+            },
+            {
+                "href": "http://scrapi.org/object/568500"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A151_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113641",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R130_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140310140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A145_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113221",
+                "rel": "Arts of Ancient Egypt"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/590855"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/590855"
+        }
+    },
+    "accession number": "22.1.796",
+    "credit line": "Rogers Fund and Edward S. Harkness Gift, 1922",
+    "date": "ca. 1981\u20131840 B.C.",
+    "department": "Egyptian Art",
+    "dimensions": "5.1 x 3.8 x 2.6 cm, 0.1 kg (2 x 1 1/2 x 1 in., 0.2 lb.) weight 81.05 g",
+    "gallery-id": 109,
+    "id": 590855,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/22.1.796-AC-2.jpg",
+    "medium": "Limestone",
+    "provenance": [
+        "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art. Acquired by the Museum in the division of finds."
+    ],
+    "title": "Weight",
+    "what": [
+        "Limestone",
+        "Weights"
+    ],
+    "when": "1000 B.C.-A.D. 1",
+    "where": [
+        "Africa",
+        "Egypt",
+        "Mersa Matr\u00fbh",
+        "Al Lisht"
+    ]
+}

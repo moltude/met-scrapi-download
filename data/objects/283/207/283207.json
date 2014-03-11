@@ -1,0 +1,84 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/301937"
+            },
+            {
+                "href": "http://scrapi.org/object/301938"
+            },
+            {
+                "href": "http://scrapi.org/object/301939"
+            },
+            {
+                "href": "http://scrapi.org/object/301940"
+            },
+            {
+                "href": "http://scrapi.org/object/296338"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/283207"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/283207"
+        }
+    },
+    "accession number": "2005.100.615",
+    "credit line": "Gilman Collection, Gift of The Howard Gilman Foundation, 2005",
+    "date": "ca. 1869",
+    "department": "Photographs",
+    "description": "Almost immediately after the Civil War, hundreds of secret societies were established in the South by ex-Confederates to oppose radical Reconstruction and to maintain white supremacy over liberated blacks. Denied the right to bear arms, the former soldiers feared insurrection by newly armed blacks who, in 1868 and 1870 respectively, would also be given citizenship and voting rights in the Fourteenth and Fifteenth Amendments. The best-known of these vigilante societies was the Ku Klux Klan, organized in 1865 in Pulaski, Tennessee. The Klan adopted strange disguises, used mysterious language, and made regular nighttime raids on the black communities. To play upon the fears and superstitions of their sworn enemy, the Klan often muffled their horses' hooves and covered themselves in white robes. With their faces also concealed behind white masks, they posed as spirits of the Confederate dead returned from the battlefields to haunt their former slaves. The Klan was so effective in systematically keeping blacks away from the polls that ex-Confederates regained political control in most of the Southern states within five years of the war's end.     Believed to be one of the earliest known portraits of a Klansman in costume, the photograph was probably made before 1870, the date that marks the disbandment of the Klan's first central organization. The insidious intimidation of blacks had proven so effective that Klan activity remained largely underground until the 1910s.     In their early days Klan societies did not wear only one costume, and there is much stylistic variation documented in contemporary illustrations. The fabric pooling around the feet of this Klansman was, however, a common stylistic embellishment. Although impractical for walking, the long cut was designed for night-riding to fully drape the horseman's feet and stirrups, further emphasizing the grotesque and ghoulish.     The presentation of the image in its decorated wrapper is perversely quaint. The photograph is a tintype, a cheap and extremely popular technique used by photographers in rural communities from the mid-1850s into the twentieth century.",
+    "dimensions": "8.1 x 4.9 cm (3 3/16 x 1 15/16 in.)",
+    "id": 283207,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP259493.jpg",
+    "medium": "Tintype",
+    "provenance": [
+        "[Paul Katz]",
+        "Gilman Paper Company, New York, December 6, 1983"
+    ],
+    "title": "[Ku Klux Klansman]",
+    "what": [
+        "Photographs",
+        "Tintypes"
+    ],
+    "when": "A.D. 1800-1900",
+    "who": "Unknown, American"
+}

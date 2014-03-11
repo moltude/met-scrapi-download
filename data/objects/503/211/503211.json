@@ -1,0 +1,119 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/503189"
+            },
+            {
+                "href": "http://scrapi.org/object/503190"
+            },
+            {
+                "href": "http://scrapi.org/object/503191"
+            },
+            {
+                "href": "http://scrapi.org/object/504530"
+            },
+            {
+                "href": "http://scrapi.org/object/500726"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/early-guitars",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/concerts-and-performances/ernie-sites?eid=A001_%7bE8CB7AEE-6F19-46A1-BCDF-ACF04F0FA0A0%7d_20140221154312",
+                "rel": "Gallery Concert: Ernie Sites, Guitar"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A001_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203181946",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A002_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203182002",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A004_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203182034",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A006_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203182105",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A005_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20140206152942",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A001_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115501",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A002_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115523",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A003_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115537",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A004_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115549",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=eak",
+                "rel": "Korea, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/503211"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/503211"
+        }
+    },
+    "accession number": "1982.171.6",
+    "credit line": "Gift of Korean Cultural Service, 1982",
+    "date": "ca. 1980",
+    "department": "Musical Instruments",
+    "description": "These 16 chromatically-tuned bamboo panpipes are placed in a holder shaped to suggest a phoenix, the symbol of peace and prosperity.  Traditional decoration includes abalone inlays and a \"strawberry\" tassel.",
+    "dimensions": "H. 34.8 cm (13-11/16 in.); W. 36.4 cm (14-5/16 in.); D. app.+ 6 cm (2-3/8 in.); pipe length longest (player's right) ca. 14.5 cm (5-13/16 in.); shortest (player's left) app. 5.1 cm (2 in.) Diam. (each pipe) app. 1.2 cm (7/16 in.)",
+    "gallery-id": 681,
+    "id": 503211,
+    "image": "http://images.metmuseum.org/CRDImages/mi/original/C1780 1982.171.6.jpg",
+    "medium": "Wood, bamboo, shell",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/mi/original/C1780 1982.171.6.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/midp1982.171.6.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/231823.jpg"
+    ],
+    "title": "So",
+    "what": [
+        "Musical instruments",
+        "Aerophones",
+        "Shell",
+        "Flutes",
+        "Grass",
+        "Bamboo",
+        "Panpipes"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Asia",
+        "Korea"
+    ]
+}

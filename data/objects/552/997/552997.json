@@ -1,0 +1,117 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/560668"
+            },
+            {
+                "href": "http://scrapi.org/object/544009"
+            },
+            {
+                "href": "http://scrapi.org/object/544010"
+            },
+            {
+                "href": "http://scrapi.org/object/544011"
+            },
+            {
+                "href": "http://scrapi.org/object/544877"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A151_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113641",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R130_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140310140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A145_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113221",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=02\u00aeion=afe",
+                "rel": "Egypt, 8000\u20132000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/552997"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/552997"
+        }
+    },
+    "accession number": "06.1231.76",
+    "credit line": "Gift of Egypt Exploration Fund, 1906, 1907",
+    "date": "ca. 2051\u20132030 B.C.",
+    "department": "Egyptian Art",
+    "dimensions": "h. 27 x w. 33 cm (10 5/8 x 13 in.)",
+    "gallery-id": 105,
+    "id": 552997,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/06.1231.76.jpg",
+    "medium": "Limestone, paint",
+    "provenance": [
+        "Excavated by E. Naville for the EEF in 1904\u20135, received by the EEF in the division of finds. Acquired by the Museum through subscription to the EEF, 1906, 1907."
+    ],
+    "title": "Fragment of painted torus molding from the shrine of a queen of Mentuhotep II",
+    "what": [
+        "Sculpture",
+        "Limestone",
+        "Reliefs",
+        "Moldings",
+        "Half-round moldings",
+        "Toruses"
+    ],
+    "when": "8000-2000 B.C.",
+    "where": [
+        "Africa",
+        "Egypt",
+        "Upper Egypt",
+        "Thebes"
+    ]
+}

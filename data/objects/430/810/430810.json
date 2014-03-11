@@ -1,0 +1,95 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/431107"
+            },
+            {
+                "href": "http://scrapi.org/object/431108"
+            },
+            {
+                "href": "http://scrapi.org/object/431109"
+            },
+            {
+                "href": "http://scrapi.org/object/431110"
+            },
+            {
+                "href": "http://scrapi.org/object/431112"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwcm",
+                "rel": "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/430810"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/430810"
+        }
+    },
+    "accession number": "22.112.1",
+    "credit line": "Rogers Fund, 1922",
+    "date": "Printed 1922",
+    "department": "Drawings and Prints",
+    "description": "From the 1922 publication in four volumes by Max Friedlander with impressions from wood blocks previously in the collection of Baron Hans Albrecht von Derschau. Derschau is said to have discovered hundreds of original wood blocks by German masters in a trunk in Nuremberg, and in 1808 Rudolph Zacharias Becker produced the first of three volumes with restrikes from these blocks. This print, however, comes from the 1922 series of impressions, made after the collection entered into the Kupferstichkabinett in the Staatliche Museen zu Berlin.",
+    "dimensions": "Sheet 8 3/4 \u00d7 4 5/16 in. (22.3 \u00d7 11 cm)",
+    "id": 430810,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP834010.jpg",
+    "medium": "Woodcut; restrike of third state of three (Hollstein)",
+    "provenance": [
+        "Hans Albrecht von Derschau (German, 1754\u20131824)",
+        "Vendor: E. Weyhe (New York, NY)"
+    ],
+    "title": "Faith (Der Glaub), from The Seven Virtues, in Holzschnitte alter Meister gedruckt von den Originalst\u00f6cken der Sammlung Derschau im besitz des Staatlichen Kupferstich-kabinetts zu Berlin",
+    "what": [
+        "Prints",
+        "Relief prints",
+        "Woodblock prints",
+        "Restrikes"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "Germany"
+    ],
+    "who": [
+        "Hans Burgkmair",
+        "Max J. Friedl\u00e4nder",
+        "E. A. Seemann",
+        "Kupferstichkabinett, Staatliche Museen zu Berlin"
+    ]
+}

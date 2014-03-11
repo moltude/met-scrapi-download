@@ -1,0 +1,116 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/460997"
+            },
+            {
+                "href": "http://scrapi.org/object/460327"
+            },
+            {
+                "href": "http://scrapi.org/object/461628"
+            },
+            {
+                "href": "http://scrapi.org/object/460911"
+            },
+            {
+                "href": "http://scrapi.org/object/460979"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R130_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140310134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R131_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140311134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R132_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140312134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R133_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140313134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R134_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140314134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A109_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131126111651",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A115_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131127144444",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A110_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131126111706",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R145_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140331134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/talks/gallery-talks/european-sculpture-in-the-robert-lehman-collection?eid=A001_%7b835B4316-D69F-4E38-A76F-839A55CF6946%7d_20140123112008",
+                "rel": "European Sculpture in the Robert Lehman Collection"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/461003"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/461003"
+        }
+    },
+    "accession number": "1975.1.2b",
+    "credit line": "Robert Lehman Collection, 1975",
+    "date": "ca. 1310\u201325",
+    "department": "Robert Lehman Collection",
+    "description": "These panels attributed to the Master of Monte Oliveto, \"Madonna and Child with Nine Angels\" and \"The Crucifixion\", which originally formed a diptych, have identical engaged moldings. The narrow taenia and broad ogee molding of the frame give weight and rhythm to the \"Madonna and Child\".",
+    "dimensions": "Overall, 38.3  x 27 cm; sight, 34 x 22.8 cm; engaged.",
+    "gallery-id": 952,
+    "id": 461003,
+    "image": "http://images.metmuseum.org/CRDImages/rl/original/sf-rlc-1975.1.2.JPG",
+    "medium": "Poplar. Linen over panel and moldings. Gilt; dull orange bole.",
+    "provenance": [
+        "Cardinal Franci, Rome",
+        "Commandante Rossi, Rome",
+        "Pol Popiel, Warsaw",
+        "Warsaw Cathedral (presented by Popiel)",
+        "Count Horodetzki, Paris",
+        "[F. Kleinberger Galleries, New York]. Acquired by Philip Lehman in 1923."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/rl/original/sf-rlc-1975.1.2.JPG",
+        "http://images.metmuseum.org/CRDImages/rl/original/86D_002r2m.jpg"
+    ],
+    "title": "Diptych with engaged moldings",
+    "what": [
+        "Wood",
+        "Gilt",
+        "Linen",
+        "Panels",
+        "Frames",
+        "Poplar"
+    ],
+    "when": "A.D. 1000-1400"
+}

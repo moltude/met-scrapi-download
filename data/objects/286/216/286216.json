@@ -1,0 +1,113 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/286476"
+            },
+            {
+                "href": "http://scrapi.org/object/286644"
+            },
+            {
+                "href": "http://scrapi.org/object/286675"
+            },
+            {
+                "href": "http://scrapi.org/object/285850"
+            },
+            {
+                "href": "http://scrapi.org/object/285891"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/atgt/hd_atgt.htm",
+                "rel": "Eug\u00e8ne Atget (1857\u20131927)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/cabr/hd_cabr.htm",
+                "rel": "Henri Cartier\u2013Bresson (1908\u20132004)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/phsr/hd_phsr.htm",
+                "rel": "Photography and Surrealism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/286216"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/286216"
+        }
+    },
+    "accession number": "2005.100.511",
+    "credit line": "Gilman Collection, Purchase, Ann Tenenbaum and Thomas H. Lee Gift, 2005",
+    "date": "1912",
+    "department": "Photographs",
+    "description": "Atget found his vocation in photography in 1897, at the age of forty, after having been a merchant seaman, a minor actor, and a painter. He became obsessed with making what he termed \"documents for artists\" of Paris and its environs and compiling a visual compendium of the architecture, landscape, and artifacts that distinguish French culture and history. By the end of his life, Atget had amassed an archive of more than eight thousand negatives, which he organized into such categories as Parisian Interiors, Vehicles in Paris, and Petits M\u00e9tiers (trades and professions).     In Atget's inventory of Paris, shop windows figure prominently and the most arresting feature mannequin displays. In the 1920s the Surrealists recognized in Atget a kindred spirit and reproduced a number of his photographs in their journals and reviews. Antiquated mannequins such as the ones depicted here struck them as haunting, dreamlike analogues to the human form.",
+    "dimensions": [
+        "Image 22.4 x 17.5 cm (8 13/16 x 6 7/8 in.)",
+        "Mount 36.7 x 28.7 cm (14 7/16 x 11 5/16 in.)"
+    ],
+    "gallery-id": 852,
+    "id": 286216,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP124588.jpg",
+    "medium": "Gelatin silver print from glass negative",
+    "provenance": [
+        "[Helios Arts Inc.",
+        "December 22, 1977]",
+        "Gilman Paper Company Collection, New York"
+    ],
+    "title": "Boulevard de Strasbourg, Corsets, Paris",
+    "what": [
+        "Photographs",
+        "Gelatin silver prints"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Eug\u00e8ne Atget"
+}

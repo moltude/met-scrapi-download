@@ -1,0 +1,112 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/242435"
+            },
+            {
+                "href": "http://scrapi.org/object/242728"
+            },
+            {
+                "href": "http://scrapi.org/object/242729"
+            },
+            {
+                "href": "http://scrapi.org/object/242723"
+            },
+            {
+                "href": "http://scrapi.org/object/242724"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R105_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140311123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R106_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140313123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R027_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140313130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R107_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140314123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/conversations-with-curators-and-conservators/terracotta-column-krater?eid=A001_%7b1CC4797D-7295-4614-9ACD-19C00BA693F4%7d_20140204162630",
+                "rel": "Conversation with a Curator\u2014Terracotta Column-Krater"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A144_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142257",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A145_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142312",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R116_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140331123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R117_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140401123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=03\u00aeion=wae",
+                "rel": "The Eastern Mediterranean, 2000\u20131000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/242727"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/242727"
+        }
+    },
+    "accession number": "74.51.3294",
+    "credit line": "The Cesnola Collection, Purchased by subscription, 1874\u201376",
+    "culture": "Cypriot",
+    "date": "ca. 1450-1200 B.C.",
+    "department": "Greek and Roman Art",
+    "description": "Three rows of ornament. In the central one, leaping fishAncient metalwork includes a large category of objects made specifically for the tomb. They are usually characterized by the flimsiness of the material, since the pieces would not be subject to wear. This object represents a short band that would have been placed on the forehead. Others were put over the eyes or mouth. The types of funerary adornment remained quite consistent over time, so that they are extremely difficult to date. This example shows a recurrent phenomenon of several bands of ornament, with those at the top and bottom cut through. The motif of the leaping fish suggests a date in the Late Bronze Age.",
+    "dimensions": "Other 3 1/8 in. (7.9 cm)",
+    "gallery-id": 171,
+    "id": 242727,
+    "image": "http://images.metmuseum.org/CRDImages/gr/original/DP135993.jpg",
+    "medium": "Gold",
+    "provenance": [
+        "From Cyprus"
+    ],
+    "title": "Gold leaf frontlet (band for forehead)",
+    "what": [
+        "Metal",
+        "Costume",
+        "Silver",
+        "Gold",
+        "Headbands",
+        "Frontlets"
+    ],
+    "when": "2000-1000 B.C.",
+    "where": [
+        "Asia",
+        "Cyprus"
+    ]
+}

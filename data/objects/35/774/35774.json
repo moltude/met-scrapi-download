@@ -1,0 +1,136 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/21998"
+            },
+            {
+                "href": "http://scrapi.org/object/22874"
+            },
+            {
+                "href": "http://scrapi.org/object/22852"
+            },
+            {
+                "href": "http://scrapi.org/object/22853"
+            },
+            {
+                "href": "http://scrapi.org/object/35733"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From October 2, 2012",
+                "href": "/exhibitions/listings/2012/arms-and-armor",
+                "rel": "Bashford Dean and the Creation of the Arms and Armor Department"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A083_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113541",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A074_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112917",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A084_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113556",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A093_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113923",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A075_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112932",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A094_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113938",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 5, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A085_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113610",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161351",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A076_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112951",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 19, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161305",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=euwc",
+                "rel": "Central Europe (including Germany), 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/35774"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/35774"
+        }
+    },
+    "accession number": "04.3.278; 22.147.6, .7",
+    "credit line": [
+        "Rogers Fund, 1904",
+        "Gauntlets Fletcher Fund, 1922"
+    ],
+    "culture": "German, Landshut and Augsburg",
+    "date": "ca. 1550\u201360",
+    "department": "Arms and Armor",
+    "description": "This armor is composed of elements from three different armors, all made in southern Germany for Spanish patrons. The helmet, arm defenses, gauntlets, and leg defenses belong to a large garniture made in 1554 for the future Philip II of Spain (reigned 1556\u201398) by the leading armorers of Landshut, Wolfgang Grosschedel (recorded 1517\u20131562) and his son Franz (recorded 1555\u20131579). The elements of Philip's armor are distinguished by their decoration of stylized cloud bands. The associated breastplate, probably made in Augsburg about 1550, is decorated with the cross used by the Spanish knightly orders of Alcantara and Calatrava. The backplate, also made in Augsburg about 1550, appears to be part of an armor for Fernando Alvarez de Toledo (1508\u20131583), third duke of Alba. The gorget (collar) is Italian, made about 1580.",
+    "id": 35774,
+    "image": "http://images.metmuseum.org/CRDImages/aa/original/4885.jpg",
+    "medium": "Steel, etched and gilt; leather; textile; copper alloy",
+    "provenance": [
+        "04.3.278, Ex coll.: Madrid armory",
+        "Fountaine",
+        "Dino (A7)Previously owned by Duc de Dino"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/aa/original/4885.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/4887.jpg"
+    ],
+    "title": "Composite Armor",
+    "what": [
+        "Metal",
+        "Costume",
+        "Textiles",
+        "Etching",
+        "Copper alloy",
+        "Gilt",
+        "Iron and iron alloy",
+        "Copper",
+        "Leather",
+        "Iron alloy",
+        "Steel",
+        "Armor"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Germany",
+        "Bavaria",
+        "Augsburg"
+    ],
+    "who": [
+        "Wolfgang Grosschedel",
+        "Franz Grosschedel"
+    ]
+}

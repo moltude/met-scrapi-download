@@ -1,0 +1,140 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/471915"
+            },
+            {
+                "href": "http://scrapi.org/object/471431"
+            },
+            {
+                "href": "http://scrapi.org/object/471432"
+            },
+            {
+                "href": "http://scrapi.org/object/471433"
+            },
+            {
+                "href": "http://scrapi.org/object/471921"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 25, 2014",
+                "href": "/exhibitions/listings/2014/canterbury-stained-glass",
+                "rel": "Radiant Light"
+            },
+            {
+                "date": "From August 6, 2013",
+                "href": "/exhibitions/listings/2013/design-motifs-in-byzantine-art",
+                "rel": "Design Motifs in Byzantine Art"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R009_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140310150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R105_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140311104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R010_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140311150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R106_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140312104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R011_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140312150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R107_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140313104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R012_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140313150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R108_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140314104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R013_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140314150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=euwc",
+                "rel": "Central Europe (including Germany), 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/471847"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/471847"
+        }
+    },
+    "accession number": "60.126",
+    "credit line": "The Cloisters Collection, 1960",
+    "culture": "German",
+    "date": "ca. 1520",
+    "department": "The Cloisters",
+    "description": "This sensitively carved group represents Saint Roch lifting his robe while a small angel, its wings now missing,  applies ointment to the boil on the saint's leg. The drawn and weary face of Saint Roch elicits empathetic anguish in the fleshy countenance of the angel. Considerable attention is paid to the anatomy of forms, notably in the rendering of the underlying bone structure of the face and hands and the careful articulation of the veins. Both figures are slightly rotated, emphasized by the long diagonal fold across the torso of Saint Roch, animating the group with implied motion. The voluminous and deeply cut drapery folds bring additional weight and presence to this sculpture. The anonymous sculptor is named after his principle work, an altarpiece with the Holy Family in the parish church of Biberach an der Riss in Upper Swabia. This sculpture and one of Saint Sebastian in the Bode Museum, Berlin, which retains its original paint, were almost certainly both from the central shrine of the same altarpiece-both were invoked to protect against the plague-possibly flanking an image of the Virgin and Child.",
+    "dimensions": [
+        "Overall 28 1/2 x 10 1/4 x 7 3/8 in. (72.4 x 26 x 18.7 cm)",
+        "at base 9 x 5 3/4 in. (22.9 x 14.6 cm)"
+    ],
+    "gallery-id": 20,
+    "id": 471847,
+    "image": "http://images.metmuseum.org/CRDImages/cl/original/DP134433.jpg",
+    "medium": "Limewood with traces of paint",
+    "provenance": [
+        "[ John J. Klejman , New York (until 1960)]"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/cl/original/DP134433.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/DP134431.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/DP134432.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/DP134435.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/DP134434.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/sf60-126d1.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/sf60-126d2.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/sf60-126s2.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/sf60-126s3.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/sf60-126s4.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/sf60-126s5.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/sf60-126s6.jpg"
+    ],
+    "title": "Saint Roch and the Angel",
+    "what": [
+        "Sculpture",
+        "Wood",
+        "Statues",
+        "Figurines",
+        "Linden"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Germany",
+        "Swabia"
+    ],
+    "who": "Master of the Biberach Holy Kinship"
+}

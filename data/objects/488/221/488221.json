@@ -1,0 +1,156 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/483366"
+            },
+            {
+                "href": "http://scrapi.org/object/483355"
+            },
+            {
+                "href": "http://scrapi.org/object/482391"
+            },
+            {
+                "href": "http://scrapi.org/object/480740"
+            },
+            {
+                "href": "http://scrapi.org/object/490021"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From November 20, 2013",
+                "href": "/exhibitions/listings/2013/jewels-by-jar",
+                "rel": "Jewels by JAR"
+            },
+            {
+                "date": "From November 5, 2013",
+                "href": "/exhibitions/listings/2013/carlo-scarpa",
+                "rel": "Venetian Glass by Carlo Scarpa"
+            },
+            {
+                "date": "From February 24, 2014",
+                "href": "/exhibitions/listings/2014/lucas-samaras",
+                "rel": "Lucas Samaras"
+            },
+            {
+                "date": "From December 17, 2013",
+                "href": "/exhibitions/listings/2013/metropolitan-vanities",
+                "rel": "Metropolitan Vanities"
+            },
+            {
+                "date": "From October 22, 2013",
+                "href": "/exhibitions/listings/2013/william-kentridge",
+                "rel": "William Kentridge"
+            },
+            {
+                "date": "From April 29, 2014",
+                "href": "/exhibitions/listings/2014/dan-graham",
+                "rel": "The Roof Garden Commission: Dan Graham"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R100_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140303144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/modern-art-french?eid=R026_%7b96311A2D-1D25-45BE-83E2-2054BC16D70B%7d_20140304133000",
+                "rel": "Art Moderne et Contemporain (Modern and Contemporary Art in French)"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R101_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140304144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R102_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140305144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R026_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140306140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R103_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140306144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/collecting-and-intepreting-at-the-met?eid=A001_%7b6A0B3958-68AC-4F22-BB73-D898FB894401%7d_20140127111701",
+                "rel": "Fellows Colloquium\u2014Collecting and Interpreting at the Met"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/talks/gallery-talks/metropolitan-vanities?eid=A001_%7bF51ADF90-5C6F-45EF-822C-6AE4940219F6%7d_20140206160301",
+                "rel": "Exhibition Tour\u2014Metropolitan Vanities: The History of the Dressing Table"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/college/jewels?eid=A001_%7bB2CEEB36-09E2-43E1-B6FD-1CA91686BA29%7d_20140219113337",
+                "rel": "Jewels by JAR Workshop"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R104_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140310144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/aima/hd_aima.htm",
+                "rel": "African Influences in Modern Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/pica/hd_pica.htm",
+                "rel": "Pablo Picasso (1881\u20131973)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/488221"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/488221"
+        }
+    },
+    "accession number": "47.106",
+    "credit line": "Bequest of Gertrude Stein, 1946",
+    "date": "1905\u20136",
+    "department": "Modern and Contemporary Art",
+    "description": "\"For me, it is I, and it is the only reproduction of me which is always I, for me.\" Thus wrote Gertrude Stein (1874-1946) in 1938. For Stein, this painting was proof of her irrevocable link to Picasso, whom she would come to regard as the greatest artist of her time. She saw the painting as a collaboration between two emerging giants: a twenty-four-year-old Spanish painter and a thirty-two-year-old American writer, two expatriates in Paris, each as yet unrecognized but both destined for greatness.Picasso had always been drawn to poets-his studio door was marked \"Au rendez-vous des po\u00e8tes\"-but Gertrude's appeal was especially strong. As Fernande Olivier wrote, Picasso \"was so attracted to Mlle Stein's physical presence that he suggested he paint her portrait, without even waiting to get to know her better.\"They met after Stein had acquired several of his pictures. Although Picasso usually worked quickly, there were many sittings throughout the winter of 1905-6. The figure remained the same, but the head was repainted at least three times, evolving from a full profile to the nearly frontal view of the final state. Stein and Picasso remained good friends. She and her brother boosted his career enormously, both through direct purchases and by encouraging others-including Ambroise Vollard and Alfred Stieglitz-to do the same. Moreover, countless artists and writers first encountered Picasso's work at Stein's famous Saturday salons. Stein bequeathed the portrait to the Metropolitan in 1946; it was the first painting by Picasso to enter the Museum's collection.",
+    "dimensions": [
+        "39 3/8 x 32in. (100 x 81.3cm)",
+        "47 x 41 x 2 3/4 in. (119.4 x 104.1 x 7 cm) (Frame)"
+    ],
+    "gallery-id": 830,
+    "id": 488221,
+    "image": "http://images.metmuseum.org/CRDImages/ma/original/DP220028.jpg",
+    "medium": "Oil on canvas",
+    "provenance": [
+        "Gertrude Stein, Paris (gift of the artist, autumn 1906, until d. 1946; her bequest to MMA, 1946)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ma/original/DP220028.jpg",
+        "http://images.metmuseum.org/CRDImages/ma/original/GTfrontisCUTR6_80FF.jpg"
+    ],
+    "title": "Gertrude Stein",
+    "what": [
+        "Paintings",
+        "Canvas",
+        "Oil paintings"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "Spain"
+    ],
+    "who": "Pablo Picasso"
+}

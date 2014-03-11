@@ -1,0 +1,133 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/459024"
+            },
+            {
+                "href": "http://scrapi.org/object/437913"
+            },
+            {
+                "href": "http://scrapi.org/object/459414"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/piero-della-francesca",
+                "rel": "Piero della Francesca"
+            },
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "From April 22, 2014",
+                "href": "/exhibitions/listings/2014/goya",
+                "rel": "Goya and the Altamira Family"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/talks/gallery-talks/piero-della-francesca?eid=A001_%7bE50FD455-5FC1-41D0-9391-C456264363EF%7d_20140206160624",
+                "rel": "Exhibition Tour\u2014Piero della Francesca: Personal Encounters"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=A257_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20131127123002",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/monday-at-the-met-spring-2014?eid=R001_%7bBB2BF277-3666-435E-8B95-12CDE21533EA%7d_20140303100000",
+                "rel": "Monday at the Met with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R100_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140303123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R101_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140304123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R102_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140305123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R026_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140306140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R103_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140307123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/talks/the-observant-eye/stepping-out-of-the-frame?eid=A001_%7b438572AD-6B0F-4DA2-94FB-49B8931634C1%7d_20140123142901",
+                "rel": "Stepping Out of the Frame: Three-Dimensionality in the New Galleries for European Paintings"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/saturday-seminar-spring-2014?eid=R001_%7bE063A39F-FC40-4ECC-B690-C4C13F70B2A0%7d_20140308103000",
+                "rel": "Saturday Seminar with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/437912"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/437912"
+        }
+    },
+    "accession number": "50.229.1",
+    "credit line": "Gift of Robert Lehman, 1950",
+    "date": "1485",
+    "department": "European Paintings",
+    "dimensions": "Arched top, 74 3/4 x 59 in. (189.9 x 149.9 cm)",
+    "gallery-id": 606,
+    "id": 437912,
+    "image": "http://images.metmuseum.org/CRDImages/ep/original/DP231371.jpg",
+    "medium": "Tempera on wood",
+    "provenance": [
+        "chapel of San Lorenzo, Certosa, Padua (suppressed 1774)",
+        "John Strange, Venice, later London (by 1775; sold to Bathurst)",
+        "Henry Bathurst, 2nd Earl Bathurst, Staffordshire (in 1781; his anonymous sale, Christie's, London, June 2, 1781, no. 11, as by De Muriano, 1489, bought in)",
+        "Sir Gregory Osborne Page Turner, Baronet, Battlesden Park, Battlesden, Bedfordshire (until 1824; his sale, Christie's, Battlesden Park, June 8, 1824, no. 28, as Giotto or early Italian School, for 18 gns. to Pinney)",
+        "John Rushout, 2nd Baron Northwick, Thirlestane House, Cheltenham (by 1857\u2013d. 1859; cat., 1858, no. 799, as by Giotto; his estate sale, Phillips, Thirlestane House, August 9, 1859, no. 894, as by Giotto, for \u00a363 to Pearce)",
+        "[Pearce, London, from 1859]",
+        "William Cox (until 1861; his sale, Foster's, London, March 27, 1861, no. 164, as by Giotto)",
+        "William Graham, London (by 1882\u2013d. 1885; inv., 1882, no. 268, as by B. Vivarini; his estate sale, Christie's, London, April 8, 1886, no. 259, for \u00a3220.10.0 to Murray)",
+        "[Murray, London, from 1886]",
+        "Charles Butler, London (by 1894\u2013d. 1910; his estate sale, Christie's, London, May 25, 1911, no. 112, for \u00a3630 to Agnew)",
+        "[Agnew, London, 1911",
+        "sold to Murray]",
+        "Charles Fairfax Murray, London (from 1911)",
+        "[L'Art Ancien S.A., Lugano, in about 1924]",
+        "Philip Lehman, New York (until 1925; sold half share to Duveen)",
+        "Philip Lehman, New York, and Duveen, Paris, London, and New York (1925\u2013at least 1931)",
+        "Philip Lehman, New York (until d. 1947)",
+        "his son, Robert Lehman, New York (1947\u201350)"
+    ],
+    "title": "The Death of the Virgin",
+    "what": [
+        "Paintings",
+        "Tempera"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Bartolomeo Vivarini"
+}

@@ -1,0 +1,133 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/435578"
+            },
+            {
+                "href": "http://scrapi.org/object/435579"
+            },
+            {
+                "href": "http://scrapi.org/object/461011"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R125_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140303134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R126_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140304134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R127_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140305134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R128_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140306134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R129_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140307134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R130_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140310134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R131_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140311134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R132_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140312134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R133_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140313134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R134_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140314134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/fang/hd_fang.htm",
+                "rel": "Fra Angelico (1395/1400\u20131455)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/iman/hd_iman.htm",
+                "rel": "Manuscript Illumination in Italy, 1400\u20131600"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/choi/hd_choi.htm",
+                "rel": "Painting in Italian Choir Books, 1300\u20131500"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/461447"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/461447"
+        }
+    },
+    "accession number": "1975.1.2470",
+    "credit line": [
+        "Robert Lehman Collection, 1975",
+        "1975.1.2470"
+    ],
+    "date": "ca. 1450",
+    "department": "Robert Lehman Collection",
+    "description": "The initial B introduces Psalm 1: B[eatus vir qui non abiit in consilio impiorum et in via peccatorum non] stetit et in c[athedra pestilentiae non sedit] (\"Blessed is the man who walks not in the counsel of the wicked, nor stands in the way of sinners, nor sits in the seat of scoffers\").King David kneels in prayer, his eyes raised toward a vision of the hand of God, blessing him from the heavens; nearby are his crown and psaltery, a stringed instrument. In the upper and lower left corners are the cropped figures of two Benedictine monks. This initial was removed from a now-lost psalter (a book of psalms) produced for the monks of the Benedictine abbey of Florence, the Badia Fiorentina. The volume was decorated by the Florentine painter and illuminator Strozzi, a follower and assistant of Fra Angelico.",
+    "dimensions": [
+        "5 5/8 x 5 3/8 in. (14.2 x 13.5cm)",
+        "Initial Ground 4 13/16 x 4 13/16 in."
+    ],
+    "id": 461447,
+    "image": "http://images.metmuseum.org/CRDImages/rl/original/DT3608.jpg",
+    "medium": "Tempera on parchment",
+    "provenance": [
+        "John Murry, Florence.  Acquired by Robert Lehman from Murry in 1924."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/rl/original/DT3608.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/DT3609.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/39N_411R4m.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/Angelico Exhibition\\sf-ang-rlc-01.JPG",
+        "http://images.metmuseum.org/CRDImages/rl/original/sf-rlc-1975-1-2470-v.JPG"
+    ],
+    "title": "King David in Prayer in an Initial B",
+    "what": [
+        "Paintings",
+        "Manuscripts",
+        "Tempera",
+        "Parchment",
+        "Illuminations",
+        "Psalters"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Zanobi Strozzi"
+}

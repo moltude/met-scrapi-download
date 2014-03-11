@@ -1,0 +1,115 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/457799"
+            },
+            {
+                "href": "http://scrapi.org/object/450504"
+            },
+            {
+                "href": "http://scrapi.org/object/458644"
+            },
+            {
+                "href": "http://scrapi.org/object/625023"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world-french?eid=R025_%7b85906EA1-CA66-4610-A52C-39562E1A4C40%7d_20140303133000",
+                "rel": "Arts du monde Islamique (Arts of the Islamic World in French)"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R125_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140303141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R126_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140304141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R127_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140305141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R128_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140306141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R129_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140307141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A249_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114331",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A250_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114353",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world-french?eid=R026_%7b85906EA1-CA66-4610-A52C-39562E1A4C40%7d_20140310133000",
+                "rel": "Arts du monde Islamique (Arts of the Islamic World in French)"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R130_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140310141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=wai",
+                "rel": "Iran, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/457798"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/457798"
+        }
+    },
+    "accession number": "2012.356",
+    "credit line": "Purchase, 2011 NoRuz at the Met Benefit, 2012",
+    "culture": "Islamic",
+    "date": "1970s",
+    "department": "Islamic Art",
+    "description": "This work by the pioneering Iranian-Armenian modernist Marcos Grigorian is from the series \"Earthworks.\" His compositions are intimately connected to village life in Iran and utilize the basic materials, including straw, sand, and mud, that are used to build adobe-like dwellings and everyday utilitarian objects. They express his passion for the simplicity and beauty of life in Iranian villages.",
+    "dimensions": [
+        "H. 20 in. (50.8 cm)",
+        "W. 24 in. (61 cm)"
+    ],
+    "id": 457798,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/DP278724.jpg",
+    "medium": "Straw on mixed-media compound on canvas",
+    "provenance": [
+        "Collection of the artist(1970s\u2013d. 2007)",
+        "His estate(2007\u201312; sold to MMA through Leila Heller Gallery, New York)"
+    ],
+    "title": "Untitled",
+    "what": [
+        "Paintings",
+        "Canvas",
+        "Straw"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Asia",
+        "Iran"
+    ],
+    "who": "Marcos Grigorian"
+}

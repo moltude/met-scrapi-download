@@ -1,0 +1,140 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/503008"
+            },
+            {
+                "href": "http://scrapi.org/object/503010"
+            },
+            {
+                "href": "http://scrapi.org/object/503045"
+            },
+            {
+                "href": "http://scrapi.org/object/503517"
+            },
+            {
+                "href": "http://scrapi.org/object/505786"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/early-guitars",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A001_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115501",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A002_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115523",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A003_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115537",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A004_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115549",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A005_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115601",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A006_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115612",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/musical-instruments-east-and-west?eid=R079_%7bB33A51AA-7250-402C-9FC0-8A302D14AD06%7d_20140311121500",
+                "rel": "Musical Instruments: East and West"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/musical-instruments-east-and-west?eid=R080_%7bB33A51AA-7250-402C-9FC0-8A302D14AD06%7d_20140313121500",
+                "rel": "Musical Instruments: East and West"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/musical-instruments-east-and-west?eid=R081_%7bB33A51AA-7250-402C-9FC0-8A302D14AD06%7d_20140314121500",
+                "rel": "Musical Instruments: East and West"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/family-programs/sunday-studio/string-and-sound?eid=A002_%7b47DD1CB2-ECBA-4009-A975-5F11C7EB2F6A%7d_20131025180255",
+                "rel": "String and Sound: Musical Instruments"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/musd/hd_musd.htm",
+                "rel": "Musical Terms for the Seventeenth and Eighteenth Centuries"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/strd/hd_strd.htm",
+                "rel": "Violin Makers: Nicol\u00f2 Amati (1596\u20131684) and Antonio Stradivari (ca. 1644\u20131737)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=eustn",
+                "rel": "Venice and Northern Italy, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/503057"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/503057"
+        }
+    },
+    "accession number": "1974.229 a-d",
+    "credit line": "Gift of Evelyn Stark, 1974",
+    "date": "1669",
+    "department": "Musical Instruments",
+    "dimensions": [
+        "Body length (belly) 35 cm (13-13/16 in.);",
+        "Upper bouts  16.1 cm (6-5/16 in.);",
+        "Middle bouts 11.0 cm (4-5/16 in.);",
+        "Lower bouts  20.1 cm (7-15/16 in.)"
+    ],
+    "id": 503057,
+    "image": "http://images.metmuseum.org/CRDImages/mi/original/DP230434.jpg",
+    "medium": "Spruce, maple, other woods",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/mi/original/DP230434.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/DP1974.229.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/DP232340.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/DP232341.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/DP232342.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/DP233049.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/DP233050.jpg"
+    ],
+    "title": "Violin",
+    "what": [
+        "Wood",
+        "Musical instruments",
+        "Chordophones",
+        "Softwood",
+        "Lutes",
+        "Maple",
+        "Spruce",
+        "Violins"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "Italy",
+        "Lombardy",
+        "Cremona"
+    ],
+    "who": "Nicol\u00f2 Amati (Cremona 1596\u20131684 Cremona)"
+}

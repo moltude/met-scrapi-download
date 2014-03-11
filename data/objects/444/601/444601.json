@@ -1,0 +1,124 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/444568"
+            },
+            {
+                "href": "http://scrapi.org/object/444598"
+            },
+            {
+                "href": "http://scrapi.org/object/453676"
+            },
+            {
+                "href": "http://scrapi.org/object/444561"
+            },
+            {
+                "href": "http://scrapi.org/object/452211"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A232_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134244",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A237_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134557",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/programs-for-visitors-with-disabilities/visitors-who-are-deaf/beauty-and-innovation?eid=A001_%7b77D8F57E-5FC9-4578-8A95-30A43C89CFDD%7d_20140210164006",
+                "rel": "Met Signs Tours in ASL\u2014Beauty and Innovation: Understanding Islamic Art"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A251_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114408",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=07\u00aeion=wae",
+                "rel": "The Eastern Mediterranean, 1000\u20131400 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/444601"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/444601"
+        }
+    },
+    "accession number": "91.1.601",
+    "credit line": "Edward C. Moore Collection, Bequest of Edward C. Moore, 1891",
+    "culture": "Islamic",
+    "date": "mid-14th century",
+    "department": "Islamic Art",
+    "description": "Similar stands were widely employed in the Mamluk period to host large rounded metal trays (such as 91.1.604), on which fruits and other food were displayed.The cup motif inlaid with copper stands out among the richly decoration of this tray. It was a blazon of the cupbearer, one of the differentiated offices of the court of the Mamluk sultans. The inscription reads Husain, son of Qawsun, who was cupbearer to Muhammad b. Qalawun (al-Malik al-Nasir) (1294\u20131340/41). Despite having been ousted after the sultan\u2019s death, Qawsun\u2019s prestige must have endured, as his sons continued to use his emblem of the ringed cup set within a divided shield.The glass mosque lamp 17.190.991 was also made for him, as indicated by its inscription.",
+    "dimensions": [
+        "H. 10 1/4 in. (26.0 cm)",
+        "D. 9 5/8 in. (24.4 cm)"
+    ],
+    "id": 444601,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/DP108435.jpg",
+    "medium": "Brass; hammered and turned, chased, inlaid with silver, copper, and black compound, incised",
+    "provenance": [
+        "Edward C. Moore, New York (until d. 1891; bequeathed to MMA)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/DP108435.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/91.1.601.JPG"
+    ],
+    "title": "Tray Stand",
+    "what": [
+        "Metal",
+        "Copper alloy",
+        "Silver",
+        "Furniture",
+        "Copper",
+        "Brass",
+        "Stands"
+    ],
+    "when": "A.D. 1000-1400",
+    "where": [
+        "Asia",
+        "Syria"
+    ]
+}

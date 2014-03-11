@@ -1,0 +1,125 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/447937"
+            },
+            {
+                "href": "http://scrapi.org/object/455026"
+            },
+            {
+                "href": "http://scrapi.org/object/442980"
+            },
+            {
+                "href": "http://scrapi.org/object/453388"
+            },
+            {
+                "href": "http://scrapi.org/object/453285"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A249_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114331",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A250_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114353",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world-french?eid=R026_%7b85906EA1-CA66-4610-A52C-39562E1A4C40%7d_20140310133000",
+                "rel": "Arts du monde Islamique (Arts of the Islamic World in French)"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R130_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140310141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/irmd/hd_irmd.htm",
+                "rel": "Nineteenth\u2013Century Iran: Art and the Advent of Modernity"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=wai",
+                "rel": "Iran (Persia), 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/451687"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/451687"
+        }
+    },
+    "accession number": "62.152.12",
+    "credit line": "Rogers Fund, 1962",
+    "culture": "Islamic",
+    "date": "19th century",
+    "department": "Islamic Art",
+    "description": "This page represents a unique approach to composing calligraphy on the page that became very popular in the nineteenth century. The approach takes its inspiration from the practice sheets (mashq) on which calligraphers wrote different words and combinations of letters to strengthen their hands and build up concentration. So as not to waste paper, they would turn the page around several times and fill all the available space. Some calligraphers began to emulate these dark, heavily worked sheets as works of art in their own right, emphasizing the rhythmic arrangement of letters over the legibility and content of the text. In this example of a mashq (now pasted into an album page), the letters of heavy black ink in nasta'liq script cover nearly the entire surface of the paper, reserving only one small corner at the top for illumination. The work may be attributed, on the basis of style, to Assadollah Shirazi (died 1889/90), court calligrapher under the Qajar shahs Muhammad (r. 1835\u201348), from whom he received the title of Katib al-Sultan (Royal Scribe), and Nasir al-Din Shah (r. 1848\u201396). His known works date from between 1838 and 1852.",
+    "dimensions": [
+        "H. 9 5/8 in. (24.4 cm)",
+        "W. 6 5/8 in. (16.8 cm)"
+    ],
+    "id": 451687,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/sf62-152-12.jpg",
+    "medium": "Ink on parchment",
+    "provenance": [
+        "William Ivins, Jr., New York (until d. 1961)",
+        "his daughter, Barbara Ivins, Milford, CT (until 1962; sold to MMA)"
+    ],
+    "title": "Mashq or Practice Page",
+    "what": [
+        "Ink",
+        "Manuscripts",
+        "Codices",
+        "Folios",
+        "Parchment",
+        "Illuminated manuscripts"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Asia",
+        "Iran"
+    ]
+}

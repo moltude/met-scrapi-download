@@ -1,0 +1,94 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/335189"
+            },
+            {
+                "href": "http://scrapi.org/object/336018"
+            },
+            {
+                "href": "http://scrapi.org/object/337493"
+            },
+            {
+                "href": "http://scrapi.org/object/352002"
+            },
+            {
+                "href": "http://scrapi.org/object/366734"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwl",
+                "rel": "Low Countries, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/366733"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/366733"
+        }
+    },
+    "accession number": "2005.4",
+    "credit line": "Purchase, The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, Anonymous Gift, in memory of Frits Markus, and Karen B. Cohen Fund, 2005",
+    "date": "late 17th\u2013early 18th century",
+    "department": "Drawings and Prints",
+    "dimensions": "sheet 15 3/16 x 11 13/16 in. (38.6 x 30 cm)",
+    "id": 366733,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP800924.jpg",
+    "medium": "Watercolor and gouache over traces of black chalk",
+    "provenance": [
+        "Pieter van den Brande (Dutch, Middelburg, ca. 1670\u20131718)",
+        "Johan Pieter van den Brande (Dutch, Middelburg, 1707\u20131758)",
+        "E.C. Baron von Pallandt",
+        "Mak van Waay, Deptember 26, 1972, lot 314 (as A Hestenburgh)",
+        "Unicorno Collection (Saam Nijstad and Lily Nijstad -Einhorn, Amsterdam)",
+        "Sotheby's, Amsterdam, May 19, 2004, lot 197",
+        "Vendor: Katrin Bellinger Kunsthandel , Munich"
+    ],
+    "title": "A Poppy in Three Stages of Flowering, with a Caterpillar, Pupa and Butterfly",
+    "what": [
+        "Drawings",
+        "Watercolors",
+        "Chalk",
+        "Gouache"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "Netherlands"
+    ],
+    "who": "Johanna Helena Graff"
+}

@@ -1,0 +1,117 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/101480"
+            },
+            {
+                "href": "http://scrapi.org/object/101483"
+            },
+            {
+                "href": "http://scrapi.org/object/157793"
+            },
+            {
+                "href": "http://scrapi.org/object/117266"
+            },
+            {
+                "href": "http://scrapi.org/object/101479"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R130_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140310130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/158241"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/158241"
+        }
+    },
+    "accession number": "2009.300.3318",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Hope Jenvey, 1967",
+    "culture": "American",
+    "date": "ca. 1915",
+    "department": "Costume Institute",
+    "description": "The firm of Mark Cross was founded in 1845 as a saddle and harness maker, but shifted to luxury leather goods and accessories as the automobile began to replace the horse.  Everything about this umbrella expresses high quality and refinement: the angled end of the elegantly simple crook handle, the exaggerated size and the curved shape of the rib tips, the ivory and gilt fittings, the silk cover with self-finished edge, and the smooth, slender mechanism.  The final statement of its luxury status is the gold monogram mount on the handle.",
+    "dimensions": "43 in. (109.2 cm)",
+    "id": 158241,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/67.161.8_CP4.jpg",
+    "medium": "silk, metal, wood, ivory, composition",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/67.161.8_CP4.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/67.161.8_detail_CP4.jpg"
+    ],
+    "title": "Umbrella",
+    "what": [
+        "Metal",
+        "Silk",
+        "Bone",
+        "Ivory",
+        "Umbrellas"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "Mark W. Cross"
+}

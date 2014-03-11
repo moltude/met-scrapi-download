@@ -1,0 +1,121 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/255789"
+            },
+            {
+                "href": "http://scrapi.org/object/252592"
+            },
+            {
+                "href": "http://scrapi.org/object/255649"
+            },
+            {
+                "href": "http://scrapi.org/object/252918"
+            },
+            {
+                "href": "http://scrapi.org/object/247178"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A146_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142808",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R104_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140310123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R105_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140311123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R106_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140313123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R027_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140313130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R107_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140314123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/conversations-with-curators-and-conservators/terracotta-column-krater?eid=A001_%7b1CC4797D-7295-4614-9ACD-19C00BA693F4%7d_20140204162630",
+                "rel": "Conversation with a Curator\u2014Terracotta Column-Krater"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A144_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142257",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A145_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142312",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/five/hd_five.htm",
+                "rel": "The Five Wares of South Italian Vase Painting"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=04\u00aeion=eusb",
+                "rel": "Ancient Greece, 1000 B.C.\u20131 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/254923"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/254923"
+        }
+    },
+    "accession number": "56.171.64",
+    "credit line": "Fletcher Fund, 1956",
+    "culture": "Greek, South Italian, Apulian",
+    "date": "ca. 360\u2013340 B.C.",
+    "department": "Greek and Roman Art",
+    "description": "Dionysos among satyrs and maenads. On the bottom, round faceA situla is a bucket that served to decant wine. The shape is well attested in metal examples and in terracotta counterparts of different types. This piece presents a spirited depiction of the wine-god Dionysos driving his griffin-drawn chariot to a gathering of his followers. Particularly engaging is the old satyr dipping a jug into the decorated calyx-krater, probably to fill the libation bowl in his left hand. On the back, Dionysos is seated between a satyr and a maenad and is surrounded by attributes, including a fawn, a cista (cylindrical box), and wreaths.",
+    "dimensions": "H. 10 11/16 in. (27.1 cm)",
+    "gallery-id": 161,
+    "id": 254923,
+    "image": "http://images.metmuseum.org/CRDImages/gr/original/DP111834.jpg",
+    "medium": "Terracotta; red-figure",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/gr/original/DP111834.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP111835.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP111836.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP113209.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP113210.jpg"
+    ],
+    "title": "Terracotta situla (bucket)",
+    "what": [
+        "Clay",
+        "Vessels",
+        "Vases",
+        "Terracotta",
+        "Situlae"
+    ],
+    "when": "1000 B.C.-A.D. 1",
+    "where": [
+        "Europe",
+        "Greece"
+    ],
+    "who": "Lycurgus Painter"
+}

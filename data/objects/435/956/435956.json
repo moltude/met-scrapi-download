@@ -1,0 +1,145 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/435944"
+            },
+            {
+                "href": "http://scrapi.org/object/435945"
+            },
+            {
+                "href": "http://scrapi.org/object/435946"
+            },
+            {
+                "href": "http://scrapi.org/object/435947"
+            },
+            {
+                "href": "http://scrapi.org/object/435948"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/piero-della-francesca",
+                "rel": "Piero della Francesca"
+            },
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "From April 22, 2014",
+                "href": "/exhibitions/listings/2014/goya",
+                "rel": "Goya and the Altamira Family"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/talks/gallery-talks/piero-della-francesca?eid=A001_%7bE50FD455-5FC1-41D0-9391-C456264363EF%7d_20140206160624",
+                "rel": "Exhibition Tour\u2014Piero della Francesca: Personal Encounters"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=A257_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20131127123002",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/monday-at-the-met-spring-2014?eid=R001_%7bBB2BF277-3666-435E-8B95-12CDE21533EA%7d_20140303100000",
+                "rel": "Monday at the Met with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R100_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140303123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R101_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140304123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R102_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140305123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R026_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140306140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R103_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140307123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/talks/the-observant-eye/stepping-out-of-the-frame?eid=A001_%7b438572AD-6B0F-4DA2-94FB-49B8931634C1%7d_20140123142901",
+                "rel": "Stepping Out of the Frame: Three-Dimensionality in the New Galleries for European Paintings"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/saturday-seminar-spring-2014?eid=R001_%7bE063A39F-FC40-4ECC-B690-C4C13F70B2A0%7d_20140308103000",
+                "rel": "Saturday Seminar with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/valo_2/hd_valo_2.htm",
+                "rel": "Patronage at the Later Valois Courts (1461\u20131589)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/refo/hd_refo.htm",
+                "rel": "The Reformation"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=euwl",
+                "rel": "Low Countries, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/435956"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/435956"
+        }
+    },
+    "accession number": "49.7.45",
+    "credit line": "The Jules Bache Collection, 1949",
+    "date": "ca. 1535\u201340",
+    "department": "European Paintings",
+    "dimensions": "7 x 5 1/2 in. (17.8 x 14 cm); with added strips, 8 1/2 x 6 in. (21.6 x 15.2 cm)",
+    "gallery-id": 644,
+    "id": 435956,
+    "image": "http://images.metmuseum.org/CRDImages/ep/original/ep49.7.45.bw.R.jpg",
+    "medium": "Oil on wood",
+    "provenance": [
+        "Roger de Gaigni\u00e8res, Paris (until 1711)",
+        "Louis XIV, King of France (1711\u201317; sale of the Gaigni\u00e8res collection arranged by Colbert de Torcy, Paris, July 21ff., 1717)",
+        "Staats-Minister von Hacke (until 1822; sold to Hausmann)",
+        "Bernhard David Hausmann, Hanover (1822\u201357; cat., 1831, no. 76 or 77)",
+        "George V, King of Hanover (1857\u2013d. 1878; cat., 1857, no. 76)",
+        "his son, Ernest Augustus, Duke of Brunswick-L\u00fcneburg, also Duke of Cumberland (1878\u20131923; cat., 1902, no. 143; cat., 1905, no. 527)",
+        "[Paul Bottenwieser, Berlin, 1925]",
+        "Maurice Brozek, Paris (1925; sold for $6,068.75 to Bache)",
+        "Jules S. Bache, New York (1925\u2013d. 1944; his estate, 1944\u201349; cats., 1937, no. 46; 1943, no. 45)"
+    ],
+    "title": "Portrait of a Man with a Black-Plumed Hat",
+    "what": [
+        "Paintings",
+        "Oil paint"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Netherlands"
+    ],
+    "who": "Corneille de Lyon"
+}

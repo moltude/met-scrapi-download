@@ -1,0 +1,127 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/467518"
+            },
+            {
+                "href": "http://scrapi.org/object/467519"
+            },
+            {
+                "href": "http://scrapi.org/object/467520"
+            },
+            {
+                "href": "http://scrapi.org/object/467521"
+            },
+            {
+                "href": "http://scrapi.org/object/467522"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 25, 2014",
+                "href": "/exhibitions/listings/2014/canterbury-stained-glass",
+                "rel": "Radiant Light"
+            },
+            {
+                "date": "From August 6, 2013",
+                "href": "/exhibitions/listings/2013/design-motifs-in-byzantine-art",
+                "rel": "Design Motifs in Byzantine Art"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R009_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140310150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R105_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140311104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R010_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140311150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R106_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140312104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R011_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140312150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R107_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140313104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R012_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140313150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R108_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140314104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R013_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140314150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=euwl",
+                "rel": "Low Countries, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/466690"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/466690"
+        }
+    },
+    "accession number": "27.248.7",
+    "credit line": "Gift of Alice M. Dike, 1927",
+    "culture": "South Netherlandish",
+    "date": "15th century",
+    "department": "Medieval Art",
+    "dimensions": [
+        "Overall 3 3/8 x 2 9/16 in. (8.6 x 6.5 cm)",
+        "Illumination 2 5/16 x 1 7/16 in. (5.8 x 3.6 cm)",
+        "Mat size with 27.248.3-.7 & .12-.16 15 15/16 x 21 15/16 in. (40.5 x 55.7 cm)"
+    ],
+    "id": 466690,
+    "image": "http://images.metmuseum.org/CRDImages/md/original/sf27-248-07s1.jpg",
+    "medium": "Tempera, ink and gold on parchment",
+    "provenance": [
+        "Alice M. Dike(until 1927)"
+    ],
+    "title": "Manuscript Leaf with the Adoration of the Magi, from a Book of Hours",
+    "what": [
+        "Metal",
+        "Ink",
+        "Books",
+        "Gold",
+        "Paintings",
+        "Manuscripts",
+        "Tempera",
+        "Parchment",
+        "Illuminations"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Netherlands"
+    ]
+}

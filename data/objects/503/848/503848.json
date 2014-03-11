@@ -1,0 +1,128 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/503849"
+            },
+            {
+                "href": "http://scrapi.org/object/500555"
+            },
+            {
+                "href": "http://scrapi.org/object/505786"
+            },
+            {
+                "href": "http://scrapi.org/object/503048"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/early-guitars",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A001_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203181946",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A002_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203182002",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A004_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203182034",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A006_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203182105",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A005_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20140206152942",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A001_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115501",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A002_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115523",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A003_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115537",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A004_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115549",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A005_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115601",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=eustn",
+                "rel": "Venice and Northern Italy, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/503848"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/503848"
+        }
+    },
+    "accession number": "1989.344.1",
+    "credit line": "Gift of Mr. and Mrs. Mark Willcox, in memory of Jane Byrd Radcliffe Whitehead, 1989",
+    "date": "1797",
+    "department": "Musical Instruments",
+    "dimensions": [
+        "Overall 31.6 x 91cm (12 7/16 x 35 13/16in.) String L. 59.5 cm (23 7/16 in.)",
+        "Label 31.6 x 91cm (12 7/16 x 35 13/16in.)"
+    ],
+    "gallery-id": 684,
+    "id": 503848,
+    "image": "http://images.metmuseum.org/CRDImages/mi/original/DP168846.jpg",
+    "medium": "Rosewood, spruce, walnut, bone, mother-of-pearl",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/mi/original/DP168846.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/DP169027.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/DP168847.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/DP168848.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/DP168849.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/DP168850.jpg"
+    ],
+    "title": "Mandola",
+    "what": [
+        "Wood",
+        "Bone",
+        "Musical instruments",
+        "Chordophones",
+        "Softwood",
+        "Walnut",
+        "Lutes",
+        "Rosewood",
+        "Spruce",
+        "Mandolins",
+        "Mandores"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "Italy",
+        "Lombardy",
+        "Milan"
+    ],
+    "who": "Giuseppe Presbler"
+}

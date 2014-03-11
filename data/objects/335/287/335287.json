@@ -1,0 +1,104 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/335211"
+            },
+            {
+                "href": "http://scrapi.org/object/335215"
+            },
+            {
+                "href": "http://scrapi.org/object/335218"
+            },
+            {
+                "href": "http://scrapi.org/object/335213"
+            },
+            {
+                "href": "http://scrapi.org/object/335214"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/grtr/hd_grtr.htm",
+                "rel": "The Grand Tour"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/venc/hd_venc.htm",
+                "rel": "Venice in the Eighteenth Century"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=eustn",
+                "rel": "Venice and Northern Italy, 1600\u20131800 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=eustn",
+                "rel": "Venice and Northern Italy, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/335287"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/335287"
+        }
+    },
+    "accession number": "1973.634",
+    "credit line": "Purchase, Gift of Mary V.T. Eberstadt and Bequest of Gertrude Moira Flanagan, by exchange, 1973",
+    "date": "1741",
+    "department": "Drawings and Prints",
+    "description": "Venice in the eighteenth century was the site of an extraordinary flourishing of print production, which reached its apogee in the years 1740\u201345.   It was in these very years that Canaletto, the great painter of views of Venice and also of England during his sojourn there, made approximately thirty etchings: thirteen large plates and seventeen smaller ones.  The title plate to the series states that these are \"Views, some representing actual sites, others imaginary.\" This is one of the imaginary views, reminiscent of Venice and the lagoon. For an unknown reason, Canaletto divided this plate down the middle, between the backs of the two central figures, relatively soon after it was made.  Fewer than ten impressions are known from the undivided plate.  The date, 1741 in Roman numerals on the wall at the left, is the only one on any of Canaletto's prints.",
+    "dimensions": "sheet 11 13/16 x 17 3/16 in. (30 x 43.7 cm)",
+    "id": 335287,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/dp1973.634.R.jpg",
+    "medium": "Etching",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/dp1973.634.R.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/1973.634.R.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP232853.jpg"
+    ],
+    "title": "Imaginary View of Venice (undivided plate)",
+    "what": [
+        "Prints",
+        "Etching"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Canaletto (Giovanni Antonio Canal)"
+}

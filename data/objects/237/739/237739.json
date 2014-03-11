@@ -1,0 +1,148 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/237738"
+            },
+            {
+                "href": "http://scrapi.org/object/207015"
+            },
+            {
+                "href": "http://scrapi.org/object/191610"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 3, 2014",
+                "href": "/exhibitions/listings/2014/william-morris",
+                "rel": "William Morris"
+            },
+            {
+                "date": "From November 22, 2011",
+                "href": "/exhibitions/listings/2011/faberge",
+                "rel": "Faberg\u00e9 from the Matilda Geddings Gray Foundation Collection"
+            },
+            {
+                "date": "From February 4, 2014",
+                "href": "/exhibitions/listings/2014/french-ceramics",
+                "rel": "Making Pottery Art"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/carpeaux",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "From January 22, 2014",
+                "href": "/exhibitions/listings/2014/antonio-canova",
+                "rel": "Antonio Canova"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining-family-individual?eid=R002_%7b2F11F3B2-6834-484B-AE0F-5066D7E783B5%7d_20140308100000",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining-family-individual?eid=A002_%7b2F11F3B2-6834-484B-AE0F-5066D7E783B5%7d_20140107114234",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R104_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140310131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/membership-events/evening-receptions/carpeaux-supporting-reception?eid=A001_%7b60301F85-6473-4C1C-8DAB-5D8B2E9406EE%7d_20140107151713",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R105_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140311131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/membership-events/evening-receptions/carpeaux-sustaining-reception?eid=A001_%7bB97F7097-C940-4FDB-8982-A3EC61BD9084%7d_20140107152519",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/world-enlightened?eid=R002_%7bEC37AED7-F558-4A27-A806-094491540250%7d_20140312101500",
+                "rel": "Cultural Discoveries\u2014Wednesdays with Olivier Bernier: Europe in the Eighteenth Century, A World Enlightened"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/talks/gallery-talks/the-passions-of-jean-baptiste-carpeaux?eid=A003_%7b7437318B-B35F-4C96-BAA4-FF8EDD85D6CA%7d_20140206123059",
+                "rel": "Exhibition Tour\u2014The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R106_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140313131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R107_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140314131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=eustn",
+                "rel": "Venice and Northern Italy, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/237739"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/237739"
+        }
+    },
+    "accession number": "2010.113",
+    "credit line": "Purchase, Assunta Sommella Peluso, Ignazio Peluso, Ada Peluso and Romano I. Peluso Gift, 2010",
+    "culture": "Italian, Venice",
+    "date": "ca. 1720\u201325",
+    "department": "European Sculpture and Decorative Arts",
+    "dimensions": "Overall (confirmed) H. 24 5/8 x W. 13 7/8 x D. 4 5/8 in., 32lb. (62.5 x 35.2 x 11.7 cm, 14.5151kg)",
+    "gallery-id": 508,
+    "id": 237739,
+    "image": "http://images.metmuseum.org/CRDImages/es/original/DP250598.jpg",
+    "medium": "Bronze",
+    "provenance": [
+        "Dr. Adolf Hommel , Zurich (until 1909; his sale, Kunsthaus Lempertz, Cologne, August 10\u201318, 1909, no. 425)",
+        "[ Heilbronner Gallery , Lucerne (in 1957) ]",
+        "Donati Collection",
+        "Ernest Brummer , New York (until 1979; his sale, Galerie Koller AG, Zurich, October 16\u201319,1979, vol. 1, no. 117)",
+        "[ sale, Christie's, London , July 3, 1985, no. 118 ]",
+        "[ Black-Nadeau Gallery , London\u2013Monte Carlo ]",
+        "[ sale, Sotheby's, New York , January 29, 1998, no. 138 ]",
+        "[ sale, Christie's, London , July 4, 2000, no. 73 ]",
+        "[ sale, Christie's, London , July 9, 2009, no. 136 ]",
+        "[ Trinity Fine Art, London (until 2010; sold to MMA) ]"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/es/original/DP250598.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP250596.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP250597.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP232091.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP250601.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP250599.jpg"
+    ],
+    "title": "Saint Ignatius Loyola with an Angel Holding a Book Inscribed with the Motto of the Society of Jesus",
+    "what": [
+        "Metal",
+        "Sculpture",
+        "Copper alloy",
+        "Bronze",
+        "Statues"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "Italy",
+        "Venice"
+    ],
+    "who": "Francesco Bertos"
+}

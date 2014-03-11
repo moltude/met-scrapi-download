@@ -1,0 +1,127 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/318342"
+            },
+            {
+                "href": "http://scrapi.org/object/310847"
+            },
+            {
+                "href": "http://scrapi.org/object/310188"
+            },
+            {
+                "href": "http://scrapi.org/object/310065"
+            },
+            {
+                "href": "http://scrapi.org/object/310176"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From September 16, 2013",
+                "href": "/exhibitions/listings/2013/feathered-walls",
+                "rel": "Feathered Walls"
+            },
+            {
+                "date": "From October 8, 2013",
+                "href": "/exhibitions/listings/2013/nelson-rockefeller",
+                "rel": "The Nelson A. Rockefeller Vision"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=A115_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140210093011",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/talks/gallery-talks/ancient-american-sculpture?eid=A001_%7b7A6AA394-9359-47C1-87B4-65B0894C01AB%7d_20140123114645",
+                "rel": "Ancient American Sculpture"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R105_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140311130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R106_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140312130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R107_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140313130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 18, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/shaping-the-african-art-canon?eid=A001_%7b447041C4-D9E7-43A9-AE5F-85BAEB6E7196%7d_20140214113010",
+                "rel": "Shaping the African Art Canon: From the Museum to the Classroom"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/talks/the-observant-eye/shared-memory-sculptural-ancestral-objects-from-oceania?eid=A001_%7b94768B86-339F-4726-A3BC-8F798C423768%7d_20140123143856",
+                "rel": "Shared Memory: Sculptural Ancestral Objects from Oceania"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=A116_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140210093151",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/talks/gallery-talks/ancient-american-sculpture?eid=A002_%7b7A6AA394-9359-47C1-87B4-65B0894C01AB%7d_20140123114700",
+                "rel": "Ancient American Sculpture"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=sfg",
+                "rel": "Guinea Coast, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/311020"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/311020"
+        }
+    },
+    "accession number": "1978.412.559",
+    "credit line": "The Michael C. Rockefeller Memorial Collection, Purchase, Nelson A. Rockefeller Gift, 1967",
+    "culture": "Ijo peoples",
+    "date": "19th century",
+    "department": "Arts of Africa, Oceania and the Americas",
+    "description": "Water deities are perceived to be the forces ultimately responsible for individual acquisition of wealth and power. Among the Kalabari, an Ijo subgroup that occupies the eastern part of the delta, one of the most important village institutions is the Ekine society, an association devoted to the dancing of masquerades representing water spirits. It is claimed that these performances imitate dances of the water spirits themselves, and the masks sometimes exit or enter from the water. Often the masquerade headpieces are designed so that the principal features face the sky and are visible to spectators only when the dancer bends forward.This water spirit headdress is used in the masquerades of the Ekine men's society (also Sekiapu).  The headdresses worn in such performances blend the features of humans and aquatic animals (such as the hippopotamus) or fish. Although they are worn with a cloth and palm costume that covers the entire body, the headdress is the key element which is conceived of as the seat of the masquerade spirit's \"owner.\" Ekine performances constitute a highly appreciated form of entertainment and invoke local water spirits for assistance and guidance. Skilled performers gain status in the community and are also the arbitrators of personal disputes.",
+    "dimensions": "H. 8 1/4 x W. 6 1/8 x D. 35 3/16 in. (21 x 15.5 x 89.5 cm)",
+    "gallery-id": 352,
+    "id": 311020,
+    "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1978_412_559.jpg",
+    "medium": "Wood, cartridge shells",
+    "provenance": [
+        "[W. D. Webster, London]",
+        "Augustus Lane-Fox Pitt-Rivers, Farnham, Dorset, U.K.,  until ca. 1890",
+        "[John J. Klejman, New York, until 1967]",
+        "The Museum of Primitive Art, New York, 1967\u20131978"
+    ],
+    "title": "Plank Headdress: Water Spirit",
+    "what": [
+        "Costume",
+        "Sculpture",
+        "Wood",
+        "Shell",
+        "Headdresses",
+        "Ammunition",
+        "Cartridges"
+    ],
+    "where": [
+        "Africa",
+        "Nigeria",
+        "Niger Delta"
+    ],
+    "who": "Ijo"
+}

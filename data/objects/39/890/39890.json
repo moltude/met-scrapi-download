@@ -1,0 +1,155 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/49045"
+            },
+            {
+                "href": "http://scrapi.org/object/36048"
+            },
+            {
+                "href": "http://scrapi.org/object/36049"
+            },
+            {
+                "href": "http://scrapi.org/object/73299"
+            },
+            {
+                "href": "http://scrapi.org/object/50827"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 8, 2014",
+                "href": "/exhibitions/listings/2014/tibet-and-india",
+                "rel": "Tibet and India"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/chinese-carving",
+                "rel": "Colors of the Universe"
+            },
+            {
+                "date": "From July 19, 2013",
+                "href": "/exhibitions/listings/2013/chinese-snuff-bottles",
+                "rel": "Small Delights"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/ink-art",
+                "rel": "Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "From February 1, 2014",
+                "href": "/exhibitions/listings/2014/edo-period-painting",
+                "rel": "The Flowering of Edo Period Painting"
+            },
+            {
+                "date": "From April 14, 2014",
+                "href": "/exhibitions/listings/2014/lost-kingdoms",
+                "rel": "Lost Kingdoms"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/highlights-of-asia?eid=A041_%7b93924202-8616-42E2-8DA1-39A4591F1426%7d_20140122180137",
+                "rel": "Highlights of Asia"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R100_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140303111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R100_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140303131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R101_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140304111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R101_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140304120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R101_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140304131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/talks/gallery-talks/the-flowering-of-edo-period-painting-spring?eid=A001_%7bB9065A06-A3F9-4CAB-8F49-ED3038F1E7A2%7d_20140205171419",
+                "rel": "Exhibition Tour\u2014The Flowering of Edo Period Painting: Japanese Masterworks from the Feinberg Collection"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=A092_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20131018142423",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R102_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140305120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R102_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140305131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=nc",
+                "rel": "Central and North Asia, 1600\u20131800 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=eac",
+                "rel": "China, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/39890"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/39890"
+        }
+    },
+    "accession number": "1992.166.1a, b",
+    "credit line": "Gift of Mr. and Mrs. Wan-go H. C. Weng, 1992",
+    "culture": "China",
+    "date": "17th century",
+    "department": "Asian Art",
+    "description": "Written Chinese evolved slowly over more than two millennia before arriving at a modern, \"regular\" script (kai shu) in the third century A.D. The oldest script type, known as \"seal\" script (zhuan shu), developed gradually during the Shang, Zhou, and Qin periods (ca. 1500\u2013206 B.C.) and is characterized by curvilinear picturelike forms executed in strokes of even thickness.Inscriptions on the Ten Stone Drums, which record royal hunting expeditions, were probably engraved by one of the early dukes of the Qin state and constitute the earliest monumental seal-script texts of any length to survive. The script represents a transitional style between the \"large-seal\" script found on Shang and Zhou bronze vessels and the standardized \"small-seal\" script employed in official documents of the Qin dynasty (221\u2013206 B.C.). The drums, discovered near Baoji in Shaanxi Province in the seventh century A.D., were moved to the imperial palace in Kaifeng by Emperor Huizong (r. 1101\u201325). When Jurched Jin troops captured the Song capital in 1127, the drums were moved again to Beijing, where they are now in the Palace Museum.The tradition of making ink rubbings of stone- and wood-carved inscriptions was a precursor to printing in China and made possible the wide dissemination of calligraphic models.",
+    "dimensions": [
+        "Image (scroll a) 16 1/2 \u00d7 257 1/4 in. (41.9 \u00d7 653.4 cm)",
+        "Image (scroll b) 16 3/4 \u00d7 265 5/8 in. (42.5 \u00d7 674.7 cm)"
+    ],
+    "id": 39890,
+    "image": "http://images.metmuseum.org/CRDImages/as/original/sf1992_166_CRD.jpg",
+    "medium": "Set of rubbings in ten sections mounted as a pair of handscrolls; ink on paper",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/as/original/sf1992_166_CRD.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/1992_166_1ab_O2.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/1992_166_1ab_d01.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/1992_166_1ab_d02.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/1992_166_1ab_d04.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/1992_166_1ab_d03.jpg"
+    ],
+    "title": "Inscriptions on the Stone Drums (Eastern Zhou dynasty, 5th century B.C.)",
+    "what": [
+        "Ink",
+        "Paper",
+        "Paintings",
+        "Scroll paintings",
+        "Handscrolls",
+        "Rubbings"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Asia",
+        "China"
+    ],
+    "who": "Unidentified Artist"
+}

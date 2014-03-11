@@ -1,0 +1,92 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/348794"
+            },
+            {
+                "href": "http://scrapi.org/object/348838"
+            },
+            {
+                "href": "http://scrapi.org/object/359338"
+            },
+            {
+                "href": "http://scrapi.org/object/360288"
+            },
+            {
+                "href": "http://scrapi.org/object/360289"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/360293"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/360293"
+        }
+    },
+    "accession number": "43.33.16",
+    "credit line": "Gift of New York City WPA, 1943",
+    "date": "1935\u201343",
+    "department": "Drawings and Prints",
+    "dimensions": "block 6 x 8 in. (15.2 x 20.3 cm) sheet: 8 3/4 x 11 1/4 in. (22.2 x 28.6 cm)",
+    "id": 360293,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP820151.jpg",
+    "medium": "Wood engraving",
+    "provenance": [
+        "Donor: WPA"
+    ],
+    "title": "Smoke",
+    "what": [
+        "Prints",
+        "Engraving",
+        "Relief prints",
+        "Wood engravings"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": [
+        "WPA",
+        "Lou Barlow",
+        "Louis Breslow"
+    ]
+}

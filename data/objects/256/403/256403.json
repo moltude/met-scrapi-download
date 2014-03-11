@@ -1,0 +1,128 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/248132"
+            },
+            {
+                "href": "http://scrapi.org/object/248116"
+            },
+            {
+                "href": "http://scrapi.org/object/248143"
+            },
+            {
+                "href": "http://scrapi.org/object/248145"
+            },
+            {
+                "href": "http://scrapi.org/object/248270"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A146_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142808",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R104_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140310123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R105_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140311123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R106_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140313123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R027_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140313130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R107_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140314123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/conversations-with-curators-and-conservators/terracotta-column-krater?eid=A001_%7b1CC4797D-7295-4614-9ACD-19C00BA693F4%7d_20140204162630",
+                "rel": "Conversation with a Curator\u2014Terracotta Column-Krater"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A144_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142257",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A145_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142312",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/rogr/hd_rogr.htm",
+                "rel": "Roman Copies of Greek Statues"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=05\u00aeion=eust",
+                "rel": "Italian Peninsula, 1\u2013500A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/256403"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/256403"
+        }
+    },
+    "accession number": "2010.260",
+    "credit line": "Purchase, Philodoroi, Lila Acheson Wallace, Mary and Michael Jaharis, Annette and Oscar de la Renta, Leon Levy Foundation, The Robert A. and Ren\u00e9e E. Belfer Family Foundation, Mr. and Mrs. John A. Moran, Jeannette and Jonathan Rosen, Malcolm Hewitt Wiener Foundation and Nicholas S. Zoullas Gifts, 2010",
+    "culture": "Roman",
+    "date": "2nd century A.D.",
+    "department": "Greek and Roman Art",
+    "description": "Roman copy of a Greek work of the 2nd century B.C.These young girls, linked in a dance-like pose, represent The Three Graces: Aglaia (Beauty), Euphrosyne (Mirth), and Thalia (Abundance). They bestow what is most pleasurable and beneficent in nature and society: fertility and growth, beauty in the arts, harmonious reciprocity between men. They enjoyed venerable cults in Greece and Asia Minor. In mythology, they play an attendant role, gracing festivals and organizing dances. Their closest connection is with Aphrodite, whom they serve as handmaidens.This carefully calculated, frieze-like composition is typical of classicizing art of the second and first centuries B.C. Instantly recognizable, it soon became the canonic formula for representing the Graces, who appeared in every medium and on every kind of object, from mirrors to sarcophagi.",
+    "dimensions": "Overall 48 7/16 x 39 3/8in. (123 x 100cm)",
+    "gallery-id": 162,
+    "id": 256403,
+    "image": "http://images.metmuseum.org/CRDImages/gr/original/DP222664.jpg",
+    "medium": "Marble",
+    "provenance": [
+        "Said to have been found in 1892 in Rome at via Torre dei Conti 15, near the Forum of Nerva and Vespasian\u2019s Temple of Peace, 5 meters below the street level (Becatti 1937, p. 42 and Balil 1958, p. 72)Said to have been found in 1892 in Rome",
+        "until 1909, collection of Joachim Ferroni, Rome",
+        "[April 1909, purchased by Hagop Kevorkian at the posthumous sale of the Ferroni Collection, Galleria Sangiorgi, Rome, lot 566]",
+        "[after 1909, with Hagop Kevorkian, New York]",
+        "[by 1915, with Cesare and Ercole Canessa, New York]",
+        "[March 1930, purchased by Joseph Brummer at the posthumous sale of the Ercole Canessa Collection, Anderson Galleries, Inc., New York]",
+        "[after 1930, with Joseph Brummer, New York]",
+        "[before 1947, purchased by Alexander Iolas, New York]",
+        "until 2010, part of the Ophiuchus Collection, New York (Pauline Karpidas)",
+        "since 1992, on loan to the Metropolitan Museum of Art, New York",
+        "acquired in 2010, purchased from Pauline Karpidas."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/gr/original/DP222664.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP222665.jpg"
+    ],
+    "title": "Marble Statue Group of the Three Graces",
+    "what": [
+        "Sculpture",
+        "Stone",
+        "Statues",
+        "Marble"
+    ],
+    "when": "A.D. 1-500",
+    "where": [
+        "Roman Empire"
+    ]
+}

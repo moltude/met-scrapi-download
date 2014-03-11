@@ -1,0 +1,90 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/337860"
+            },
+            {
+                "href": "http://scrapi.org/object/337861"
+            },
+            {
+                "href": "http://scrapi.org/object/337862"
+            },
+            {
+                "href": "http://scrapi.org/object/343085"
+            },
+            {
+                "href": "http://scrapi.org/object/343695"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwf",
+                "rel": "France, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/408992"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/408992"
+        }
+    },
+    "accession number": "2012.150.4",
+    "credit line": "Gift of Mrs. Charles Wrightsman, 2012",
+    "date": "1770\u20131790 ca.",
+    "department": "Drawings and Prints",
+    "description": "Three variants for a funerary monument or epitaph meant to be placed against a wall. The monuments are all composed of a portrait medallion with two branches below, a plaque with the letters D.O.M. (Deus Optimus Maximus) followed by a pseudo-inscription, and an escutcheon beneath in which a personal crest can be placed. The design in the middle is surrounded by sketchy lines in graphite which seem to suggest an elaboration of the design. On the bottom of the page the scale of the designs is indicated. On the verso there is an undefined sketch in graphite",
+    "dimensions": "Sheet 8 3/8 x 10 1/16 in. (21.2 x 25.5 cm)",
+    "id": 408992,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP823927.jpg",
+    "medium": "Pen and ink, watercolor over graphite",
+    "provenance": [
+        "Heim Gallery, London(1969)",
+        "Donor: Jayne Wrightsman"
+    ],
+    "title": "Three Designs for a Funerary Monument or Epitaph",
+    "what": [
+        "Ink",
+        "Drawings",
+        "Watercolors",
+        "Graphite"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Jean Michel Moreau the Younger"
+}

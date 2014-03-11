@@ -1,0 +1,104 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/266222"
+            },
+            {
+                "href": "http://scrapi.org/object/266984"
+            },
+            {
+                "href": "http://scrapi.org/object/266331"
+            },
+            {
+                "href": "http://scrapi.org/object/266644"
+            },
+            {
+                "href": "http://scrapi.org/object/266646"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/bald/hd_bald.htm",
+                "rel": "\u00c9douard  Baldus (1813\u20131889)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/heli/hd_heli.htm",
+                "rel": "Mission H\u00e9liographique, 1851"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwf",
+                "rel": "France, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/266282"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/266282"
+        }
+    },
+    "accession number": "1990.1127",
+    "credit line": "Purchase, The Horace W. Goldsmith Foundation Gift, through Joyce and Robert Menschel, and Edward Pearce Casey Fund, 1990",
+    "date": "1851",
+    "department": "Photographs",
+    "description": "For the Missions H\u00e9liographiques, Baldus made two views of the Roman triumphal arch in the Proven\u00e7al town of Orange. One shows the monument almost frontally, its visible face in shadow, but with sunlight glinting on the far edges of the arched openings; a man sits contemplatively on a stone beneath the central arch and another man stands nearby; through the arches, rows of poplars, a few houses, and the nearby hills are visible; the dark and imposing Roman arch frames nature, the contemporary town, and man. This is a scene that might have been depicted by a painter, draftsman, or printmaker. Baldus' other photograph from 1851, shown here, presents the arch from the opposite side at a slight angle in strong sunlight. The structure is a massive block of stone, an isolated object, its three arched openings described by flat, intensely dark swaths of shadow that impart a graphic power to the image. Baldus' assistant stands erect at the center of the picture, an inanimate measuring rod rather than the viewer's alter ego. At this single site in 1851, Baldus demonstrated two aesthetic tendencies-the picturesque rendering of a scene and the objectification of an architectural subject-a polarity that affected his work in varying degrees throughout his career.",
+    "dimensions": "35.3 x 26.2 cm (13 7/8 x 10 5/16 in.)",
+    "id": 266282,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DT1657.jpg",
+    "medium": "Salted paper print from paper negative",
+    "provenance": [
+        "Andr\u00e9 Jammes",
+        "Van Deren Coke",
+        "Hans Kraus, Jr."
+    ],
+    "title": "[Roman Arch at Orange]",
+    "what": [
+        "Photographs",
+        "Salted paper prints"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "\u00c9douard Baldus"
+}

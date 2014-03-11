@@ -1,0 +1,97 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/267198"
+            },
+            {
+                "href": "http://scrapi.org/object/267199"
+            },
+            {
+                "href": "http://scrapi.org/object/267200"
+            },
+            {
+                "href": "http://scrapi.org/object/267201"
+            },
+            {
+                "href": "http://scrapi.org/object/267202"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/pcgn/hd_pcgn.htm",
+                "rel": "The Pictures Generation"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/267220"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/267220"
+        }
+    },
+    "accession number": "1995.267.1",
+    "credit line": "Gift of the artist, 1995",
+    "date": "1981",
+    "department": "Photographs",
+    "description": "In the late 1970s and early 1980s, a group of artists including Cindy Sherman, Richard Prince, and Sherrie Levine\u2014at the time dubbed the \"Pictures\" generation\u2014began using photography to examine the strategies and codes of representation.  In reshooting Marlboro advertisements, B-movie stills, and even classics of Modernist photography, these artists adopted dual roles as director and spectator.  In their manipulated appropriations, these artists were not only exposing and dissembling mass-media fictions, but enacting more complicated scenarios of desire, identification, and loss.\tIn 1981, Levine photographed reproductions of Depression-era photographs by Walker Evans, such as this famous portrait of a family of Alabama sharecroppers.  The series, entitled After Walker Evans, became a landmark of postmodernism, both praised and attacked as a feminist hijacking of patriarchal authority, a critique of the commodification of art, and an elegy on the death of modernism.  Far from being a high-concept cheap shot, Levine's works from this series elucidate our nostalgic desire to invest historical images with an innocence their contemporary counterparts cannot claim.",
+    "dimensions": "20.3 x 25.4 cm (8 x 10 in.)",
+    "id": 267220,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP156443.jpg",
+    "medium": "Gelatin silver print",
+    "provenance": [
+        "Sherrie Levine"
+    ],
+    "title": "After Walker Evans: 2",
+    "what": [
+        "Photographs",
+        "Gelatin silver prints"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "Sherrie Levine"
+}

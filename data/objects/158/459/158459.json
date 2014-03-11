@@ -1,0 +1,127 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/79913"
+            },
+            {
+                "href": "http://scrapi.org/object/79981"
+            },
+            {
+                "href": "http://scrapi.org/object/114464"
+            },
+            {
+                "href": "http://scrapi.org/object/114561"
+            },
+            {
+                "href": "http://scrapi.org/object/155938"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R130_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140310130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/cost/hd_cost.htm",
+                "rel": "Costume in The Metropolitan Museum of Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/itfa/hd_itfa.htm",
+                "rel": "Made in Italy: Italian Fashion from 1950 to Now"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/shoe/hd_shoe.htm",
+                "rel": "Shoes in The Costume Institute"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=eust",
+                "rel": "Italian Peninsula, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/158459"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/158459"
+        }
+    },
+    "accession number": "2009.300.3513a, b",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of the Italian Government, 1954",
+    "culture": "Italian",
+    "date": "1947\u201350",
+    "department": "Costume Institute",
+    "description": "Salvatore Ferragamo was the first manufacturer and designer to bring Italian shoes to the forefront of the footwear industry. Using his knowledge of American industrial methods gained during his stay in the U.S. between 1914 and 1927, Ferragamo availed himself of the skilled Italian labor pool to create a high quality, hand-made product for an international market. The designer's work is best known for its innovative use of materials, such as straw, raffia, cellophane, lace, and cork, and for the use of brilliant colors. Although less important for other designers, Ferragamo often included boots and boot-like shoes in his collections.  This pair of shoes has a particularly beautiful cut, with careful attention to the lines of the strap and of the topline, which echoes the line of the wedge heel.  Ferragamo was a major figure in the development of the wedge heel in the 1930s, and frequently included it his designs.  On this example, the combination of a wede heel and a flat welted sole is particularly unusual.",
+    "dimensions": "6 3/4 x 9 1/2 in. (17.1 x 24.1 cm)",
+    "id": 158459,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/54.63.40a-b_CP4.jpg",
+    "medium": "leather",
+    "title": "Shoes",
+    "what": [
+        "Costume",
+        "Leather",
+        "Footwear",
+        "Shoes"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Salvatore Ferragamo"
+}

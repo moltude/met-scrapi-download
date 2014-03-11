@@ -1,0 +1,88 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/302466"
+            },
+            {
+                "href": "http://scrapi.org/object/289720"
+            },
+            {
+                "href": "http://scrapi.org/object/283200"
+            },
+            {
+                "href": "http://scrapi.org/object/284680"
+            },
+            {
+                "href": "http://scrapi.org/object/272259"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/283064"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/283064"
+        }
+    },
+    "accession number": "2005.100.800",
+    "credit line": "Gilman Collection, Museum Purchase, 2005",
+    "date": "1840\u201345",
+    "department": "Photographs",
+    "description": "This sheet was mounted with five other photogenic drawings of flowers, leaves, and keys on one page of an album of prints, drawings, and photographs assembled by the British watercolorist Henry Bright (1814-1873). It records the form of an egg case from the Scyliorhinidae family of sharks, native to the North Atlantic. Because the marine specimen did not lie flat against the photosensitized paper as a pressed leaf or flower would, the light passed over and around portions of its long tendrils, giving the illusion of the egg case still floating amid the vegetation of the sea bed.There has been much discussion regarding the date and attribution of this photogenic drawing and the others that were originally mounted together on a single page in Henry Bright's album and that were separated and auctioned individually at Sotheby's London on June 29, 1984.  One of these photogenic drawings was presented in the catalogue for a sale of photographs from the Quillan Collection at Sotheby's New York, April 7, 2008, but was withdrawn before the sale; the catalogue's suggestion that the Quillan Collection photogenic drawing might be the work of Thomas Wedgewood and date from the beginning of the 19th century sparked a contentious debate in the scholarly community and has prompted further research.",
+    "dimensions": "18.6 x 11.4 cm (7 5/16 x 4 1/2 in. )",
+    "id": 283064,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DT2541.jpg",
+    "medium": "Photogenic drawing",
+    "provenance": [
+        "Henry Bright",
+        "(Sotheby's London, June 29, 1984, lot 134)",
+        "[Rinhart Galleries, New York]",
+        "Gilman Paper Company Collection, New York, August 3, 1984"
+    ],
+    "title": "[Shark Egg Case]",
+    "what": [
+        "Photographs",
+        "Drawings",
+        "Negatives",
+        "Photogenic drawings"
+    ],
+    "when": "A.D. 1800-1900",
+    "who": "Unknown"
+}

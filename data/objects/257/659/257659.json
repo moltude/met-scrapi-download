@@ -1,0 +1,125 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/255060"
+            },
+            {
+                "href": "http://scrapi.org/object/247477"
+            },
+            {
+                "href": "http://scrapi.org/object/247562"
+            },
+            {
+                "href": "http://scrapi.org/object/247516"
+            },
+            {
+                "href": "http://scrapi.org/object/255885"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R104_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140310123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R105_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140311123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R106_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140313123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R027_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140313130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R107_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140314123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/conversations-with-curators-and-conservators/terracotta-column-krater?eid=A001_%7b1CC4797D-7295-4614-9ACD-19C00BA693F4%7d_20140204162630",
+                "rel": "Conversation with a Curator\u2014Terracotta Column-Krater"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A144_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142257",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A145_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142312",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R116_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140331123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=04\u00aeion=eusb",
+                "rel": "Ancient Greece, 1000 B.C.\u20131 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/257659"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/257659"
+        }
+    },
+    "accession number": "2004.171a, b",
+    "credit line": "The Bothmer Purchase Fund, 2004",
+    "culture": "Greek",
+    "date": "ca. 500\u2013450 B.C.",
+    "department": "Greek and Roman Art",
+    "description": "The gleaming golden color visible on the surface of these bronzes provides a rare glimpse of the original appearance of a bronze from classical antiquity.  The quality of the chasing on the amphora is particularly fine; on the shoulder is a tongue pattern in shallow relief, below which are bands and running spirals with a chain of horizontal palmettes in between.  The separately cast handles terminate at the shoulder with spotted feline heads fringed with flamelike tufts of hair.  A terracotta pointed neck-amphora and its conical stand can also been seen in this gallery.",
+    "dimensions": [
+        "Total H. of amphora on stand  22 3/4 in. (57.8 cm)",
+        "H. of amphora  19 in. (48.3 cm)",
+        "H. of stand  6 3/4 in. (17.1 cm)"
+    ],
+    "gallery-id": 156,
+    "id": 257659,
+    "image": "http://images.metmuseum.org/CRDImages/gr/original/DP108192.jpg",
+    "medium": "Bronze",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/gr/original/DP108192.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP108191.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP108193.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP108194.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP108195.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP108196.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP108197.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP108198.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP108199.jpg"
+    ],
+    "title": "Bronze pointed neck-amphora with stand",
+    "what": [
+        "Metal",
+        "Copper alloy",
+        "Bronze",
+        "Furniture",
+        "Stands",
+        "Amphorae",
+        "Neck amphorae"
+    ],
+    "when": "1000 B.C.-A.D. 1",
+    "where": [
+        "Europe",
+        "Greece"
+    ]
+}

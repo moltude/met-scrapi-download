@@ -1,0 +1,139 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/49443"
+            },
+            {
+                "href": "http://scrapi.org/object/59473"
+            },
+            {
+                "href": "http://scrapi.org/object/59474"
+            },
+            {
+                "href": "http://scrapi.org/object/59502"
+            },
+            {
+                "href": "http://scrapi.org/object/59503"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 8, 2014",
+                "href": "/exhibitions/listings/2014/tibet-and-india",
+                "rel": "Tibet and India"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/chinese-carving",
+                "rel": "Colors of the Universe"
+            },
+            {
+                "date": "From July 19, 2013",
+                "href": "/exhibitions/listings/2013/chinese-snuff-bottles",
+                "rel": "Small Delights"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/ink-art",
+                "rel": "Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "From February 1, 2014",
+                "href": "/exhibitions/listings/2014/edo-period-painting",
+                "rel": "The Flowering of Edo Period Painting"
+            },
+            {
+                "date": "From April 14, 2014",
+                "href": "/exhibitions/listings/2014/lost-kingdoms",
+                "rel": "Lost Kingdoms"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R104_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140310111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R104_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140310131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R105_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140311111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R105_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140311120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R105_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140311131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/talks/gallery-talks/gallery-conv-culture-and-politics?eid=A001_%7b33996DD5-3C4F-473B-BCAE-533DF0BF66F1%7d_20140205160349",
+                "rel": "Gallery Conversation\u2014Culture and Politics in Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=A093_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20131018142432",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R106_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140312120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R106_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140312131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R107_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140313120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=04\u00aeion=nc",
+                "rel": "Central and North Asia, 1000 B.C.\u20131 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/49444"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/49444"
+        }
+    },
+    "accession number": "28.68.4",
+    "credit line": "Gift of George D. Pratt, 1928",
+    "culture": "North China",
+    "date": "2nd\u20131st century B.C.",
+    "department": "Asian Art",
+    "description": "An interest in real animals in naturalistic settings characterizes the designs found on belt ornaments made for the Xiongnu, a powerful confederacy that controlled much of eastern Central Asia in the third and second century B.C. On this plaque, two ibexes with their bodies in profile and their heads shown frontally stand to either side of a third figure. The animals inhabit a wooded setting. The foreleg of each flanking ibex is raised and hooked over a branch of tree trunk. The remains of a curved hook on the right side of the plaque indicate that it would have been paired with a matching piece to form a complete belt buckle.",
+    "dimensions": "H. 2 1/4 in. (5.7 cm); W. 5 3/8 in. (13.7 cm)",
+    "id": 49444,
+    "image": "http://images.metmuseum.org/CRDImages/as/original/Plaque w_3 Ibexes 2 Ret.jpg",
+    "medium": "Bronze",
+    "title": "Belt Plaque with Three Ibexes",
+    "what": [
+        "Metal",
+        "Costume",
+        "Copper alloy",
+        "Metalwork",
+        "Bronze",
+        "Plaques",
+        "Belts"
+    ],
+    "when": "1000 B.C.-A.D. 1",
+    "where": [
+        "Asia",
+        "China"
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/44574"
+            },
+            {
+                "href": "http://scrapi.org/object/53796"
+            },
+            {
+                "href": "http://scrapi.org/object/45764"
+            },
+            {
+                "href": "http://scrapi.org/object/44573"
+            },
+            {
+                "href": "http://scrapi.org/object/45772"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 8, 2014",
+                "href": "/exhibitions/listings/2014/tibet-and-india",
+                "rel": "Tibet and India"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/chinese-carving",
+                "rel": "Colors of the Universe"
+            },
+            {
+                "date": "From July 19, 2013",
+                "href": "/exhibitions/listings/2013/chinese-snuff-bottles",
+                "rel": "Small Delights"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/ink-art",
+                "rel": "Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "From February 1, 2014",
+                "href": "/exhibitions/listings/2014/edo-period-painting",
+                "rel": "The Flowering of Edo Period Painting"
+            },
+            {
+                "date": "From April 14, 2014",
+                "href": "/exhibitions/listings/2014/lost-kingdoms",
+                "rel": "Lost Kingdoms"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/talks/gallery-talks/chinese-buddhist-sculpture?eid=A001_%7b539805A7-4AAC-4214-A063-93083E921332%7d_20140123142801",
+                "rel": "Chinese Buddhist Sculpture"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R104_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140310111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R104_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140310131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R105_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140311111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R105_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140311120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R105_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140311131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/talks/gallery-talks/gallery-conv-culture-and-politics?eid=A001_%7b33996DD5-3C4F-473B-BCAE-533DF0BF66F1%7d_20140205160349",
+                "rel": "Gallery Conversation\u2014Culture and Politics in Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=A093_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20131018142432",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R106_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140312120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R106_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140312131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=nc",
+                "rel": "Central and North Asia, 1400\u20131600 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=eac",
+                "rel": "China, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/45763"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/45763"
+        }
+    },
+    "accession number": "1989.363.56",
+    "credit line": "Bequest of John M. Crawford Jr., 1988",
+    "culture": "China",
+    "department": "Asian Art",
+    "description": "Not only is this letter one of the most beautiful specimens of Tang Yin's calligraphy to survive, but its contents also provide invaluable information about Tang's wide-ranging literary productions, many of which are no longer extant. The text of Tang's letter reads in part:I am getting together my past writings so I might be remembered after my death. I hope that all my writings\u2014the three volumes of the Sanshi huqian [on the principles of fortune telling], eight volumes of Selected Literary Works, one volume of The Mirror of Painting and Calligraphy, twenty volumes of Biographies of Generals and Ministers, two volumes of Historical Discussions, and six volumes of Discussions of Current Affairs\u2014will be remembered by you. Some day . . . I hope you will write of these works on my tombstone.(Marc F. Wilson and Kwan S. Wong, trans., Friends of Wen Cheng-ming: A View from the Crawford Collection [New York: China Institute in America, 1974], p. 74)",
+    "dimensions": "Image 10 1/2 x 25 1/4 in. (26.7 x 64.1 cm)",
+    "id": 45763,
+    "image": "http://images.metmuseum.org/CRDImages/as/original/DP153917.jpg",
+    "medium": "Album leaf; ink on paper",
+    "title": "Letter to Xu Shangde",
+    "what": [
+        "Ink",
+        "Paper",
+        "Books",
+        "Albums",
+        "Calligraphy"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Asia",
+        "China"
+    ],
+    "who": "Tang Yin"
+}

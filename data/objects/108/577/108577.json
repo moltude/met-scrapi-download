@@ -1,0 +1,133 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/81799"
+            },
+            {
+                "href": "http://scrapi.org/object/81803"
+            },
+            {
+                "href": "http://scrapi.org/object/156161"
+            },
+            {
+                "href": "http://scrapi.org/object/108576"
+            },
+            {
+                "href": "http://scrapi.org/object/108582"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R130_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140310130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/108577"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/108577"
+        }
+    },
+    "accession number": "1977.60.3a\u2013j",
+    "credit line": "Gift of Roger Goiran, 1977",
+    "culture": "French",
+    "date": "1933",
+    "department": "Costume Institute",
+    "dimensions": [
+        "Length at CB (a) 40 in. (101.6 cm)",
+        "Length (b) 40 1/2 in. (102.9 cm)",
+        "Length (c) 21 in. (53.3 cm)"
+    ],
+    "id": 108577,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/1977.60.3ab_F.JPG",
+    "medium": "wool, silk, feathers, metal, glass",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/1977.60.3ab_F.JPG",
+        "http://images.metmuseum.org/CRDImages/ci/original/1977.60.3ab_B.JPG",
+        "http://images.metmuseum.org/CRDImages/ci/original/1977.60.3a_label1.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1977.60.3a_label2.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1977.60.3b_label.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1977.60.3c_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1977.60.3c_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1977.60.3c_label.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1977.60.3c_d.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1977.60.3de.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1977.60.3hi_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1977.60.3hi_d1.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1977.60.3hi_d2.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1977.60.3hi_d3.jpg"
+    ],
+    "title": "Uniform",
+    "what": [
+        "Metal",
+        "Costume",
+        "Silk",
+        "Glass",
+        "Wool",
+        "Feather",
+        "Uniforms"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France"
+    ]
+}

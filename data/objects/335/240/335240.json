@@ -1,0 +1,109 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/339653"
+            },
+            {
+                "href": "http://scrapi.org/object/339655"
+            },
+            {
+                "href": "http://scrapi.org/object/351063"
+            },
+            {
+                "href": "http://scrapi.org/object/371932"
+            },
+            {
+                "href": "http://scrapi.org/object/339918"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/pous/hd_pous.htm",
+                "rel": "Nicolas Poussin (1594\u20131665)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=euwf",
+                "rel": "France, 1400\u20131600 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwf",
+                "rel": "France, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/335240"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/335240"
+        }
+    },
+    "accession number": "1998.225",
+    "credit line": "Purchase, David T. Schiff Gift, 1998",
+    "date": "ca. 1635\u201336",
+    "department": "Drawings and Prints",
+    "description": "Although he spent most of his career in Rome, Poussin was considered the greatest living French artist, and his work was avidly sought after by influential French collectors.  This sparkling study can be related to the \"Triumph of Pan\" (National Gallery, London) executed for Cardinal Richelieu, the French minister of state, along with a pendant depicting the \"Triumph of Bacchus\" (Nelson-Atkins Museum of Art, Kansas City).  While the finished painting depicts a scene of sensual abandon, the drawn studies reveal Poussin's cerebral process of composition, in which individual figures are treated as formal elements of a tightly knit composition based on classical ideals of beauty.  Here, broad, abstracted areas of wash are used to explore the volume and spatial relations of the complex figural group that can be seen, in reversed direction, at the left side of the painting.  At least four other studies for the painting survive\u2014two at Windsor Castle, England, and two at Bayonne, France\u2014suggesting the care with which Poussin prepared this important commission.",
+    "dimensions": "5 1/4 x 8 1/8 in.  (13.3 x 20.6 cm.)",
+    "id": 335240,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP807962.jpg",
+    "medium": "Pen and brown ink, brush and brown wash, over faint black chalk underdrawing",
+    "provenance": [
+        "Sotheby's, London, November 28, 1962, lot 14",
+        "T. W. Atkinson (listed as buyer at Sotheby's, London, November 28, 1962)",
+        "Sotheby's, London, December 13, 1973, lot 28",
+        "Curtis O. Baer (New Rochelle, New York)",
+        "Dr. George M. Baer",
+        "Vendor: Jill Newhouse"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP807962.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/dp1998.225.R.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DT617.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/1998.225.jpg"
+    ],
+    "title": "Bacchanal",
+    "what": [
+        "Ink",
+        "Drawings",
+        "Chalk",
+        "Underdrawings"
+    ],
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Nicolas Poussin"
+}

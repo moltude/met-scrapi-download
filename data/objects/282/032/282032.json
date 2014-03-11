@@ -1,0 +1,107 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/285726"
+            },
+            {
+                "href": "http://scrapi.org/object/268366"
+            },
+            {
+                "href": "http://scrapi.org/object/268367"
+            },
+            {
+                "href": "http://scrapi.org/object/268368"
+            },
+            {
+                "href": "http://scrapi.org/object/268369"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/hlad/hd_hlad.htm",
+                "rel": "David Octavius Hill (1802\u20131870) and Robert Adamson (1821\u20131848) (1840s)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwb",
+                "rel": "Great Britain and Ireland, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/282032"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/282032"
+        }
+    },
+    "accession number": "1997.382.29",
+    "credit line": "The Rubel Collection, Purchase, Ann Tenenbaum and Thomas H. Lee and Lila Acheson Wallace Gifts, 1997",
+    "date": "1846",
+    "department": "Photographs",
+    "description": "Although Hill was primarily a painter of land- and townscapes, he and Adamson made few photographs of those subjects. In several cases where they did, the choice of subject is understandable: their photograph of the sixteenth-century house of John Knox, founding force and passionate voice of the Church of Scotland, resonated because of its connection to the Church and the possibility in 1844 that it might be demolished; the photographs of Greyfriars Churchyard layer local history with romantic connections of mortality. Other photographs, such as the one shown here, seem to have been made more for the sheer aesthetic pleasure of the result: an allover pattern of dappled light seems to bring the leafless tree to life like the first warm rays of spring.",
+    "dimensions": "20.8 x 15 cm (8 3/16 x 5 7/8 in.)",
+    "id": 282032,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DT4216.jpg",
+    "medium": "Salted paper print from paper negative",
+    "provenance": [
+        "From a set of presentation albums assembled and given by David Octavius Hill to the Royal Scottish Academy (1852)",
+        "deaccessioned by the Royal Scottish Academy (1977)",
+        "[Thackrey & Robertson, San Francisco]",
+        "John Rubel, San Francisco",
+        "William Rubel, Santa Cruz, California",
+        "[Hans P. Kraus, Jr. Fine Photographs, New York]"
+    ],
+    "title": "The Fairy Tree at Colinton",
+    "what": [
+        "Photographs",
+        "Salted paper prints"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "United Kingdom",
+        "Scottish"
+    ],
+    "who": [
+        "David Octavius Hill",
+        "Hill  Adamson",
+        "Robert  Adamson"
+    ]
+}

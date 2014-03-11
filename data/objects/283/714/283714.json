@@ -1,0 +1,96 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/286645"
+            },
+            {
+                "href": "http://scrapi.org/object/286336"
+            },
+            {
+                "href": "http://scrapi.org/object/286338"
+            },
+            {
+                "href": "http://scrapi.org/object/285698"
+            },
+            {
+                "href": "http://scrapi.org/object/285699"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwf",
+                "rel": "France, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/283714"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/283714"
+        }
+    },
+    "accession number": "2010.513.3",
+    "credit line": "Gift of Howard Stein, 2010",
+    "date": "ca. 1868",
+    "department": "Photographs",
+    "description": "Trained as a painter and an illustrator, Marville began photographing in 1851, and by 1862 he was named \"photographer of the city of Paris,\" photographing Baron Haussmann's vast program of demolition and construction. Although he also photographed the modern city that replaced old Paris, he is best known for his documents of the picturesque and insalubrious districts slated for destruction.This narrow street in the Latin Quarter, less than one hundred feet in length, actually remains much the same as it was when first opened in 1540 and when photographed by Marville in the 1860s, though later construction has constricted the street even further.",
+    "dimensions": "35.9 x 27.2 cm (14 1/8 x 10 11/16 in. )",
+    "gallery-id": 692,
+    "id": 283714,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP200362.jpg",
+    "medium": "Albumen silver print from glass negative",
+    "provenance": [
+        "Alfred Grandidier (naturalist, explorer, president of the Soci\u00e9t\u00e9 de g\u00e9ographie) to his grandson Alain-Jean Grandidier, Paris",
+        "Librarie Laurent Coulet, Paris",
+        "Serge Plantureux, Paris",
+        "Howard Stein, New York"
+    ],
+    "title": "Rue du Chat-qui-P\u00eache (from the Rue de la Huchette)",
+    "what": [
+        "Photographs",
+        "Albumen silver prints"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Charles Marville"
+}

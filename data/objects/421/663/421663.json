@@ -1,0 +1,96 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/373905"
+            },
+            {
+                "href": "http://scrapi.org/object/341084"
+            },
+            {
+                "href": "http://scrapi.org/object/341086"
+            },
+            {
+                "href": "http://scrapi.org/object/363010"
+            },
+            {
+                "href": "http://scrapi.org/object/334320"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwb",
+                "rel": "Great Britain and Ireland, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/421663"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/421663"
+        }
+    },
+    "accession number": "2013.109",
+    "credit line": "Purchase, Brooke Russell Astor Bequest, 2013",
+    "date": "1824\u20131831",
+    "department": "Drawings and Prints",
+    "dimensions": "Sheet 21 x 28 3/4 in. (53.4 x 73.1 cm)",
+    "id": 421663,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP283308.jpg",
+    "medium": "Graphite and watercolour, heightened with bodycolour and with scratching out",
+    "provenance": [
+        "Sotheby's, London, June 23, 1948, lot 48, sold anonymously",
+        "The Fine Art Society, London, bought at the preceding",
+        "with in 1952",
+        "Christie's, LondonLondon, July 22, 1955, lot 82, anonymous seller",
+        "Leggatt Brothers (London), bought at the preceding",
+        "John Mackintosh, 2nd Viscount Mackintosh of Halifax (British, 1921\u20131981), and by descent until 2010",
+        "W.S Fine Art Ltd. / Andrew Wyld (London), by 2010",
+        "Christie's, London, \"Andrew Wyld: Connoisseur Dealer\", 10 July 2012, lot 184",
+        "Vendor: Katrin Bellinger Kunsthandel , Munich"
+    ],
+    "title": "The Abbatial House, Abbey of St Ouen, Rouen",
+    "what": [
+        "Drawings",
+        "Watercolors",
+        "Graphite",
+        "Gouache"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "United Kingdom"
+    ],
+    "who": "John Sell Cotman"
+}

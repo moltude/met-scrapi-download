@@ -1,0 +1,117 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/159217"
+            },
+            {
+                "href": "http://scrapi.org/object/173311"
+            },
+            {
+                "href": "http://scrapi.org/object/155892"
+            },
+            {
+                "href": "http://scrapi.org/object/157711"
+            },
+            {
+                "href": "http://scrapi.org/object/173997"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R150_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140407130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwf",
+                "rel": "France, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/157704"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/157704"
+        }
+    },
+    "accession number": "2009.300.2835",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mr. and Mrs. Abraham Adler, 1959",
+    "culture": "French",
+    "date": "1800\u20131815",
+    "department": "Costume Institute",
+    "description": "Waistcoats of the 18th and 19th centuries served as a layer protection and ornamentation during a period in fashion when the coat was intended to be left open in the front.  The color was often chosen to complement the suit and covered in imaginative embroideries, heavily woven patterns or shiny satins made to draw the eye.  The style of the neck, the length and the hem treatment fluctuated as the tastes changed from over-sized coats of the early 18th century to narrow tightly fitted coats of the late 18th century and onward.This vest is a nice example of early 19th century embroidery and style with its standing collar and boxy silhouette.  The nuances of color and charming realistic flowers in the embroidery are particularly effective and nicely accented with minute spangles.  This style of tiny spangle was common in the 18th century and the early 19th century, but was supplanted by spangles which gradually increased in size throughout the 19th century until the Belle \u00c9poque when the vogue for small spangles returned.",
+    "dimensions": "Length at CB 24 in. (61 cm)",
+    "id": 157704,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/59.6.1_front_CP4.jpg",
+    "medium": "silk, linen, metal, cotton",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/59.6.1_front_CP4.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/59.6.1_side_CP4.jpg"
+    ],
+    "title": "Vest",
+    "what": [
+        "Metal",
+        "Costume",
+        "Silk",
+        "Cotton",
+        "Linen",
+        "Vests"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "France"
+    ]
+}

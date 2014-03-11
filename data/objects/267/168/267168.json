@@ -1,0 +1,106 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/286628"
+            },
+            {
+                "href": "http://scrapi.org/object/286044"
+            },
+            {
+                "href": "http://scrapi.org/object/285970"
+            },
+            {
+                "href": "http://scrapi.org/object/286378"
+            },
+            {
+                "href": "http://scrapi.org/object/286390"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/infp/hd_infp.htm",
+                "rel": "The Industrialization of French Photography after 1860"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwf",
+                "rel": "France, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/267168"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/267168"
+        }
+    },
+    "accession number": "1995.170.1",
+    "credit line": "Purchase, The Horace W. Goldsmith Foundation Gift, through Joyce and Robert Menschel, 1995",
+    "date": "1858",
+    "department": "Photographs",
+    "description": "Disd\u00e9ri popularized the system by which eight exposures could be made on one glass negative, printed in a single operation, and then cut and glued to visiting-card-size mounts. By the late 1850s, collecting and exchanging such cartes-de-visite was immensely popular. Although millions of these portraits were produced, this uncut sheet from Disd\u00e9ri's archive is a rare illustration of the eight-in-one technique, of Second Empire posing, and of the public and private roles of the carte-de-visite. For his series of cartes, Prince Lobkowitz first posed surrounded by studio props in top hat and frock coat, then, in the eighth frame, against a plain backdrop in less formal attire.",
+    "dimensions": "20.0 x 23.2 cm (7 7/8 x 9 1/8 in.)",
+    "id": 267168,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP250928.jpg",
+    "medium": "Albumen silver print from glass negative",
+    "provenance": [
+        "Disd\u00e9ri Studio",
+        "General Rebora",
+        "Maurice Levert",
+        "M. & Mme. du Passage",
+        "Peschetau-Badin, Godeau et Leroy salte (Drouot, Paris, Jan. 28, 1995, lot 148)",
+        "Charles Isaacs"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ph/original/DP250928.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/MM85609.jpg"
+    ],
+    "title": "Prince Lobkowitz",
+    "what": [
+        "Photographs",
+        "Albumen silver prints"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Andr\u00e9-Adolphe-Eug\u00e8ne Disd\u00e9ri"
+}

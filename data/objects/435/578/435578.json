@@ -1,0 +1,141 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/435579"
+            },
+            {
+                "href": "http://scrapi.org/object/461447"
+            },
+            {
+                "href": "http://scrapi.org/object/438691"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/piero-della-francesca",
+                "rel": "Piero della Francesca"
+            },
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "From April 22, 2014",
+                "href": "/exhibitions/listings/2014/goya",
+                "rel": "Goya and the Altamira Family"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/talks/gallery-talks/piero-della-francesca?eid=A001_%7bE50FD455-5FC1-41D0-9391-C456264363EF%7d_20140206160624",
+                "rel": "Exhibition Tour\u2014Piero della Francesca: Personal Encounters"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=A257_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20131127123002",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/monday-at-the-met-spring-2014?eid=R001_%7bBB2BF277-3666-435E-8B95-12CDE21533EA%7d_20140303100000",
+                "rel": "Monday at the Met with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R100_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140303123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R101_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140304123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R102_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140305123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R026_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140306140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R103_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140307123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/talks/the-observant-eye/stepping-out-of-the-frame?eid=A001_%7b438572AD-6B0F-4DA2-94FB-49B8931634C1%7d_20140123142901",
+                "rel": "Stepping Out of the Frame: Three-Dimensionality in the New Galleries for European Paintings"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/saturday-seminar-spring-2014?eid=R001_%7bE063A39F-FC40-4ECC-B690-C4C13F70B2A0%7d_20140308103000",
+                "rel": "Saturday Seminar with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/fang/hd_fang.htm",
+                "rel": "Fra Angelico (1395/1400\u20131455)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/jesu/hd_jesu.htm",
+                "rel": "Life of Jesus of Nazareth"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/435578"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/435578"
+        }
+    },
+    "accession number": "1983.490",
+    "credit line": "Gift of May Dougherty King, 1983",
+    "date": "ca. 1433\u201334",
+    "department": "European Paintings",
+    "dimensions": "7 3/8 x 17 1/8 in. (18.7 x 43.5 cm)",
+    "gallery-id": 602,
+    "id": 435578,
+    "image": "http://images.metmuseum.org/CRDImages/ep/original/DT5285.jpg",
+    "medium": "Tempera and gold on wood",
+    "provenance": [
+        "?[Metzger, Florence, until 1872]",
+        "Georg (II), Herzog von Saxe-Meiningen, Meiningen, Thuringia (1872\u2013d. 1914)",
+        "Bernhard (III), Herzog von Saxe-Meiningen, Meiningen (1914\u2013d. 1928)",
+        "Ernst, Prinz von Saxe-Meiningen, Herzog von Sachsen, Meiningen (1928\u2013d. 1941)",
+        "by descent to Rut Martha Viererbe, Baronin von Saalfeld, later Schnell (until 1961; sale, Sotheby's, London, June 14, 1961, no. 100, as by Fra Angelico, for \u00a39,000)",
+        "[Carlo Sestieri, Rome, 1961\u201362]",
+        "Mr. and Mrs. Nathaniel P. Hill, Newport, R.I. (from 1962)",
+        "[Acquavella, New York, until 1963",
+        "sold to King]",
+        "May Dougherty Carr, later King, Corpus Christi, Texas (1963\u201383)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ep/original/DT5285.jpg",
+        "http://images.metmuseum.org/CRDImages/ep/original/Altarpiece 1 w captions.jpg"
+    ],
+    "title": "The Nativity",
+    "what": [
+        "Metal",
+        "Gold",
+        "Paintings",
+        "Tempera"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Zanobi Strozzi"
+}

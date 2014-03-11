@@ -1,0 +1,139 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/24931"
+            },
+            {
+                "href": "http://scrapi.org/object/27086"
+            },
+            {
+                "href": "http://scrapi.org/object/22631"
+            },
+            {
+                "href": "http://scrapi.org/object/27956"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From October 2, 2012",
+                "href": "/exhibitions/listings/2012/arms-and-armor",
+                "rel": "Bashford Dean and the Creation of the Arms and Armor Department"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A074_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112917",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A084_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113556",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A093_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113923",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A075_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112932",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A094_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113938",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 5, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A085_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113610",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161351",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A076_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112951",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 19, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161305",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 26, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A086_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113630",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwf",
+                "rel": "France, 1600\u20131800 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwf",
+                "rel": "France, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/626019"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/626019"
+        }
+    },
+    "accession number": "1988.65.1\u2013.2; 1995.93a, b",
+    "credit line": "Armor Funds from various donors, 1988; sword: Purchase, Gift of Estate of James Hazen Hyde, by exchange, and Rogers Fund, 1995",
+    "culture": "French, Paris",
+    "date": "ca. 1788\u201390",
+    "department": "Arms and Armor",
+    "description": "Pageants in pseudoclassical dress were popular in Europe from the sixteenth through the eighteenth century. An elaborate costume of the kind displayed here may have been worn for a theatrical performance or a court festivity, such as a ball or carousel in which the theme was taken from classical mythology or history.The embroidered tunic represents an embossed bronze cuirass of the type worn by high-ranking Roman officers. The stylized Greek helmet is richly decorated with mythological and allegorical figures. Inside the helmet is the original paper label that identifies the Parisian maker as Halle dit Mercier and advertises his ability to provide helmets, shields, masks, costumes, and scenery for any occasion.",
+    "dimensions": "Helmet, 15 3/4 x 7 11/16 x 13 3/4 in. (40 x 19.5 x 35 cm); Armor, 26 3/4 x 22 7/16 x 11 in. (68 x 57 x 28 cm); Sword L., 31 7/8 in. (81 cm)",
+    "gallery-id": 376,
+    "id": 626019,
+    "image": "http://images.metmuseum.org/CRDImages/aa/original/DT5896.jpg",
+    "medium": "Linen, papier-m\u00e2ch\u00e9, bole, gold leaf, graphite (helmet); silk, cotton, metal coils and spangles, metallic yarn (tunic); steel, wood, gesso, silver, gold leaf (sword)",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/aa/original/DT5896.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DT5897.jpg"
+    ],
+    "title": "Costume Armor and Sword in the Classical Style",
+    "what": [
+        "Metal",
+        "Costume",
+        "Silk",
+        "Paper",
+        "Clay",
+        "Silver",
+        "Gold",
+        "Cotton",
+        "Graphite",
+        "Arms",
+        "Iron and iron alloy",
+        "Linen",
+        "Edged weapons",
+        "Swords",
+        "Iron alloy",
+        "Steel",
+        "Trimming",
+        "Armor",
+        "Helmets",
+        "Gold leaf",
+        "Gesso",
+        "Tunics",
+        "Sequins",
+        "Bole"
+    ],
+    "where": [
+        "Europe",
+        "France",
+        "Paris"
+    ],
+    "who": "Hall\u00e9"
+}

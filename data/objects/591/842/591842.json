@@ -1,0 +1,52 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/591852"
+            },
+            {
+                "href": "http://scrapi.org/object/591854"
+            },
+            {
+                "href": "http://scrapi.org/object/591855"
+            },
+            {
+                "href": "http://scrapi.org/object/591856"
+            },
+            {
+                "href": "http://scrapi.org/object/591858"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwb",
+                "rel": "Great Britain and Ireland, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/591842"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/591842"
+        }
+    },
+    "accession number": "920.3 W52 F",
+    "credit line": "Purchased with income from the Jacob S. Rogers Fund",
+    "date": "19th century",
+    "department": "The Libraries",
+    "description": "During the second and third quarters of the nineteenth century, Sir Richard Westmacott flourished as Great Britain's most successful official sculptor, producing approximately 275 works during his forty-year career. Westmacott's oeuvre displays a rich stylistic diversity, drawing inspiration from Renaissance and Baroque art as well as from classical antiquity.  He was elected a member of the Royal Academy in 1811 and was appointed to succeed John Flaxman as professor of sculpture at the Academy in 1827, a post he retained until his death. In 1837 he was knighted by Queen Victoria. Westmacott created public sculptures and monuments for central London, northern English industrial cities, and the outer reaches of the British Empire\u2014the East and West Indies. His final and perhaps greatest sculpture, \"The Progress of Civilization,\" is the familiar pediment sculpture for the British Museum. \"The Richard Westmacott Collection\" is a scrapbook of 1,497 letters, autograph fragments, printed ephemera, and other items written to Westmacott and members of his family by prominent political and artistic figures, including Charles Dickens, Antonio Canova, the duke and duchess of Devonshire, and King George I.Illustrated: vol 4, no. 35, illustrated note in red ink from J. M. W. Turner to Sir Richard Westmacott",
+    "dimensions": "18 vols. (ca. 1,400 items) plus index",
+    "id": 591842,
+    "image": "http://images.metmuseum.org/CRDImages/li/original/li920.3 W52 F.R.jpg",
+    "medium": "Collection of letters",
+    "title": "The letters of Sir Richard Westmacott",
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "United Kingdom",
+        "England",
+        "London"
+    ],
+    "who": "Sir Richard Westmacott"
+}

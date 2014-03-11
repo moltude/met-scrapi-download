@@ -1,0 +1,103 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/503541"
+            },
+            {
+                "href": "http://scrapi.org/object/503649"
+            },
+            {
+                "href": "http://scrapi.org/object/503718"
+            },
+            {
+                "href": "http://scrapi.org/object/503719"
+            },
+            {
+                "href": "http://scrapi.org/object/503720"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/early-guitars",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/concerts-and-performances/ernie-sites?eid=A001_%7bE8CB7AEE-6F19-46A1-BCDF-ACF04F0FA0A0%7d_20140221154312",
+                "rel": "Gallery Concert: Ernie Sites, Guitar"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A001_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203181946",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A002_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203182002",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A004_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203182034",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A006_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203182105",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A005_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20140206152942",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A001_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115501",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A002_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115523",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A003_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115537",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A004_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115549",
+                "rel": "Early American Guitars"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/504955"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/504955"
+        }
+    },
+    "accession number": "06.1250",
+    "date": "late 19th\u2013early 20th century",
+    "department": "Musical Instruments",
+    "dimensions": "L. 11 1/2 in. (29.2 cm)",
+    "id": 504955,
+    "image": "http://images.metmuseum.org/CRDImages/mi/original/212644.jpg",
+    "medium": "bamboo",
+    "title": "Palwei",
+    "what": [
+        "Musical instruments",
+        "Aerophones",
+        "Flutes",
+        "Grass",
+        "Bamboo",
+        "Duct flutes",
+        "Whistles",
+        "Fipple flutes",
+        "Recorders"
+    ]
+}

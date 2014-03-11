@@ -1,0 +1,102 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/338919"
+            },
+            {
+                "href": "http://scrapi.org/object/339877"
+            },
+            {
+                "href": "http://scrapi.org/object/340036"
+            },
+            {
+                "href": "http://scrapi.org/object/340037"
+            },
+            {
+                "href": "http://scrapi.org/object/334949"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/noro/hd_noro.htm",
+                "rel": "Dutch and Flemish Artists in Rome, 1500\u20131600"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/golt/hd_golt.htm",
+                "rel": "Hendrick Goltzius (1558\u20131617)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/clan/hd_clan.htm",
+                "rel": "The Rediscovery of Classical Antiquity"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=euwl",
+                "rel": "Low Countries, 1400\u20131600 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwl",
+                "rel": "Low Countries, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/364997"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/364997"
+        }
+    },
+    "accession number": "53.601.336",
+    "credit line": "Harris Brisbane Dick Fund, 1953",
+    "date": "n.d.",
+    "department": "Drawings and Prints",
+    "dimensions": "sheet 7 1/16 x 9 in. (18 x 22.8 cm)",
+    "id": 364997,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP821045.jpg",
+    "medium": "Engraving",
+    "title": "The Abuses of the Law, Plate 7",
+    "what": [
+        "Prints",
+        "Engraving"
+    ],
+    "where": [
+        "Europe",
+        "Netherlands"
+    ],
+    "who": "Hendrick Goltzius"
+}

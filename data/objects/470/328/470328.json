@@ -1,0 +1,126 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/459234"
+            },
+            {
+                "href": "http://scrapi.org/object/461128"
+            },
+            {
+                "href": "http://scrapi.org/object/459007"
+            },
+            {
+                "href": "http://scrapi.org/object/459008"
+            },
+            {
+                "href": "http://scrapi.org/object/436911"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 25, 2014",
+                "href": "/exhibitions/listings/2014/canterbury-stained-glass",
+                "rel": "Radiant Light"
+            },
+            {
+                "date": "From August 6, 2013",
+                "href": "/exhibitions/listings/2013/design-motifs-in-byzantine-art",
+                "rel": "Design Motifs in Byzantine Art"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/fire-in-medieval-material-culture?eid=A001_%7b2C78BD24-A40E-4EBE-9EF3-5D3150141D52%7d_20140113122213",
+                "rel": "Fire in Medieval Material Culture"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/teen-programs/art-explore/art-explore-medieval-life?eid=A001_%7b4D072AAD-56E3-463E-B4E7-7A438177C278%7d_20131206154555",
+                "rel": "Art Explore\u2014Medieval Life (Ages 11\u201314)"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/events-at-the-cloisters/family-programs-at-the-cloisters/family-workshops-at-the-cloisters/strike-a-pose?eid=A002_%7bC02F326A-E7EB-4BAE-BA6D-6DB770407BD0%7d_20140113155026",
+                "rel": "Strike a Pose"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/fire-in-medieval-material-culture?eid=A002_%7b2C78BD24-A40E-4EBE-9EF3-5D3150141D52%7d_20140113122225",
+                "rel": "Fire in Medieval Material Culture"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R002_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140302150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/welcome-canterbury?eid=A001_%7b53CBD56A-844E-442F-8444-9EF0B22E78BF%7d_20140210170835",
+                "rel": "Welcome and Introduction"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/canterbury-pilgrims?eid=A001_%7b64D05114-6E96-4769-B2D4-EC56F6BFB232%7d_20140210171509",
+                "rel": "Canterbury Pilgrims"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/age-old-splendor?eid=A001_%7b5BD2D112-6561-4BF9-94B6-31F203659DF6%7d_20140210172052",
+                "rel": "Age-Old Splendor\u2014Splendor's Old Age: Preserving Canterbury Cathedral's Medieval Stained Glass"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/reading-from-canterbury?eid=A001_%7b0E6241AC-6A4B-4E28-B4D9-7B95001379DA%7d_20140210172925",
+                "rel": "A Reading from The Canterbury Tales"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R003_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140303150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=eustc",
+                "rel": "Florence and Central Italy, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/470328"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/470328"
+        }
+    },
+    "accession number": "53.37",
+    "credit line": "The Cloisters Collection, 1953",
+    "culture": "Italian",
+    "date": "before 1402",
+    "department": "The Cloisters",
+    "description": "Christ and the Virgin are shown pleading with God the Father for mercy on behalf of eight small figures, perhaps members of a prominent Florentine family.  In the tradition of hieratic scale, the divine figures are portrayed many times larger than the mortals, who kneel in adoration and prayer.  Pointing to the wound in his side, Christ says, \"My Father, let those be saved for whom you wished me to suffer the Passion.\"  The Virgin, holding one of her breasts, pleads, \"Dearest son, because of the milk that I gave you, have mercy on them.\"  The axis of God the Father, the dove of the Holy Spirit, and the kneeling Christ also represents the Trinity.  The drama of the bold devotional image, with a geometric composition typical of Florentine painting of the later fourteenth century, was heightened by its original placement inside the entrance of the cathedral, where it faced the length of the vast interior.",
+    "dimensions": "Overall 94 1/4 x 60 1/4 x 1 in. (239.4 x 153 x 2.5 cm)",
+    "gallery-id": 305,
+    "id": 470328,
+    "image": "http://images.metmuseum.org/CRDImages/cl/original/DT201109.jpg",
+    "medium": "Tempera on canvas",
+    "provenance": [
+        "[ William Blundell Spence 1814\u20131900 , Florence (after 1846\u2013sold 1856)]",
+        "Alexander William Crawford Lindsay, 25th Earl of Crawford, 8th Earl of Balcarres 1812\u20131880 , Haigh Hall, Wigan, Lancashire (1856\u2013d.1880)",
+        "by descent to his great-grandson, David Alexander Robert Lindsay, 28th Earl of Crawford and 11th Earl of Balcarres , Haigh Hall, Wigan, Lancashire (sold 1946)",
+        "his sale, Christie's, London (October 11, 1946, no. 18)",
+        "[ Arthur Kauffman , London (1946\u2013sold 1953)]"
+    ],
+    "title": "The Intercession of Christ and the Virgin",
+    "what": [
+        "Paintings",
+        "Canvas",
+        "Tempera"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Italy",
+        "Tuscany",
+        "Florence"
+    ],
+    "who": "Lorenzo Monaco (Piero di Giovanni)"
+}

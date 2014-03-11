@@ -1,0 +1,151 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/253627"
+            },
+            {
+                "href": "http://scrapi.org/object/248099"
+            },
+            {
+                "href": "http://scrapi.org/object/247377"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A146_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142808",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R104_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140310123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R105_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140311123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R106_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140313123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R027_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140313130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R107_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140314123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/conversations-with-curators-and-conservators/terracotta-column-krater?eid=A001_%7b1CC4797D-7295-4614-9ACD-19C00BA693F4%7d_20140204162630",
+                "rel": "Conversation with a Curator\u2014Terracotta Column-Krater"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A144_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142257",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A145_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142312",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/grdr/hd_grdr.htm",
+                "rel": "Ancient Greek Dress"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/vase/hd_vase.htm",
+                "rel": "Athenian Vase Painting: Black\u2013 and Red\u2013Figure Techniques"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/god1/hd_god1.htm",
+                "rel": "Classicism in Modern Dress"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/dbag/hd_dbag.htm",
+                "rel": "Death, Burial, and the Afterlife in Ancient Greece"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/god3/hd_god3.htm",
+                "rel": "The Chiton, Peplos, and Himation in Modern Dress"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/time/hd_time.htm",
+                "rel": "Time of Day on Painted Athenian Vases"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/god2/hd_god2.htm",
+                "rel": "Classical Art and Modern Dress"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/symp/hd_symp.htm",
+                "rel": "The Symposium in Ancient Greece"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=04\u00aeion=eusb",
+                "rel": "Ancient Greece, 1000 B.C.\u20131 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/252973"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/252973"
+        }
+    },
+    "accession number": "28.57.23",
+    "credit line": "Fletcher Fund, 1928",
+    "culture": "Greek, Attic",
+    "date": "ca. 440 B.C.",
+    "department": "Greek and Roman Art",
+    "description": "Obverse, the ascension of Persephone from the underworldReverse, libation scenePersephone, the daughter of the goddess Demeter, was condemned to spend half of each year with Hades, the ruler of the underworld. In this grandiose representation, Persephone ascends to earth through a rocky outcrop. She is guided by Hermes, the divine messenger, and Hekate, a goddess of fertility, magic, and dark things who typically carries torches. At the far right stands the regal Demeter, waiting to receive her daughter and the renewal of life that her return engendered.",
+    "dimensions": "H. 16 1/8 in. (41 cm); diameter of mouth 17 7/8 in. (45.4 cm)",
+    "gallery-id": 153,
+    "id": 252973,
+    "image": "http://images.metmuseum.org/CRDImages/gr/original/DP116943.jpg",
+    "medium": "Terracotta; red-figure",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/gr/original/DP116943.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/GR180.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP118845.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP118846.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/GR181.jpg"
+    ],
+    "title": "Terracotta bell-krater (bowl for mixing wine and water)",
+    "what": [
+        "Clay",
+        "Vessels",
+        "Vases",
+        "Terracotta",
+        "Bells",
+        "Kraters"
+    ],
+    "when": "1000 B.C.-A.D. 1",
+    "where": [
+        "Europe",
+        "Greece"
+    ],
+    "who": "Persephone Painter"
+}

@@ -1,0 +1,164 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/483157"
+            },
+            {
+                "href": "http://scrapi.org/object/483172"
+            },
+            {
+                "href": "http://scrapi.org/object/483154"
+            },
+            {
+                "href": "http://scrapi.org/object/483181"
+            },
+            {
+                "href": "http://scrapi.org/object/484865"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From November 20, 2013",
+                "href": "/exhibitions/listings/2013/jewels-by-jar",
+                "rel": "Jewels by JAR"
+            },
+            {
+                "date": "From November 5, 2013",
+                "href": "/exhibitions/listings/2013/carlo-scarpa",
+                "rel": "Venetian Glass by Carlo Scarpa"
+            },
+            {
+                "date": "From February 24, 2014",
+                "href": "/exhibitions/listings/2014/lucas-samaras",
+                "rel": "Lucas Samaras"
+            },
+            {
+                "date": "From December 17, 2013",
+                "href": "/exhibitions/listings/2013/metropolitan-vanities",
+                "rel": "Metropolitan Vanities"
+            },
+            {
+                "date": "From October 22, 2013",
+                "href": "/exhibitions/listings/2013/william-kentridge",
+                "rel": "William Kentridge"
+            },
+            {
+                "date": "From April 29, 2014",
+                "href": "/exhibitions/listings/2014/dan-graham",
+                "rel": "The Roof Garden Commission: Dan Graham"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R100_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140303144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/modern-art-french?eid=R026_%7b96311A2D-1D25-45BE-83E2-2054BC16D70B%7d_20140304133000",
+                "rel": "Art Moderne et Contemporain (Modern and Contemporary Art in French)"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R101_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140304144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R102_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140305144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R026_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140306140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R103_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140306144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/collecting-and-intepreting-at-the-met?eid=A001_%7b6A0B3958-68AC-4F22-BB73-D898FB894401%7d_20140127111701",
+                "rel": "Fellows Colloquium\u2014Collecting and Interpreting at the Met"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/talks/gallery-talks/metropolitan-vanities?eid=A001_%7bF51ADF90-5C6F-45EF-822C-6AE4940219F6%7d_20140206160301",
+                "rel": "Exhibition Tour\u2014Metropolitan Vanities: The History of the Dressing Table"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/college/jewels?eid=A001_%7bB2CEEB36-09E2-43E1-B6FD-1CA91686BA29%7d_20140219113337",
+                "rel": "Jewels by JAR Workshop"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R104_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140310144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/aima/hd_aima.htm",
+                "rel": "African Influences in Modern Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/klee/hd_klee.htm",
+                "rel": "Paul Klee (1879\u20131940)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/bauh/hd_bauh.htm",
+                "rel": "The Bauhaus, 1919\u20131933"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/nasp/hd_nasp.htm",
+                "rel": "The Magic of Signs and Patterns in North African Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwcm",
+                "rel": "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/484870"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/484870"
+        }
+    },
+    "accession number": "1987.455.2",
+    "credit line": "The Berggruen Klee Collection, 1987",
+    "date": "1920",
+    "department": "Modern and Contemporary Art",
+    "description": "Born in M\u00fcnchenbuchsee, Switzerland, a suburb of Bern, in 1879, Paul Klee nevertheless retained the German citizenship of his father.  In his youth he was torn between music and painting but decided to go to Munich (1898\u20131901) to learn to draw.  After an extended trip to Italy (October 1901\u2013May 1902), Klee returned to Bern, where he undertook a prolonged self-education as an artist.  Later, Klee's contact with Wassily Kandinsky, whom he met in 1911 and with whom he had a lifelong friendship, and his association with the Blaue Reiter group, which he joined in 1912, proved decisive.  He was also influenced by the Cubism of Georges Braque and Pablo Picasso and took great interest in the paintings of Robert Delaunay and August Macke, which employed abstract planes of translucent color.  On a trip to Tunisia in 1914, Klee fell in love with color, and by 1915 he had devised the unique style of abstracted forms and symbols that characterized much of his later work.  Klee had many talents; besides being a painter and a draftsman, he was also a master violinist, poet, art and music critic, and teacher.  Klee was most productive while teaching at the Bauhaus, first in Weimar (1921\u201326) and then in Dessau (1926\u201331).  During those years he produced almost half of his nearly ten thousand works on paper, mostly small-scale watercolors and drawings.  Klee taught at the Academy of Fine Arts in D\u00fcsseldorf from 1931 to 1933 but left Germany when his art was declared \"degenerate\" by the National Socialists.  Returning to Bern he was diagnosed with scleroderma, an incurable disease that made it increasingly difficult for him to work during the last seven years of his life. \"Temple Gardens\" appears to recall Klee's impressions from his visit to Tunisia with Macke in April 1914.  The watercolor has the brilliance of a stained-glass window on a sunny day.  Stairways lead to the doors of various garden pavilions, palm trees peek over sections of high walls, and domed towers are here and there.Klee sometimes liked to rearrange his compositions with scissors.  Perhaps in this instance, he thought the work looked too symmetrical and therefore cut it into three sections and moved the center one to the left.  Now the site depicted in \"Temple Gardens,\" which earlier was only pleasantly full of the \"angles and corners\" he had admired in Kairouan, has become truly labyrinthine.",
+    "dimensions": [
+        "H. 7-1/4, W. 10-1/4 in.",
+        "(18.4 x 26.7 cm)"
+    ],
+    "id": 484870,
+    "image": "http://images.metmuseum.org/CRDImages/ma/original/ma1987.455.2.R.jpg",
+    "medium": "Gouache and traces of ink on paper",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ma/original/ma1987.455.2.R.jpg",
+        "http://images.metmuseum.org/CRDImages/ma/original/DT1372.jpg"
+    ],
+    "title": "Temple Gardens",
+    "what": [
+        "Ink",
+        "Drawings",
+        "Paper",
+        "Paintings",
+        "Gouaches"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "Germany"
+    ],
+    "who": "Paul Klee"
+}

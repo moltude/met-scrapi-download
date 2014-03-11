@@ -1,0 +1,123 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/436567"
+            },
+            {
+                "href": "http://scrapi.org/object/438445"
+            },
+            {
+                "href": "http://scrapi.org/object/441227"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/piero-della-francesca",
+                "rel": "Piero della Francesca"
+            },
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "From April 22, 2014",
+                "href": "/exhibitions/listings/2014/goya",
+                "rel": "Goya and the Altamira Family"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/talks/gallery-talks/piero-della-francesca?eid=A001_%7bE50FD455-5FC1-41D0-9391-C456264363EF%7d_20140206160624",
+                "rel": "Exhibition Tour\u2014Piero della Francesca: Personal Encounters"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=A257_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20131127123002",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/monday-at-the-met-spring-2014?eid=R001_%7bBB2BF277-3666-435E-8B95-12CDE21533EA%7d_20140303100000",
+                "rel": "Monday at the Met with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R100_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140303123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R101_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140304123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R102_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140305123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R026_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140306140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R103_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140307123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/talks/the-observant-eye/stepping-out-of-the-frame?eid=A001_%7b438572AD-6B0F-4DA2-94FB-49B8931634C1%7d_20140123142901",
+                "rel": "Stepping Out of the Frame: Three-Dimensionality in the New Galleries for European Paintings"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/saturday-seminar-spring-2014?eid=R001_%7bE063A39F-FC40-4ECC-B690-C4C13F70B2A0%7d_20140308103000",
+                "rel": "Saturday Seminar with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/438432"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/438432"
+        }
+    },
+    "accession number": "2000.420",
+    "credit line": "Gift of Mario and Dianne Modestini, in memory of Theodore Rousseau, 2000",
+    "date": "ca. 1520",
+    "department": "European Paintings",
+    "dimensions": "34 1/8 x 25  3/8 in. (86.7 x 64.5 cm)",
+    "gallery-id": 609,
+    "id": 438432,
+    "image": "http://images.metmuseum.org/CRDImages/ep/original/DP221238.jpg",
+    "medium": "Oil on wood",
+    "provenance": [
+        "William Ward, 1st Earl of Dudley (until d. 1885; his estate, 1885\u201392; his estate sale, Christie's, London, June 25, 1892, no. 41, as by Fra Bartolomeo, 33 1/2 x 25 in., [miscatalogued as] oval, for \u00a3535.10.0)",
+        "Major Bertram Hardy, Dunstall Hall, Burton-on-Trent (until 1929; sale, Christie's, London, August 1, 1929, no. 40, as by Fra Bartolomeo, 33 1/2 x 25 in., [miscatalogued as] oval, on panel, for \u00a3304.10 to Glen)",
+        "[Gianni Salocchi, Florence, until about 1946/47",
+        "sold to Modestini]",
+        "Mario Modestini, New York (from about 1946/47; sold to Borgesani))",
+        "Commendatore Borgesani, Rome (until 1970s; sold to Modestini)",
+        "Mario Modestini, New York  (from 1970s)",
+        "Mario and Dianne Modestini, New York (until 2000)"
+    ],
+    "title": "Madonna and Child",
+    "what": [
+        "Paintings",
+        "Oil paint"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Francesco Granacci (Francesco di Andrea di Marco)"
+}

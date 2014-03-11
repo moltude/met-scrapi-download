@@ -1,0 +1,125 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/445953"
+            },
+            {
+                "href": "http://scrapi.org/object/445977"
+            },
+            {
+                "href": "http://scrapi.org/object/445993"
+            },
+            {
+                "href": "http://scrapi.org/object/445276"
+            },
+            {
+                "href": "http://scrapi.org/object/445277"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A249_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114331",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A250_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114353",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world-french?eid=R026_%7b85906EA1-CA66-4610-A52C-39562E1A4C40%7d_20140310133000",
+                "rel": "Arts du monde Islamique (Arts of the Islamic World in French)"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R130_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140310141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=07\u00aeion=wai",
+                "rel": "Iran, 1000\u20131400 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/450358"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/450358"
+        }
+    },
+    "accession number": "40.181.1",
+    "credit line": "H.O. Havemeyer Collection, Gift of Horace Havemeyer, 1940",
+    "culture": "Islamic",
+    "date": "dated A.H. 608/A.D. 1211\u201312",
+    "department": "Islamic Art",
+    "description": "Although the technology is believed to have originated in Iraq in the early ninth century and first spread westward to Egypt and Syria, lusterware became a dominant type of ceramic production in medieval Iran, possibly having spread from Egypt to Iran in the early 12th century by artisans migrating to set up workshops. Within Iran the town of Kashan was the finest and most prolific producer of lusterware. One aspect that sets Iranian lusterwares apart from their western Islamic counterparts is the remarkable frequency with which these pieces were accompanied by signatures and dates of manufacture. On the tile presented here, a depiction of a sultan surrounded by members of the court is framed by three quatrains of Persian poetry and dated to the year A.H. 608 (A.D. 1211\u201312). The leopard and bird may imply that the scene is set outdoors",
+    "dimensions": [
+        "Gr. Diam.12 3/4 in.  (32.1 cm)",
+        "H. 3/4 in. (1.9 cm)"
+    ],
+    "gallery-id": 453,
+    "id": 450358,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/sf40-181-1a.jpg",
+    "medium": "Stonepaste; luster-painted on opaque glaze with inglaze painting",
+    "provenance": [
+        "H. O. Havemeyer Collection, New York (by 1930\u201340; gifted to MMA)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/sf40-181-1a.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DT11958.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/40.181.1.jpg"
+    ],
+    "title": "Luster Star-Shaped Tile",
+    "what": [
+        "Ceramics",
+        "Paintings",
+        "Painting",
+        "Glaze",
+        "Tile"
+    ],
+    "when": "A.D. 1000-1400",
+    "where": [
+        "Asia",
+        "Iran",
+        "Kashan"
+    ]
+}

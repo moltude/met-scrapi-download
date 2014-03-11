@@ -1,0 +1,83 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/266710"
+            },
+            {
+                "href": "http://scrapi.org/object/283652"
+            },
+            {
+                "href": "http://scrapi.org/object/286886"
+            },
+            {
+                "href": "http://scrapi.org/object/291714"
+            },
+            {
+                "href": "http://scrapi.org/object/282522"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/284736"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/284736"
+        }
+    },
+    "accession number": "2001.680",
+    "credit line": "Funds from various donors, 2001",
+    "date": "1927",
+    "department": "Photographs",
+    "description": "Four-year-old William \"Billy\" Gaffney disappeared from his apartment building in Brooklyn on February 11, 1927, along with a playmate. Although the other child was found unharmed shortly thereafter, Billy Gaffney was not, and his case captured the attention of New York City via its newspapers for many years. In 1934 Albert Hamilton Fish confessed to kidnapping and murdering Gaffney after a witness to the crime identified him. \tThis intriguing photograph documents a letter sent to the editor of New York's Daily Graphic newspaper over a month after the disappearance was publicized and is an example of a photograph made for evidentiary purposes. The letter, which includes a small sketch of a pair of human eyes that substitute for its author's signature, describes the perpetrator as a \"short fellow\" who was paid to commit the crime. However, Fish, a tall man who was already elderly by 1927, had apparently not been motivated by money.",
+    "dimensions": "19.3 x 24.2cm (7 5/8 x 9 1/2 in.)",
+    "id": 284736,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP135032.jpg",
+    "medium": "Gelatin silver print",
+    "provenance": [
+        "[Winter Works on Paper]"
+    ],
+    "title": "[Letter to the Editor of the Daily Graphic]",
+    "what": [
+        "Photographs",
+        "Gelatin silver prints"
+    ],
+    "when": "A.D. 1900-present",
+    "who": "Unknown, American"
+}

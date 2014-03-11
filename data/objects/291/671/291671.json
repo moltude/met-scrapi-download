@@ -1,0 +1,139 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/78294"
+            },
+            {
+                "href": "http://scrapi.org/object/288090"
+            },
+            {
+                "href": "http://scrapi.org/object/291675"
+            },
+            {
+                "href": "http://scrapi.org/object/291673"
+            },
+            {
+                "href": "http://scrapi.org/object/291674"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=nc",
+                "rel": "Central and North Asia, 1900 A.D.\u2013present"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=eac",
+                "rel": "China, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/291671"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/291671"
+        }
+    },
+    "accession number": "SL.14.2013.14.1",
+    "credit line": "Promised Gift of Cynthia Hazen Polsky",
+    "date": "1996",
+    "department": "Photographs",
+    "description": "Song began his career as an oil painter, but in the years after 1989 he increasingly shifted his focus to installation and performance art.These iconic photographs capture Song\u2019s most famous performance, in which he sat in the Lhasa River in Tibet for an hour repeatedly stamping the water with a large wood seal carved with the Chinese character for water (shui \u6c34). The piece is, among other things, a meditation on the evanescence of inscribed language. As Song has said, \u201cI exerted great force [in stamping the seal on the water], but in the end left no trace.\u201d",
+    "dimensions": "Images 61 x 40 cm (24 x 15 3/4 in.), each",
+    "gallery-id": 215,
+    "id": 291671,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP295660.jpg",
+    "medium": "Chromogenic prints",
+    "provenance": [
+        "Song Dong",
+        "[AW Asia, New York]",
+        "Cynthia Polsky, New York"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ph/original/DP295660.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP295661.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP295662.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP295663.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP295664.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP295665.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP295666.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP295667.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP295668.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP295669.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP295670.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP295671.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP295672.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP295673.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP295674.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP295675.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP295676.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP295677.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP295678.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP295679.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP295680.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP295681.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP295682.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP295683.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP295684.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP295685.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP295686.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP295687.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP295688.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP295689.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP295690.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP295691.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP295692.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP295693.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP295694.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP295695.jpg"
+    ],
+    "title": "Printing on Water (Performance in the Lhasa River, Tibet, 1996)",
+    "what": [
+        "Prints",
+        "Photographs",
+        "Chromogenic prints"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Asia",
+        "China"
+    ],
+    "who": "Song Dong"
+}

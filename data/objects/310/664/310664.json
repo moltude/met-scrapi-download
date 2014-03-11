@@ -1,0 +1,129 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/307478"
+            },
+            {
+                "href": "http://scrapi.org/object/307479"
+            },
+            {
+                "href": "http://scrapi.org/object/307480"
+            },
+            {
+                "href": "http://scrapi.org/object/307477"
+            },
+            {
+                "href": "http://scrapi.org/object/307470"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From September 16, 2013",
+                "href": "/exhibitions/listings/2013/feathered-walls",
+                "rel": "Feathered Walls"
+            },
+            {
+                "date": "From October 8, 2013",
+                "href": "/exhibitions/listings/2013/nelson-rockefeller",
+                "rel": "The Nelson A. Rockefeller Vision"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=A115_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140210093011",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/talks/gallery-talks/ancient-american-sculpture?eid=A001_%7b7A6AA394-9359-47C1-87B4-65B0894C01AB%7d_20140123114645",
+                "rel": "Ancient American Sculpture"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R105_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140311130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R106_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140312130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R107_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140313130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 18, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/shaping-the-african-art-canon?eid=A001_%7b447041C4-D9E7-43A9-AE5F-85BAEB6E7196%7d_20140214113010",
+                "rel": "Shaping the African Art Canon: From the Museum to the Classroom"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/talks/the-observant-eye/shared-memory-sculptural-ancestral-objects-from-oceania?eid=A001_%7b94768B86-339F-4726-A3BC-8F798C423768%7d_20140123143856",
+                "rel": "Shared Memory: Sculptural Ancestral Objects from Oceania"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=A116_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140210093151",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/talks/gallery-talks/ancient-american-sculpture?eid=A002_%7b7A6AA394-9359-47C1-87B4-65B0894C01AB%7d_20140123114700",
+                "rel": "Ancient American Sculpture"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=sanc",
+                "rel": "Central and Southern Andes, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/310664"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/310664"
+        }
+    },
+    "accession number": "1978.412.219",
+    "credit line": "The Michael C. Rockefeller Memorial Collection, Gift of Nelson A. Rockefeller, 1969",
+    "culture": "Chim\u00fa",
+    "date": "14th\u201315th century",
+    "department": "Arts of Africa, Oceania and the Americas",
+    "description": "Made of many separate pre-shaped pieces of sheet silver joined by soldering, this engaging vessel in the shape of a man playing a panpipe is quintessentially Andean. He is dressed in a tunic and loincloth and carries a small bag over his shoulder. The chased and stippled zigzag pattern and step-fret motifs on his clothing are found on actual textiles surviving from the time the vessel was made. The man also wears a cap and earrings (one is now missing). Elaborate vessels such as this, which often have a short section cut out at the rim for pouring, were probably used in royal or ceremonial drinking rituals before being placed in the burial of an important person.Music was an essential part of political and ritual activity in many ancient American cultures. It was also performed during daily activities such as herding and working in the fields, and for entertainment. Many depictions of musicians in various media survive, and finds of actual musical instruments\u2014drums, horns, whistles, rattles, and panpipes\u2014are frequent in burials. Stringed instruments currently in use in the Andes, such as the charango, were introduced by the Europeans.",
+    "dimensions": "H. 8 1/4 x  W. 4 1/4 x  D. 2 3/4 in. (21 x 10.8 x 7 cm)",
+    "gallery-id": 357,
+    "id": 310664,
+    "image": "http://images.metmuseum.org/CRDImages/ao/original/DT10206.jpg",
+    "medium": "Silver, malachite",
+    "provenance": [
+        "[Andre Emmerich Gallery, New York, until 1968]",
+        "Nelson A. Rockefeller, New York, 1968, on loan to The Museum of Primitive Art, New York, 1968\u20131969",
+        "The Museum of Primitive Art, New York, 1969\u20131978"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ao/original/DT10206.jpg",
+        "http://images.metmuseum.org/CRDImages/ao/original/70C_012AR3.jpg",
+        "http://images.metmuseum.org/CRDImages/ao/original/70D_012BR4.jpg",
+        "http://images.metmuseum.org/CRDImages/ao/original/970C_FCR5.jpg",
+        "http://images.metmuseum.org/CRDImages/ao/original/DT10207.jpg"
+    ],
+    "title": "Panpiper Vessel",
+    "what": [
+        "Metal",
+        "Vessels",
+        "Silver",
+        "Malachite"
+    ],
+    "where": [
+        "South America",
+        "Peru"
+    ],
+    "who": "Chim\u00fa"
+}

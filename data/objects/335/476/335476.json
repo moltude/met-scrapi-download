@@ -1,0 +1,93 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/335474"
+            },
+            {
+                "href": "http://scrapi.org/object/335481"
+            },
+            {
+                "href": "http://scrapi.org/object/335484"
+            },
+            {
+                "href": "http://scrapi.org/object/335499"
+            },
+            {
+                "href": "http://scrapi.org/object/335531"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwf",
+                "rel": "France, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/335476"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/335476"
+        }
+    },
+    "accession number": "44.54.6",
+    "credit line": "Mr. and Mrs. Isaac D. Fletcher, 1944",
+    "date": "ca. 1737",
+    "department": "Drawings and Prints",
+    "dimensions": "2 13/16 x 3 15/16 in. (7.2 x 10 cm.)",
+    "id": 335476,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP806575.jpg",
+    "medium": "Pen and blue ink with black chalk and graphite",
+    "provenance": [
+        "Vendor: A. S. W. Rosenbach (New York)Ex. Collection: Louis Olry-Roederer",
+        "{A.S.W. Rosenbach].Purchased in Philadelphia, 1944."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP806575.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/44.54.6.jpg"
+    ],
+    "title": "Study for an Engraving of \"Songs in the Opera of Flora\"",
+    "what": [
+        "Ink",
+        "Drawings",
+        "Graphite",
+        "Chalk"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Hubert Fran\u00e7ois Gravelot"
+}

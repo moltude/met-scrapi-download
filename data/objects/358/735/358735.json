@@ -1,0 +1,126 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/358734"
+            },
+            {
+                "href": "http://scrapi.org/object/358733"
+            },
+            {
+                "href": "http://scrapi.org/object/358741"
+            },
+            {
+                "href": "http://scrapi.org/object/358716"
+            },
+            {
+                "href": "http://scrapi.org/object/358729"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/seni/hd_seni.htm",
+                "rel": "Georges Seurat (1859\u20131891) and Neo\u2013Impressionism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/imml/hd_imml.htm",
+                "rel": "Impressionism: Art and Modernity"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/pcez/hd_pcez.htm",
+                "rel": "Paul C\u00e9zanne (1839\u20131906)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/prnt2/hd_prnt2.htm",
+                "rel": "The Print in the Nineteenth Century"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/lafr/hd_lafr.htm",
+                "rel": "The Transformation of Landscape Painting in France"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/gogh_d/hd_gogh_d.htm",
+                "rel": "Vincent van Gogh (1853\u20131890): The Drawings"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/cmon/hd_cmon.htm",
+                "rel": "Claude Monet (1840\u20131926)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwf",
+                "rel": "France, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/358735"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/358735"
+        }
+    },
+    "accession number": "47.90.4",
+    "credit line": "Harris Brisbane Dick Fund, 1947",
+    "date": "1894",
+    "department": "Drawings and Prints",
+    "dimensions": [
+        "sheet 8 1/16 x 6 1/8 in. (20.4 x 15.5 cm)",
+        "plate 7 x 4 15/16 in. (17.8 x 12.5 cm)"
+    ],
+    "id": 358735,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP821718.jpg",
+    "medium": "Monotype in black and red inks on wove paper",
+    "provenance": [
+        "Vendor: John Rewald"
+    ],
+    "title": "Woman Arranging Her Hair",
+    "what": [
+        "Prints",
+        "Paper",
+        "Wove paper",
+        "Monotype"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Camille Pissarro"
+}

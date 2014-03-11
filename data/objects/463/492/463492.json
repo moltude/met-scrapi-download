@@ -1,0 +1,129 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/467463"
+            },
+            {
+                "href": "http://scrapi.org/object/468265"
+            },
+            {
+                "href": "http://scrapi.org/object/463924"
+            },
+            {
+                "href": "http://scrapi.org/object/469715"
+            },
+            {
+                "href": "http://scrapi.org/object/463180"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 25, 2014",
+                "href": "/exhibitions/listings/2014/canterbury-stained-glass",
+                "rel": "Radiant Light"
+            },
+            {
+                "date": "From August 6, 2013",
+                "href": "/exhibitions/listings/2013/design-motifs-in-byzantine-art",
+                "rel": "Design Motifs in Byzantine Art"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/fire-in-medieval-material-culture?eid=A001_%7b2C78BD24-A40E-4EBE-9EF3-5D3150141D52%7d_20140113122213",
+                "rel": "Fire in Medieval Material Culture"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/teen-programs/art-explore/art-explore-medieval-life?eid=A001_%7b4D072AAD-56E3-463E-B4E7-7A438177C278%7d_20131206154555",
+                "rel": "Art Explore\u2014Medieval Life (Ages 11\u201314)"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/events-at-the-cloisters/family-programs-at-the-cloisters/family-workshops-at-the-cloisters/strike-a-pose?eid=A002_%7bC02F326A-E7EB-4BAE-BA6D-6DB770407BD0%7d_20140113155026",
+                "rel": "Strike a Pose"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/fire-in-medieval-material-culture?eid=A002_%7b2C78BD24-A40E-4EBE-9EF3-5D3150141D52%7d_20140113122225",
+                "rel": "Fire in Medieval Material Culture"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R002_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140302150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/welcome-canterbury?eid=A001_%7b53CBD56A-844E-442F-8444-9EF0B22E78BF%7d_20140210170835",
+                "rel": "Welcome and Introduction"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/canterbury-pilgrims?eid=A001_%7b64D05114-6E96-4769-B2D4-EC56F6BFB232%7d_20140210171509",
+                "rel": "Canterbury Pilgrims"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/age-old-splendor?eid=A001_%7b5BD2D112-6561-4BF9-94B6-31F203659DF6%7d_20140210172052",
+                "rel": "Age-Old Splendor\u2014Splendor's Old Age: Preserving Canterbury Cathedral's Medieval Stained Glass"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/reading-from-canterbury?eid=A001_%7b0E6241AC-6A4B-4E28-B4D9-7B95001379DA%7d_20140210172925",
+                "rel": "A Reading from The Canterbury Tales"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R003_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140303150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=eustn",
+                "rel": "Venice and Northern Italy, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/463492"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/463492"
+        }
+    },
+    "accession number": "11.104",
+    "credit line": "Frederick C. Hewitt Fund, 1911",
+    "culture": "Italian",
+    "date": "1408",
+    "department": "Medieval Art",
+    "dimensions": "Overall 66 7/8 x 40 3/8 x 4 1/2 in. (169.9 x 102.6 x 11.4 cm)",
+    "id": 463492,
+    "image": "http://images.metmuseum.org/CRDImages/md/original/DP167874.jpg",
+    "medium": "Limestone from the Istrian peninsula, painted and gilded",
+    "provenance": [
+        "[ Cooper and Griffith Co., London (sold 1911)]"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/md/original/DP167874.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/DP167870.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/DP167871.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/DP167872.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/DP167873.jpg"
+    ],
+    "title": "Relief Altarpiece with Saints Peter, Paul, and John the Baptist",
+    "what": [
+        "Sculpture",
+        "Gilt",
+        "Stone",
+        "Limestone",
+        "Painting",
+        "Altarpieces"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Italy",
+        "Venice"
+    ],
+    "who": "Gerardo di Mainardo"
+}

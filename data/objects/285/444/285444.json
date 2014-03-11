@@ -1,0 +1,158 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/263608"
+            },
+            {
+                "href": "http://scrapi.org/object/284452"
+            },
+            {
+                "href": "http://scrapi.org/object/284453"
+            },
+            {
+                "href": "http://scrapi.org/object/294434"
+            },
+            {
+                "href": "http://scrapi.org/object/296287"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/cmon/hd_cmon.htm",
+                "rel": "Claude Monet (1840\u20131926)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/dgsb/hd_dgsb.htm",
+                "rel": "Edgar Degas (1834\u20131917): Bronze Sculpture"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/mane/hd_mane.htm",
+                "rel": "\u00c9douard Manet (1832\u20131883)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/lith/hd_lith.htm",
+                "rel": "Lithography in the Nineteenth Century"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/mont/hd_mont.htm",
+                "rel": "The Lure of Montmartre, 1880\u20131900"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/prnt2/hd_prnt2.htm",
+                "rel": "The Print in the Nineteenth Century"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/aimp/hd_aimp.htm",
+                "rel": "American Impressionism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/dgsp/hd_dgsp.htm",
+                "rel": "Edgar Degas (1834\u20131917): Painting and Drawing"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/imml/hd_imml.htm",
+                "rel": "Impressionism: Art and Modernity"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/jpon/hd_jpon.htm",
+                "rel": "Japonisme"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/cast/hd_cast.htm",
+                "rel": "Mary Stevenson Cassatt (1844\u20131926)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/sara/hd_sara.htm",
+                "rel": "The Salon and The Royal Academy"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwf",
+                "rel": "France, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/285444"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/285444"
+        }
+    },
+    "accession number": "2004.335",
+    "credit line": "Purchase, The Horace W. Goldsmith Foundation Gift, through Joyce and Robert Menschel and Rogers Fund, 2004",
+    "date": "probably 1895\u201396",
+    "department": "Photographs",
+    "description": "While Degas was aware of photography from the beginning of his career, he did not take up the medium until 1895, when he embraced it with great enthusiasm. By then, the motifs in his paintings and pastels-dancers, women at their toilette, horses, and even his rare forays into landscape-were established, as were his untraditional viewpoints, lighting effects, and compositions; what was novel was his approach to his materials. Characteristically, he eschewed the accepted standards of photographic practice, the decreed fashions of the portrait studio, and the aesthetics of the \"Photo-Club\" artist; instead, his technique was driven exclusively by the effect he wished to achieve.\tDegas's brief but passionate involvement with photography resulted in a small body of fascinating and engaging pictures. Most of his surviving photographs are figure studies, self-portraits, and portraits of his intimate circle of friends-the families of Ludovic Hal\u00e9vy, St\u00e9phane Mallarm\u00e9, Henry Lerolle, Auguste Renoir, Jacques-Emile Blanche, and others-in settings suggestive of realms more psychological than physical. In this magical image-one of Degas's finest-the artist himself seems to lean back deep in thought, conjuring up an image of youthful feminine grace in the form of the white-clad Lerolle daughters.",
+    "dimensions": [
+        "Image 37.1 x 29.3 cm (14 5/8 x 11 9/16 in.)",
+        "Mount 55.4 x 45.5 cm (21 13/16 x 17 15/16 in.)"
+    ],
+    "id": 285444,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP117520.jpg",
+    "medium": "Gelatin silver print",
+    "provenance": [
+        "The artist",
+        "Henry Lerolle",
+        "his son Jacques Lerolle",
+        "by descent to the current owners"
+    ],
+    "title": "[Self-Portrait with Christine and Yvonne Lerolle]",
+    "what": [
+        "Photographs",
+        "Gelatin silver prints"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Edgar Degas"
+}

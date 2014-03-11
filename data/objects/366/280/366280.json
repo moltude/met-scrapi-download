@@ -1,0 +1,95 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/368378"
+            },
+            {
+                "href": "http://scrapi.org/object/368379"
+            },
+            {
+                "href": "http://scrapi.org/object/366620"
+            },
+            {
+                "href": "http://scrapi.org/object/366623"
+            },
+            {
+                "href": "http://scrapi.org/object/366615"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/366280"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/366280"
+        }
+    },
+    "accession number": "41.100.500",
+    "credit line": "Bequest of W. Gedney Beatty, 1941",
+    "date": "1511",
+    "department": "Drawings and Prints",
+    "dimensions": "Overall 12 3/8 x 8 11/16 x 1 3/8 in. (31.5 x 22 x 3.5 cm)",
+    "id": 366280,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/sf41_100_500-box.JPG",
+    "medium": "Printed book with woodblock illustrations",
+    "provenance": [
+        "William Gedney Beatty",
+        "Anonymous, Italian, 16th century"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/sf41_100_500-box.JPG",
+        "http://images.metmuseum.org/CRDImages/dp/original/sf41_100_500-cover-back.JPG",
+        "http://images.metmuseum.org/CRDImages/dp/original/sf41_100_500-cover-front-inside.JPG",
+        "http://images.metmuseum.org/CRDImages/dp/original/sf41_100_500-tp.JPG"
+    ],
+    "title": "M. Vitruvius per Iocundum solito castigatior factus cum figuris et tabula vt iam legi et intelligi possit",
+    "what": [
+        "Books",
+        "Printing blocks",
+        "Wood blocks",
+        "Illustrations"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": [
+        "Anonymous, Italian, 16th century",
+        "Marcus Pollio Vitruvius",
+        "Fra Giovanni Giocondo da Verona",
+        "Giovanni Taccuino"
+    ]
+}

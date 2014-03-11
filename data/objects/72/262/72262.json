@@ -1,0 +1,158 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/44521"
+            },
+            {
+                "href": "http://scrapi.org/object/73646"
+            },
+            {
+                "href": "http://scrapi.org/object/51410"
+            },
+            {
+                "href": "http://scrapi.org/object/42558"
+            },
+            {
+                "href": "http://scrapi.org/object/37396"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 8, 2014",
+                "href": "/exhibitions/listings/2014/tibet-and-india",
+                "rel": "Tibet and India"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/chinese-carving",
+                "rel": "Colors of the Universe"
+            },
+            {
+                "date": "From July 19, 2013",
+                "href": "/exhibitions/listings/2013/chinese-snuff-bottles",
+                "rel": "Small Delights"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/ink-art",
+                "rel": "Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "From February 1, 2014",
+                "href": "/exhibitions/listings/2014/edo-period-painting",
+                "rel": "The Flowering of Edo Period Painting"
+            },
+            {
+                "date": "From April 14, 2014",
+                "href": "/exhibitions/listings/2014/lost-kingdoms",
+                "rel": "Lost Kingdoms"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/highlights-of-asia?eid=A041_%7b93924202-8616-42E2-8DA1-39A4591F1426%7d_20140122180137",
+                "rel": "Highlights of Asia"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R100_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140303111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R100_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140303131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R101_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140304111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R101_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140304120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R101_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140304131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/talks/gallery-talks/the-flowering-of-edo-period-painting-spring?eid=A001_%7bB9065A06-A3F9-4CAB-8F49-ED3038F1E7A2%7d_20140205171419",
+                "rel": "Exhibition Tour\u2014The Flowering of Edo Period Painting: Japanese Masterworks from the Feinberg Collection"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=A092_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20131018142423",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R102_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140305120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R102_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140305131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=nc",
+                "rel": "Central and North Asia, 1600\u20131800 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=eac",
+                "rel": "China, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/72262"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/72262"
+        }
+    },
+    "accession number": "69.242.1\u2013.6",
+    "credit line": "The Sackler Fund, 1969",
+    "culture": "China",
+    "date": "mid 17th century",
+    "department": "Asian Art",
+    "description": "Sheng Maoye, a professional painter active in his native Suzhou, shows in his work a lively interest in the shifting atmospheric effects of landscapes in mist and rain or of clouds at twilight or dawn. In these album leaves, images suggested by couplets excerpted from Tang-dynasty (618\u2013907) poems provided the springboard for the artist's imagination. Sheng's interest in exploring the descriptive potentialsof monochrome ink\u2014sometimes with the addition of pale colors\u2014to suggest different states of atmospheric realism was shared by his contemporaries in the Nanjing area, including Fan Qi (1616\u2013after 1694) and Gong Xian (1619\u20131689).",
+    "dimensions": [
+        ".1 11 1/4 x 12 in. (28.6 x 30.5 cm)",
+        ".2 11 1/4 x 12 in. (28.6 x 30.5 cm)",
+        ".3 11 5/8 x 12 in. (29.5 x 30.5 cm)",
+        ".4 11 1/4 x 12 in. (28.6 x 30.5 cm)",
+        ".5 11 7/8 x 12 in. (30.2 x 30.5 cm)",
+        ".6 11 5/8 x 12 in. (29.5 x 30.5 cm)"
+    ],
+    "id": 72262,
+    "image": "http://images.metmuseum.org/CRDImages/as/original/DP160989.jpg",
+    "medium": "Album of six paintings; ink and color on silk",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/as/original/DP160989.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP160992.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP160991.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP160990.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP160994.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP160993.jpg"
+    ],
+    "title": "Landscapes after Tang Poems",
+    "what": [
+        "Silk",
+        "Ink",
+        "Books",
+        "Paintings",
+        "Albums"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Asia",
+        "China"
+    ],
+    "who": "Sheng Maoye"
+}

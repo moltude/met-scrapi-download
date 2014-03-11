@@ -1,0 +1,119 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/464028"
+            },
+            {
+                "href": "http://scrapi.org/object/464029"
+            },
+            {
+                "href": "http://scrapi.org/object/464072"
+            },
+            {
+                "href": "http://scrapi.org/object/464071"
+            },
+            {
+                "href": "http://scrapi.org/object/464787"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 25, 2014",
+                "href": "/exhibitions/listings/2014/canterbury-stained-glass",
+                "rel": "Radiant Light"
+            },
+            {
+                "date": "From August 6, 2013",
+                "href": "/exhibitions/listings/2013/design-motifs-in-byzantine-art",
+                "rel": "Design Motifs in Byzantine Art"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R008_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140309150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R009_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140310150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R105_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140311104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R010_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140311150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R106_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140312104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R011_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140312150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R107_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140313104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R012_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140313150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R108_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140314104500",
+                "rel": "Masterpieces of the Middle Ages"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/469001"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/469001"
+        }
+    },
+    "accession number": "95.15.120",
+    "credit line": "Purchase, 1895",
+    "culture": "Langobardic or Byzantine (?)",
+    "date": "6th\u20137th century",
+    "department": "Medieval Art",
+    "dimensions": [
+        "Overall 1 1/16 x 3/8 x 5/8in. (2.7 x 1 x 1.6cm)",
+        "hoop 5/8 x 1 1/16in. (1.6 x 2.7cm)"
+    ],
+    "id": 469001,
+    "image": "http://images.metmuseum.org/CRDImages/md/original/dp30334.jpg",
+    "medium": "Gold",
+    "provenance": [
+        "Samuel T. Baxter, Florence (from at least 1886-1895)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/md/original/dp30334.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/dp30335.jpg"
+    ],
+    "title": "Earring",
+    "what": [
+        "Metal",
+        "Costume",
+        "Metalwork",
+        "Gold",
+        "Jewelry",
+        "Ear ornaments",
+        "Earrings"
+    ],
+    "when": "A.D. 500-1000"
+}

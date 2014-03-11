@@ -1,0 +1,143 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/200185"
+            },
+            {
+                "href": "http://scrapi.org/object/200186"
+            },
+            {
+                "href": "http://scrapi.org/object/200181"
+            },
+            {
+                "href": "http://scrapi.org/object/200182"
+            },
+            {
+                "href": "http://scrapi.org/object/200177"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 3, 2014",
+                "href": "/exhibitions/listings/2014/william-morris",
+                "rel": "William Morris"
+            },
+            {
+                "date": "From November 22, 2011",
+                "href": "/exhibitions/listings/2011/faberge",
+                "rel": "Faberg\u00e9 from the Matilda Geddings Gray Foundation Collection"
+            },
+            {
+                "date": "From February 4, 2014",
+                "href": "/exhibitions/listings/2014/french-ceramics",
+                "rel": "Making Pottery Art"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/carpeaux",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "From January 22, 2014",
+                "href": "/exhibitions/listings/2014/antonio-canova",
+                "rel": "Antonio Canova"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining-family-individual?eid=A002_%7b2F11F3B2-6834-484B-AE0F-5066D7E783B5%7d_20140107114234",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R104_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140310131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/membership-events/evening-receptions/carpeaux-supporting-reception?eid=A001_%7b60301F85-6473-4C1C-8DAB-5D8B2E9406EE%7d_20140107151713",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R105_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140311131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/membership-events/evening-receptions/carpeaux-sustaining-reception?eid=A001_%7bB97F7097-C940-4FDB-8982-A3EC61BD9084%7d_20140107152519",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/world-enlightened?eid=R002_%7bEC37AED7-F558-4A27-A806-094491540250%7d_20140312101500",
+                "rel": "Cultural Discoveries\u2014Wednesdays with Olivier Bernier: Europe in the Eighteenth Century, A World Enlightened"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/talks/gallery-talks/the-passions-of-jean-baptiste-carpeaux?eid=A003_%7b7437318B-B35F-4C96-BAA4-FF8EDD85D6CA%7d_20140206123059",
+                "rel": "Exhibition Tour\u2014The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R106_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140313131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R107_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140314131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/friday-evening-gallery-event-what-moves-you?eid=A001_%7b1EC22848-690F-4DDE-99C8-D3C4580691E8%7d_20140130135425",
+                "rel": "Friday Evening Gallery Event\u2014What Moves You?"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwf",
+                "rel": "France, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/200183"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/200183"
+        }
+    },
+    "accession number": "48.187.153",
+    "credit line": "Bequest of Catherine D. Wentworth, 1948",
+    "culture": "French (Mantes) (Paris Mint)",
+    "date": "mid-18th century",
+    "department": "European Sculpture and Decorative Arts",
+    "dimensions": "H. 7/8 in. (2.2 cm.); Diam. 3-1/2 in. (8.9 cm.)",
+    "id": 200183,
+    "image": "http://images.metmuseum.org/CRDImages/es/original/146040.jpg",
+    "medium": "Silver",
+    "provenance": [
+        "Catherine D. Wentworth (until 1948; to MMA)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/es/original/146040.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/146039.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/146041.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/146042.jpg"
+    ],
+    "title": "Wine taster",
+    "what": [
+        "Metal",
+        "Metalwork",
+        "Silver",
+        "Drinking vessels",
+        "Cups",
+        "Wine tasters"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "France",
+        "Mantes-la-Jolie"
+    ],
+    "who": "Nicolas Bouton"
+}

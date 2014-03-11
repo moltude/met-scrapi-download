@@ -1,0 +1,151 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/451260"
+            },
+            {
+                "href": "http://scrapi.org/object/451261"
+            },
+            {
+                "href": "http://scrapi.org/object/451263"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A232_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134244",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A237_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134557",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/programs-for-visitors-with-disabilities/visitors-who-are-deaf/beauty-and-innovation?eid=A001_%7b77D8F57E-5FC9-4578-8A95-30A43C89CFDD%7d_20140210164006",
+                "rel": "Met Signs Tours in ASL\u2014Beauty and Innovation: Understanding Islamic Art"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A251_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114408",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/figs/hd_figs.htm",
+                "rel": "Figural Representation in Islamic Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/mugh_2/hd_mugh_2.htm",
+                "rel": "The Art of the Mughals after 1600"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/empe/hd_empe.htm",
+                "rel": "The Shah Jahan Album"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=ssa",
+                "rel": "South Asia, 1400\u20131600 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=ssa",
+                "rel": "South Asia, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/451262"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/451262"
+        }
+    },
+    "accession number": "55.121.10.14",
+    "credit line": "Purchase, Rogers Fund and The Kevorkian Foundation Gift, 1955",
+    "culture": "Islamic",
+    "date": "recto ca. 1540; verso: ca. 1615\u201320",
+    "department": "Islamic Art",
+    "description": "The emperor Jahangir\u2019s memoirs record many of the animals he encountered while on his annual peregrinations, and the reasons he wanted studies of them to be painted. While we do not have such notes for this painting, we can imagine that Jahangir was intrigued by the creature\u2019s size, with a wingspan of up to five feet, and by the loud droning noise it emitted, audible a mile away.",
+    "dimensions": [
+        "H. 15 1/4 in. (38.7 cm)",
+        "W. 10 1/2 in. (26.7 cm)"
+    ],
+    "id": 451262,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/DP246533.jpg",
+    "medium": "Ink, opaque watercolor, and gold on paper",
+    "provenance": [
+        "Jack S. Rofe, Scotland (in 1929; sale, Sotheby's London,December 12, 1929, to Kevorkian)",
+        "[ Hagop Kevorkian, New York, 1929\u201355",
+        "gift and sale to MMA]"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/DP246533.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/sf55-121-10-14a.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/159449.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DT4809.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/181882.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP246532.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/CAT 36R2_89B.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/sf55-121-10-14b.jpg"
+    ],
+    "title": "\"Great Hornbill\", Folio from the Shah Jahan Album",
+    "what": [
+        "Metal",
+        "Ink",
+        "Paper",
+        "Books",
+        "Gold",
+        "Watercolors",
+        "Albums",
+        "Manuscripts",
+        "Codices"
+    ],
+    "where": [
+        "Asia",
+        "India"
+    ],
+    "who": [
+        "Mir 'Ali Haravi",
+        "Mansur"
+    ]
+}

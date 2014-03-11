@@ -1,0 +1,97 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/286424"
+            },
+            {
+                "href": "http://scrapi.org/object/286425"
+            },
+            {
+                "href": "http://scrapi.org/object/286426"
+            },
+            {
+                "href": "http://scrapi.org/object/286427"
+            },
+            {
+                "href": "http://scrapi.org/object/286428"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/phws/hd_phws.htm",
+                "rel": "Carleton Watkins (1829\u20131916) and the West: 1860s\u20131870s"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=na",
+                "rel": "The United States and Canada, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/266133"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/266133"
+        }
+    },
+    "accession number": "1989.1083",
+    "credit line": "Purchase, The Horace W. Goldsmith Foundation Gift, through Joyce and Robert Menschel, 1989",
+    "date": "1863",
+    "department": "Photographs",
+    "description": "Watkins, the consummate photographer of the American West, combined a virtuoso mastery of the difficult wet-plate negative process with a rigorous sense of pictorial structure.  In 1863 he was hired to make a photographic survey of the quicksilver mining operations in New Almaden, near San Jose, California.  Quicksilver\u2014used to bond with, and weigh down, the finest particles of gold that might otherwise float away in the sluicing process\u2014was essential to the gold-mining industry, and the mining of quicksilver itself became a profitable enterprise.  Watkins's clients hoped to use his photographs to convince potential investors of  the promise of the New Almaden site.  To this end Watkins made numerous stereographic views documenting minute details of the mining process as well as mammoth views that were meant to show the town to its best possible advantage.  Capitalizing on the calm of the hazy early morning and a picturesque vantage point, Watkins portrayed the mining camp as a charming mountain village possessing an appealing tidiness and an air of perfect tranquility.",
+    "dimensions": "39.7 x 52.3 cm (15 5/8 x 20 9/16 in.)",
+    "id": 266133,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/ph1989.1083.R.jpg",
+    "medium": "Albumen silver print from glass negative",
+    "provenance": [
+        "[Fraenkel Gallery, San Francisco]"
+    ],
+    "title": "The Town on the Hill, New Almaden",
+    "what": [
+        "Photographs",
+        "Albumen silver prints"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "Carleton E. Watkins"
+}

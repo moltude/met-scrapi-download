@@ -1,0 +1,156 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/23230"
+            },
+            {
+                "href": "http://scrapi.org/object/23229"
+            },
+            {
+                "href": "http://scrapi.org/object/23213"
+            },
+            {
+                "href": "http://scrapi.org/object/34270"
+            },
+            {
+                "href": "http://scrapi.org/object/25389"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From October 2, 2012",
+                "href": "/exhibitions/listings/2012/arms-and-armor",
+                "rel": "Bashford Dean and the Creation of the Arms and Armor Department"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A083_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113541",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A074_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112917",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A084_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113556",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A093_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113923",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A075_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112932",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A094_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113938",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 5, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A085_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113610",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161351",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A076_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112951",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 19, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161305",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/rarm/hd_rarm.htm",
+                "rel": "Arms and Armor in Renaissance Europe"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/afas/hd_afas.htm",
+                "rel": "Fashion in European Armor"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/afas15/hd_afas15.htm",
+                "rel": "Fashion in European Armor, 1400\u20131500"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/fire/hd_fire.htm",
+                "rel": "Fire Gilding of Arms and Armor"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/dect/hd_dect.htm",
+                "rel": "Techniques of Decoration on Arms and Armor"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/deca/hd_deca.htm",
+                "rel": "The Decoration of European Armor"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/22860"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/22860"
+        }
+    },
+    "accession number": "23.141",
+    "credit line": "Harris Brisbane Dick Fund, 1923",
+    "culture": "Italian",
+    "date": "ca. 1475\u201380",
+    "department": "Arms and Armor",
+    "description": "This helmet is the earliest surviving example of Renaissance armor all'antica (in the antique style). The lion's head is an outer shell made of embossed and gilt copper that is fitted over an underlying plain steel helmet. It represents the head of the Nemean Lion, whose pelt was worn as a headdress and cloak by the mythological hero Hercules. He was frequently portrayed in Renaissance art as a symbol of indomitable strength, courage, and perseverance.",
+    "dimensions": "H., 11 3/4 in. (29.8 cm); W., 8 1/4 in. (21 cm); D., 12 1/2 in. (31.8 cm); Wt., 7 lb. 14 oz. (3574 g)",
+    "gallery-id": 373,
+    "id": 22860,
+    "image": "http://images.metmuseum.org/CRDImages/aa/original/DP237081.jpg",
+    "medium": "Steel, gilt copper, glass, polychromy, textile",
+    "provenance": [
+        "Fountaine, Gwennap (1818), German National Museum Nuremberg."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/aa/original/DP237081.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DT779.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP237085.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP237080.jpg"
+    ],
+    "title": "Sallet in the Shape of a Lion's Head",
+    "what": [
+        "Metal",
+        "Costume",
+        "Textiles",
+        "Glass",
+        "Gilt",
+        "Iron and iron alloy",
+        "Copper",
+        "Iron alloy",
+        "Steel",
+        "Armor",
+        "Body armor",
+        "Helmets",
+        "Polychromy",
+        "Sallets"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Italy"
+    ]
+}

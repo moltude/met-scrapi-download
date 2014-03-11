@@ -1,0 +1,146 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/483511"
+            },
+            {
+                "href": "http://scrapi.org/object/483512"
+            },
+            {
+                "href": "http://scrapi.org/object/483513"
+            },
+            {
+                "href": "http://scrapi.org/object/483514"
+            },
+            {
+                "href": "http://scrapi.org/object/483516"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From November 20, 2013",
+                "href": "/exhibitions/listings/2013/jewels-by-jar",
+                "rel": "Jewels by JAR"
+            },
+            {
+                "date": "From November 5, 2013",
+                "href": "/exhibitions/listings/2013/carlo-scarpa",
+                "rel": "Venetian Glass by Carlo Scarpa"
+            },
+            {
+                "date": "From February 24, 2014",
+                "href": "/exhibitions/listings/2014/lucas-samaras",
+                "rel": "Lucas Samaras"
+            },
+            {
+                "date": "From December 17, 2013",
+                "href": "/exhibitions/listings/2013/metropolitan-vanities",
+                "rel": "Metropolitan Vanities"
+            },
+            {
+                "date": "From October 22, 2013",
+                "href": "/exhibitions/listings/2013/william-kentridge",
+                "rel": "William Kentridge"
+            },
+            {
+                "date": "From April 29, 2014",
+                "href": "/exhibitions/listings/2014/dan-graham",
+                "rel": "The Roof Garden Commission: Dan Graham"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R100_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140303144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/modern-art-french?eid=R026_%7b96311A2D-1D25-45BE-83E2-2054BC16D70B%7d_20140304133000",
+                "rel": "Art Moderne et Contemporain (Modern and Contemporary Art in French)"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R101_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140304144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R102_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140305144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R026_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140306140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R103_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140306144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/collecting-and-intepreting-at-the-met?eid=A001_%7b6A0B3958-68AC-4F22-BB73-D898FB894401%7d_20140127111701",
+                "rel": "Fellows Colloquium\u2014Collecting and Interpreting at the Met"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/talks/gallery-talks/metropolitan-vanities?eid=A001_%7bF51ADF90-5C6F-45EF-822C-6AE4940219F6%7d_20140206160301",
+                "rel": "Exhibition Tour\u2014Metropolitan Vanities: The History of the Dressing Table"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/college/jewels?eid=A001_%7bB2CEEB36-09E2-43E1-B6FD-1CA91686BA29%7d_20140219113337",
+                "rel": "Jewels by JAR Workshop"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R104_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140310144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/scpa/hd_scpa.htm",
+                "rel": "School of Paris"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/485435"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/485435"
+        }
+    },
+    "accession number": "1990.274.1ab",
+    "credit line": "The Frederick and Helen Serger Collection, Bequest of Helen Serger, in honor of William S. Lieberman, 1989",
+    "date": "1911",
+    "department": "Modern and Contemporary Art",
+    "description": "Born to a Hassidic Jewish family in the provincial capital of Vitebsk in western Russia in 1887, Marc Chagall displayed the talent and vocation of an artist from his early schooldays.  In 1907 in St. Petersburg, he studied at the Imperial School of Fine Arts and then privately under L\u00e9on Bakst, the Russian painter, illustrator, and stage designer.  Chagall himself later became a versatile artist, producing easel paintings, drawings, prints, illustrations for books, stage designs, and stained glass windows.  In St. Petersburg, he was exposed to exhibitions of the Fauves (a loose association of painters concerned with brilliant color, rapidly brushed texture, improvised composition, and flattened space) and the Russian avant-garde movement, Mir Iskusstva, which was concerned with a revival of Russian heritage and renewed contact with German, English, and French ideas.From 1910 to 1914, Chagall lived in Paris where he would later spend most of his expatriate life (1923\u201341, 1947\u201385).  During these early years, he met members of the avant-garde: the poets Max Jacob and Guillaume Apollinaire, and the painters Amedeo Modigliani, Robert Delaunay, Fernand L\u00e9ger, and others working in a cubist style.  Although Chagall experimented with Fauvism and Cubism, he rejected them in favor of his own unique mode of painting, which blended sentiment and fantasy and often combined events separated by time and space in a single composition.  Ultimately, it was his memories of the peasants and the animals in Vitebsk's Jewish ghetto that would serve him with themes for his paintings.  Jewish folklore, Old Testament tales, and the circus became his preferred subjects.Chagall painted \"Snow, Winter in Vitebsk,\" about 1911, while he was living in Paris.  His memories of Russia fueled his imagination, and thus the series of gouaches he painted during those years are referred to as \"Russian recollections.\"  These include several nocturnal views of the suburbs of Vitebsk.  \"Snow\"\u2014the word is twice inscribed in Cyrillic in the center foreground\u2014is larger than most of the other gouaches in the series.  A string of colorful timber houses with high pitched roofs separates the night sky from the snowy plain in which adults pull children on sleds.  The cupolas of one of Vitebsk's numerous churches rise at the far right.  The luminous colors and naive accents of this image\u2014from the decorated window shutters to the droll, rotund couple evocative of wooden dolls\u2014are elements borrowed from Russian folk art.  The figure in the center of the composition, however, seems of a different mettle.  Wearing boots, baggy pants, and a patterned blouse, he has about him all the elegance of a dancer from Diaghilev's Ballets Russes, then captivating Paris.",
+    "dimensions": "18 7/8 x 23 3/4 in. (47.9 x 60.3 cm)",
+    "id": 485435,
+    "image": "http://images.metmuseum.org/CRDImages/ma/original/ma1990.274.1a.jpg",
+    "medium": "Gouache on cardboard",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ma/original/ma1990.274.1a.jpg",
+        "http://images.metmuseum.org/CRDImages/ma/original/ma1990.274.1b.jpg"
+    ],
+    "title": "Snow, Winter in Vitebsk",
+    "what": [
+        "Drawings",
+        "Paper",
+        "Paintings",
+        "Gouaches",
+        "Cardboard"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Marc Chagall"
+}

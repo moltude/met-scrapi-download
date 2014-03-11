@@ -1,0 +1,111 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/327527"
+            },
+            {
+                "href": "http://scrapi.org/object/324103"
+            },
+            {
+                "href": "http://scrapi.org/object/326722"
+            },
+            {
+                "href": "http://scrapi.org/object/324111"
+            },
+            {
+                "href": "http://scrapi.org/object/324763"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R104_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140310121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R105_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140312121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R106_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140313121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R107_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140314121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R116_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140331121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R117_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140402121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R118_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140403121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=02\u00aeion=wam",
+                "rel": "Mesopotamia, 8000\u20132000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/325273"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/325273"
+        }
+    },
+    "accession number": "1973.33.2",
+    "credit line": "Gift of Alastair Bradley Martin, 1973",
+    "culture": "Neo-Sumerian",
+    "date": "ca. 2100\u20132000 B.C.",
+    "department": "Ancient Near Eastern Art",
+    "dimensions": "2.52 x 2.72 x 2.68 in. (6.4 x 6.91 x 6.81 cm)",
+    "id": 325273,
+    "image": "http://images.metmuseum.org/CRDImages/an/original/ME1973_33_2.jpg",
+    "medium": "Steatite or serpentine",
+    "provenance": [
+        "[Before 1948, Elias S. David, New York]",
+        "1948, purchased by Alastair Bradley Martin from Elias S. David",
+        "acquired by the Museum in 1973, gift of Alastair Bradley Martin, New York."
+    ],
+    "title": "Bull's head",
+    "what": [
+        "Sculpture",
+        "Stone",
+        "Talc",
+        "Steatite",
+        "Serpentine"
+    ],
+    "where": [
+        "Asia",
+        "Iraq"
+    ],
+    "who": "Neo-Sumerian"
+}

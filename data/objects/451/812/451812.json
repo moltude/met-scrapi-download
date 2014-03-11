@@ -1,0 +1,117 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/453039"
+            },
+            {
+                "href": "http://scrapi.org/object/453040"
+            },
+            {
+                "href": "http://scrapi.org/object/453043"
+            },
+            {
+                "href": "http://scrapi.org/object/453044"
+            },
+            {
+                "href": "http://scrapi.org/object/453041"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R129_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140307141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A249_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114331",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A250_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114353",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world-french?eid=R026_%7b85906EA1-CA66-4610-A52C-39562E1A4C40%7d_20140310133000",
+                "rel": "Arts du monde Islamique (Arts of the Islamic World in French)"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R130_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140310141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=nfe",
+                "rel": "Egypt and North Africa, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/451812"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/451812"
+        }
+    },
+    "accession number": "65.265.1",
+    "credit line": "Gift of Dr. Charles A. Poindexter, 1965",
+    "culture": "Islamic",
+    "date": "18th\u201320th century",
+    "department": "Islamic Art",
+    "description": "This head ornament and objects 65.265.2, 65.265.6, and 65.265.7  are related in technique and design to pieces made in Istanbul, and thus may be considered representative of the western reaches of Ottoman style. Although Morocco was never part of the Ottoman empire, these head ornaments illustrate the degree to which the Ottoman style penetrated surrounding regions.The ornaments with the pendant elements were hooked, near the top of the head, to a headdress; from these were suspended by chains the larger circular elements, the most decorative parts of which were seen from the front, at approximately ear level",
+    "dimensions": "Max. Diam. (larger circular element) 88.9 mm",
+    "id": 451812,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/65.265.1.jpg",
+    "medium": "Gold; fabricated from sheet and wire, chased, and set with rubies, emeralds, topazes (?), pearls, and glass",
+    "title": "Bracelet",
+    "what": [
+        "Metal",
+        "Costume",
+        "Glass",
+        "Gold",
+        "Jewelry",
+        "Bracelets",
+        "Pearl",
+        "Wire",
+        "Beryl",
+        "Ruby",
+        "Emerald"
+    ],
+    "where": [
+        "Africa",
+        "Morocco"
+    ]
+}

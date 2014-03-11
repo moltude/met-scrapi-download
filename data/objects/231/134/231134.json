@@ -1,0 +1,151 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/188017"
+            },
+            {
+                "href": "http://scrapi.org/object/195111"
+            },
+            {
+                "href": "http://scrapi.org/object/205651"
+            },
+            {
+                "href": "http://scrapi.org/object/206344"
+            },
+            {
+                "href": "http://scrapi.org/object/206345"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 3, 2014",
+                "href": "/exhibitions/listings/2014/william-morris",
+                "rel": "William Morris"
+            },
+            {
+                "date": "From November 22, 2011",
+                "href": "/exhibitions/listings/2011/faberge",
+                "rel": "Faberg\u00e9 from the Matilda Geddings Gray Foundation Collection"
+            },
+            {
+                "date": "From February 4, 2014",
+                "href": "/exhibitions/listings/2014/french-ceramics",
+                "rel": "Making Pottery Art"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/carpeaux",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "From January 22, 2014",
+                "href": "/exhibitions/listings/2014/antonio-canova",
+                "rel": "Antonio Canova"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining-family-individual?eid=R002_%7b2F11F3B2-6834-484B-AE0F-5066D7E783B5%7d_20140308100000",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining-family-individual?eid=A002_%7b2F11F3B2-6834-484B-AE0F-5066D7E783B5%7d_20140107114234",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R104_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140310131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/membership-events/evening-receptions/carpeaux-supporting-reception?eid=A001_%7b60301F85-6473-4C1C-8DAB-5D8B2E9406EE%7d_20140107151713",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R105_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140311131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/membership-events/evening-receptions/carpeaux-sustaining-reception?eid=A001_%7bB97F7097-C940-4FDB-8982-A3EC61BD9084%7d_20140107152519",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/world-enlightened?eid=R002_%7bEC37AED7-F558-4A27-A806-094491540250%7d_20140312101500",
+                "rel": "Cultural Discoveries\u2014Wednesdays with Olivier Bernier: Europe in the Eighteenth Century, A World Enlightened"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/talks/gallery-talks/the-passions-of-jean-baptiste-carpeaux?eid=A003_%7b7437318B-B35F-4C96-BAA4-FF8EDD85D6CA%7d_20140206123059",
+                "rel": "Exhibition Tour\u2014The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R106_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140313131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R107_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140314131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/boxw/hd_boxw.htm",
+                "rel": "Ivory and Boxwood Carvings, 1450\u20131800"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwf",
+                "rel": "France, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/231134"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/231134"
+        }
+    },
+    "accession number": "2005.243",
+    "credit line": "Purchase, Friends of European Sculpture and Decorative Arts Gifts, Edward J. Gallagher Jr. Bequest, in memory of his father, Edward Joseph Gallagher, his mother, Ann Hay Gallagher, and his son, Edward Gallagher III, and The Isak and Rose Weinman Foundation Inc. Gift, 2005",
+    "culture": "probably French",
+    "date": "ca. 1695\u20131700",
+    "department": "European Sculpture and Decorative Arts",
+    "description": "Few ivory portraits show the extraordinary detail of this bravura carving, which displays qualities usually found in the much larger bronze or marble busts of the era. Echoing the drapery-swathed and bewigged grandiosity of those images, the little-known sculptor who signed this piece paid meticulous attention to rendering his sitter's costume. The luxuriant cascade of curls, modish lace jabot topped off with an elaborate two-ribbon tie, and brocade patterning of the parade armor contrast strikingly with the naturalistic delineation of the face. Someday, however, his pockmarked skin and the distinctively truculent set of his chin may provide clues to the gentleman's identity.Johanna Hecht, associate curator, Department of European Sculpture and Decorative ArtsProvenanceM. Fau, Paris, by 1865; Emma Budge, Hamburg; her sale, Paul Graupe, Berlin, October 4\u20136, 1937, lot 85 (bought by Budge heirs, Hamburg); on loan to Museum f\u00fcr Kunst und Gewerbe, Hamburg, until 2005; [Boyke Dettmers, Bremen].BibliographyPaul Mantz, \"Union centrale des beaux-arts appliqu\u00e9s \u00e0 l'industrie\u2014 Mus\u00e9e r\u00e9trospectif\u2014La Renaissance et le temps modernes,\" Gazette des Beaux-Arts 19 (October 1865), p. 343; Eugen von Philippovich, Elfenbein: Ein Handbuch f\u00fcr Sammler und Liebhaber, 2d ed. (Munich: Klinkhardt & Biermann, 1982), pp. 88\u201389, fig. 68; James D. Draper, \"Bust of a Nobleman,\" Recent Acquisitions: A Selection, 2004\u20132005. The Metropolitan Museum of Art Bulletin 63, no. 2 (Fall 2005), p. 20.",
+    "dimensions": "H. 14.3 cm not including modern wood socle",
+    "id": 231134,
+    "image": "http://images.metmuseum.org/CRDImages/es/original/DP116788.jpg",
+    "medium": "Elephant ivory",
+    "provenance": [
+        "M. Fau , Paris, by 1865",
+        "Emma Budge",
+        "[ her sale, Paul Graupe, Berlin October 4\u20136, 1937, lot 85 ]",
+        "Heirs of Emma Budge",
+        "[ Boyke Dettmers ]"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/es/original/DP116788.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP116789.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP116790.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP116791.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP116792.jpg"
+    ],
+    "title": "Bust",
+    "what": [
+        "Bone",
+        "Ivory",
+        "Figures",
+        "Busts"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "C. Lacroix, Franco-Flemish"
+}

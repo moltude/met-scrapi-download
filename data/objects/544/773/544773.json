@@ -1,0 +1,127 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/549250"
+            },
+            {
+                "href": "http://scrapi.org/object/553719"
+            },
+            {
+                "href": "http://scrapi.org/object/553721"
+            },
+            {
+                "href": "http://scrapi.org/object/554676"
+            },
+            {
+                "href": "http://scrapi.org/object/554677"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/teen-programs/saturday-sketching/saturday-sketching-egyptian-art?eid=A001_%7b8698F79D-A7E0-44F1-99CF-57C8A2E2471A%7d_20131211143556",
+                "rel": "Saturday Sketching\u2014Egyptian Art (Ages 11\u201318)"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A151_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113641",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R130_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140310140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=03\u00aeion=afe",
+                "rel": "Egypt, 2000\u20131000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/544773"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/544773"
+        }
+    },
+    "accession number": "35.9.19a\u2013e",
+    "credit line": "Gift of  Edward S. Harkness, 1935",
+    "date": "ca. 1320\u20131200 B.C.",
+    "department": "Egyptian Art",
+    "description": "This papyrus was prepared for the Tax Master and Steward Sethnakhte. It reads from right to left and contains three large and 41 smaller vignettes.The text is divided into vertical sections by double lines. Each section encloses a vignette and its accompanying text.The three lines above each vignette name the deity depicted and ask for a specific boon on behalf of Sethnakhte. The three columns below relate that in exchange for the boon Sethnakhte has made an offering on earth to the deity. The long fourth column which follows each vignette contains miscellaneous material from various sources that was intended largely as a space-filler.At the extreme right, in the first section of the papyrus, Sethnakhte kneels in adoration of the symbol of the West, on which a falcon is perched. He is joined in worship by several registers of minor deities and sacred baboons.To the left Sethnakhte adores Osiris flanked by Nephthys (on the left) and Isis (on the right). The accompanying text is composed of epithets and praises of Osiris.The final vignette of the papyrus, at the extreme left, depicts the Steward Sethnakhte standing before a falcon-headed form of Osiris-Wennefer-Khentyamentiu in a shrine topped with a frieze of uraei and feathers of truth. He raises one hand in adoration of the god and with the other steadies a small image of Maat, the personification of truth, on his shoulder.The body of the text of this papyrus is composed of the longer version of chapter 168 of the Book of the Dead, also called the \"Chapter of Offerings.\"  The purpose of such texts was to provide the deceased with the information needed to pass through the netherworld unmolested.",
+    "dimensions": "H. 36.8 cm (14 1/2 in); l. 443.2 cm (174 1/2 in)",
+    "gallery-id": 123,
+    "id": 544773,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/35.9.19a-e_EGDP010220.jpg",
+    "medium": "Papyrus, ink, pigment",
+    "provenance": [
+        "Purchased in Cairo in 1923 by Edward S. Harkness. Loaned to the Museum in 1924. Donated to the Museum with the Harkness Collection, 1935."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/eg/original/35.9.19a-e_EGDP010220.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/35.9.19a-e_EGDP010489.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/35.9.19a-e_EGDP010488.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/35.9.19a-e_EGDP010487.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/35.9.19a-e_EGDP010486.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/35.9.19a-e_EGDP010485.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/35.9.19a-e_EGDP010484.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/35.9.19a-e_EGDP010483.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/35.9.19a-e_EGDP010482.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/35.9.19a-e_EGDP010481.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/35.9.19a-e_EGDP010480.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/35.9.19a-e_EGDP010479.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/eg35.9.10.jpg"
+    ],
+    "title": "Funerary Papyrus of the Steward Sethnakht",
+    "what": [
+        "Ink",
+        "Papyrus"
+    ],
+    "when": "2000-1000 B.C.",
+    "where": [
+        "Africa",
+        "Egypt"
+    ]
+}

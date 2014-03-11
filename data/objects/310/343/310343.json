@@ -1,0 +1,123 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/310284"
+            },
+            {
+                "href": "http://scrapi.org/object/310374"
+            },
+            {
+                "href": "http://scrapi.org/object/310375"
+            },
+            {
+                "href": "http://scrapi.org/object/310376"
+            },
+            {
+                "href": "http://scrapi.org/object/314150"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From September 16, 2013",
+                "href": "/exhibitions/listings/2013/feathered-walls",
+                "rel": "Feathered Walls"
+            },
+            {
+                "date": "From October 8, 2013",
+                "href": "/exhibitions/listings/2013/nelson-rockefeller",
+                "rel": "The Nelson A. Rockefeller Vision"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R105_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140311130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R106_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140312130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R107_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140313130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 18, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/shaping-the-african-art-canon?eid=A001_%7b447041C4-D9E7-43A9-AE5F-85BAEB6E7196%7d_20140214113010",
+                "rel": "Shaping the African Art Canon: From the Museum to the Classroom"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/talks/the-observant-eye/shared-memory-sculptural-ancestral-objects-from-oceania?eid=A001_%7b94768B86-339F-4726-A3BC-8F798C423768%7d_20140123143856",
+                "rel": "Shared Memory: Sculptural Ancestral Objects from Oceania"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=A116_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140210093151",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/talks/gallery-talks/ancient-american-sculpture?eid=A002_%7b7A6AA394-9359-47C1-87B4-65B0894C01AB%7d_20140123114700",
+                "rel": "Ancient American Sculpture"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R117_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140401130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R118_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140402130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=sfw",
+                "rel": "Western and Central Sudan, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/310343"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/310343"
+        }
+    },
+    "accession number": "1977.394.33",
+    "credit line": "Gift of Lester Wunderman, 1977",
+    "culture": "Dogon peoples",
+    "date": "18th\u201319th century",
+    "department": "Arts of Africa, Oceania and the Americas",
+    "description": "Dogon commemorative performances are supervised and enacted by initiates of a powerful ritual organization known as Awa.  Members of the Awa society are both the creators and the dancers of a vast corpus of Dogon mask forms.  The Great Mask, Imina na, is a unique sculptural work of singular importance that serves as the focal point of Awa private and public gatherings.  Although a mask in name and form, the Great Mask, is rarely worn.  Instead its very presence transforms its surroundings into a place of mystical exchanges distinctive both in terms of its scale and its function as a ritual altar, the Great Mask serves as a communal emblem of Dogon spiritual life.       Every sixty years, Awa sponsors the carving of a new Great Mask as part of the preparations surrounding the Sigui celebration.  These two events embrace ideas of renewal as well as the collective commemoration of an entire generation of elders.  The Awa society uses natural shelters, such as caves at the outskirts of settlements, to store ritual objects, and it is there that a community preserves its Great Masks of the past and present.",
+    "dimensions": "H. 113 x W. 7 1/2 x D. 8 1/8 in. (287 x 19.1 x 20.6 cm)",
+    "gallery-id": 350,
+    "id": 310343,
+    "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1977_394_33.jpg",
+    "medium": "Wood, pigment",
+    "provenance": [
+        "Marcel Griaule (1898-1958), Mali, collected 1930s (?)",
+        "[H\u00e9l\u00e8ne Kamer, New York and Paris, until 1972]",
+        "Lester Wunderman, New York, 1972\u20131977"
+    ],
+    "title": "Great Mask (Imina na)",
+    "what": [
+        "Costume",
+        "Sculpture",
+        "Wood",
+        "Masks",
+        "Ceremonial masks"
+    ],
+    "where": [
+        "Africa",
+        "Mali"
+    ],
+    "who": "Dogon"
+}

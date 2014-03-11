@@ -1,0 +1,110 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/21981"
+            },
+            {
+                "href": "http://scrapi.org/object/33710"
+            },
+            {
+                "href": "http://scrapi.org/object/34260"
+            },
+            {
+                "href": "http://scrapi.org/object/22758"
+            },
+            {
+                "href": "http://scrapi.org/object/22835"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From October 2, 2012",
+                "href": "/exhibitions/listings/2012/arms-and-armor",
+                "rel": "Bashford Dean and the Creation of the Arms and Armor Department"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A074_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112917",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A084_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113556",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A093_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113923",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A075_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112932",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A094_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113938",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 5, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A085_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113610",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161351",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A076_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112951",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 19, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161305",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 26, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A086_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113630",
+                "rel": "Arms and Armor"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/22975"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/22975"
+        }
+    },
+    "accession number": "27.159.3",
+    "credit line": "Gift of George D. Pratt, 1927",
+    "culture": "Italian",
+    "date": "ca. 1570",
+    "department": "Arms and Armor",
+    "description": "This reinforcing abdonimnal defense is part of an unusually large armor garniture (acc. no. 27.159.1), which contains pieces for use in battle and for the tilt in both the Italian and German fashions. The tilt was a tournament fought on horseback between two opponents armed with lances and separated by a lengthwise barrier.The armor as mounted is equipped with a helmet and vambraces (arm defenses) for the tournament. The buffe (chin defense), second breastplate (27.159.2), and manifer (reinforced left gauntlet) (27.159.6) would have been added to make the armor ready for exchange pieces for different forms of the tournament. For the German tilt, the trellised targe (shield) (27.159.7), small elbow defense (27.159.5), and small stomach defense (27.159.3) were added. For the Italian tilt, these elements were replaced by the form-fitting reinforce covering the left half of the torso and left shoulder (mezzo sovrapetto) (27.159.2) and the larger elbow defense (soprabacciale) (27.159.4).The garniture also includes two complete sets of saddle steels (27.159.13, .14) (only one is exhibited) and two vamplates (conical hand defenses affixed to the lance) (27.159.8, .9). The decoration consisting of etched bands containing trophies of arms and musical instruments was a popular design found in many variations in Italy throughout the second half of the sixteenth century.",
+    "dimensions": "H., 12 in. (30.48 cm); W., 9 in. (22.86 cm)",
+    "gallery-id": 371,
+    "id": 22975,
+    "image": "http://images.metmuseum.org/CRDImages/aa/original/69623.jpg",
+    "medium": "Etched steel",
+    "title": "Reinforcing Abdominal Defense",
+    "what": [
+        "Metal",
+        "Costume",
+        "Etching",
+        "Iron and iron alloy",
+        "Iron alloy",
+        "Steel",
+        "Armor"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Italy"
+    ]
+}

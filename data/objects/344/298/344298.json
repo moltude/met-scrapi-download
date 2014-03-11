@@ -1,0 +1,80 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/344293"
+            },
+            {
+                "href": "http://scrapi.org/object/346007"
+            },
+            {
+                "href": "http://scrapi.org/object/338810"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/344298"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/344298"
+        }
+    },
+    "accession number": "1971.513.50",
+    "credit line": "Purchase, Harris Brisbane Dick Fund and Joseph Pulitzer Bequest, 1971",
+    "date": "1728\u201378",
+    "department": "Drawings and Prints",
+    "dimensions": "sheet 8 x 13 5/8 in. (20.3 x 34.6 cm)",
+    "id": 344298,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP808017.jpg",
+    "medium": "Pen and brown ink, brush and brown wash over graphite",
+    "provenance": [
+        "Vendor: Matthiesen , London"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP808017.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/1971.513.50.jpg"
+    ],
+    "title": "Design for a Stage Set: Solomon Receiving the Queen of Sheba under a Baldacchino, with Fantastical Architecture and a Gardenscape.",
+    "what": [
+        "Ink",
+        "Drawings",
+        "Graphite"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Carlo Galli Bibiena"
+}

@@ -1,0 +1,132 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/2439"
+            },
+            {
+                "href": "http://scrapi.org/object/6651"
+            },
+            {
+                "href": "http://scrapi.org/object/6663"
+            },
+            {
+                "href": "http://scrapi.org/object/6682"
+            },
+            {
+                "href": "http://scrapi.org/object/6652"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 18, 2013",
+                "href": "/exhibitions/listings/2013/american-west",
+                "rel": "The American West in Bronze, 1850\u20131925"
+            },
+            {
+                "date": "February 24, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R096_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140224120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "February 25, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R097_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140225120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "February 25, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R073_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140225134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "February 26, 2014",
+                "href": "/events/programs/talks/gallery-talks/light-in-american-art-hudson-river-school?eid=A003_%7b86B27E91-724D-4796-8075-F3123974AE65%7d_20131016163855",
+                "rel": "Light in American Art: Hudson River School to Abstract Expressionism"
+            },
+            {
+                "date": "February 26, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R098_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140226120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "February 26, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R074_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140226134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "February 27, 2014",
+                "href": "/events/programs/talks/gallery-talks/the-american-west-in-bronze?eid=A001_%7bF8FF67EB-DE74-4A7A-B860-AAB9F09B0E26%7d_20131024112254",
+                "rel": "Exhibition Tour\u2014The American West in Bronze, 1850\u20131925"
+            },
+            {
+                "date": "February 27, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R099_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140227120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "February 27, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R075_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140227134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "March 1, 2014",
+                "href": "/events/programs/tours/american-art-weekend?eid=A180_%7b501B6EDB-D4CC-4402-98B8-688E06337497%7d_20131127140947",
+                "rel": "American Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=na",
+                "rel": "The United States, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/2438"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/2438"
+        }
+    },
+    "accession number": "15.98.3a, b",
+    "credit line": "Gift of Sylvester Dering, 1915",
+    "culture": "American",
+    "date": "ca. 1700",
+    "department": "American Decorative Arts",
+    "dimensions": [
+        "Overall 3 3/4 x 9 1/4 in. (9.5 x 23.5 cm); 18 oz. 3 dwt. (565.2 g)",
+        "Lip DIam. 6 1/2 in. (16.5 cm)",
+        "Body H. 2 1/8 in. (5.4 cm); Diam. 6 3/4 in. (17.1 cm); 11 oz. 6 dwt. (351.6 g)",
+        "Cover 1 13/16 x 6 7/8 in. (4.6 x 17.5 cm); 6 oz. 17 dwt. (213.6 g)"
+    ],
+    "gallery-id": 750,
+    "id": 2438,
+    "image": "http://images.metmuseum.org/CRDImages/ad/original/DP158837.jpg",
+    "medium": "Silver",
+    "provenance": [
+        "Thomas (d. 1703) and Mary Taylor Burroughs (probably, since second wife, also Mary, was not born until 1681 and did not marry him until 1701), New York",
+        "to his daughter, Mary Burroughs (c. 1702\u20131751) and Brinley (1694\u20131752) Sylvester",
+        "to their daughter Mary Sylvester (1724\u20131794) and Thomas (1720\u20131785) Dering",
+        "to their son Sylvester (1758\u20131820) and Esther Sarah Havens (1763\u20131839) Dering",
+        "to their son Nicoll Havens Dering (1794\u20131867) and Frances Huntington (1799\u20131841) Dering",
+        "to their son Brigadier General Sylvester (1838\u20131923) and Ella Virginia Bristol (b. 1842) Dering, Utica, New York",
+        "gift to The Metropolitan Museum of Art, New York, NY, 1915."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ad/original/DP158837.jpg",
+        "http://images.metmuseum.org/CRDImages/ad/original/DP158836.jpg",
+        "http://images.metmuseum.org/CRDImages/ad/original/44170.jpg"
+    ],
+    "title": "Porringer with Cover",
+    "what": [
+        "Metal",
+        "Silver",
+        "Dishes",
+        "Porringers"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "North and Central America",
+        "United States",
+        "New York",
+        "New York City"
+    ]
+}

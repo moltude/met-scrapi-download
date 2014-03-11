@@ -1,0 +1,107 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/79184"
+            },
+            {
+                "href": "http://scrapi.org/object/79429"
+            },
+            {
+                "href": "http://scrapi.org/object/79678"
+            },
+            {
+                "href": "http://scrapi.org/object/79772"
+            },
+            {
+                "href": "http://scrapi.org/object/80155"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R150_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140407130000",
+                "rel": "Fashion in Art"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/113337"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/113337"
+        }
+    },
+    "accession number": "C.I.40.68.1",
+    "credit line": "Gift of Miss Grace Duncan Hooper, in memory of her mother, Mrs. Robert H. MacNall, 1940",
+    "culture": "American or European",
+    "date": "1700\u20131940",
+    "department": "Costume Institute",
+    "dimensions": "[no dimensions available]",
+    "id": 113337,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/CI40.68.1_F.jpg",
+    "medium": "wool",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/CI40.68.1_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI40.68.1_Tp.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/C.I.40.68.1_label.jpg"
+    ],
+    "title": "Hat",
+    "what": [
+        "Costume",
+        "Wool",
+        "Hats"
+    ],
+    "where": [
+        "Europe"
+    ]
+}

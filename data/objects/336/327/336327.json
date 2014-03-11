@@ -1,0 +1,110 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/335538"
+            },
+            {
+                "href": "http://scrapi.org/object/336318"
+            },
+            {
+                "href": "http://scrapi.org/object/459193"
+            },
+            {
+                "href": "http://scrapi.org/object/335536"
+            },
+            {
+                "href": "http://scrapi.org/object/335537"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/poim/hd_poim.htm",
+                "rel": "Post\u2013Impressionism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/gogh/hd_gogh.htm",
+                "rel": "Vincent van Gogh (1853\u20131890)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/gogh_d/hd_gogh_d.htm",
+                "rel": "Vincent van Gogh (1853\u20131890): The Drawings"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwc",
+                "rel": "Central Europe and Low Countries, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/336327"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/336327"
+        }
+    },
+    "accession number": "48.190.2",
+    "credit line": "Bequest of Abby Aldrich Rockefeller, 1948",
+    "date": "September 1889",
+    "department": "Drawings and Prints",
+    "description": "This haunting view of a sharply receding corridor is the artist's most powerful depiction of the asylum of Saint-Paul-de-Mausole in St. R\u00e9my, where he spent twelve months near the end of his life and where he painted the Museum's oils of olive groves, cypresses, roses, and irises (\"Women Picking Olives\" (1995.535.44); \"Olive Orchard\" (1998.325.1); \"Cypresses\" (49.30); \"Wheat Field with Cypresses\" (1993.132); \"Irises\" (58.187); \"Vase of Roses\" (1993.400.5)). The buildings (largely remains of a twelfth-century monastery) were divided into men's and women's wards, but most of the small cells looking out on the neglected garden were empty when Van Gogh was there. One of the rooms he was able to use as a studio.The artist sent this unusually large and colorful drawing to his brother Theo, to give a picture of his surroundings.",
+    "dimensions": "25-5/8 x 19-5/16 in.  (65.1 x 49.1 cm)",
+    "id": 336327,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP108505.jpg",
+    "medium": "Oil color and essence over black chalk on pink laid (\"Ingres\") paper",
+    "provenance": [
+        "Theo van Gogh (Dutch, died 1891)",
+        "Vincent Willem van Gogh(the artist's nephew)",
+        "Leicester Galleries, London, 1927",
+        "Mr. and Mrs. John D. Rockefeller (American), New York 1929",
+        "Mrs. J. D. Rockefeller (American)",
+        "Donor: Abby Aldrich Rockefeller"
+    ],
+    "title": "Corridor in the Asylum",
+    "what": [
+        "Drawings",
+        "Paper",
+        "Chalk",
+        "Oil paint",
+        "Oil"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "Netherlands"
+    ],
+    "who": "Vincent van Gogh"
+}

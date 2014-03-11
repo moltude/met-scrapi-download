@@ -1,0 +1,118 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/35725"
+            },
+            {
+                "href": "http://scrapi.org/object/25403"
+            },
+            {
+                "href": "http://scrapi.org/object/26921"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From October 2, 2012",
+                "href": "/exhibitions/listings/2012/arms-and-armor",
+                "rel": "Bashford Dean and the Creation of the Arms and Armor Department"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A083_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113541",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A074_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112917",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A084_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113556",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A093_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113923",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A075_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112932",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A094_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113938",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 5, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A085_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113610",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161351",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A076_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112951",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 19, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161305",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/hors/hd_hors.htm",
+                "rel": "Horse Armor in Europe"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/27460"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/27460"
+        }
+    },
+    "accession number": "14.25.1662",
+    "credit line": "Gift of William H. Riggs, 1913",
+    "culture": "Franco-Italian",
+    "date": "ca. 1480\u201395",
+    "department": "Arms and Armor",
+    "description": "This is a rare example of a late Gothic crinet preserved with its matching shaffron also in the Metropolitan Museum's collection (acc. no. 14.25.1661a). The combination of the shaffron's slender, pointed shape and its radiating ridges, together with the Italian-style armorer's marks, suggests that it is a work alla tedesca (in the German fashion) by an Italian master. The mark on the shaffron, an orb surmounted by a cross above the letters ROM ROM, has been attributed to the Milanese armorer Romain des Ursins, who appears to have supplied armor to the French court. (The ear and eye guards, bottom lame of the crinet, and mail fringe are ninteenth-century restorations.)",
+    "dimensions": "33 7/8 x 6 7/8 in. (85.9 x 17.5 cm); Wt. 9 lb. 10 oz. (4,360 g)",
+    "id": 27460,
+    "image": "http://images.metmuseum.org/CRDImages/aa/original/DP108850.jpg",
+    "medium": "Steel",
+    "provenance": [
+        "Ex Coll.: Ambrogio Uboldo, Milan",
+        "William H. Riggs, Paris."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/aa/original/DP108850.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP111371.jpg"
+    ],
+    "title": "Crinet",
+    "what": [
+        "Metal",
+        "Costume",
+        "Iron and iron alloy",
+        "Iron alloy",
+        "Steel",
+        "Armor",
+        "Horse armor",
+        "Crinets"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Romain des Ursins"
+}

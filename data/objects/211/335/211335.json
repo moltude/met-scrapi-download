@@ -1,0 +1,143 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/192716"
+            },
+            {
+                "href": "http://scrapi.org/object/191177"
+            },
+            {
+                "href": "http://scrapi.org/object/198760"
+            },
+            {
+                "href": "http://scrapi.org/object/198917"
+            },
+            {
+                "href": "http://scrapi.org/object/191795"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 3, 2014",
+                "href": "/exhibitions/listings/2014/william-morris",
+                "rel": "William Morris"
+            },
+            {
+                "date": "From November 22, 2011",
+                "href": "/exhibitions/listings/2011/faberge",
+                "rel": "Faberg\u00e9 from the Matilda Geddings Gray Foundation Collection"
+            },
+            {
+                "date": "From February 4, 2014",
+                "href": "/exhibitions/listings/2014/french-ceramics",
+                "rel": "Making Pottery Art"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/carpeaux",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "From January 22, 2014",
+                "href": "/exhibitions/listings/2014/antonio-canova",
+                "rel": "Antonio Canova"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining-family-individual?eid=A002_%7b2F11F3B2-6834-484B-AE0F-5066D7E783B5%7d_20140107114234",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R104_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140310131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/membership-events/evening-receptions/carpeaux-supporting-reception?eid=A001_%7b60301F85-6473-4C1C-8DAB-5D8B2E9406EE%7d_20140107151713",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R105_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140311131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/membership-events/evening-receptions/carpeaux-sustaining-reception?eid=A001_%7bB97F7097-C940-4FDB-8982-A3EC61BD9084%7d_20140107152519",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/world-enlightened?eid=R002_%7bEC37AED7-F558-4A27-A806-094491540250%7d_20140312101500",
+                "rel": "Cultural Discoveries\u2014Wednesdays with Olivier Bernier: Europe in the Eighteenth Century, A World Enlightened"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/talks/gallery-talks/the-passions-of-jean-baptiste-carpeaux?eid=A003_%7b7437318B-B35F-4C96-BAA4-FF8EDD85D6CA%7d_20140206123059",
+                "rel": "Exhibition Tour\u2014The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R106_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140313131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R107_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140314131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/friday-evening-gallery-event-what-moves-you?eid=A001_%7b1EC22848-690F-4DDE-99C8-D3C4580691E8%7d_20140130135425",
+                "rel": "Friday Evening Gallery Event\u2014What Moves You?"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=eustc",
+                "rel": "Florence and Central Italy, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/211335"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/211335"
+        }
+    },
+    "accession number": "2001.593",
+    "credit line": "Purchase, Rogers Fund and Lila Acheson Wallace Gift, 2001",
+    "culture": "Italian, Florence",
+    "date": "ca. 1470",
+    "department": "European Sculpture and Decorative Arts",
+    "dimensions": "Overall (confirmed) H. 16 5/8 x W. 15 1/4 x D. 2 7/8 in., 31lb. (42.2 x 38.7 x 7.3 cm, 14.0615kg)",
+    "gallery-id": 500,
+    "id": 211335,
+    "image": "http://images.metmuseum.org/CRDImages/es/original/DP236930.jpg",
+    "medium": "Marble",
+    "provenance": [
+        "[ Stefano Bardini , Florence (until 1918; Bardini sale, American Art Galleries, New York, April 23\u201327, 1918, no. 420; to Freund)",
+        "Karl Freund (1918\u2013d. 1956)",
+        "Luigi Bellini",
+        "Carlo de Carlo",
+        "by descent, the heirs of Carlo de Carlo",
+        "[ Eredi Carlo de Carlo sale, Franco Semenzato and Comapany , Casa d'Aste, Florence, April 19, 2001, no. 115 ]",
+        "[ Salander O'Reilly Galleries , New York, 2001",
+        "sold to MMA ]"
+    ],
+    "title": "Saint Jerome in the Wilderness",
+    "what": [
+        "Sculpture",
+        "Reliefs",
+        "Marble"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Italy",
+        "Tuscany",
+        "Florence"
+    ],
+    "who": "Antonio Rossellino"
+}

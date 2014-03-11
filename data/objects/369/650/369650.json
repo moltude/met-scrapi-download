@@ -1,0 +1,97 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/338474"
+            },
+            {
+                "href": "http://scrapi.org/object/338473"
+            },
+            {
+                "href": "http://scrapi.org/object/333949"
+            },
+            {
+                "href": "http://scrapi.org/object/334137"
+            },
+            {
+                "href": "http://scrapi.org/object/334158"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=eusi",
+                "rel": "Iberian Peninsula, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/369650"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/369650"
+        }
+    },
+    "accession number": "18.64",
+    "credit line": "Gift of M. Knoedler & Co., 1918",
+    "date": "1799",
+    "department": "Drawings and Prints",
+    "dimensions": [
+        "image 7 5/16 x 5 1/16 in. (18.5 x 12.8 cm)",
+        "plate 8 7/16 x 5 7/8 in. (21.5 x 15 cm)",
+        "sheet 11 5/8 x 8 1/4 in. (29.5 x 21 cm)"
+    ],
+    "id": 369650,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP817118.jpg",
+    "medium": "Etching, aquatint and drypoint on laid paper",
+    "provenance": [
+        "Paul J. Sachs",
+        "Donor: Knoedler and Co."
+    ],
+    "title": "They have flown (Volaverunt), from The Caprices (Los Caprichos), plate 61",
+    "what": [
+        "Prints",
+        "Etching",
+        "Paper",
+        "Intaglio prints",
+        "Engravings",
+        "Drypoints",
+        "Aquatint",
+        "Laid paper"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "Spain"
+    ],
+    "who": "Goya (Francisco de Goya y Lucientes)"
+}

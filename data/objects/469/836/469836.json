@@ -1,0 +1,138 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/464341"
+            },
+            {
+                "href": "http://scrapi.org/object/464369"
+            },
+            {
+                "href": "http://scrapi.org/object/470384"
+            },
+            {
+                "href": "http://scrapi.org/object/465983"
+            },
+            {
+                "href": "http://scrapi.org/object/464366"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 25, 2014",
+                "href": "/exhibitions/listings/2014/canterbury-stained-glass",
+                "rel": "Radiant Light"
+            },
+            {
+                "date": "From August 6, 2013",
+                "href": "/exhibitions/listings/2013/design-motifs-in-byzantine-art",
+                "rel": "Design Motifs in Byzantine Art"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R008_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140309150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R009_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140310150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R105_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140311104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R010_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140311150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R106_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140312104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R011_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140312150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R107_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140313104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R012_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140313150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R108_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140314104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/priv/hd_priv.htm",
+                "rel": "Private Devotion in Medieval Christianity"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=euwf",
+                "rel": "France, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/469836"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/469836"
+        }
+    },
+    "accession number": "2000.641",
+    "credit line": "Gift of Anthony and Lois Blumka, in memory of Ruth Blumka, 2000",
+    "culture": "French",
+    "date": "ca. 1475",
+    "department": "Medieval Art",
+    "description": "The legend of Saint Margaret, the Early Christian martyr also known as Marina, details the many painful ordeals she endured before her eventual death during the reign of Emperor Diocletian (r. 284\u2013305).  Having been swallowed by the devil in the guise of a dragon, the saint burst unharmed from its body after making the sign of the cross.Dating from about 1475, this work is an outstanding example of the Languedoc style of the late fifteenth century, which was centered in medieval Toulouse. This work is remarkable for the contrast of the idealism and delicacy of the figure set against the scaly and coarse textures of the lizard-turned-dragon at the base of the composition.",
+    "dimensions": "Overall 15 3/8 x 9 5/8 x 6 9/16in. (39 x 24.5 x 16.7cm)",
+    "gallery-id": 305,
+    "id": 469836,
+    "image": "http://images.metmuseum.org/CRDImages/md/original/DP144443.jpg",
+    "medium": "Alabaster, with traces of gilding",
+    "provenance": [
+        "\u00c9mile Molinier, Paris (until 1906)",
+        "[his sale, Galerie Durand-Ruel, Paris (June 21-28, 1906, lot 378)]",
+        "Jean Larcade, Paris (until at least 1960)",
+        "Ruth and Leopold Blumka, New York (by 1967-1995)",
+        "Anthony and Lois Blumka, New York (1995\u20132000)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/md/original/DP144443.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/DP144444.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/DP144445.jpg"
+    ],
+    "title": "Saint Margaret of Antioch",
+    "what": [
+        "Sculpture",
+        "Gilt",
+        "Stone",
+        "Statues",
+        "Figurines",
+        "Gypsum",
+        "Alabaster"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "France",
+        "Toulouse"
+    ]
+}

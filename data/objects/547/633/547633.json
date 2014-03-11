@@ -1,0 +1,127 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/544027"
+            },
+            {
+                "href": "http://scrapi.org/object/547632"
+            },
+            {
+                "href": "http://scrapi.org/object/547634"
+            },
+            {
+                "href": "http://scrapi.org/object/547757"
+            },
+            {
+                "href": "http://scrapi.org/object/548668"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A145_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113221",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/talks/gallery-talks/egyptian-sculpture?eid=A002_%7b09B70F74-B68F-4731-A787-D861CCC990BA%7d_20140123144040",
+                "rel": "Egyptian Sculpture"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/cleopatra-welcome-and-introduction?eid=A001_%7bCE6C92F7-59C2-4721-A363-E48BE5CF7EBF%7d_20140226151517",
+                "rel": "Welcome and Introduction"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=03\u00aeion=afe",
+                "rel": "Egypt, 2000\u20131000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/547633"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/547633"
+        }
+    },
+    "accession number": "26.8.36a, b",
+    "credit line": "Fletcher Fund, 1921",
+    "date": "ca. 1479\u20131425 B.C.",
+    "department": "Egyptian Art",
+    "description": "In Theban tomb paintings dating to Dynasty 18, servants are sometimes shown anointing guests with perfumed oils and ointments stored in small stone jars. A set of similar cosmetic jars highlighted with gold foil (26.8.29a, b\u201326.8.39) are associated with the grave goods of three foreign wives of Hatshepsut's nephew, Thutmose III. Most of these vessels are inscribed with the king's cartouche, marking them as royal gifts.The inscription on this jar reads: \"the Good God, Menkheperre (Thutmose III), given life.\"For a jar of similar shape from the same tomb group, see 26.8.1a, b.",
+    "dimensions": [
+        "H. 10.8 cm (4 1/4 in); diam. 8.7 cm (3 7/16 in)",
+        "lid diam. 8.7 cm (3 7/16 in); th. 0.7 cm (1/4 in)"
+    ],
+    "id": 547633,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/26.8.36ab.front.jpg",
+    "medium": "Serpentine, gold leaf",
+    "provenance": [
+        "Purchased in Luxor with other objects presumed to be from western Thebes, Wadi Gabbanat el-Qurud, Wadi D, Tomb 1, 1921."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/eg/original/26.8.36ab.front.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/26.8.36ab.back.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/26-8-36.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/chrDP116087.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/DP116086.jpg"
+    ],
+    "title": "Ointment jar and lid naming Thutmose III",
+    "what": [
+        "Metal",
+        "Vessels",
+        "Gold",
+        "Jars",
+        "Gold leaf",
+        "Serpentine"
+    ],
+    "when": "2000-1000 B.C.",
+    "where": [
+        "Africa",
+        "Egypt",
+        "Upper Egypt",
+        "Thebes"
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/259162"
+            },
+            {
+                "href": "http://scrapi.org/object/259161"
+            },
+            {
+                "href": "http://scrapi.org/object/247304"
+            },
+            {
+                "href": "http://scrapi.org/object/247462"
+            },
+            {
+                "href": "http://scrapi.org/object/247551"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R104_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140310123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R105_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140311123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R106_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140313123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R027_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140313130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R107_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140314123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/conversations-with-curators-and-conservators/terracotta-column-krater?eid=A001_%7b1CC4797D-7295-4614-9ACD-19C00BA693F4%7d_20140204162630",
+                "rel": "Conversation with a Curator\u2014Terracotta Column-Krater"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A144_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142257",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A145_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142312",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R116_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140331123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=04\u00aeion=eusb",
+                "rel": "Ancient Greece, 1000 B.C.\u20131 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/259151"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/259151"
+        }
+    },
+    "accession number": "2011.603.7a\u2013d",
+    "credit line": "Gift of the Honorable Iris Cornelia Love, 2011",
+    "culture": "Greek, Attic",
+    "date": "mid-5th century B.C.",
+    "department": "Greek and Roman Art",
+    "dimensions": [
+        "Other (B) 2 7/16 x 1 5/16 x 5/8 in. (6.2 x 3.3 x 1.6 cm)",
+        "Other (D) 1 x 2 9/16 x 1/4 in. (2.5 x 6.5 x 0.6 cm)",
+        "Other (A) 13/16 x 2 7/16 x 5/8 in. (2.1 x 6.1 x 1.6 cm)",
+        "Other (C) 15/16 x 1 9/16 x 3/16 in. (2.3 x 3.9 x 0.5 cm)"
+    ],
+    "id": 259151,
+    "image": "http://images.metmuseum.org/CRDImages/gr/original/sf20116037front.jpg",
+    "medium": "Terracotta",
+    "provenance": [
+        "Hon. Iris C. Love, New York, by 1980"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/gr/original/sf20116037front.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/sf20116037back.jpg"
+    ],
+    "title": "Four fragments of a terracotta stemless kylix (drinking cup)",
+    "what": [
+        "Clay",
+        "Vessels",
+        "Fragments",
+        "Vases",
+        "Terracotta",
+        "Drinking vessels",
+        "Cups",
+        "Kylikes",
+        "Stemless kylikes"
+    ],
+    "when": "1000 B.C.-A.D. 1",
+    "where": [
+        "Europe",
+        "Greece"
+    ]
+}

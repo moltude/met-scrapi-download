@@ -1,0 +1,115 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/543883"
+            },
+            {
+                "href": "http://scrapi.org/object/543884"
+            },
+            {
+                "href": "http://scrapi.org/object/543886"
+            },
+            {
+                "href": "http://scrapi.org/object/543890"
+            },
+            {
+                "href": "http://scrapi.org/object/543891"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/teen-programs/saturday-sketching/saturday-sketching-egyptian-art?eid=A001_%7b8698F79D-A7E0-44F1-99CF-57C8A2E2471A%7d_20131211143556",
+                "rel": "Saturday Sketching\u2014Egyptian Art (Ages 11\u201318)"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A151_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113641",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R130_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140310140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=02\u00aeion=afe",
+                "rel": "Egypt, 8000\u20132000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/543895"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/543895"
+        }
+    },
+    "accession number": "22.1.23",
+    "credit line": "Rogers Fund and Edward S. Harkness Gift, 1922",
+    "date": "ca. 2551\u20132494 B.C.",
+    "department": "Egyptian Art",
+    "description": "This fragment of relief shows one of the most elaborately composed scenes preserved from the Old Kingdom. A careful examination reveals parts of at least four archers, three standing and one kneeling below them, his extended left arm and the upper part of his head just visible along the lower edge of the fragment. Each man has his left arm stretched in front of him, the left hand grasping the shaft of a long bow with the thumb and last three fingers, while the index finger keeps an arrow steady. With his right hand, each archer draws the string of the bow, with the notch of the arrow set against it. Each man also grasps two extra arrows in his right hand.The archers wear crossed bands on their chests identifying them as soldiers. The style of the block places it in Dynasty 4, making it the earliest preserved battle scene. It was probably carved during the period spanning the reigns of Khufu, the builder of the Great Pyramid at Giza, and Khafre, builder of the second pyramid. The figures of the archers stand out boldly against the background, and the the features are deeply carved in the well-modeled faces. Unlike most Egyptian scenes showing multiple figures performing the same task, the stance of each individual and the position of each bow is different.The fragment was excavated by the Museum's Egyptian Expedition during work at the royal cemetery of Lisht, about thirty miles south of Cairo. It had been reused during the building of the pyramid of Amenemhat I, first king of Dynasty 12.",
+    "dimensions": "h. 25.4 (10 in); w. 37.5 cm (14 3/4 in)",
+    "gallery-id": 103,
+    "id": 543895,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/DT259178.jpg",
+    "medium": "Limestone, paint",
+    "provenance": [
+        "Probably originally from Khufu's pyramid temple at Giza. Reused in the Pyramid of Amenemhat I at Lisht.  Excavated by the Egyptian Expedition of the Metropolitan Museum of Art. Acquired by the Museum in the division of finds, 1923.Excavated by the Egyptian Expedition of the Metropolitan Museum of Art. Acquired by the Museum in the division of finds."
+    ],
+    "title": "Group of Archers",
+    "what": [
+        "Sculpture",
+        "Limestone",
+        "Reliefs"
+    ],
+    "when": "8000-2000 B.C.",
+    "where": [
+        "Africa",
+        "Egypt",
+        "Mersa Matr\u00fbh",
+        "Al Lisht"
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/81116"
+            },
+            {
+                "href": "http://scrapi.org/object/94889"
+            },
+            {
+                "href": "http://scrapi.org/object/94501"
+            },
+            {
+                "href": "http://scrapi.org/object/94500"
+            },
+            {
+                "href": "http://scrapi.org/object/82092"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R130_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140310130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/god2/hd_god2.htm",
+                "rel": "Classical Art and Modern Dress"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/155943"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/155943"
+        }
+    },
+    "accession number": "2009.300.1249",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. W. Rutherford James in memory of her mother, Mrs. Clarence A. Strong, 1957",
+    "culture": "French",
+    "date": "1926",
+    "department": "Costume Institute",
+    "description": "Often remembered as Captain Molyneux, Edward Molyneux began his career with the English couturiere Lucile, Lady Duff Gordon, as a fashion sketcher and later assistant, traveling with her from London to New York and Chicago.  Returning after WWI with blindness in one eye, Molyneux opened his own couture house in 1919 in Paris at 14 rue Royale.  He opened several other branches, in both Monte Carlo and Cannes, and finally London.  Molyneux had an artistic flair and obsession with the bourgeois.  His clientele included the social elite as well as stars of the stage.  Working in luxurious fabrics, he created exquisite pieces for both day and night, his colors of choice being navy, black and beige.  His simplistic masterpieces were perfect for the woman who desired to look \"absolutely\" right.Molyneux's more extravagant designs can be seen in his evening wear, especially in that of the twenties, this evening jacket being a perfect example.  The exquisite beaded embroidery is an enhanced representation of flora and fauna.  While Lucile's excessive adornments perhaps over-stimulated the designer, it is evident in designs such as this that he was influenced by her imaginative decorations.",
+    "dimensions": "Length at CB 35 in. (88.9 cm)",
+    "id": 155943,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/57.81.2_front_CP3.jpg",
+    "medium": "silk",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/57.81.2_front_CP3.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/57.81.2_back_det_CP3.jpg"
+    ],
+    "title": "Evening jacket",
+    "what": "Silk",
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Edward Molyneux"
+}

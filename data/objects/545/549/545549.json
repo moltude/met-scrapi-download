@@ -1,0 +1,117 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/544691"
+            },
+            {
+                "href": "http://scrapi.org/object/544692"
+            },
+            {
+                "href": "http://scrapi.org/object/544748"
+            },
+            {
+                "href": "http://scrapi.org/object/544765"
+            },
+            {
+                "href": "http://scrapi.org/object/544780"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A151_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113641",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R130_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140310140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A145_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113221",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=03\u00aeion=afe",
+                "rel": "Egypt, 2000\u20131000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/545549"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/545549"
+        }
+    },
+    "accession number": "24.7.1",
+    "credit line": "Gift of Dr. and Mrs. Thomas H. Foulds, 1924",
+    "date": "ca. 1859\u20131813 B.C.",
+    "department": "Egyptian Art",
+    "description": "Although somewhat battered, this is an impressive image of a pharaoh wearing the double crown of Upper and Lower Egypt. The head is rounder than those depicting Senwosret III; the eyes are less bulbous, and the lids lessfleshy. We see, in fact, a portrait of Senwosret's successor Amenemhat III. A piece closely related in style was found at Kom el-Hisn in the western Nile Delta. Like that sculpture the Museum's head has a distinctly youthful character, which is apparent in spite of the deep furrows at the sides of the king's nose. Egyptian artists often emphasized  youthfulness in the face of an already mature pharaoh in images that  commemorated the king's thirty-year jubilee (Heb Sed). The king was, in this image, most probably represented seated.",
+    "dimensions": "h. 40.6 cm (16 in); w. 18.4 cm (7 1/4 in); d. 25.4 cm (10 in)",
+    "gallery-id": 111,
+    "id": 545549,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/DP109393.jpg",
+    "medium": "Granodiorite",
+    "provenance": [
+        "Purchased from Maurice Nahman in Cairo. Donated to the Museum by Dr. & Mrs. Thomas H. Foulds, 1924"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/eg/original/DP109393.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/24.7.1_01.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/24.7.1_02.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/24.7.1_07.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/24.7.1_08.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/24.7.1_09.jpg"
+    ],
+    "title": "Head of King Amenemhat III",
+    "what": "Granodiorite",
+    "when": "2000-1000 B.C.",
+    "where": [
+        "Africa",
+        "Egypt"
+    ]
+}

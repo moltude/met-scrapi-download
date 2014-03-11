@@ -1,0 +1,125 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/468327"
+            },
+            {
+                "href": "http://scrapi.org/object/463980"
+            },
+            {
+                "href": "http://scrapi.org/object/463683"
+            },
+            {
+                "href": "http://scrapi.org/object/463684"
+            },
+            {
+                "href": "http://scrapi.org/object/463694"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 25, 2014",
+                "href": "/exhibitions/listings/2014/canterbury-stained-glass",
+                "rel": "Radiant Light"
+            },
+            {
+                "date": "From August 6, 2013",
+                "href": "/exhibitions/listings/2013/design-motifs-in-byzantine-art",
+                "rel": "Design Motifs in Byzantine Art"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/ancestors-of-christ?eid=A001_%7b64F28017-6AB0-4B00-864F-E5676EE07585%7d_20140113142350",
+                "rel": "The Ancestors of Christ: Stained Glass Windows from Canterbury Cathedral"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/ancestors-of-christ?eid=A002_%7b64F28017-6AB0-4B00-864F-E5676EE07585%7d_20140113142402",
+                "rel": "The Ancestors of Christ: Stained Glass Windows from Canterbury Cathedral"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R008_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140309150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R009_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140310150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R105_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140311104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R010_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140311150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R106_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140312104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R011_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140312150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R107_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140313104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=euwl",
+                "rel": "Low Countries, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/468328"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/468328"
+        }
+    },
+    "accession number": "50.145.5",
+    "credit line": "Bequest of Mary Stillman Harkness, 1950",
+    "culture": "South Netherlandish",
+    "date": "ca. 1500\u20131525",
+    "department": "Medieval Art",
+    "description": "This tapestry illustrates a poem about human frailty, in which the stag represents Man. Here, Age and her hounds Heat, Grief, Heaviness, Cold, and Anxiety, drive the stag from a lake. A French inscription may be translated: Then Old Age mounts an all-out assaultThat drives him from the lakeAnd unleashes upon him Pain and Doubt,Cold and Heat, and thus brings onCare and Trouble to seize him.And Age with wrinkled fleshAnd Heaviness make him fleeToward Sickness, the dreaded one.",
+    "dimensions": "Overall 102 x 137in. (259.1 x 348cm)",
+    "id": 468328,
+    "image": "http://images.metmuseum.org/CRDImages/md/original/DP136366.jpg",
+    "medium": "Wool warp, wool and silk wefts, embroidered with wool",
+    "provenance": [
+        "Mary Stillman Harkness"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/md/original/DP136366.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/DP136365.jpg"
+    ],
+    "title": "Old Age Drives the Stag out of a Lake and the Hounds Heat, Grief, Cold, Anxiety, Age, and Heaviness Pursue Him: (from The Hunt of the Frail Stag)",
+    "what": [
+        "Silk",
+        "Textiles",
+        "Needlework",
+        "Wool",
+        "Embroidery",
+        "Tapestries"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Netherlands"
+    ]
+}

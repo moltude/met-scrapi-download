@@ -1,0 +1,143 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/119708"
+            },
+            {
+                "href": "http://scrapi.org/object/156097"
+            },
+            {
+                "href": "http://scrapi.org/object/86687"
+            },
+            {
+                "href": "http://scrapi.org/object/84690"
+            },
+            {
+                "href": "http://scrapi.org/object/155849"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R130_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140310130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/cost/hd_cost.htm",
+                "rel": "Costume in The Metropolitan Museum of Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/coho/hd_coho.htm",
+                "rel": "Dressing for the Cocktail Hour"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/elsa/hd_elsa.htm",
+                "rel": "Elsa Schiaparelli (1890\u20131973)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/psop/hd_psop.htm",
+                "rel": "Le Colis de Trianon\u2013Versailles and Paris Openings"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/20sil/hd_20sil.htm",
+                "rel": "Twentieth\u2013Century Silhouette and Support"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/156626"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/156626"
+        }
+    },
+    "accession number": "2009.300.1864a, b",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Arturo and Paul Peralta-Ramos, 1954",
+    "culture": "French",
+    "date": "1935\u201340",
+    "department": "Costume Institute",
+    "description": "An illustration of Schiaparelli's surreal sensibility, these gloves worn by Millicent Rogers are decorated with plastic discs reminiscent of chain mail armor or scales, and are both seductive and forbidding at the same time. Gloves were a perfect palette for Schiaparelli's more avant-garde, Surrealist designs, and often featured prominently in her collections. She designed gloves with red fingernails, blue veins and pairs of two different colors to be worn together. Rogers, a devoted client, was a willing participant in Schiaparelli\u2019s audacious and inventive design aesthetic, and almost 200 examples by Schiaparelli from her wardrobe reside in the Brooklyn Museum collection.",
+    "dimensions": "3 1/4 x 23 1/2 in. (8.3 x 59.7 cm)",
+    "id": 156626,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/54.141.140a-b_CP4.jpg",
+    "medium": "silk, plastic",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/54.141.140a-b_CP4.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/54.141.140a,b.JPG",
+        "http://images.metmuseum.org/CRDImages/ci/original/54.141.140 bw.JPG",
+        "http://images.metmuseum.org/CRDImages/ci/original/54.141.140a-b bw.JPG"
+    ],
+    "title": "Evening gloves",
+    "what": [
+        "Costume",
+        "Silk",
+        "Plastic",
+        "Gloves"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Elsa Schiaparelli"
+}

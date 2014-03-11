@@ -1,0 +1,119 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/501366"
+            },
+            {
+                "href": "http://scrapi.org/object/501351"
+            },
+            {
+                "href": "http://scrapi.org/object/501355"
+            },
+            {
+                "href": "http://scrapi.org/object/501356"
+            },
+            {
+                "href": "http://scrapi.org/object/501363"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/early-guitars",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A001_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115501",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A002_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115523",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A003_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115537",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A004_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115549",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A005_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115601",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A006_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115612",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/musical-instruments-east-and-west?eid=R079_%7bB33A51AA-7250-402C-9FC0-8A302D14AD06%7d_20140311121500",
+                "rel": "Musical Instruments: East and West"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/musical-instruments-east-and-west?eid=R080_%7bB33A51AA-7250-402C-9FC0-8A302D14AD06%7d_20140313121500",
+                "rel": "Musical Instruments: East and West"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/musical-instruments-east-and-west?eid=R081_%7bB33A51AA-7250-402C-9FC0-8A302D14AD06%7d_20140314121500",
+                "rel": "Musical Instruments: East and West"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/family-programs/sunday-studio/string-and-sound?eid=A002_%7b47DD1CB2-ECBA-4009-A975-5F11C7EB2F6A%7d_20131025180255",
+                "rel": "String and Sound: Musical Instruments"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=na",
+                "rel": "The United States and Canada, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/501369"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/501369"
+        }
+    },
+    "accession number": "89.4.754",
+    "credit line": "The Crosby Brown Collection of Musical Instruments, 1889",
+    "culture": "Polynesian",
+    "date": "19th century",
+    "department": "Musical Instruments",
+    "description": "Large gourd drums called ipu hula are unique to Hawai'i.  Ipu hula are fashioned from two ipu (gourds), a smaller one forming the top and a larger one the lower portion of the instrument.  The gourds are specially cultivated to obtain the desired shape.  When they have reached the appropriate size the gourds are harvested and the upper portions and contents removed, leaving the hard empty shells.  The smaller gourd is inverted and cemented over the open top of the larger one with glue, formerly made from breadfruit tree sap, creating a hollow figure-eight shaped instrument.  A circular hole made in the top allows the sound to escape.       Ipu hula are used to provide the fundamental rhythm for chants and dances, especially, as the name indicates, various forms of Hawaiian hula. It can be played by musicians of either sex. When playing the ipu hula, the musician sits and places a pad, typically made from folded cloth, on the ground to cushion the impact of the instrument.  To mark the initial beat of each measure the player strikes the instrument vertically on the padded ground, producing a deep resonant tone.  The succeeding beats are marked by holding the instrument off the ground and striking the side of the lower portion with the flat of three or four fingers, creating a tapping sound. Variants of this technique also exist.  Produced continuously since precontact times, the ipu hula remains a vital part of contemporary Hawaiian culture. This example was part of the royal ensemble of King Kamehameha IV (1854-63).",
+    "dimensions": "H. 76.2 cm (30 in.); Diam. 30.5 cm (12 in.)",
+    "id": 501369,
+    "image": "http://images.metmuseum.org/CRDImages/mi/original/DP218832.jpg",
+    "medium": "Gourd, cloth",
+    "provenance": [
+        "Miss Burbank"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/mi/original/DP218832.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/243583.jpg"
+    ],
+    "title": "Ipu Hula",
+    "what": [
+        "Musical instruments",
+        "Idiophones",
+        "Cloth",
+        "Gourd",
+        "Stamping tubes"
+    ],
+    "where": [
+        "North and Central America",
+        "United States",
+        "Hawaii"
+    ]
+}

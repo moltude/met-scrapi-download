@@ -1,0 +1,124 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/569701"
+            },
+            {
+                "href": "http://scrapi.org/object/569702"
+            },
+            {
+                "href": "http://scrapi.org/object/569703"
+            },
+            {
+                "href": "http://scrapi.org/object/569704"
+            },
+            {
+                "href": "http://scrapi.org/object/569683"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A151_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113641",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R130_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140310140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A145_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113221",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=04\u00aeion=afe",
+                "rel": "Egypt, 1000 B.C.\u20131 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/544874"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/544874"
+        }
+    },
+    "accession number": "26.7.1412",
+    "credit line": "Purchase, Edward S. Harkness Gift, 1926",
+    "date": "ca. 945\u2013712 B.C.",
+    "department": "Egyptian Art",
+    "description": "The god Amun (\"the hidden one\") first came into prominence at the beginning of the Middle Kingdom. From the New Kingdom onward, Amun was arguably the most important god in the Egyptian pantheon. As a creator god, Amun is most often identified as Amun-Re (in the typical Egyptian blending of deities, Amun is combined with the main solar deity, Re). His main sanctuary was the immense temple complex at Karnak on the east bank of the Nile at the southern edge of modern Luxor.In this small figure Amun stands in the traditional pose with the left leg forward. He is identified by his characteristic flat-topped crown, which originally supported two tall gold feathers, now missing. He wears the gods' braided beard with a curled tip and carries an ankh emblem in his left hand and a scimitar across his chest. On pylons and temple walls of the New Kingdom, Amun-Re is often depicted presenting a scimitar to the king, thus conferring on him military victory.This statuette, cast in solid gold, is an extremely rare example of the statuary made of precious materials that, according to ancient descriptions, filled the sanctuaries of temples. The figure could have been mounted on top of a ceremonial scepter or standard. If traces on the back are rightly interpreted, it was fitted with a loop and could even have formed part of an elaborate necklace. For the Egyptians, the color of gold and the sheen of its surface were associated with the sun, and the skin of gods was supposed to be made of gold.The soft modeling of the torso, the narrow waist, and other features are typical of the art of the Third Intermediate period. This era marks the political decline of centralized power in Egypt, but it is also a period of great artistic achievement. Works in metal (gold, silver, and, above all, bronze) were of especially fine quality, and the Museum's statuette of Amun testifies to the excellence typical of the period.",
+    "dimensions": "h. 17.5 cm (6 7/8 in); w. 4.7 cm (1 7/8 in); d 5.8 cm (2 1/4 in); weight 0.9 kg. (2 lbs)",
+    "gallery-id": 125,
+    "id": 544874,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/DT553.jpg",
+    "medium": "Gold",
+    "provenance": [
+        "Purchased by Lord Carnarvon in Cairo in 1917. Carnarvon Collection until 1926. Purchased by the Metropolitan Museum of Art from Almina, Countess of Carnarvon, 1926."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/eg/original/DT553.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/EG83.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/EG82.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/EG80.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/DT264029.jpg"
+    ],
+    "title": "Statuette of Amun",
+    "what": [
+        "Metal",
+        "Sculpture",
+        "Gold",
+        "Statues",
+        "Figurines"
+    ],
+    "when": "1000 B.C.-A.D. 1",
+    "where": [
+        "Africa",
+        "Egypt",
+        "Upper Egypt",
+        "Thebes"
+    ]
+}

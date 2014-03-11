@@ -1,0 +1,88 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/288831"
+            },
+            {
+                "href": "http://scrapi.org/object/296358"
+            },
+            {
+                "href": "http://scrapi.org/object/301989"
+            },
+            {
+                "href": "http://scrapi.org/object/301999"
+            },
+            {
+                "href": "http://scrapi.org/object/306596"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/301975"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/301975"
+        }
+    },
+    "accession number": "2013.50",
+    "credit line": "Purchase, Alfred Stieglitz Society Gifts, 2013",
+    "date": "ca. 1863",
+    "department": "Photographs",
+    "description": "This unusual horizontal carte de visite\u2014a period copy of a now-lost ambrotype or tintype\u2014shows Sergeant Alex Rogers proudly posing for the camera holding the scarred colors, or flag, of the Eighty-third Pennsylvania Volunteers. He and his fellow soldiers fought on virtually every Eastern battlefield and suffered the second highest number of battle deaths of any Union regiment. As seen here, infantry flags were large\u2014more than six feet in length\u2014and affixed to staffs almost ten feet tall that made them easy to rally around during the mess of battle. Their size, however, also made them targets for enemy fire and contributed to the high mortality rate of color bearers.",
+    "dimensions": "5.6 x 8.9 cm (2 3/16 x 3 1/2 in.)",
+    "id": 301975,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP265026.jpg",
+    "medium": "Albumen silver print from glass negative",
+    "provenance": [
+        "[...]",
+        "Thomas Harris, New York"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ph/original/DP265026.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP265078.jpg"
+    ],
+    "title": "Sergeant Alex Rogers with Battle Flag, Eighty-third Pennsylvania Volunteers, Third Brigade, First Division, Fifth Corps, Army of the Potomac",
+    "what": [
+        "Photographs",
+        "Albumen silver prints"
+    ],
+    "when": "A.D. 1800-1900",
+    "who": "Unknown, American"
+}

@@ -1,0 +1,139 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/199005"
+            },
+            {
+                "href": "http://scrapi.org/object/201952"
+            },
+            {
+                "href": "http://scrapi.org/object/199760"
+            },
+            {
+                "href": "http://scrapi.org/object/201928"
+            },
+            {
+                "href": "http://scrapi.org/object/201942"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 3, 2014",
+                "href": "/exhibitions/listings/2014/william-morris",
+                "rel": "William Morris"
+            },
+            {
+                "date": "From November 22, 2011",
+                "href": "/exhibitions/listings/2011/faberge",
+                "rel": "Faberg\u00e9 from the Matilda Geddings Gray Foundation Collection"
+            },
+            {
+                "date": "From February 4, 2014",
+                "href": "/exhibitions/listings/2014/french-ceramics",
+                "rel": "Making Pottery Art"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/carpeaux",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "From January 22, 2014",
+                "href": "/exhibitions/listings/2014/antonio-canova",
+                "rel": "Antonio Canova"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining-family-individual?eid=A002_%7b2F11F3B2-6834-484B-AE0F-5066D7E783B5%7d_20140107114234",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R104_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140310131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/membership-events/evening-receptions/carpeaux-supporting-reception?eid=A001_%7b60301F85-6473-4C1C-8DAB-5D8B2E9406EE%7d_20140107151713",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R105_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140311131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/membership-events/evening-receptions/carpeaux-sustaining-reception?eid=A001_%7bB97F7097-C940-4FDB-8982-A3EC61BD9084%7d_20140107152519",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/world-enlightened?eid=R002_%7bEC37AED7-F558-4A27-A806-094491540250%7d_20140312101500",
+                "rel": "Cultural Discoveries\u2014Wednesdays with Olivier Bernier: Europe in the Eighteenth Century, A World Enlightened"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/talks/gallery-talks/the-passions-of-jean-baptiste-carpeaux?eid=A003_%7b7437318B-B35F-4C96-BAA4-FF8EDD85D6CA%7d_20140206123059",
+                "rel": "Exhibition Tour\u2014The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R106_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140313131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R107_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140314131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/friday-evening-gallery-event-what-moves-you?eid=A001_%7b1EC22848-690F-4DDE-99C8-D3C4580691E8%7d_20140130135425",
+                "rel": "Friday Evening Gallery Event\u2014What Moves You?"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=euwf",
+                "rel": "France, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/206599"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/206599"
+        }
+    },
+    "accession number": "1977.99",
+    "credit line": "Gift of William Randolph Hearst Foundation, The Hearst Foundation Inc., 1977",
+    "culture": "French, Ile-de-France",
+    "date": "1515\u201320",
+    "department": "European Sculpture and Decorative Arts",
+    "description": "Elaborately carved stone fireplaces, often decorated with profile heads inside wreaths, were a key feature of noble dwellings. As the winged helmet of the female figure in the right-hand wreath suggests, these depictions were generally idealizations rather than portraits of actual individuals. In the left-hand wreath is the head of a male figure. The remainder of the mantelpiece is carved with floral motifs and fantastic hybrid animals, including phoenixes, reptilian beasts, and sea creatures. The fireplace comes from the Trie-Pillavoine family\u2019s manor house (called the manoir de Mornay-Villarceaux) in Omerville, Val-d\u2019Oise. The coat of arms is a later addition.",
+    "dimensions": "131-3/4 x 113-7/8 x 36 in.  (334.6 x 289.2 x 91.4 cm.)",
+    "gallery-id": 544,
+    "id": 206599,
+    "image": "http://images.metmuseum.org/CRDImages/es/original/ES2793.jpg",
+    "medium": "Limestone",
+    "provenance": [
+        "William Randolph Hearst Foundation (until 1977; to MMA)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/es/original/ES2793.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/ES2794.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/ES2795.jpg"
+    ],
+    "title": "Mantelpiece",
+    "what": [
+        "Sculpture",
+        "Limestone",
+        "Mantels"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "France"
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/248666"
+            },
+            {
+                "href": "http://scrapi.org/object/249343"
+            },
+            {
+                "href": "http://scrapi.org/object/249344"
+            },
+            {
+                "href": "http://scrapi.org/object/249345"
+            },
+            {
+                "href": "http://scrapi.org/object/249347"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R105_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140311123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R106_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140313123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R027_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140313130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R107_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140314123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/conversations-with-curators-and-conservators/terracotta-column-krater?eid=A001_%7b1CC4797D-7295-4614-9ACD-19C00BA693F4%7d_20140204162630",
+                "rel": "Conversation with a Curator\u2014Terracotta Column-Krater"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A144_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142257",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A145_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142312",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R116_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140331123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R117_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140401123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=05\u00aeion=eust",
+                "rel": "Italian Peninsula, 1\u2013500A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/245346"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/245346"
+        }
+    },
+    "accession number": "81.10.193",
+    "credit line": "Gift of Henry G. Marquand, 1881",
+    "culture": "Roman",
+    "date": "3rd\u20134th century A.D.",
+    "department": "Greek and Roman Art",
+    "description": "Small jug.Translucent light blue green; handle, foot ring, and trail in same color.Uneven rim folded over and into flaring mouth; cylindrical neck, expanding downwards; biconical body; low, applied foot ring; flat bottom, with pontil scar; three-ribbed strap handle, attached to upper body with long downward claws, drawn up, round, and in, folded down and up, and attached to underside of mouth and edge of rim over trail, with projecting hollow loop.One thicker trail wound horizontally slightly more than once around underside of mouth, then wound nearly twice down in a spiral on top of neck.Complete, but crack extending from rim down mouth; many bubbles, some large and elongated, with streaky black impurities in rim and mouth; faint weathering and iridescence on exterior, patches of creamy brown weathering and brilliant iridescence on interior.",
+    "dimensions": [
+        "H. 4 1/8 in. (10.5 cm)",
+        "Diam. 1 5/8 x 2 13/16 x 1 1/2 in. (4.1 x 7.1 x 3.8 cm)"
+    ],
+    "id": 245346,
+    "image": "http://images.metmuseum.org/CRDImages/gr/original/DP220125.jpg",
+    "medium": "Glass; blown and trailed",
+    "provenance": [
+        "Said to be from Arelate (modern Arles, southern France)Until 1881, collection of Jules Charvet, Le Pecq, \u00cele-de-France",
+        "1881, purchased from J. Charvet by Henry G. Marquand",
+        "acquired in 1881, gift of Henry G. Marquand."
+    ],
+    "title": "Glass jug",
+    "what": [
+        "Vessels",
+        "Glass",
+        "Jugs"
+    ],
+    "when": "A.D. 1-500",
+    "where": [
+        "Roman Empire"
+    ]
+}

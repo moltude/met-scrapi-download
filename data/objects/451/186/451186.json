@@ -1,0 +1,142 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/448936"
+            },
+            {
+                "href": "http://scrapi.org/object/448339"
+            },
+            {
+                "href": "http://scrapi.org/object/450642"
+            },
+            {
+                "href": "http://scrapi.org/object/451611"
+            },
+            {
+                "href": "http://scrapi.org/object/450750"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A249_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114331",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A250_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114353",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world-french?eid=R026_%7b85906EA1-CA66-4610-A52C-39562E1A4C40%7d_20140310133000",
+                "rel": "Arts du monde Islamique (Arts of the Islamic World in French)"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R130_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140310141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=ssa",
+                "rel": "South Asia, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/451186"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/451186"
+        }
+    },
+    "accession number": "54.21",
+    "credit line": "Gift of Victoria and Albert Museum, 1954",
+    "culture": "Islamic",
+    "date": "17th century",
+    "department": "Islamic Art",
+    "description": "Foreign travelers from as early as Marco Polo knew of the quality of the embroidery produced in Gujarat, a state on India\u2019s northwestern coast, and as soon as European trade with India picked up in the early 1600s, embroidered Gujarati textiles were identified as among the most lucrative goods for export. This fragment from a hanging is one of the earliest examples of this overseas commerce, and comes from the Ashburnham House in Sussex, England. Embroideries like this were probably made at different centers throughout Gujarat, but are usually associated with Cambay, the port from which they were exported.",
+    "dimensions": [
+        "Textile L. 76 1/2  in. (194.3 cm)",
+        "W. 45 in. (114.3 cm)",
+        "Mount L. 84 5/8 in. (214.9 cm)",
+        "W. 53 7/8 in. (136.8 cm)",
+        "D. 2 3/4 in. (7 cm)",
+        "Wt. 76 lbs. (34.5 kg)"
+    ],
+    "id": 451186,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/DP230059.jpg",
+    "medium": "Cotton, silk; plain weave, embroidered, originally quilted",
+    "provenance": [
+        "Lord Ashburnham, Sussex, England (from late 17th century)",
+        "Ashburnham family, Sussex, England (by descent, until 1953;sale, Ashburnham Palace, Sussex, through Sotheby's, London, July 7\u20139, 1953, lot 479; to V&A)",
+        "Victoria and Albert Museum, London (1953\u201354; gifted to MMA through SirLeigh Ashton, Director)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/DP230059.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-54.21b.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-54.21c.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-54.21d.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-54.21f.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-54.21e.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-54.21g.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-54.21g.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-54.21h.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/sf54-21a.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/SC98360.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/AR167.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/156779.jpg"
+    ],
+    "title": "Bed Cover or Wall Hanging",
+    "what": [
+        "Silk",
+        "Textiles",
+        "Cotton",
+        "Needlework",
+        "Embroidery",
+        "Plain weave",
+        "Quilting"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Asia",
+        "India",
+        "Gujarat"
+    ]
+}

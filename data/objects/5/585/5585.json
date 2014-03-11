@@ -1,0 +1,120 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/6669"
+            },
+            {
+                "href": "http://scrapi.org/object/1535"
+            },
+            {
+                "href": "http://scrapi.org/object/8189"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 18, 2013",
+                "href": "/exhibitions/listings/2013/american-west",
+                "rel": "The American West in Bronze, 1850\u20131925"
+            },
+            {
+                "date": "February 25, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R097_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140225120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "February 25, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R073_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140225134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "February 26, 2014",
+                "href": "/events/programs/talks/gallery-talks/light-in-american-art-hudson-river-school?eid=A003_%7b86B27E91-724D-4796-8075-F3123974AE65%7d_20131016163855",
+                "rel": "Light in American Art: Hudson River School to Abstract Expressionism"
+            },
+            {
+                "date": "February 26, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R098_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140226120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "February 26, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R074_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140226134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "February 27, 2014",
+                "href": "/events/programs/talks/gallery-talks/the-american-west-in-bronze?eid=A001_%7bF8FF67EB-DE74-4A7A-B860-AAB9F09B0E26%7d_20131024112254",
+                "rel": "Exhibition Tour\u2014The American West in Bronze, 1850\u20131925"
+            },
+            {
+                "date": "February 27, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R099_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140227120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "February 27, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R075_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140227134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "March 1, 2014",
+                "href": "/events/programs/tours/american-art-weekend?eid=A180_%7b501B6EDB-D4CC-4402-98B8-688E06337497%7d_20131127140947",
+                "rel": "American Art"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/american-art-weekend?eid=A185_%7b501B6EDB-D4CC-4402-98B8-688E06337497%7d_20131127141222",
+                "rel": "American Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=na",
+                "rel": "The United States, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/5585"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/5585"
+        }
+    },
+    "accession number": "24.109.30a, b",
+    "credit line": "Bequest of Charles Allen Munn, 1924",
+    "culture": "American",
+    "date": "1730\u201345",
+    "department": "American Decorative Arts",
+    "dimensions": [
+        "Overall 5 3/16 x 1 3/4 in. (13.2 x 4.4 cm); 2 oz. 15 dwt. (86.1 g)",
+        "Body H. 3 1/8 in. (7.9 cm); 2 oz. 2 dwt. (64.6 g)",
+        "Cover H. 2 5/16 in. (5.9 cm); 14 dwt. (21.5 g)",
+        "Foot Diam. 1 11/16 in. (4.3 cm)"
+    ],
+    "gallery-id": 774,
+    "id": 5585,
+    "image": "http://images.metmuseum.org/CRDImages/ad/original/DP110811.jpg",
+    "medium": "Silver",
+    "provenance": [
+        "Charles Allen Munn (1859\u20131924), New York, New York",
+        "bequest to the Metropolitan Museum of Art, 1924."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ad/original/DP110811.jpg",
+        "http://images.metmuseum.org/CRDImages/ad/original/DP110812.jpg"
+    ],
+    "title": "Pepper Caster",
+    "what": [
+        "Metal",
+        "Silver",
+        "Casters"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "North and Central America",
+        "United States",
+        "Massachusetts",
+        "Boston"
+    ],
+    "who": "John Burt"
+}

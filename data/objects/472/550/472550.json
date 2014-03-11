@@ -1,0 +1,128 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/466209"
+            },
+            {
+                "href": "http://scrapi.org/object/464830"
+            },
+            {
+                "href": "http://scrapi.org/object/464855"
+            },
+            {
+                "href": "http://scrapi.org/object/464851"
+            },
+            {
+                "href": "http://scrapi.org/object/464867"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 25, 2014",
+                "href": "/exhibitions/listings/2014/canterbury-stained-glass",
+                "rel": "Radiant Light"
+            },
+            {
+                "date": "From August 6, 2013",
+                "href": "/exhibitions/listings/2013/design-motifs-in-byzantine-art",
+                "rel": "Design Motifs in Byzantine Art"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R008_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140309150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R009_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140310150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R105_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140311104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R010_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140311150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R106_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140312104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R011_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140312150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R107_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140313104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R012_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140313150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R108_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140314104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=06\u00aeion=eue",
+                "rel": "Eastern Europe and Scandinavia, 500\u20131000 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/472550"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/472550"
+        }
+    },
+    "accession number": "2000.140",
+    "credit line": "Purchase, The Kurt Berliner Foundation Gift, 2000",
+    "culture": "Viking",
+    "date": "ca. 950",
+    "department": "Medieval Art",
+    "description": "Although a fragment, this brooch terminal is artistically and technically one of the finest works to survive from the great age of the Vikings. The silver sphere (now slightly dented) was hollow cast, and virtually its entire surface is decorated with niello in an early Viking style known as Jellinge/Mammen. Raised, twisted gold wire forms a quatrefoil ring-knot pattern on a raised, circular gold panel. Two adjacent triangular gold panels are filled with studs, and one has a medallion in its center with serpentine tendrils.The terminal bears typological and aesthetic similarites to a brooch terminal and pinhead found in a large Viking silver hoard at Eketorp, Sweden, in 1950 and 1955, which are now in the regional \u00d6rebro Lans Museum, west of Stockholm. As with the present item, much of the Eketorp hoard consists of silver that, during and after the Viking period, was broken into pieces, a common practice for monetary exchange. Reconstructed to its original form, this deluxe brooch would be one of the largest and heaviest known from Viking Europe; clearly its first owner was an important figure.",
+    "dimensions": "Overall 1 15/16 x 1 7/16 x 1 7/16 in., 1.378lb. (5 x 3.7 x 3.6 cm, 625g)",
+    "gallery-id": 301,
+    "id": 472550,
+    "image": "http://images.metmuseum.org/CRDImages/md/original/2000.140.jpg",
+    "medium": "Silver, gold, and niello",
+    "provenance": [
+        "[ Ward & Company Works of Art(sold 2000)]"
+    ],
+    "title": "Terminal for an Open Ring Brooch",
+    "what": [
+        "Metal",
+        "Costume",
+        "Metalwork",
+        "Silver",
+        "Gold",
+        "Jewelry",
+        "Pins",
+        "Brooches",
+        "Niellos"
+    ],
+    "when": "A.D. 500-1000",
+    "where": [
+        "North and Central America",
+        "United States",
+        "North Dakota",
+        "Hamberg",
+        "Wells"
+    ]
+}

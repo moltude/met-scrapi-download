@@ -1,0 +1,188 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/482507"
+            },
+            {
+                "href": "http://scrapi.org/object/482508"
+            },
+            {
+                "href": "http://scrapi.org/object/482509"
+            },
+            {
+                "href": "http://scrapi.org/object/482498"
+            },
+            {
+                "href": "http://scrapi.org/object/482499"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From November 20, 2013",
+                "href": "/exhibitions/listings/2013/jewels-by-jar",
+                "rel": "Jewels by JAR"
+            },
+            {
+                "date": "From February 24, 2014",
+                "href": "/exhibitions/listings/2014/lucas-samaras",
+                "rel": "Lucas Samaras"
+            },
+            {
+                "date": "From December 17, 2013",
+                "href": "/exhibitions/listings/2013/metropolitan-vanities",
+                "rel": "Metropolitan Vanities"
+            },
+            {
+                "date": "From October 22, 2013",
+                "href": "/exhibitions/listings/2013/william-kentridge",
+                "rel": "William Kentridge"
+            },
+            {
+                "date": "From April 29, 2014",
+                "href": "/exhibitions/listings/2014/dan-graham",
+                "rel": "The Roof Garden Commission: Dan Graham"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R104_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140310144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/modern-art-french?eid=R027_%7b96311A2D-1D25-45BE-83E2-2054BC16D70B%7d_20140311133000",
+                "rel": "Art Moderne et Contemporain (Modern and Contemporary Art in French)"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R105_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140311144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R106_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140312144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R027_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140313140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R107_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140313144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=A076_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20131126112236",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/faces?eid=A002_%7b8EAA5A8F-1DA9-4AC7-8199-BDE367AC2FB1%7d_20140124163826",
+                "rel": "Faces! Drawing in the Galleries for Adults"
+            },
+            {
+                "date": "March 18, 2014",
+                "href": "/events/programs/tours/modern-art-french?eid=R028_%7b96311A2D-1D25-45BE-83E2-2054BC16D70B%7d_20140318133000",
+                "rel": "Art Moderne et Contemporain (Modern and Contemporary Art in French)"
+            },
+            {
+                "date": "March 20, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R028_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140320140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/geab/hd_geab.htm",
+                "rel": "Geometric Abstraction"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/klee/hd_klee.htm",
+                "rel": "Paul Klee (1879\u20131940)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/scpa/hd_scpa.htm",
+                "rel": "School of Paris"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/surr/hd_surr.htm",
+                "rel": "Surrealism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/symb/hd_symb.htm",
+                "rel": "Symbolism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/mont/hd_mont.htm",
+                "rel": "The Lure of Montmartre, 1880\u20131900"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/aima/hd_aima.htm",
+                "rel": "African Influences in Modern Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/stgl/hd_stgl.htm",
+                "rel": "Alfred Stieglitz (1864\u20131946) and His Circle"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/cube/hd_cube.htm",
+                "rel": "Cubism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/pica/hd_pica.htm",
+                "rel": "Pablo Picasso (1881\u20131973)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=eus",
+                "rel": "Southern Europe, 1800\u20131900 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=eusi",
+                "rel": "Iberian Peninsula, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/482504"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/482504"
+        }
+    },
+    "accession number": "1982.179.23",
+    "credit line": "Gift of Raymonde Paul, in memory of her brother, C. Michael Paul, 1982",
+    "date": "1900",
+    "department": "Modern and Contemporary Art",
+    "description": "Together with Ramon Casas, Rusi\u00f1ol (1861-1931) is the best known of the artists who founded the Barcelona caf\u00e9 Els Quatre Gats. From 1890 to 1894 he lived in Paris, where he shared a Montmartre studio with Casas, frequented the famed bohemian caf\u00e9 Le Chat Noir, and headed the community of Catalan expatriates in Paris. His stylish figurative paintings, with socially conscious subject matter, were a key model for Picasso during his years in Barcelona.",
+    "dimensions": [
+        "4 1/4 x 4in. (10.8 x 10.2cm)",
+        "23 x 17 x 1 1/2 in. (58.4 x 43.2 x 3.8 cm) (Frame)"
+    ],
+    "id": 482504,
+    "image": "http://images.metmuseum.org/CRDImages/ma/original/DP219438.jpg",
+    "medium": "Ink and essence on paper",
+    "title": "Santiago Rusi\u00f1ol",
+    "what": [
+        "Ink",
+        "Drawings",
+        "Paper"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "Spain"
+    ],
+    "who": "Pablo Picasso"
+}

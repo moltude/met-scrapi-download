@@ -1,0 +1,102 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/267065"
+            },
+            {
+                "href": "http://scrapi.org/object/284364"
+            },
+            {
+                "href": "http://scrapi.org/object/284116"
+            },
+            {
+                "href": "http://scrapi.org/object/284117"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/ap80/hd_ap80.htm",
+                "rel": "Art and Photography: The 1980s"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/284217"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/284217"
+        }
+    },
+    "accession number": "2000.652a\u2013f",
+    "credit line": "Gift of the artist and Olivier Renaud-Clement, in memory of Gilles Dusein, 2000",
+    "date": "1979",
+    "department": "Photographs",
+    "description": "While obviously indebted to the deadpan photo-text combinations of Conceptualism, Calle's art is as purely French at its core as the novels of Marguerite Duras and the films of Alain Resnais-an intimate exploration of memory, desire, and obsessive longing. The artist's primary method involves a perfectly calibrated interplay between narrative and image, both of which steadily approach their object of desire only to find another blind spot-that which can never be captured through language or representation.This work is the first segment of Calle's first work, The Sleepers (1979), in which the artist invited twenty-nine friends and acquaintances to sleep in her bed consecutively between April 1 and April 9, during which time she photographed them once an hour and kept notes recording each encounter. All the elements of Calle's art-from the voyeuristic inversion of the private sphere (rituals of the bedroom) and the public (the book or gallery wall) to the use of serial, repetitive structures-are present here in embryonic form.",
+    "dimensions": "12.6 x 18.4 cm (4 15/16 x 7 1/4 in.) each",
+    "id": 284217,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/Calle2000.652a.jpg",
+    "medium": "Gelatin silver print",
+    "provenance": [
+        "the artist",
+        "Olivier Renaud-Clement, New York City"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ph/original/Calle2000.652a.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/Calle2000.652b.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/Calle2000.652c.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/Calle2000.652d.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/Calle2000.652e.jpg"
+    ],
+    "title": "Gloria K., first sleeper.  Anne B., second sleeper.",
+    "what": [
+        "Photographs",
+        "Gelatin silver prints"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Sophie Calle"
+}

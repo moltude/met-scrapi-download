@@ -1,0 +1,155 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/437389"
+            },
+            {
+                "href": "http://scrapi.org/object/437391"
+            },
+            {
+                "href": "http://scrapi.org/object/437395"
+            },
+            {
+                "href": "http://scrapi.org/object/437396"
+            },
+            {
+                "href": "http://scrapi.org/object/437397"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/piero-della-francesca",
+                "rel": "Piero della Francesca"
+            },
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "From April 22, 2014",
+                "href": "/exhibitions/listings/2014/goya",
+                "rel": "Goya and the Altamira Family"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/talks/gallery-talks/piero-della-francesca?eid=A001_%7bE50FD455-5FC1-41D0-9391-C456264363EF%7d_20140206160624",
+                "rel": "Exhibition Tour\u2014Piero della Francesca: Personal Encounters"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=A257_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20131127123002",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/monday-at-the-met-spring-2014?eid=R001_%7bBB2BF277-3666-435E-8B95-12CDE21533EA%7d_20140303100000",
+                "rel": "Monday at the Met with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R100_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140303123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R101_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140304123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R102_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140305123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R026_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140306140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R103_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140307123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/talks/the-observant-eye/stepping-out-of-the-frame?eid=A001_%7b438572AD-6B0F-4DA2-94FB-49B8931634C1%7d_20140123142901",
+                "rel": "Stepping Out of the Frame: Three-Dimensionality in the New Galleries for European Paintings"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/saturday-seminar-spring-2014?eid=R001_%7bE063A39F-FC40-4ECC-B690-C4C13F70B2A0%7d_20140308103000",
+                "rel": "Saturday Seminar with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/rmbt/hd_rmbt.htm",
+                "rel": "Rembrandt van Rijn (1606\u20131669): Paintings"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwl",
+                "rel": "Low Countries, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/437394"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/437394"
+        }
+    },
+    "accession number": "61.198",
+    "credit line": "Purchase, special contributions and funds given or bequeathed by friends of the Museum, 1961",
+    "date": "1653",
+    "department": "European Paintings",
+    "dimensions": "56 1/2 x 53 3/4 in. (143.5 x 136.5 cm)",
+    "gallery-id": 637,
+    "id": 437394,
+    "image": "http://images.metmuseum.org/CRDImages/ep/original/DP319026.jpg",
+    "medium": "Oil on canvas",
+    "provenance": [
+        "Don Antonio Ruffo, principe della Scaletta, Messina, Sicily (1654\u201373; inv., 1660, [no. 599])",
+        "Don Placido Ruffo, principe della Scaletta, Messina (until 1710)",
+        "Don Antonio Ruffo II, principe della Scaletta, Messina (1710\u201339)",
+        "Don Calogero Ruffo, principe della Scaletta, Messina (1739\u201343)",
+        "Don Giovanni Ruffo e la Rocca, principe della Scaletta, Messina (1743\u201355)",
+        "?Ruffo family, Messina (from 1755)",
+        "?Vaughan (until 1810; sale, Christie's, London, February 17, 1810, no. 113, as \"Sculptor with a Bust,\" for \u00a379.16 to Barnett [with no. 114, \"Schoolmaster with his Pupil,\" the companion, for \u00a332.11, presumably \"Homer,\" now Mauritshuis, The Hague])",
+        "Sir Abraham Hume, Ashridge Park, Berkhampstead, Herts. (by 1815\u2013d. 1838; cat., 1824, no. 116, as \"Portrait of Cornelius van Hooft\")",
+        "his grandson, John Hume Cust, Viscount Alford, Ashridge Park (1838\u2013d. 1851)",
+        "his son, John William Spencer Brownlow Cust, 2nd Earl Brownlow, Ashridge Park (1851\u2013d. 1867)",
+        "his brother, Adelbert Wellington Brownlow Cust, 3rd Earl Brownlow, Ashridge Park (1867\u2013at least 1893)",
+        "Rodolphe Kann, Paris (by 1897\u2013d. 1905; his estate, 1905\u20137; cat., 1907, vol. 1, no. 65; sold to Duveen)",
+        "[Duveen, Paris and New York, 1907",
+        "sold to Huntington]",
+        "Mrs. Collis P. (Arabella D.) Huntington, later [from 1913] Mrs. Henry E. Huntington, New York (1907\u2013d. 1924)",
+        "her son, Archer M. Huntington, New York (1924\u201328; sold to Duveen)",
+        "[Duveen, New York, 1928",
+        "sold for $750,000 to Erikson]",
+        "Alfred W. Erickson, New York (1928\u201330; sold for $500,000 to Duveen)",
+        "[Duveen, New York, 1930\u201336",
+        "sold for $590,000 to Erickson]",
+        "Alfred W. Erickson, New York (d. 1936)",
+        "his widow, Mrs. Alfred W. Erickson, New York (1936\u2013d. 1961; her estate sale, Parke-Bernet, New York, November 15, 1961, no. 7, to MMA)"
+    ],
+    "title": "Aristotle with a Bust of Homer",
+    "what": [
+        "Paintings",
+        "Canvas",
+        "Oil paint"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "Netherlands"
+    ],
+    "who": "Rembrandt (Rembrandt van Rijn)"
+}

@@ -1,0 +1,116 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/83103"
+            },
+            {
+                "href": "http://scrapi.org/object/83105"
+            },
+            {
+                "href": "http://scrapi.org/object/83112"
+            },
+            {
+                "href": "http://scrapi.org/object/83113"
+            },
+            {
+                "href": "http://scrapi.org/object/83128"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R130_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140310130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/158111"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/158111"
+        }
+    },
+    "accession number": "2009.300.320",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Janet Gaynor Adrian, 1963",
+    "culture": "American",
+    "date": "ca. 1944",
+    "department": "Costume Institute",
+    "description": "Elaborate piecing became a hallmark of Adrian's designs in the mid 1940s. Garments composed of bright colors, often in surprising combinations and juxtapositions, resemble the Cubist paintings of artists like George Braque (1882-1963) and Pablo Picasso (1881-1973). In this example, Adrian has invigorated a staid silhouette by piecing splashes of pink, purple and orange boldly across the bodice and skirt of the garment. The designer's wife, actress Janet Gaynor (1906-1984) owned this dress and donated it to the Brooklyn Museum.",
+    "dimensions": "Length at CB 55 in. (139.7 cm)",
+    "id": 158111,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/63.18.2_front_CP3.jpg",
+    "medium": "silk",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/63.18.2_front_CP3.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/63.18.1_back_CP3.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/63.18.2_and_63.18.1_CP3.JPG"
+    ],
+    "title": "Dinner dress",
+    "what": [
+        "Costume",
+        "Silk",
+        "Dresses"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "Gilbert Adrian"
+}

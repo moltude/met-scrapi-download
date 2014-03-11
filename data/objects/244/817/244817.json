@@ -1,0 +1,154 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/248178"
+            },
+            {
+                "href": "http://scrapi.org/object/248636"
+            },
+            {
+                "href": "http://scrapi.org/object/249063"
+            },
+            {
+                "href": "http://scrapi.org/object/249057"
+            },
+            {
+                "href": "http://scrapi.org/object/251496"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R105_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140311123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R106_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140313123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R027_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140313130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R107_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140314123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/conversations-with-curators-and-conservators/terracotta-column-krater?eid=A001_%7b1CC4797D-7295-4614-9ACD-19C00BA693F4%7d_20140204162630",
+                "rel": "Conversation with a Curator\u2014Terracotta Column-Krater"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A144_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142257",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A145_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142312",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R116_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140331123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R117_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140401123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/grdr/hd_grdr.htm",
+                "rel": "Ancient Greek Dress"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/dbag/hd_dbag.htm",
+                "rel": "Death, Burial, and the Afterlife in Ancient Greece"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/grlg/hd_grlg.htm",
+                "rel": "Greek Gods and Religious Practices"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/evdy/hd_evdy.htm",
+                "rel": "Scenes of Everyday Life in Ancient Greece"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/god5/hd_god5.htm",
+                "rel": "The Greek Key and Divine Attributes in Modern Dress"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/wmna/hd_wmna.htm",
+                "rel": "Women in Classical Greece"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/vase/hd_vase.htm",
+                "rel": "Athenian Vase Painting: Black\u2013 and Red\u2013Figure Techniques"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=04\u00aeion=eusb",
+                "rel": "Ancient Greece, 1000 B.C.\u20131 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/244817"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/244817"
+        }
+    },
+    "accession number": "75.2.11",
+    "credit line": "Gift of Samuel G. Ward, 1875",
+    "culture": "Greek, Attic",
+    "date": "ca. 420\u2013410 B.C.",
+    "department": "Greek and Roman Art",
+    "description": "Women perfuming clothesThe scene depicts two women in festive dress perfuming garments. A stool suspended by chords is piled with folded clothing. On the ground below, there is a pile of wood shavings and twigs from which smoke rises. One woman carefully empties an oinochoe onto the fire. The other woman surveys the \"swing\" and stands beside a stately chair with a footstool over which more clothes are slung. At the far left is a wreathed boy wearing a himation (cloak). The shape of the vase facilitates the association of the scene with the Anthesteria, a three-day festival held in January/February that celebrated the new wine with the special inclusion of young children, an epiphany of Dionysos, and the ritual marriage of the god with the basilinna, the wife of the chief archon of Athens. While the precise meaning of the scene is not understood, it is evident that the Meidias Painter has melded significant features of the festival into a beautiful tableau.",
+    "dimensions": [
+        "H. 8 7/16 in. (21.4 cm)",
+        "diameter  7 1/16 in. (17.9 cm)"
+    ],
+    "gallery-id": 159,
+    "id": 244817,
+    "image": "http://images.metmuseum.org/CRDImages/gr/original/DT201072.jpg",
+    "medium": "Terracotta; red-figure",
+    "provenance": [
+        "Said to have been found in the vicinity of AthensBefore 1872, excavated in the vicinity of Athens",
+        "until 1873, with Professor Athanasios Sergiou Rhousopoulos, Athens",
+        "1873, purchased by Samuel G. Ward from Prof. A.S. Rhousopoulos, Athens",
+        "acquired 1875, gift of Samuel G. Ward."
+    ],
+    "title": "Terracotta oinochoe: chous (jug)",
+    "what": [
+        "Clay",
+        "Vessels",
+        "Vases",
+        "Terracotta",
+        "Oinochoai",
+        "Choes"
+    ],
+    "when": "1000 B.C.-A.D. 1",
+    "where": [
+        "Europe",
+        "Greece"
+    ],
+    "who": "Meidias Painter"
+}

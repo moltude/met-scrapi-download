@@ -1,0 +1,140 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/440408"
+            },
+            {
+                "href": "http://scrapi.org/object/436080"
+            },
+            {
+                "href": "http://scrapi.org/object/436081"
+            },
+            {
+                "href": "http://scrapi.org/object/436082"
+            },
+            {
+                "href": "http://scrapi.org/object/436083"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R125_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140303134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R126_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140304134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R127_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140305134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R128_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140306134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R129_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140307134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R130_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140310134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R131_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140311134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R132_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140312134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R133_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140313134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R134_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140314134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/lrro/hd_lrro.htm",
+                "rel": "Louis\u2013R\u00e9my Robert (1810\u20131882)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/aest/hd_aest.htm",
+                "rel": "The Aesthetic of the Sketch in Nineteenth\u2013Century France"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/bfpn/hd_bfpn.htm",
+                "rel": "The Barbizon School: French Painters of Nature"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/lafr/hd_lafr.htm",
+                "rel": "The Transformation of Landscape Painting in France"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwf",
+                "rel": "France, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/459096"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/459096"
+        }
+    },
+    "accession number": "1975.1.165",
+    "credit line": "Robert Lehman Collection, 1975",
+    "date": "1872",
+    "department": "Robert Lehman Collection",
+    "description": "In this landscape, Daubigny provides a tranquil view of a river at sunset in rural France. The dramatic orange glow of the sky that dominates the upper right-hand corner of the composition is balanced by the darker foliage of the trees on the left. At the center of the canvas, small but vibrant flecks of paint define the garments worn by the women who wash their clothing in the river. The water, still and reflective, shows a variety of brushwork ranging from smooth to more forceful, vertical strokes. On the left, ducks paddle down the river, their white delicate plumage glimmering in the water. Daubigny was a well-established painter who, despite the fact that he rarely worked in the Fountainbleau region, associated with the Barbizon painters. His landscapes were featured in the Salon in Paris on many occasions, and his work was well sold by the reputable Parisian dealer Charles Durand-Ruel.",
+    "dimensions": "15 x 26 1/2 in. (38.1 x 67.3 cm)",
+    "gallery-id": 957,
+    "id": 459096,
+    "image": "http://images.metmuseum.org/CRDImages/rl/original/0165-1.jpg",
+    "medium": "Oil on wood",
+    "provenance": [
+        "Henry D. Knox, East Aurora, New York",
+        "Lieutenant James H. Knox, by descent",
+        "Paintings of Various Schools Including French & Other European XIX Century Works\u2026From the Collection Formed by the Late Henry D. Knox, East Aurora, N.Y., sale, Parke-Bernet Galleries, Inc., New York, March 1, 1945, no. 135 (as On The Oise: Twilight)",
+        "acquired from the Lock Galleries, New York, by Robert Lehman, New York, February 16, 1962."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/rl/original/0165-1.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/2112.jpg"
+    ],
+    "title": "Landscape with Ducks",
+    "what": [
+        "Paintings",
+        "Oil paintings"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Charles-Fran\u00e7ois Daubigny"
+}

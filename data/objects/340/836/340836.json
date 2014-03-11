@@ -1,0 +1,87 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/340835"
+            },
+            {
+                "href": "http://scrapi.org/object/340854"
+            },
+            {
+                "href": "http://scrapi.org/object/340591"
+            },
+            {
+                "href": "http://scrapi.org/object/341579"
+            },
+            {
+                "href": "http://scrapi.org/object/372537"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/340836"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/340836"
+        }
+    },
+    "accession number": "1975.126",
+    "credit line": "Purchase, David L. Klein, Jr., Memorial Foundation Inc. Gift, 1975 1975-126",
+    "date": "1536\u20131614",
+    "department": "Drawings and Prints",
+    "dimensions": "11 x 8-1/4 in.  (27.9 x 21 cm)",
+    "id": 340836,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP810910.jpg",
+    "medium": "Pen and brown ink (recto); pen and brown ink, brush and brown wash, over black chalk (verso)",
+    "provenance": [
+        "Armando Neerman (London)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP810910.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/1975.126 RECTO.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/1975.126 VERSO.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP810911.jpg"
+    ],
+    "title": "Banquet Scene: A Seated Warrior Attended by a Number of Servants (recto); Back View of a Standing Man in a Long Cloak (verso)",
+    "what": [
+        "Ink",
+        "Drawings",
+        "Chalk"
+    ],
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Cesare Nebbia"
+}

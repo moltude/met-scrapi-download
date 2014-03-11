@@ -1,0 +1,101 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/365952"
+            },
+            {
+                "href": "http://scrapi.org/object/359834"
+            },
+            {
+                "href": "http://scrapi.org/object/367509"
+            },
+            {
+                "href": "http://scrapi.org/object/367519"
+            },
+            {
+                "href": "http://scrapi.org/object/367513"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/stgl/hd_stgl.htm",
+                "rel": "Alfred Stieglitz (1864\u20131946) and His Circle"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/geok/hd_geok.htm",
+                "rel": "Georgia O'Keeffe (1887\u20131986)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/367739"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/367739"
+        }
+    },
+    "accession number": "49.55.70",
+    "credit line": "Alfred Stieglitz Collection, 1949",
+    "date": "1925",
+    "department": "Drawings and Prints",
+    "dimensions": [
+        "plate 8 1/4 x 6 1/2 in. (20.9 x 16.5 cm)",
+        "sheet 15 1/4 x 10 7/8 in. (38.8 x 27.7 cm)"
+    ],
+    "id": 367739,
+    "medium": "Etching",
+    "provenance": [
+        "Donor: The Estate of Alfred Stieglitz"
+    ],
+    "title": "Downtown New York, Three Movements",
+    "what": [
+        "Prints",
+        "Etching"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": [
+        "Alfred Stieglitz",
+        "John Marin"
+    ]
+}

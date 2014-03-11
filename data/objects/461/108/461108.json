@@ -1,0 +1,110 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/461112"
+            },
+            {
+                "href": "http://scrapi.org/object/460489"
+            },
+            {
+                "href": "http://scrapi.org/object/460480"
+            },
+            {
+                "href": "http://scrapi.org/object/460506"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R130_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140310134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R131_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140311134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R132_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140312134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R133_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140313134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R134_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140314134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A109_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131126111651",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A115_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131127144444",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A110_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131126111706",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R145_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140331134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/talks/gallery-talks/european-sculpture-in-the-robert-lehman-collection?eid=A001_%7b835B4316-D69F-4E38-A76F-839A55CF6946%7d_20140123112008",
+                "rel": "European Sculpture in the Robert Lehman Collection"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/461108"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/461108"
+        }
+    },
+    "accession number": "1975.1.1548",
+    "credit line": "Robert Lehman Collection, 1975",
+    "date": "ca.1750-1760",
+    "department": "Robert Lehman Collection",
+    "description": "A similarly informal, sketchy technique occurs on other enamel boxes also painted inside the cover with a halflength female figure in dress of about 1750 or earlier.(1)  Such miniatures, all undoubtedly after engravings, are common both to enamel boxes and to boxes of Meissen porcelain.(2)  Another characteristic feature is the dramatically shaped stippled background in dark tones. On these grounds it is suggested that these enamel boxes also originated in Dresden. The painting inside the cover is not by the same hand as the exterior decoration.  Catalogue entry from Claire Le Corbeiller. The Robert Collection. Decorative Arts, Volume XV. Wolfram Koeppe, et al. The Metropolitan Museum of Art in association with Princeton University Press, 2012, p. 162.NOTES:1. Watson, F. J. B., and Carl Christian Dauterman. Furniture, Gold Boxes; Porcelain Boxes, Silver. Vol. 3 of The Wrightsman Collection. New York, 1970, no. 35; sale, Christie\u2019s, Geneva, 26 April 1978, lot 212; sale, Christie\u2019s, London, 14 October 14, 1987, lot 6. 2. Hawes, Vivian S., Christina S. Corsiglia, et al. The Rita and Frits Markus Collection of European Ceramics and Enamels. Boston, 1984, no. 47, where the figure is identified as copied from an engraving after Pietro Rotari (1707 \u2013 1762); Beaucamp-Markowsky, Barbara. Bo\u00eetes en porcelaine des manufactures europ\u00e9ennes au 18e siecle, 1985, no. 168. Translated by Tamara Preaud. Fribourg.",
+    "dimensions": "H. 3.8 cm, L. 8.3 cm, D. 6.5 cm",
+    "id": 461108,
+    "image": "http://images.metmuseum.org/CRDImages/rl/original/1548-1-1.jpg",
+    "medium": "Enameled copper, copper-gilt mounts",
+    "provenance": [
+        "Mrs. Henry Walters, Baltimore",
+        "Walters sale, Parke-Bernet Galleries, New York, 23-26 April 1941, lot 486.  Acquired by Robert Lehman from the Walters sale."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/rl/original/1548-1-1.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/SLP1548-1.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/SLP1548-2.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/1548-2.jpg"
+    ],
+    "title": "Snuffbox",
+    "what": [
+        "Metal",
+        "Gilt",
+        "Copper",
+        "Snuff containers",
+        "Snuffboxes"
+    ],
+    "when": "A.D. 1600-1800",
+    "who": "German (Dresden?)"
+}

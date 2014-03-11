@@ -1,0 +1,169 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/286128"
+            },
+            {
+                "href": "http://scrapi.org/object/267878"
+            },
+            {
+                "href": "http://scrapi.org/object/286388"
+            },
+            {
+                "href": "http://scrapi.org/object/286441"
+            },
+            {
+                "href": "http://scrapi.org/object/286442"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/phws/hd_phws.htm",
+                "rel": "Carleton Watkins (1829\u20131916) and the West: 1860s\u20131870s"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/phcw/hd_phcw.htm",
+                "rel": "Photography and the Civil War, 1861\u20131865"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=na",
+                "rel": "The United States and Canada, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/283195"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/283195"
+        }
+    },
+    "accession number": "2005.100.502.1 (1-50)",
+    "credit line": "Gilman Collection, Purchase, Ann Tenenbaum and Thomas H. Lee Gift, 2005",
+    "date": "1863",
+    "department": "Photographs",
+    "description": "This photograph of the aftermath of the Battle of Gettysburg appears in the two-volume opus Gardner's Photographic Sketch Book of the War (1865-66). Gardner's publication is egalitarian. Offended by Brady's habit of obscuring the names of his field operators behind the deceptive credit \"Brady,\" Gardner specifically identified each of the eleven photographers in the publication; forty-four of the one hundred photographs are credited to Timothy O'Sullivan. Gardner titled the plate Field Where General Reynolds Fell, Battlefield of Gettysburg. But the photograph, its commemorative title notwithstanding, relates a far more common story: six Union soldiers lie dead, face up, stomachs bloated, their pockets picked and boots stolen. As Gardner described the previous plate, aptly titled The Harvest of Death, this photograph conveys \"the blank horror and reality of war, in opposition to its pageantry.\"",
+    "dimensions": "17.8 x 22.7 cm (7 x 8 15/16 in.)",
+    "id": 283195,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP274632.jpg",
+    "medium": "Albumen silver prints from glass negatives",
+    "provenance": [
+        "[Graphics International, Ltd.]",
+        "Gilman Paper Company Collection, New York, February 15, 1979"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ph/original/DP274632.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP274661.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240121.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240122.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240123.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240124.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240125.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240126.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240127.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240128.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240129.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240130.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240131.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240132.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240133.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240134.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240135.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240136.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240137.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240138.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240139.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240140.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240141.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240142.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240143.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240144.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240145.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240146.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240147.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240148.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240149.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240150.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240151.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240152.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240153.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240154.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240155.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240156.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP277244.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP277691.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240158.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240159.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240160.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240161.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240162.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240163.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240164.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240165.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240166.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240167.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240168.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240169.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP240170.jpg"
+    ],
+    "title": "Gardner's Photographic Sketchbook of the War, Volume 1",
+    "what": [
+        "Photographs",
+        "Books",
+        "Albumen silver prints",
+        "Albums"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": [
+        "Timothy H. O'Sullivan",
+        "Alexander Gardner",
+        "George . Barnard",
+        "James Gardner",
+        "John Reekie",
+        "David . Woodbury",
+        "David Knox",
+        "William R. Pywell"
+    ]
+}

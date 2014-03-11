@@ -1,0 +1,122 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/548692"
+            },
+            {
+                "href": "http://scrapi.org/object/544080"
+            },
+            {
+                "href": "http://scrapi.org/object/544420"
+            },
+            {
+                "href": "http://scrapi.org/object/556094"
+            },
+            {
+                "href": "http://scrapi.org/object/545152"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/teen-programs/saturday-sketching/saturday-sketching-egyptian-art?eid=A001_%7b8698F79D-A7E0-44F1-99CF-57C8A2E2471A%7d_20131211143556",
+                "rel": "Saturday Sketching\u2014Egyptian Art (Ages 11\u201318)"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A151_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113641",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R130_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140310140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=03\u00aeion=afe",
+                "rel": "Egypt, 2000\u20131000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/547635"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/547635"
+        }
+    },
+    "accession number": "26.8.60",
+    "credit line": [
+        "Fletcher Fund, 1926",
+        "Frederick P. Huntley Bequest, 1958",
+        "Purchase, Lila Acheson Wallace Gift, 1982"
+    ],
+    "date": "ca. 1479\u20131425 B.C.",
+    "department": "Egyptian Art",
+    "description": "This hip belt, or girdle, belonged to one of three foreign wives of Thutmose III. It is generally accepted that the larger \"wallet\" beads of gold and lapis lazuli are stylized cowrie shells. Such beads were popular in the Middle Kingdom and symbolized firtility.",
+    "dimensions": [
+        "L. of girdle 81.3 cm (32 in)",
+        "Largest lapis lazuli bead L. 1.5 cm (9/16 in); w. 1.2 cm (1/2 in); th. 0.3 cm (1/8 in)"
+    ],
+    "gallery-id": 118,
+    "id": 547635,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/DP116098.jpg",
+    "medium": "Gold, lapis lazuli",
+    "provenance": [
+        "Probably from western Thebes, Wadi Gabbanat el-Qurud, Wadi D, Tomb 1, found during World War I. Majority of beads purchased from Howard Carter, 1919-1920. Accessioned with other objects presumed to be from the same tomb, 1926. Other gold shells purchased from Ernst Kofler, Lucerne, 1958. Additional gold and lapis shells pruchased from Galerie Nefer, Zurich, 1982. Published in Christine Lilyquist, The Tomb of Three Foreign Wives of Tuthmosis III, 2003 [cat. 129]."
+    ],
+    "title": "Girdle with gold and lapis shell-shaped beads",
+    "what": [
+        "Metal",
+        "Costume",
+        "Gold",
+        "Lapis lazuli",
+        "Girdles"
+    ],
+    "when": "2000-1000 B.C.",
+    "where": [
+        "Africa",
+        "Egypt"
+    ]
+}

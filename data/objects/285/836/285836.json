@@ -1,0 +1,108 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/266875"
+            },
+            {
+                "href": "http://scrapi.org/object/283074"
+            },
+            {
+                "href": "http://scrapi.org/object/285837"
+            },
+            {
+                "href": "http://scrapi.org/object/285838"
+            },
+            {
+                "href": "http://scrapi.org/object/285973"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwb",
+                "rel": "Great Britain and Ireland, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/285836"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/285836"
+        }
+    },
+    "accession number": "2005.100.947a, b",
+    "credit line": "Gilman Collection, Purchase, The Horace W. Goldsmith Foundation Gift, through Joyce and Robert Menschel, 2005",
+    "date": "1845\u201346",
+    "department": "Photographs",
+    "description": "Frustrated by the optical limitations imposed by photography, Jones began taking two photographs, moving the camera in a slight arc between exposures until the left-hand side of the second view coincided with the right-hand side of the first. Although simple enough to describe, such pairing of negatives was technically challenging to carry off with complete success, as the images were invariably mismatched. Despite this obvious shortcoming, this pair of images demands closer attention than a single photograph. The choice of viewpoint means that each half works well as a single image, but when they are seen together the pairing creates visual correspondence between the bed sheets and shirts on the left and the windows and awnings on the right. In later years Jones designed a binocular camera to overcome the difficulties of alignment.",
+    "dimensions": [
+        "22.4 x 36.2 cm (8 13/16 x 14 1/4 in.) overall",
+        "Image 22.2 x 17 cm (8 3/4 x 6 11/16 in.) each"
+    ],
+    "id": 285836,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP143018.jpg",
+    "medium": "Salted paper prints from paper negatives",
+    "provenance": [
+        "By descent to the artist's great-great-grandson",
+        "[Hans P. Kraus, Jr., Inc., New York]",
+        "Gilman Paper Company Collection, November 6, 1996"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ph/original/DP143018.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP143023.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP143024.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/Jones2005.100.947.1verso.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/Jones2005.100.947.2verso.jpg"
+    ],
+    "title": "Santa Lucia, Naples",
+    "what": [
+        "Prints",
+        "Photographs",
+        "Paper",
+        "Negatives",
+        "Salted paper prints"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "United Kingdom",
+        "Wales"
+    ],
+    "who": "Calvert Richard Jones"
+}

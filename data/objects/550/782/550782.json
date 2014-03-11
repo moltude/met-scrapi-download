@@ -1,0 +1,126 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/558264"
+            },
+            {
+                "href": "http://scrapi.org/object/546112"
+            },
+            {
+                "href": "http://scrapi.org/object/553735"
+            },
+            {
+                "href": "http://scrapi.org/object/572693"
+            },
+            {
+                "href": "http://scrapi.org/object/550058"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/teen-programs/saturday-sketching/saturday-sketching-egyptian-art?eid=A001_%7b8698F79D-A7E0-44F1-99CF-57C8A2E2471A%7d_20131211143556",
+                "rel": "Saturday Sketching\u2014Egyptian Art (Ages 11\u201318)"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A151_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113641",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R130_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140310140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=03\u00aeion=afe",
+                "rel": "Egypt, 2000\u20131000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/550782"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/550782"
+        }
+    },
+    "accession number": "35.9.2",
+    "credit line": "Gift of  Edward S. Harkness, 1935",
+    "date": "ca. 1070\u2013664 B.C. or later",
+    "department": "Egyptian Art",
+    "description": "Statuary and equipment in bronze and precious metals have long associations with temple cult and ritual. While the king traditionally made such gifts in his role as mediator between the gods and mankind, by the Third Intermediate Period much of the divine statuary in temples originated from nonroyal gifts, and great numbers of divine statuettes were inscribed with prayers for their donors\u2019 eternal life. Evidence from a slightly later period indicates that such consecration of temple items for the benefit of a given individual was associated with their having provided some form of economic support for the temple or temple personnel. Lioness headed Wadjet is inscribed with the name of a donor  Akanosh, a Libyan name, although the statue may date later than the Third Intermediate Period.",
+    "dimensions": "36.5 cm (14 3/8 in.)",
+    "gallery-id": 125,
+    "id": 550782,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/35.9.2_EGDP015550.jpg",
+    "medium": "Copper alloy",
+    "provenance": [
+        "Donated to the museum by Edward S. Harkness, 1935."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/eg/original/35.9.2_EGDP015550.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/35.9.2_EGDP015551.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/35.9.2_EGDP015552.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/35.9.2_EGDP015553.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/35.9.2_EGDP015554.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/35.9.2_EGDP015555.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/35.9.2_EGDP015556.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/35.9.2_EGDP015557.jpg"
+    ],
+    "title": "Statuette of Wadjet in the name of Akanosh son of Pediamenopet",
+    "what": [
+        "Metal",
+        "Sculpture",
+        "Copper alloy",
+        "Copper",
+        "Statues",
+        "Figurines"
+    ],
+    "when": "2000-1000 B.C.",
+    "where": [
+        "Africa",
+        "Egypt"
+    ]
+}

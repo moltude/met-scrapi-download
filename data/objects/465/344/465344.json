@@ -1,0 +1,119 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/466124"
+            },
+            {
+                "href": "http://scrapi.org/object/465387"
+            },
+            {
+                "href": "http://scrapi.org/object/464851"
+            },
+            {
+                "href": "http://scrapi.org/object/464882"
+            },
+            {
+                "href": "http://scrapi.org/object/464883"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 25, 2014",
+                "href": "/exhibitions/listings/2014/canterbury-stained-glass",
+                "rel": "Radiant Light"
+            },
+            {
+                "date": "From August 6, 2013",
+                "href": "/exhibitions/listings/2013/design-motifs-in-byzantine-art",
+                "rel": "Design Motifs in Byzantine Art"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/collecting-and-intepreting-at-the-met?eid=A001_%7b6A0B3958-68AC-4F22-BB73-D898FB894401%7d_20140127111701",
+                "rel": "Fellows Colloquium\u2014Collecting and Interpreting at the Met"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R104_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140307104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/events-at-the-cloisters/conversations-with-curators-and-conservators/cloisters-husband?eid=A003_%7bC1BD832B-922C-49E2-8732-B9CE70E617F2%7d_20140113162804",
+                "rel": "Conversation with a Curator at The Cloisters"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R007_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140307150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/ancestors-of-christ?eid=A001_%7b64F28017-6AB0-4B00-864F-E5676EE07585%7d_20140113142350",
+                "rel": "The Ancestors of Christ: Stained Glass Windows from Canterbury Cathedral"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/ancestors-of-christ?eid=A002_%7b64F28017-6AB0-4B00-864F-E5676EE07585%7d_20140113142402",
+                "rel": "The Ancestors of Christ: Stained Glass Windows from Canterbury Cathedral"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R008_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140309150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R009_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140310150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R105_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140311104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/465344"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/465344"
+        }
+    },
+    "accession number": "17.192.38",
+    "credit line": "Gift of J. Pierpont Morgan, 1917",
+    "culture": "Frankish",
+    "date": "550\u2013650",
+    "department": "Medieval Art",
+    "description": "Garnets, worked in the cloisonn\u00e9 technique, featured prominently in the luxury jewelry of the Franks. Jewelers would solder small compartments arranged in geometric patterns onto the surface of a metal disk. In those cells, or cloisons, they would place a textured piece of gold foil, which would show through the thin translucent garnet that would then be set on top.",
+    "dimensions": "Overall 1 5/16 x 5/16 in. (3.3 x 0.8 cm)",
+    "gallery-id": 301,
+    "id": 465344,
+    "image": "http://images.metmuseum.org/CRDImages/md/original/DP30152.jpg",
+    "medium": "Copper alloy, gilding, niello, garnet",
+    "provenance": [
+        "Stanislas Baron, Paris",
+        "J. Pierpont Morgan, London and New York (until 1917)"
+    ],
+    "title": "Whorl-Shaped Brooch",
+    "what": [
+        "Metal",
+        "Costume",
+        "Copper alloy",
+        "Metalwork",
+        "Gilt",
+        "Jewelry",
+        "Copper",
+        "Pins",
+        "Brooches",
+        "Garnet",
+        "Niellos"
+    ],
+    "when": "A.D. 500-1000"
+}

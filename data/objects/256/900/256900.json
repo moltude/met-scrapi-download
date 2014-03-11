@@ -1,0 +1,106 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/250664"
+            },
+            {
+                "href": "http://scrapi.org/object/254187"
+            },
+            {
+                "href": "http://scrapi.org/object/258093"
+            },
+            {
+                "href": "http://scrapi.org/object/254913"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A146_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142808",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R104_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140310123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R105_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140311123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R106_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140313123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R027_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140313130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R107_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140314123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/conversations-with-curators-and-conservators/terracotta-column-krater?eid=A001_%7b1CC4797D-7295-4614-9ACD-19C00BA693F4%7d_20140204162630",
+                "rel": "Conversation with a Curator\u2014Terracotta Column-Krater"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A144_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142257",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A145_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142312",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=04\u00aeion=eusb",
+                "rel": "Ancient Greece, 1000 B.C.\u20131 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/256900"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/256900"
+        }
+    },
+    "accession number": "17.230.37a, b",
+    "credit line": "Rogers Fund, 1917",
+    "culture": "Greek, Attic",
+    "date": "ca. 470\u2013460 B.C.",
+    "department": "Greek and Roman Art",
+    "description": "Obverse, King Akrisios watching his daughter Danae and her son Perseus who stand in a chest about to be set adrift Reverse, Danae's seated mother, a standing servant with basket, and a carpenter holding a hammerWhen King Akrisios of Argos was informed by an oracle that his grandson would kill him, he locked away his daughter Dana\u00eb.  Nevertheless, Zeus came to her as a shower of gold and Perseus was born.  The king had Dana\u00eb and Perseus put into a wooden chest and set adrift to die at sea.  After many adventures, including his beheading of Medusa the Gorgon, Perseus returned to Argos and fulfilled the prophecy.  Here in a quiet but tense moment, Dana\u00eb and the baby react with horror and pleading before the chest is closed.",
+    "dimensions": "Overall 15 x 15 3/8in. (38.1 x 39cm); diameter  12 3/8in. (31.4cm)",
+    "gallery-id": 156,
+    "id": 256900,
+    "image": "http://images.metmuseum.org/CRDImages/gr/original/DP160656.jpg",
+    "medium": "Terracotta; red-figure",
+    "title": "Terracotta stamnos with cover (jar)",
+    "what": [
+        "Clay",
+        "Vessels",
+        "Vases",
+        "Terracotta",
+        "Stamnoi"
+    ],
+    "when": "1000 B.C.-A.D. 1",
+    "where": [
+        "Europe",
+        "Greece"
+    ],
+    "who": "Deepdene Painter"
+}

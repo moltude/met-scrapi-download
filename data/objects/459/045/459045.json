@@ -1,0 +1,116 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/193227"
+            },
+            {
+                "href": "http://scrapi.org/object/193226"
+            },
+            {
+                "href": "http://scrapi.org/object/461298"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R125_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140303134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R126_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140304134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R127_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140305134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R128_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140306134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R129_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140307134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R130_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140310134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R131_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140311134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R132_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140312134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R133_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140313134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R134_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140314134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=07\u00aeion=eust",
+                "rel": "Italian Peninsula, 1000\u20131400 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/459045"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/459045"
+        }
+    },
+    "accession number": "1975.1.103",
+    "credit line": "Robert Lehman Collection, 1975",
+    "date": "ca. 1300\u20131330",
+    "department": "Robert Lehman Collection",
+    "description": "The anonymous Romagnole master who painted this work was active in the first third of the fourteenth century. The name given to him by art historians comes from an altarpiece depicting the Life of Saint John the Baptist, of which the Lehman painting originally formed part. The now-dismembered altarpiece is one of the most important surviving examples of the Riminese fourteenth-century school; other panels from it are preserved in various public and private collections. In the Lehman panel, Salome appears twice, first as Herod's alluring dancer and then as the triumphant presenter of the severed head of the Baptist.",
+    "dimensions": "17 3/8 x 19 5/8 in. (44.1 x 49.8 cm)",
+    "gallery-id": 952,
+    "id": 459045,
+    "image": "http://images.metmuseum.org/CRDImages/rl/original/DT3073.jpg",
+    "medium": "Tempera on wood, gold ground",
+    "provenance": [
+        "The arms on the reverse are those of Conti Agnelli dei Malherbi, and the panel may have been preserved in the Agnelli collection in Rome or in the Casa Malherbi at Lugo (Ravenna)",
+        "Galerie Trotti, Paris",
+        "Wildenstein, Paris.  Acquired by Philip Lehman in January 1921."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/rl/original/DT3073.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/0544.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/ep1975.1.103.bw.R.jpg"
+    ],
+    "title": "The Feast of Herod and the Beheading of the Baptist",
+    "what": [
+        "Metal",
+        "Gold",
+        "Paintings",
+        "Tempera"
+    ],
+    "when": "A.D. 1000-1400",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Master of the Life of Saint John the Baptist"
+}

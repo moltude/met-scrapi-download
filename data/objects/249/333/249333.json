@@ -1,0 +1,112 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/248914"
+            },
+            {
+                "href": "http://scrapi.org/object/251942"
+            },
+            {
+                "href": "http://scrapi.org/object/251943"
+            },
+            {
+                "href": "http://scrapi.org/object/251944"
+            },
+            {
+                "href": "http://scrapi.org/object/251945"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R105_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140311123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R106_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140313123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R027_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140313130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R107_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140314123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/conversations-with-curators-and-conservators/terracotta-column-krater?eid=A001_%7b1CC4797D-7295-4614-9ACD-19C00BA693F4%7d_20140204162630",
+                "rel": "Conversation with a Curator\u2014Terracotta Column-Krater"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A144_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142257",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A145_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142312",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R116_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140331123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R117_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140401123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=05\u00aeion=eust",
+                "rel": "Italian Peninsula, 1\u2013500A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/249333"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/249333"
+        }
+    },
+    "accession number": "17.194.88a, b",
+    "credit line": "Gift of J. Pierpont Morgan, 1917",
+    "culture": "Roman, Cypriot",
+    "date": "2nd century A.D.",
+    "department": "Greek and Roman Art",
+    "description": "Bowl (17.194.88a): Translucent blue green.Everted, knocked-off rim, with ground upper edge; narrow concave neck; sack-shaped body with side expanding downwards to rounded carination, then sloping inwards; small bottom, pushed in to form tall spike-like kick.On side above carination, two narrow wheel-abraded horizontal bands.Complete but one vertical crack from rim down side; few bubbles; soil encrustation, slight dulling, and creamy brown weathering.Lid (17.194.88b):Translucent blue green.Rim turned down and inwards with unworked inner lip; concave upper surface.Decoration in black lines on interior: woman seated to right but head turned to left with bare upper body and drapery below, flanked at bottom with flowers; objects in field to left (altar and offerings?).Intact; few bubbles; patches of creamy weathering and brilliant iridescence.Painted on the inside of the lid is a sketched drawing, possibly of the goddess Aphrodite. Similar vessels, decorated on the lid with various figures in black ink, are known principally from Cyprus.",
+    "dimensions": [
+        "H. 3 in. (7.6 cm)",
+        "Diam. 3 3/4 in. (9.5 cm)"
+    ],
+    "gallery-id": 171,
+    "id": 249333,
+    "image": "http://images.metmuseum.org/CRDImages/gr/original/DP107347.jpg",
+    "medium": "Glass; blown and cold painted",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/gr/original/DP107347.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP107348.jpg"
+    ],
+    "title": "Glass bowl with painted lid",
+    "what": [
+        "Glass",
+        "Painting",
+        "Bowls"
+    ],
+    "when": "A.D. 1-500",
+    "where": [
+        "Roman Empire"
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/317698"
+            },
+            {
+                "href": "http://scrapi.org/object/311230"
+            },
+            {
+                "href": "http://scrapi.org/object/311330"
+            },
+            {
+                "href": "http://scrapi.org/object/313856"
+            },
+            {
+                "href": "http://scrapi.org/object/314381"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From September 16, 2013",
+                "href": "/exhibitions/listings/2013/feathered-walls",
+                "rel": "Feathered Walls"
+            },
+            {
+                "date": "From October 8, 2013",
+                "href": "/exhibitions/listings/2013/nelson-rockefeller",
+                "rel": "The Nelson A. Rockefeller Vision"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R105_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140311130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R106_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140312130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R107_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140313130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 18, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/shaping-the-african-art-canon?eid=A001_%7b447041C4-D9E7-43A9-AE5F-85BAEB6E7196%7d_20140214113010",
+                "rel": "Shaping the African Art Canon: From the Museum to the Classroom"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/talks/the-observant-eye/shared-memory-sculptural-ancestral-objects-from-oceania?eid=A001_%7b94768B86-339F-4726-A3BC-8F798C423768%7d_20140123143856",
+                "rel": "Shared Memory: Sculptural Ancestral Objects from Oceania"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=A116_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140210093151",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/talks/gallery-talks/ancient-american-sculpture?eid=A002_%7b7A6AA394-9359-47C1-87B4-65B0894C01AB%7d_20140123114700",
+                "rel": "Ancient American Sculpture"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R117_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140401130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R118_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140402130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=ocm",
+                "rel": "Melanesia, 1800\u20131900 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=ocm",
+                "rel": "Melanesia, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/313779"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/313779"
+        }
+    },
+    "accession number": "1979.206.1560",
+    "credit line": "The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+    "culture": "Sawos people",
+    "date": "late 19th\u2013early 20th century",
+    "department": "Arts of Africa, Oceania and the Americas",
+    "description": "The art of the Sawos, Iatmul, and neighboring peoples in the Middle Sepik region of northeastern New Guinea is primarily associated with their impressive men\u2019s ceremonial houses, which are seen as the embodiments of primordial female ancestors. The triangular gables at either end of Sawos and Iatmul men\u2019s houses rise into steep peaks crowned by separately carved wood finials that depict human figures with birds, usually eagles, perched above them.  Local interpretations of this imagery vary. In some instances, the human images are said to represent enemiessubdued by the power of the village\u2019s totemic beings. In this interpretation, the bird symbolizes the village\u2019s martial strength, which in former times assured victory in war. According to other accounts, the finial images represent the dual nature of the primordial bird-men and bird-women, who originally created the sacred musical instruments, consisting of bamboo flutes and slit gongs that were kept within the ceremonial houses and played a central role in ritual life.",
+    "dimensions": "H. 49 x W. 45 3/8 x D. 22 3/8 in. (124.5 x 115.3 x 56.9 cm)",
+    "gallery-id": 354,
+    "id": 313779,
+    "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1979_206_1560.jpg",
+    "medium": "Wood, cowrie shells, paint",
+    "provenance": [
+        "Biambu Kembian, Papua New Guinea",
+        "[Julius Carlebach Gallery, New York, until 1959]",
+        "Nelson A. Rockefeller, New York, 1959, on permanent loan to The Museum of Primitive Art, 1959\u20131978"
+    ],
+    "title": "Finial for a Ceremonial House",
+    "what": [
+        "Sculpture",
+        "Wood",
+        "Shell",
+        "Finials",
+        "Sea shell",
+        "Cowrie shell"
+    ],
+    "where": [
+        "Oceania",
+        "Papua New Guinea",
+        "East Sepik",
+        "Sepik"
+    ],
+    "who": "Sawos"
+}

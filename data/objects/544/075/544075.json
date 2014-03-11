@@ -1,0 +1,122 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/571798"
+            },
+            {
+                "href": "http://scrapi.org/object/571800"
+            },
+            {
+                "href": "http://scrapi.org/object/547905"
+            },
+            {
+                "href": "http://scrapi.org/object/551502"
+            },
+            {
+                "href": "http://scrapi.org/object/543870"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/teen-programs/saturday-sketching/saturday-sketching-egyptian-art?eid=A001_%7b8698F79D-A7E0-44F1-99CF-57C8A2E2471A%7d_20131211143556",
+                "rel": "Saturday Sketching\u2014Egyptian Art (Ages 11\u201318)"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A151_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113641",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R130_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140310140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=04\u00aeion=afe",
+                "rel": "Egypt, 1000 B.C.\u20131 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/544075"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/544075"
+        }
+    },
+    "accession number": "69.105",
+    "credit line": "Adelaide Milton de Groot Fund, in memory of the de Groot and Hawley families, 1969",
+    "date": "664\u201330 B.C.",
+    "department": "Egyptian Art",
+    "description": "The Sacred Animal Necropolis at North Saqqara included catacombs that housed the burials of sacred animals - the Mother of Apis cows, falcons, baboons, and ibises. In front of them were arranged shrines attached to their respective cults. The area saw much attention and construction in the Late Period and presumably in the Ptolemaic Period. The extension of the Main Terrace to include the Northern Enclosure, probably as a cult place for the Mother of Apis cows since it was near those catacombs, can be dated to sometime after 343 B.C. This statue of Anubis was found in the fill for the Northern Enclosure, so its date is not certain.The jackal was found in two pieces and in the vicinity of other statues of recumbent jackals which actually lay beneath remains of a remarkable reed structure. The reed structure comprised panels made of vertical bundles of round reeds, bound and lashed with reed fiber ties, and strengthened with cross members at intervals. It seemed to the excavators that the elements found were originally part of a tall. four-sided pavilion with a square or rectangular ground plan, originally roofed and possibly provided with double doors at the front. Being composed of reeds, such a pavilion could only be for temporary use during a specific ritual, festival, or funerary ceremonies. Embalming tents, called in Egyptian ibou, are constructed of reeds and fibers, and are known to have been used in the funeral ceremonies of the Apis bull and so presumably also for the Mother of Apis cow. Anubis being the god of embalming, it is tempting to speculate the jackal statues originally stood somewhere in the temple precincts in the vicinity of the area used for the embalming pavilions.",
+    "dimensions": "h. 38.1 cm (15 in); l. 64 cm (25 3/16 in); w. 16.5 cm (6 1/2 in)",
+    "gallery-id": 123,
+    "id": 544075,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/DP228716.jpg",
+    "medium": "Limestone, originally painted black",
+    "provenance": [
+        "Excavated at Saqqara by Walter Emery for the Egypt Exploration Society, 1966\u20131967. Acquired by the EES in the division of finds.  Purchased by the Museum from the EES, 1969."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/eg/original/DP228716.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/69.105_rp.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/69.105_lp.jpg"
+    ],
+    "title": "Recumbent Anubis",
+    "what": [
+        "Sculpture",
+        "Limestone",
+        "Painting",
+        "Statues",
+        "Figurines"
+    ],
+    "when": "1000 B.C.-A.D. 1",
+    "where": [
+        "Africa",
+        "Egypt",
+        "Upper Egypt",
+        "Saqqara"
+    ]
+}

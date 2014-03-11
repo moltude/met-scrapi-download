@@ -1,0 +1,125 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/543898"
+            },
+            {
+                "href": "http://scrapi.org/object/590943"
+            },
+            {
+                "href": "http://scrapi.org/object/556718"
+            },
+            {
+                "href": "http://scrapi.org/object/543887"
+            },
+            {
+                "href": "http://scrapi.org/object/543888"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A151_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113641",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R130_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140310140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A145_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113221",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=02\u00aeion=afe",
+                "rel": "Egypt, 8000\u20132000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/543897"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/543897"
+        }
+    },
+    "accession number": "26.7.1450",
+    "credit line": "Purchase, Edward S. Harkness Gift, 1926",
+    "date": "ca. 2323\u20132291 B.C.",
+    "department": "Egyptian Art",
+    "description": "The carved handle of this beautiful object appears to be an elegant papyrus stalk crowned with an umbel bloom supporting a small naos (shrine), surmounted by a cavetto cornice. A falcon stands proudly at the top directly behind a rearing cobra with open hood. This is a royal object, as is shown by the inscriptions naming Teti, first sovereign of Dynasty 6. On the preserved face of the naos, the pharaoh's five names appear framed by the sign for \"sky,\" supported by two was scepters: from center to left, his Horus name, then his Two Ladies and  Horus of Gold names; on the right his King of Upper and Lower Egypt and his Son of Re names combined as usual at this name, Teti. A long vertical inscription runs down the handle: \"The King of Upper and Lower Egypt, Son of Re, Teti, beloved of Hathor, Lady of Dendara, may he live eternally.\"This is not a decorative object, but a musical instrument specific to pharaonic Egypt and called by Egyptologists a naos sistrum. It is one of the first examples known of a type that persisted until the Roman period. A sort of musical rattle, the sistrum was shaken in cadence, marking the rhythm at religious ceremonies. Its soothing music, evoking an ancient rite\u2014the \"shaking of the papyrus\"\u2014warded off the violence of dangerous deities, Hathor in particular. According to myth, that goddess could transform herself into a fearsome lioness. She appears in the vertical inscription on the sistrum as a young woman with two cow's horns, on which the sun disk rests. Because this sistrum as a whole can be read as a rebus, it is linked to late texts that consider the instrument the incarnation of the goddess. In spite of its unusual material, this sistrum is not an ex-voto but may actually have been used. On the base of the naos are holes for small copper rods equipped with jangling disks; the rods, along with one of the walls forming a sound box, have disappeared, but their former presence is attested by traces of verdigris.",
+    "dimensions": "H. 26.5 cm (10 7/8 in.); W. 7 cm (2 3/4 in.); D. 2.7 cm (1 1/16 in.)",
+    "gallery-id": 103,
+    "id": 543897,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/DT259185.jpg",
+    "medium": "Travertine (Egyptian alabaster), pigment, resin",
+    "provenance": [
+        "Formerly Carnarvon Collection, purchased in Cairo before 1920 when it was published by Norman de Garis Davies. Carnarvon Collection purchased by the Museum from Lady Carnarvon, 1926."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/eg/original/DT259185.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/DT259186.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/26.7.1450_EGDP013691.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/26.7.1450_EGDP013694.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/26.7.1450_EGDP013695.jpg"
+    ],
+    "title": "Sistrum Inscribed with the Names of King Teti",
+    "what": [
+        "Limestone",
+        "Idiophones",
+        "Gypsum",
+        "Alabaster",
+        "Travertine",
+        "Resin",
+        "Rattles",
+        "Sistra"
+    ],
+    "when": "8000-2000 B.C.",
+    "where": [
+        "Africa",
+        "Egypt"
+    ]
+}

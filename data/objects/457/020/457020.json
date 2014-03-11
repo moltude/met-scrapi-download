@@ -1,0 +1,124 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/445997"
+            },
+            {
+                "href": "http://scrapi.org/object/447067"
+            },
+            {
+                "href": "http://scrapi.org/object/447054"
+            },
+            {
+                "href": "http://scrapi.org/object/447062"
+            },
+            {
+                "href": "http://scrapi.org/object/447083"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A249_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114331",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A250_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114353",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world-french?eid=R026_%7b85906EA1-CA66-4610-A52C-39562E1A4C40%7d_20140310133000",
+                "rel": "Arts du monde Islamique (Arts of the Islamic World in French)"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R130_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140310141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=ssa",
+                "rel": "South Asia, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/457020"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/457020"
+        }
+    },
+    "accession number": "2009.376a, b",
+    "credit line": "Gift of Harvey and Elizabeth Plotnick, 2009",
+    "culture": "Islamic",
+    "date": "second half 17th century",
+    "department": "Islamic Art",
+    "description": "The flower style associated with the height of Mughal aesthetics and refinement finds expression in this pair of carved wood doors. The depiction of complete flowering plants, carved in low relief and placed in a symmetrical arrangement, is the hallmark of this style, which had its genesis in the reign of the Mughal emperor Jahangir (1605\u201327). In accordance with their patrons' interests, artists of this period studied European herbals, borrowing the techniques of combining front and side views and infusing the petals and leaves of the plants with a sense of movement. During the reign of Jahangir's son Shah Jahan (1627\u201358), and especially from the 1630s on, the plant studies were transformed into decorative motifs, arranged in rows to cover textiles, objects, and architectural spaces. As they were incorporated into stylized, symmetrically balanced compositions like those on the carved dadoes and inlaid panels at the Taj Mahal, the plants lost their botanical specificity.The use of wood was limited in Mughal architecture, and little of it remains. These doors are thus rare survivals of a tradition known through only a few other examples, including a pair of similar doors in the David Collection, Copenhagen.",
+    "dimensions": [
+        "H. 73 in. (185.4 cm)",
+        "W. 30 in. (76.2 cm)  includes both doors",
+        "D. 3 in.  (7.6 cm)",
+        "Wt. 63 lbs. (28.6 kg)"
+    ],
+    "gallery-id": 463,
+    "id": 457020,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/DP230666.jpg",
+    "medium": "Wood; carved with residues of paint",
+    "provenance": [
+        "William K. Ehrenfeld, San Francisco (until about 2002, to McInerney)",
+        "[ Terence McInerney, about 2002\u20134",
+        "sold to Plotnick]",
+        "Harvey and Elizabeth Plotnick, Chicago (2004\u20139; gifted to MMA)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/DP230666.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/Plotnick wooden doors.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/TR.273ab.2009.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/TR.273a,b.2009 Back.JPG"
+    ],
+    "title": "Pair of Flower Style Doors",
+    "what": "Doors",
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Asia",
+        "India"
+    ]
+}

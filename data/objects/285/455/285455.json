@@ -1,0 +1,95 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/288005"
+            },
+            {
+                "href": "http://scrapi.org/object/289720"
+            },
+            {
+                "href": "http://scrapi.org/object/302445"
+            },
+            {
+                "href": "http://scrapi.org/object/283190"
+            },
+            {
+                "href": "http://scrapi.org/object/283196"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/irmd/hd_irmd.htm",
+                "rel": "Nineteenth\u2013Century Iran: Art and the Advent of Modernity"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=wai",
+                "rel": "Iran (Persia), 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/285455"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/285455"
+        }
+    },
+    "accession number": "1977.683.22",
+    "credit line": "Gift of Charles Wilkinson, 1977",
+    "date": "ca. 1852\u201355",
+    "department": "Photographs",
+    "description": "In this formal portrait of Nasir al-Din Shah (r. 1848-96), he wears a carefully chosen costume of European-style coat and trousers with a Persian robe, and a long sword hangs from his belt. These attributes accentuate both his cultural sophistication and military prowess. The practice of photography was taken up in Iran soon after its invention in Europe, and Nasir al-Din Shah was an enthusiastic amateur himself. He also employed the medium alongside the traditional oil paintings to disseminate his own image: the photograph itself could have been printed many times and easily distributed, and it also served as the basis for other paintings. In the watercolor painting that was made after this photograph, the artist has played with the colors and added decorative elements to the architecture behind. The photograph was taken by Luigi Pesce, a colonel from Naples who was appointed commander-in-chief of the Persian infantry and who was an avid recorder of his adopted country. The album in which it has been placed contains seventy-four other photographs of the Qajar court taken by Pesce, M. de Blocqueville, and other anonymous artists.",
+    "dimensions": "Image 33.7 x 21.2 cm (13 1/4 x 8 3/8 in.)",
+    "id": 285455,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DT5141.jpg",
+    "medium": "Salted paper print from glass negative",
+    "provenance": [
+        "Ardeshir Mirza",
+        "[...]",
+        "Charles Wilkinson"
+    ],
+    "title": "Nasr ed-din Shah",
+    "what": [
+        "Photographs",
+        "Salted paper prints"
+    ],
+    "when": "A.D. 1800-1900",
+    "who": "Unknown"
+}

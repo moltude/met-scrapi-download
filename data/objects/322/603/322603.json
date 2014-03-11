@@ -1,0 +1,111 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/326162"
+            },
+            {
+                "href": "http://scrapi.org/object/322602"
+            },
+            {
+                "href": "http://scrapi.org/object/324133"
+            },
+            {
+                "href": "http://scrapi.org/object/324047"
+            },
+            {
+                "href": "http://scrapi.org/object/324480"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R104_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140310121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R105_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140312121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R106_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140313121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R107_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140314121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R116_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140331121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R117_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140402121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R118_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140403121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=03\u00aeion=wam",
+                "rel": "Mesopotamia, 2000\u20131000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/322603"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/322603"
+        }
+    },
+    "accession number": "32.39.2",
+    "credit line": "Rogers Fund, 1932",
+    "culture": "Isin-Larsa\u2013Old Babylonian",
+    "date": "ca. 2000\u20131700 B.C.",
+    "department": "Ancient Near Eastern Art",
+    "description": "Ceramic plaques of this sort were mass-produced from molds and represent a form of art available to a wide audience. They have been excavated in temples as well as household shrines in private homes. Their subject matter varies widely, including religious images, mythological and erotic scenes, and representations of rulers and gods.The figure on this plaque carries a mace or scepter and wears a short kilt and the round headdress of an Old Babylonian/Isin-Larsa ruler. His posture is erect and commanding, resembling that of Mesopotamian rulers of the Akkadian period on monumental relief sculpture. The mace held by this figure is often interpreted as a symbol of authority that has been invested by a higher power. Similar figures appear on cylinder seals, where they are usually depicted facing a suppliant goddess who intercedes with the gods on behalf of the seal owner. While some scholars have suggested that this figure is a god, it is likely that he is a king in warrior dress.",
+    "dimensions": "H. 12.1 cm, W. 7.1 cm",
+    "gallery-id": 406,
+    "id": 322603,
+    "image": "http://images.metmuseum.org/CRDImages/an/original/an32.39.2.jpg",
+    "medium": "Ceramic",
+    "provenance": [
+        "Acquired by the Museum in 1932, purchased from John Khayat, New York."
+    ],
+    "title": "Molded plaque: king or a god carrying a mace",
+    "what": [
+        "Ceramics",
+        "Sculpture",
+        "Reliefs",
+        "Plaques"
+    ],
+    "when": "2000-1000 B.C.",
+    "where": [
+        "Asia",
+        "Iraq"
+    ],
+    "who": "Old Babylonian"
+}

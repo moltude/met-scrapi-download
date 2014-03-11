@@ -1,0 +1,184 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/48949"
+            },
+            {
+                "href": "http://scrapi.org/object/48952"
+            },
+            {
+                "href": "http://scrapi.org/object/48953"
+            },
+            {
+                "href": "http://scrapi.org/object/48954"
+            },
+            {
+                "href": "http://scrapi.org/object/51528"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 8, 2014",
+                "href": "/exhibitions/listings/2014/tibet-and-india",
+                "rel": "Tibet and India"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/chinese-carving",
+                "rel": "Colors of the Universe"
+            },
+            {
+                "date": "From July 19, 2013",
+                "href": "/exhibitions/listings/2013/chinese-snuff-bottles",
+                "rel": "Small Delights"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/ink-art",
+                "rel": "Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "From February 1, 2014",
+                "href": "/exhibitions/listings/2014/edo-period-painting",
+                "rel": "The Flowering of Edo Period Painting"
+            },
+            {
+                "date": "From April 14, 2014",
+                "href": "/exhibitions/listings/2014/lost-kingdoms",
+                "rel": "Lost Kingdoms"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/highlights-of-asia?eid=A041_%7b93924202-8616-42E2-8DA1-39A4591F1426%7d_20140122180137",
+                "rel": "Highlights of Asia"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R100_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140303111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R100_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140303131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R101_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140304111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R101_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140304120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R101_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140304131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/talks/gallery-talks/the-flowering-of-edo-period-painting-spring?eid=A001_%7bB9065A06-A3F9-4CAB-8F49-ED3038F1E7A2%7d_20140205171419",
+                "rel": "Exhibition Tour\u2014The Flowering of Edo Period Painting: Japanese Masterworks from the Feinberg Collection"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=A092_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20131018142423",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R102_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140305120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R102_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140305131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/clpg/hd_clpg.htm",
+                "rel": "Landscape Painting in Chinese Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/ming/hd_ming.htm",
+                "rel": "Ming Dynasty (1368\u20131644)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/cnat/hd_cnat.htm",
+                "rel": "Nature in Chinese Culture"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/qing_2/hd_qing_2.htm",
+                "rel": "The Qing Dynasty (1644\u20131911): The Traditionalists"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/wang/hd_wang.htm",
+                "rel": "Wang Hui (1632\u20131717)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=nc",
+                "rel": "Central and North Asia, 1600\u20131800 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=eac",
+                "rel": "China, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/41479"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/41479"
+        }
+    },
+    "accession number": "1990.318",
+    "credit line": "Gift of Mr. and Mrs. Wan-go H. C. Weng, 1990",
+    "culture": "China",
+    "date": "dated 1611",
+    "department": "Asian Art",
+    "description": "In this short handscroll, the artist-theorist Dong Qichang turns landscape forms into calligraphic abstractions. In the right half of the scroll, interlocking wedge-shaped masses create the illusion of a logical spatial recession. In the second half of the painting, logic is abandoned: ground planes shift, changes in scale are capricious, frequent contrasts between light and dark ink deny the blurring effects of atmosphere, and the illusion of recession is confounded by flat patterns of brushwork and patches of blank paper that continually assert the two-dimensionality of the picture surface.As the painting's title suggests, the scroll invites the viewer on a journey that leads not only from illusionism to abstraction but from the external world of appearances to the inner world of the recluse's mind. In so doing, it visualizes the disparate worlds between which both the artist and the scroll's recipient, Dong's longtime friend Wu Zhengzhi (d. ca. 1619), must choose. In a long colophon inscribed after the painting, Dong praises Wu, who, like himself, chose to withdraw from government service to live in retirement:I am like clouds returning to the mountain,You are like the rising sun.To go forth [and serve] or abide at home,Either is appropriate.Why must one live [in isolation like] the crane and gibbon?Only those who shun this world,Can live out their days in the Peach Blossom Spring  [an idyllic community of hermits celebrated in poetry by Tao Qian (365\u2013427)].",
+    "dimensions": "Image 10 1/4 \u00d7 36 7/16 in. (26 \u00d7 92.6 cm)",
+    "id": 41479,
+    "image": "http://images.metmuseum.org/CRDImages/as/original/DP216493_94.jpg",
+    "medium": "Handscroll; ink on paper",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/as/original/DP216493_94.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP216488.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP216490.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP216491.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP216492.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP216493.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP216494.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP216495.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP216496.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP216497.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP216498.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP216500.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP216499.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP216501.jpg"
+    ],
+    "title": "Invitation to Reclusion at Jingxi",
+    "what": [
+        "Ink",
+        "Paper",
+        "Paintings",
+        "Scroll paintings",
+        "Handscrolls"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Asia",
+        "China"
+    ],
+    "who": "Dong Qichang"
+}

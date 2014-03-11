@@ -1,0 +1,134 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/452307"
+            },
+            {
+                "href": "http://scrapi.org/object/448496"
+            },
+            {
+                "href": "http://scrapi.org/object/454738"
+            },
+            {
+                "href": "http://scrapi.org/object/452103"
+            },
+            {
+                "href": "http://scrapi.org/object/453341"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A249_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114331",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A250_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114353",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world-french?eid=R026_%7b85906EA1-CA66-4610-A52C-39562E1A4C40%7d_20140310133000",
+                "rel": "Arts du monde Islamique (Arts of the Islamic World in French)"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R130_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140310141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/mugh_2/hd_mugh_2.htm",
+                "rel": "The Art of the Mughals after 1600"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=ssa",
+                "rel": "South Asia, 1400\u20131600 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=ssa",
+                "rel": "South Asia, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/448257"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/448257"
+        }
+    },
+    "accession number": "29.145.2",
+    "credit line": "The Sylmaris Collection, Gift of George Coe Graves, 1929",
+    "culture": "Islamic",
+    "date": "dated A.H. 1028/A.D. 1618\u201319",
+    "department": "Islamic Art",
+    "description": "Sturdy, monumental, artfully rounded, richly adorned, and so weighty and well balanced that it could hardly be overturned, this dignified and useful inkpot can be seen as a poetic visual symbol of the empire inherited by Jahangir. If his father, Akbar, commissioned works of art as elements of a dynamic imperial vision, the son did so for delectation and spiritual nourishment. His miniatures, architecture, objects, and autobiography, the Tuzuk-i Jahangiri, reveal him as a responsible\u2013if quirky, warm-blooded, and sometimes cruel\u2013ruler, whose aesthetic concerns left enough time and energy for essential statecraft. Few rulers in world history match his artistic discernment or breadth of taste. He collected pictures and objects from the Islamic world and beyond: Chinese porcelains, Augsburg gilt-bronze statuettes, engravings by D\u00fcrer and the Flemish Mannerists, and Renaissance jewels as well as Persian miniatures. On coming to the throne, he released a large proportion of the imperial artists and craftsmen to feudatory courts and to the bazaar workshops, keeping only those whose work met his standards of seriousness and restraint.",
+    "dimensions": "H. 2-1/2 in. (6.4 cm); Diam. 3-1/4 in. (7.9 cm)",
+    "gallery-id": 463,
+    "id": 448257,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/DP216054.jpg",
+    "medium": "Nephrite, gold",
+    "provenance": [
+        "Lale Kashi Nath, Luchnow, India (until about 1904; to Lall)",
+        "[ Ganeshi Lall& Son, Agra, India, about 1904\u201329",
+        "to Graves]",
+        "George Coe GravesOsterville, MA (1929; gifted to MMA)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/DP216054.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/sf29-145-2.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DT11766.jpg"
+    ],
+    "title": "Inkpot of the Emperor Jahangir",
+    "what": [
+        "Metal",
+        "Gold",
+        "Stone",
+        "Nephrite",
+        "Inkwells"
+    ],
+    "where": [
+        "Asia",
+        "India"
+    ],
+    "who": "Mu'min"
+}

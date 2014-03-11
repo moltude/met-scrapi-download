@@ -1,0 +1,105 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/459299"
+            },
+            {
+                "href": "http://scrapi.org/object/459300"
+            },
+            {
+                "href": "http://scrapi.org/object/459236"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R130_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140310134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R131_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140311134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R132_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140312134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R133_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140313134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R134_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140314134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A109_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131126111651",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A115_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131127144444",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A110_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131126111706",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R145_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140331134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/talks/gallery-talks/european-sculpture-in-the-robert-lehman-collection?eid=A001_%7b835B4316-D69F-4E38-A76F-839A55CF6946%7d_20140123112008",
+                "rel": "European Sculpture in the Robert Lehman Collection"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/459288"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/459288"
+        }
+    },
+    "accession number": "1975.1.826",
+    "credit line": "Robert Lehman Collection, 1975",
+    "date": "ca. 1604-05",
+    "department": "Robert Lehman Collection",
+    "dimensions": "5 1/4 x 7 7/8 in.  (13.3 x 20 cm)",
+    "id": 459288,
+    "image": "http://images.metmuseum.org/CRDImages/rl/original/SF-1975-1-826.jpg",
+    "medium": [
+        "Pen and brown ink, brush and brown ink, over traces of black chalk.",
+        "On the verso, in pen and brown ink, studies of five figures standing near a tree, and some mathematical calculations."
+    ],
+    "provenance": [
+        "Wladimir Argoutinsky-Dolgoroukoff, Paris (Lugt 2602d on the verso)",
+        "Argoutinsky sale, R.W.P. de Vries, Amsterdam, 27 March 1925, lot 68, pl. 8 (as Pieter Bruegel the Elder, 1562)",
+        "sale, M.N. collection, The Hague, and various other Dutch private collections, Arti et Amicitiae (directed by Bernard Houthakker and F.W.H.Hollstein), Amsterdam, 21 February 1939, lot 15, ill. (as Bruegel, 1564)."
+    ],
+    "title": "Tervueren Castle",
+    "what": [
+        "Ink",
+        "Drawings",
+        "Chalk",
+        "Figures",
+        "Pen",
+        "Black chalk"
+    ],
+    "when": "A.D. 1600-1800",
+    "who": "Flanders"
+}

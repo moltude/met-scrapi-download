@@ -1,0 +1,123 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/548229"
+            },
+            {
+                "href": "http://scrapi.org/object/552350"
+            },
+            {
+                "href": "http://scrapi.org/object/548730"
+            },
+            {
+                "href": "http://scrapi.org/object/546986"
+            },
+            {
+                "href": "http://scrapi.org/object/558202"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R129_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140307140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/teen-programs/saturday-sketching/saturday-sketching-egyptian-art?eid=A001_%7b8698F79D-A7E0-44F1-99CF-57C8A2E2471A%7d_20131211143556",
+                "rel": "Saturday Sketching\u2014Egyptian Art (Ages 11\u201318)"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A151_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113641",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R130_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140310140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=03\u00aeion=afe",
+                "rel": "Egypt, 2000\u20131000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/544022"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/544022"
+        }
+    },
+    "accession number": "12.181.264",
+    "credit line": "Rogers Fund, 1912",
+    "date": "ca. 1500\u20131400 B.C.",
+    "department": "Egyptian Art",
+    "description": "Containers such as these (12.181.263, 12.181.264) were first imported into Egypt in the early Eighteenth Dynasty and are often found in modest burials. The shape of some of them, such as the one here with the longer neck, seems to be modeled after the inverted seedpod of the poppy (Papaver somniferum), cut to release its sap. This suggests that the jars once held opium, which is made from the sap. Opium is a powerful sedative that can be used not only as a painkiller but also in the treatment of diar-rhea, dysentery, fever, and similar complaints.",
+    "dimensions": "H. 13.7 (5 3/8 in); diam. 6.5 cm (2 9/16 in)",
+    "gallery-id": 114,
+    "id": 544022,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/DP112641.jpg",
+    "medium": "Pottery, black ware",
+    "provenance": [
+        "Excavated by Lord Carnarvon and Howard Carter before 1911. Retained by the Egyptian Antiquities Service (SAE) in the division of finds. Sold to the Metropolitan Museum of art by the Egyptian Government, 1912."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/eg/original/DP112641.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/DP112600.jpg"
+    ],
+    "title": "Cypriote ring based juglet",
+    "what": [
+        "Ceramics",
+        "Vessels",
+        "Pottery",
+        "Jugs",
+        "Stoneware",
+        "Juglets",
+        "Black basaltes"
+    ],
+    "when": "2000-1000 B.C.",
+    "where": [
+        "Africa",
+        "Egypt",
+        "Upper Egypt",
+        "Thebes"
+    ]
+}

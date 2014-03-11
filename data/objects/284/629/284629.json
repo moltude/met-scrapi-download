@@ -1,0 +1,102 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/266710"
+            },
+            {
+                "href": "http://scrapi.org/object/284572"
+            },
+            {
+                "href": "http://scrapi.org/object/284565"
+            },
+            {
+                "href": "http://scrapi.org/object/284568"
+            },
+            {
+                "href": "http://scrapi.org/object/284630"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/bola/hd_bola.htm",
+                "rel": "Body/Landscape: Photography and the Reconfiguration of the Sculptural Object"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/284629"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/284629"
+        }
+    },
+    "accession number": "2001.274a, b",
+    "credit line": "Purchase, Pat and John Rosenwald Gift, 2001",
+    "date": "1969",
+    "department": "Photographs",
+    "description": "Best known for his landmark Spiral Jetty (1970)-a 1,500-foot sculpture of mud, salt crystals, and rock coiling over ten acres of the Great Salt Lake, Utah-Smithson was among the artists of the 1960s who liberated sculpture from the gallery and museum, moved it outdoors, and made it inextricable from its site. These \"Earthwork\" artists, fascinated by process and gesture, installed their works in ravaged industrial sites and far flung corners of the world, creating pieces that were antimonumental or deliberately ephemeral and largely dependent upon photography as witness to their existence.     For his seminal 1969 series Mirror Displacements, Smithson placed temporary groupings of mirrors half-embedded in earth so they would reflect the surrounding landscape. Probably made in Wales, this diptych shows the artist's accordion-folded mirror coursing its way through a landscape of jagged rocks like a hidden snake, so that \"as one looked, more and more possibilities emerged because nothing was certain . . . scraps of sight accumulated until the eyes were engulfed by scrambled reflections.\"",
+    "dimensions": "2.7 x 2.7 cm (1 1/16 x 1 1/16 in. ) each",
+    "id": 284629,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP289445.jpg",
+    "medium": "35mm chromogenic slides",
+    "provenance": [
+        "The estate of Robert Smithson"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ph/original/DP289445.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP289446.jpg"
+    ],
+    "title": "Untitled (Zig-Zag Mirror Displacement)",
+    "what": [
+        "Photographs",
+        "Transparencies",
+        "Slides"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "Robert Smithson"
+}

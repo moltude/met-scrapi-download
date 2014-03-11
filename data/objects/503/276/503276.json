@@ -1,0 +1,120 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/503629"
+            },
+            {
+                "href": "http://scrapi.org/object/503277"
+            },
+            {
+                "href": "http://scrapi.org/object/504043"
+            },
+            {
+                "href": "http://scrapi.org/object/503346"
+            },
+            {
+                "href": "http://scrapi.org/object/504453"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/early-guitars",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A001_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203181946",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A002_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203182002",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A004_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203182034",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A006_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203182105",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A005_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20140206152942",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A001_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115501",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A002_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115523",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A003_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115537",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A004_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115549",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A005_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115601",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=ssa",
+                "rel": "South Asia and the Himalayan Region, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/503276"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/503276"
+        }
+    },
+    "accession number": "1986.352.2",
+    "credit line": "Gift of Krishna Man Manandhar, 1986",
+    "date": "19th century",
+    "department": "Musical Instruments",
+    "description": "DAM\u0100H\u0100 In western Nepal, where the pa\u00f1cai b\u0101j\u0101 is fundamentally a drumming tradition, the use of 36 dam\u0101h\u0101 is common. A long strap hanging from the player\u2019s neck positions the drum in front of the player who strikes it with angled or straight sticks depending on local tradition. Played with one, or in ritual contexts, with two sticks, the dam\u0101h\u0101 serves as a bass drum for the ensemble. The thick head must remain wet, both inside and out for the proper sound. Because the maker\u2019s feet touch the drum during its manufacture (an insult to the deity for whom it is played) an apology p\u016bj\u0101 of invocations and offerings must be performed to appease the deity. Collected in Saly\u0101n, R\u0101pt\u012b District, Nepal. 19th cent. Gift of Krishna Man Manandhar, 1986. 1986.352.2.",
+    "dimensions": "Diam. 30.5 cm (12 in.); D. 24.9 cm (9-13/16 in.)",
+    "gallery-id": 681,
+    "id": 503276,
+    "image": "http://images.metmuseum.org/CRDImages/mi/original/C4609 1986.352.2.jpg",
+    "medium": "Copper, hide",
+    "provenance": [
+        "Collected by Krishna Man Manandhar for the Museum."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/mi/original/C4609 1986.352.2.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/240883.jpg"
+    ],
+    "title": "Damaha",
+    "what": [
+        "Metal",
+        "Copper",
+        "Musical instruments",
+        "Membranophones",
+        "Drums",
+        "Hide",
+        "Kettledrums"
+    ],
+    "where": [
+        "Asia",
+        "Nepal"
+    ]
+}

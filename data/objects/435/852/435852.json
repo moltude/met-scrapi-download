@@ -1,0 +1,154 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/438338"
+            },
+            {
+                "href": "http://scrapi.org/object/435853"
+            },
+            {
+                "href": "http://scrapi.org/object/438813"
+            },
+            {
+                "href": "http://scrapi.org/object/338414"
+            },
+            {
+                "href": "http://scrapi.org/object/340991"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/piero-della-francesca",
+                "rel": "Piero della Francesca"
+            },
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "From April 22, 2014",
+                "href": "/exhibitions/listings/2014/goya",
+                "rel": "Goya and the Altamira Family"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/talks/gallery-talks/piero-della-francesca?eid=A001_%7bE50FD455-5FC1-41D0-9391-C456264363EF%7d_20140206160624",
+                "rel": "Exhibition Tour\u2014Piero della Francesca: Personal Encounters"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=A257_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20131127123002",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/monday-at-the-met-spring-2014?eid=R001_%7bBB2BF277-3666-435E-8B95-12CDE21533EA%7d_20140303100000",
+                "rel": "Monday at the Met with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R100_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140303123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R101_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140304123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R102_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140305123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R026_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140306140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R103_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140307123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/talks/the-observant-eye/stepping-out-of-the-frame?eid=A001_%7b438572AD-6B0F-4DA2-94FB-49B8931634C1%7d_20140123142901",
+                "rel": "Stepping Out of the Frame: Three-Dimensionality in the New Galleries for European Paintings"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/saturday-seminar-spring-2014?eid=R001_%7bE063A39F-FC40-4ECC-B690-C4C13F70B2A0%7d_20140308103000",
+                "rel": "Saturday Seminar with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/carr/hd_carr.htm",
+                "rel": "Annibale Carracci (1560\u20131609)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/domn/hd_domn.htm",
+                "rel": "Domenichino (Domenico Zampieri) (1581\u20131641)"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/435852"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/435852"
+        }
+    },
+    "accession number": "1994.142",
+    "credit line": "Purchase, Gwynne Andrews Fund, and Bequests of Collis P. Huntington and Ogden Mills, by exchange, 1994",
+    "department": "European Paintings",
+    "dimensions": "26 x 35 in. (66 x 88.9 cm)",
+    "gallery-id": 623,
+    "id": 435852,
+    "image": "http://images.metmuseum.org/CRDImages/ep/original/DP243404.jpg",
+    "medium": "Oil on canvas",
+    "provenance": [
+        "conte Girolamo Ranuzzi, Palazzo Mirabello, Bologna (until d. 1667; inv., 1667, without attribution)",
+        "conte Camillo Ranuzzi Manzoli, Palazzo Mirabello, Bologna (1667\u2013d. 1678; inv., 1679, no. 9, as by Annibale Carracci)",
+        "the Ranuzzi family (from 1678; probably sold to Ruffo)",
+        "Cardinal Tommaso Ruffo, Ferrara and Rome (by 1734\u2013d. 1753; inv., 1734)",
+        "Litterio Ruffo, duca di Baranello, Naples (1753\u2013d. 1772)",
+        "Vincenzo Ruffo, duca di Baranello, Naples (1772\u201376; sold through Sir William Hamilton to Greville)",
+        "Hon. Charles Francis Greville, London (1776\u2013d. 1809; his estate sale, Christie's, London, March 31, 1810, no. 67, for \u00a365 to Howard)",
+        "Frederick Howard, 5th Earl of Carlisle, Castle Howard, North Yorkshire (1810\u2013d. 1825; cat., n.d., no. 125; inv., 1825)",
+        "the Earls of Carlisle, Castle Howard (1825\u20131911)",
+        "Hon. Geoffrey William Algernon Howard, Castle Howard (1911\u2013d. 1935; his estate, 1935\u201344; his estate sale, Christie's, London, February 18, 1944, no. 16, for \u00a384 to Katz)",
+        "[Katz, from 1944]",
+        "sale, property of a gentleman, Sotheby's, London, July 7, 1976, no. 107, for \u00a314,000",
+        "sale, Sotheby's, London, December 11, 1991, no. 20, bought in",
+        "sale, Sotheby's, London, April 20, 1994, no. 48, as Attributed to Agostino Carracci, to MMA"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ep/original/DP243404.jpg",
+        "http://images.metmuseum.org/CRDImages/ep/original/DP120570.jpg",
+        "http://images.metmuseum.org/CRDImages/ep/original/SF carracci cat.jpg",
+        "http://images.metmuseum.org/CRDImages/ep/original/SF carracci collar.jpg",
+        "http://images.metmuseum.org/CRDImages/ep/original/SF carracci ear.jpg",
+        "http://images.metmuseum.org/CRDImages/ep/original/SF carracci shoulder.jpg",
+        "http://images.metmuseum.org/CRDImages/ep/original/SF carracci sleeve.jpg"
+    ],
+    "title": "Two Children Teasing a Cat",
+    "what": [
+        "Paintings",
+        "Canvas",
+        "Oil paint"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Annibale Carracci"
+}

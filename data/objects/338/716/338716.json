@@ -1,0 +1,138 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/338715"
+            },
+            {
+                "href": "http://scrapi.org/object/338717"
+            },
+            {
+                "href": "http://scrapi.org/object/340367"
+            },
+            {
+                "href": "http://scrapi.org/object/340435"
+            },
+            {
+                "href": "http://scrapi.org/object/340436"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/lovr/hd_lovr.htm",
+                "rel": "Lovers in Italian Mythological Prints"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/zino/hd_zino.htm",
+                "rel": "Mannerism: Bronzino (1503\u20131572) and his Contemporaries"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/drwg/hd_drwg.htm",
+                "rel": "Renaissance Drawings: Material and Function"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/emro/hd_emro.htm",
+                "rel": "Sixteenth\u2013Century Painting in Emilia\u2013Romagna"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/birt/hd_birt.htm",
+                "rel": "The Birth and Infancy of Christ in Italian Painting"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/prnt/hd_prnt.htm",
+                "rel": "The Printed Image in the West: History and Techniques"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/leon/hd_leon.htm",
+                "rel": "Leonardo da Vinci (1452\u20131519)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/port/hd_port.htm",
+                "rel": "Portraiture in Renaissance and Baroque Europe"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/prof/hd_prof.htm",
+                "rel": "Profane Love and Erotic Art in the Italian Renaissance"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/338716"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/338716"
+        }
+    },
+    "accession number": "10.45.4",
+    "credit line": "Rogers Fund, 1910",
+    "date": "ca. 1522",
+    "department": "Drawings and Prints",
+    "dimensions": "5-3/4 x 3-7/16 in.  (14.6 x 8.7 cm)",
+    "id": 338716,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP810967.jpg",
+    "medium": "Red chalk",
+    "provenance": [
+        "Thomas Howard (British, Finchingfield, Essex 1585\u20131646 Padua, Italy)",
+        "Jonathan Richardson Sr. (British, London 1667\u20131745 London)",
+        "John Barnard (London, died 1784)",
+        "Sir Joshua Reynolds (British, Plympton 1723\u20131792 London)",
+        "Vendor: P. & D. Colnaghi & Co., Ltd."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP810967.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DR202.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DR203.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/10.45.4 RECTO.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/10.45.4 VERSO.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP810968.jpg"
+    ],
+    "title": "Seated Goddess Diana (recto); Studies of a Nude Male Torso Seen from the Rear, and a leg (verso)",
+    "what": [
+        "Drawings",
+        "Chalk"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Parmigianino (Girolamo Francesco Maria Mazzola)"
+}

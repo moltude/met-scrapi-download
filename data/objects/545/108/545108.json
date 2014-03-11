@@ -1,0 +1,118 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/547314"
+            },
+            {
+                "href": "http://scrapi.org/object/543954"
+            },
+            {
+                "href": "http://scrapi.org/object/543966"
+            },
+            {
+                "href": "http://scrapi.org/object/543967"
+            },
+            {
+                "href": "http://scrapi.org/object/544775"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A151_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113641",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R130_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140310140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A145_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113221",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=03\u00aeion=afe",
+                "rel": "Egypt, 2000\u20131000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/545108"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/545108"
+        }
+    },
+    "accession number": "02.4.191",
+    "credit line": "Gift of Egypt Exploration Fund, 1902",
+    "date": "ca. 1700\u20131600 B.C.",
+    "department": "Egyptian Art",
+    "description": "This head was at some point in the past considered to be of Late Period (Dynasty 25) date but subsequent reevaluation of the art of the late Middle Kingdom has enabled scholars to understand it as a primary work of Dynasty 13.  The partial baldness of the official is an indication of maturity.  He still retains tufts of hair, once probably emphasized by paint, above the ears.  The hooded eyes and the furrow between the brows are reminiscent of royal images of Dynasty 12.  Maturity and features characteristic of a wise ruler identify the man as an experienced and caring holder of high office, while the elegant bone structure of the head and the sensitive pursed lips express a noble and refined mind.The head once belonged to a statue that was larger than life size and showed the official either standing or seated.  It was  excavated in the temple of Osiris at Abydos which makes it an example of the new type of statuary introduced during the Middle Kingdom: a temple statue.  Through this placement of his statue, the official hoped to participate eternally in the rituals performed for the god.",
+    "dimensions": "h. 30 cm (11 13/16 in)",
+    "gallery-id": 111,
+    "id": 545108,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/262112.jpg",
+    "medium": "Quartzite",
+    "provenance": [
+        "Egypt Exploration Fund excavations. Acquired by the EEF in the division of finds. Acquired by the Museum through subscription to the EEF, 1902."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/eg/original/262112.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/262108.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/262111.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/262109.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/262110.jpg"
+    ],
+    "title": "Head from a Large Statue of a Priest or Dignitary",
+    "what": "Quartzite",
+    "when": "2000-1000 B.C.",
+    "where": [
+        "Africa",
+        "Egypt",
+        "Upper Egypt",
+        "Abydos"
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/44918"
+            },
+            {
+                "href": "http://scrapi.org/object/73167"
+            },
+            {
+                "href": "http://scrapi.org/object/48922"
+            },
+            {
+                "href": "http://scrapi.org/object/48982"
+            },
+            {
+                "href": "http://scrapi.org/object/76113"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 8, 2014",
+                "href": "/exhibitions/listings/2014/tibet-and-india",
+                "rel": "Tibet and India"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/chinese-carving",
+                "rel": "Colors of the Universe"
+            },
+            {
+                "date": "From July 19, 2013",
+                "href": "/exhibitions/listings/2013/chinese-snuff-bottles",
+                "rel": "Small Delights"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/ink-art",
+                "rel": "Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "From February 1, 2014",
+                "href": "/exhibitions/listings/2014/edo-period-painting",
+                "rel": "The Flowering of Edo Period Painting"
+            },
+            {
+                "date": "From April 14, 2014",
+                "href": "/exhibitions/listings/2014/lost-kingdoms",
+                "rel": "Lost Kingdoms"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R105_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140311111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R105_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140311120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R105_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140311131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/talks/gallery-talks/gallery-conv-culture-and-politics?eid=A001_%7b33996DD5-3C4F-473B-BCAE-533DF0BF66F1%7d_20140205160349",
+                "rel": "Gallery Conversation\u2014Culture and Politics in Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=A093_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20131018142432",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R106_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140312120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R106_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140312131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R107_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140313120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/programs-for-visitors-with-disabilities/visitors-who-are-blind-or-partially-sighted/picture-this-workshop-asian-art?eid=A001_%7b9CE222FD-E83F-4619-ADE7-7E4A30CBB471%7d_20140206171620",
+                "rel": "Picture This! Workshop\u2014Asian Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R107_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140314111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/jinc/hd_jinc.htm",
+                "rel": "Japanese Incense"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/momo/hd_momo.htm",
+                "rel": "Momoyama Period (1573\u20131615)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=eaj",
+                "rel": "Japan, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/45375"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/45375"
+        }
+    },
+    "accession number": "29.100.493, .494",
+    "credit line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+    "culture": "Japan",
+    "date": "late 16th century",
+    "department": "Asian Art",
+    "description": "Clothing draped casually on a rack hints at an absent wearer, prompting the question, \"Whose sleeves?\" (tagasode)\u2014a unique phrase that appears in classical Japanese poetry. Screens that alluded to this romantic subject became popular in the Momoyama period. Illustrated here are not the garments of classical Japan but the contemporary kosode, a robe with narrow openings at the sleeves that is the direct antecedent of both the modern kimono and the elaborate costumes of Noh drama. Lively patterns of fans, waterwheels, and stylized characters are combined to rich and decorative effect. Generally unsigned, tagasode screens are thought to have been painted by \"town painters,\" artists whose ready-made works were sold in shops in Kyoto. Here, the presentation of the theme includes several robes; household necessities, such as the large lacquer chest; and woman's accessories, such as the amulet hanging on the rack above.",
+    "dimensions": "Overall (each screen) 57 1/16 x 136 9/16 in. (144.9 x 346.8 cm)",
+    "id": 45375,
+    "image": "http://images.metmuseum.org/CRDImages/as/original/DT1617.jpg",
+    "medium": "Pair of six-panel folding screens; ink, color, and gold on gilt paper",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/as/original/DT1617.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DT1618.jpg"
+    ],
+    "title": "Whose Sleeves? (Tagasode)",
+    "what": [
+        "Metal",
+        "Ink",
+        "Paper",
+        "Gold",
+        "Gilt",
+        "Furniture",
+        "Panels",
+        "Screens",
+        "Folding screens"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Asia",
+        "Japan"
+    ]
+}

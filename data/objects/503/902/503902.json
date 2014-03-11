@@ -1,0 +1,112 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/503677"
+            },
+            {
+                "href": "http://scrapi.org/object/503049"
+            },
+            {
+                "href": "http://scrapi.org/object/504598"
+            },
+            {
+                "href": "http://scrapi.org/object/505100"
+            },
+            {
+                "href": "http://scrapi.org/object/505517"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/early-guitars",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A001_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203181946",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A002_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203182002",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A004_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203182034",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A006_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203182105",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A005_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20140206152942",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A001_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115501",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A002_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115523",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A003_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115537",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A004_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115549",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A005_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115601",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwc",
+                "rel": "Central Europe (including Germany), 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/503902"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/503902"
+        }
+    },
+    "accession number": "11.176.4",
+    "credit line": "Gift of Bernardus Boekelman, 1911",
+    "date": "ca. 1790",
+    "department": "Musical Instruments",
+    "description": "Practically the smallest, simplest piano imaginable, this 54-note instrument was carried wherever its quiet music was wanted. The rectangular case and layout of the keys, strings, and soundboard derive from the clavichord.  Unlike a clavichord\u2019s fixed tangents which contact the strings while they sound, the piano's hinged hammers bounce away, letting the strings vibrate freely. The hammer's lever adds velocity to the blow, allowing a louder sound than the clavichord tangent's gentle tap.  This tiny piano lacks dampers, so every tone overlaps the next as in a harp or hammer dulcimer.  Each hammer strikes a single string. A pressure of less than 5 grams depresses the middle C key. Pianos of this shape, with strings running from side to side, are called \"squares.\"",
+    "dimensions": "Case L. perpendicular to keyboard 23.7 cm (9-5/16 in.); W. parallel to keyboard: 95.8 cm (37-11/16 in.) Case D. without lid: 9.9 cm (3-7/8 in.)",
+    "id": 503902,
+    "image": "http://images.metmuseum.org/CRDImages/mi/original/172206.jpg",
+    "medium": "Cherry wood, various materials",
+    "title": "Square Piano",
+    "what": [
+        "Wood",
+        "Musical instruments",
+        "Chordophones",
+        "Zithers",
+        "Cherry",
+        "Pianos"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "Germany"
+    ]
+}

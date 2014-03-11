@@ -1,0 +1,117 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/247509"
+            },
+            {
+                "href": "http://scrapi.org/object/248079"
+            },
+            {
+                "href": "http://scrapi.org/object/248082"
+            },
+            {
+                "href": "http://scrapi.org/object/248083"
+            },
+            {
+                "href": "http://scrapi.org/object/248077"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R105_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140311123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R106_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140313123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R027_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140313130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R107_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140314123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/conversations-with-curators-and-conservators/terracotta-column-krater?eid=A001_%7b1CC4797D-7295-4614-9ACD-19C00BA693F4%7d_20140204162630",
+                "rel": "Conversation with a Curator\u2014Terracotta Column-Krater"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A144_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142257",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A145_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142312",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R116_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140331123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R117_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140401123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=04\u00aeion=eusb",
+                "rel": "Ancient Greece, 1000 B.C.\u20131 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/255344"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/255344"
+        }
+    },
+    "accession number": "1972.11.1",
+    "credit line": "Rogers Fund, 1972",
+    "culture": "Greek",
+    "date": "ca. mid-1st century B.C.",
+    "department": "Greek and Roman Art",
+    "description": "This statuette is remarkable for its synthesis of Hellenistic immediacy and Classical composure. The figure can be identified as an artisan by his dress and muscular build. Particularly telling is the pair of wax tablets tucked in his belt\u2014the equivalent of a note pad\u2014on which he would have written or drawn with a pointed stylus. The portrait is imbued with great psychological power and may represent a famous, even mythological, figure. For example, he may portray the Homeric hero Epeios, who with Athena's help carved the Trojan horse.  It has also been proposed that he is the legendary master craftsman Daidalos, who built the labyrinth at Knossos, or even the famous fifth century B.C. Athenian sculptor Phidias, creator of the chryselephantine cult statue of Zeus at Olympia and master craftsman of the sculptures of the Parthenon on the Athenian Akropolis.",
+    "dimensions": "H. 15 7/8 in. (40.3 cm)",
+    "gallery-id": 164,
+    "id": 255344,
+    "image": "http://images.metmuseum.org/CRDImages/gr/original/DP122002.jpg",
+    "medium": "Bronze, silver",
+    "provenance": [
+        "Said to be from North Africa, possibly Cherchell, AlgeriaBefore 1953, said to have been found in the sea off the North African coast, probably at Cherchell, Algeria",
+        "said to have been given as a present to J. Bousquet, Rodez (Aveyron), France",
+        "1953, given as a present to Louis \u00c9douard Balsan, Rodez (Aveyron), France",
+        "1953-72, collection of Louis E. Balsan, Rodez (Aveyron), France",
+        "acquired in 1972, purchased from Louis E. Balsan."
+    ],
+    "title": "Bronze statuette of an artisan with silver eyes",
+    "what": [
+        "Metal",
+        "Sculpture",
+        "Copper alloy",
+        "Silver",
+        "Bronze",
+        "Statues",
+        "Figurines"
+    ],
+    "when": "1000 B.C.-A.D. 1",
+    "where": [
+        "Europe",
+        "Greece"
+    ]
+}

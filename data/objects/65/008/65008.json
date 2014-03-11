@@ -1,0 +1,141 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/65607"
+            },
+            {
+                "href": "http://scrapi.org/object/69043"
+            },
+            {
+                "href": "http://scrapi.org/object/45415"
+            },
+            {
+                "href": "http://scrapi.org/object/78471"
+            },
+            {
+                "href": "http://scrapi.org/object/61804"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 8, 2014",
+                "href": "/exhibitions/listings/2014/tibet-and-india",
+                "rel": "Tibet and India"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/chinese-carving",
+                "rel": "Colors of the Universe"
+            },
+            {
+                "date": "From July 19, 2013",
+                "href": "/exhibitions/listings/2013/chinese-snuff-bottles",
+                "rel": "Small Delights"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/ink-art",
+                "rel": "Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "From February 1, 2014",
+                "href": "/exhibitions/listings/2014/edo-period-painting",
+                "rel": "The Flowering of Edo Period Painting"
+            },
+            {
+                "date": "From April 14, 2014",
+                "href": "/exhibitions/listings/2014/lost-kingdoms",
+                "rel": "Lost Kingdoms"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R104_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140310111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R104_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140310131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R105_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140311111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R105_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140311120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R105_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140311131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/talks/gallery-talks/gallery-conv-culture-and-politics?eid=A001_%7b33996DD5-3C4F-473B-BCAE-533DF0BF66F1%7d_20140205160349",
+                "rel": "Gallery Conversation\u2014Culture and Politics in Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=A093_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20131018142432",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R106_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140312120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R106_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140312131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R107_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140313120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=eaj",
+                "rel": "Japan, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/65008"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/65008"
+        }
+    },
+    "accession number": "2002.325",
+    "credit line": "Purchase, Parnassus Foundation/Jane and Raphael Bernstein Gift, 2002",
+    "culture": "Japan",
+    "date": "second half of the 18th century",
+    "department": "Asian Art",
+    "description": "On view Rotation 1, August 17 to November 3, 2013A mandarin orange tree (tachibana) bearing fruit and flowers rises from the center back hem of this narrow-sleeved robe (kosode) in a design scheme typical of the second half of the eighteenth century. At the top, the sleeves and upper body of the robe are embellished with auspicious characters richly embroidered in green or purple silk or in gold thread. The three characters read (left to right): Manzai- raku \u842c\u6b73\u697d, which literally means, \u201cEnjoying comfort for ten thousand years.\u201d Manzai-raku is also the name of a type of ancient court music and dance (bugaku) that was performed to celebrate the New Year\u2019s season. The phrase calls to mind a song from the auspicious Noh play Takasago, which proclaims that performing Manzai-raku brings long life.",
+    "dimensions": "50 x 65 in. (127 x 165.1 cm)",
+    "id": 65008,
+    "image": "http://images.metmuseum.org/CRDImages/as/original/2002.325.jpg",
+    "medium": "Dyed and embroidered silk crepe (chijimi) with couched gold-wrapped threads",
+    "title": "Robe with Mandarin Orange Tree and Auspicious Characters",
+    "what": [
+        "Metal",
+        "Costume",
+        "Silk",
+        "Gold",
+        "Needlework",
+        "Embroidery",
+        "Robes",
+        "Dyeing",
+        "Crepe"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Asia",
+        "Japan"
+    ]
+}

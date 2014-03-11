@@ -1,0 +1,123 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/545477"
+            },
+            {
+                "href": "http://scrapi.org/object/546302"
+            },
+            {
+                "href": "http://scrapi.org/object/556550"
+            },
+            {
+                "href": "http://scrapi.org/object/544322"
+            },
+            {
+                "href": "http://scrapi.org/object/558145"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/teen-programs/saturday-sketching/saturday-sketching-egyptian-art?eid=A001_%7b8698F79D-A7E0-44F1-99CF-57C8A2E2471A%7d_20131211143556",
+                "rel": "Saturday Sketching\u2014Egyptian Art (Ages 11\u201318)"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A151_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113641",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R130_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140310140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=03\u00aeion=afe",
+                "rel": "Egypt, 2000\u20131000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/544227"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/544227"
+        }
+    },
+    "accession number": "17.9.1",
+    "credit line": "Gift of Edward S. Harkness, 1917",
+    "date": "ca. 1961\u20131878 B.C.",
+    "department": "Egyptian Art",
+    "description": "This well-formed statuette of a hippopotamus (popularly called \"William\") demonstrates the Egyptian artist's appreciation for the natural world. It was molded in faience, a ceramic material made of ground quartz. Beneath the blue-green glaze, the body was painted with the outlines of river plants, symbolizing the marshes in which the animal lived.The seemingly benign appearance that this figurine presents is deceptive. To the ancient Egyptians, the hippopotamus was one of the most dangerous animals in their world. The huge creatures were a hazard for small fishing boats and other rivercraft. The beast might also be encountered on the waterways in the journey to the afterlife. As such, the hippopotamus was a force of nature that needed to be propitiated and controlled, both in this life and the next. This example was one of a pair found in a shaft associated with the tomb chapel of the steward Senbi II at Meir, an Upper Egyptian site about thirty miles south of modern Asyut. Three of its legs have been restored because they were purposely broken to prevent the creature from harming the deceased. The hippo was part of Senbi's burial equipment, which included a canopic box (also in the Metropolitan Museum), a coffin, and numerous models of boats and food production.",
+    "dimensions": "h. 11.2 cm (4 7/16 in); w. 20 cm (7 7/8 in)",
+    "gallery-id": 111,
+    "id": 544227,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/DP247657.jpg",
+    "medium": "Faience",
+    "provenance": [
+        "Excavated by Sayyid Pasha Khashaba (Said Bey), May 1910. Acquired by Khashaba in the division of finds. In Cairo with Maurice Nahman, November 1910. Purchased from Nahman by  Dikran G. Kelekian, 1911. Purchased from Kelekian, 1917."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/eg/original/DP247657.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/DP248992.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/DP248993.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/DP248994.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/eg17.9.1.AV1.jpg"
+    ],
+    "title": "Hippopotamus",
+    "what": [
+        "Sculpture",
+        "Faience",
+        "Statues",
+        "Figurines"
+    ],
+    "when": "2000-1000 B.C.",
+    "where": [
+        "Africa",
+        "Egypt",
+        "Upper Egypt",
+        "M\u012br"
+    ]
+}

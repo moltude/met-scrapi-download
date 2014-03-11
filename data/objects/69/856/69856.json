@@ -1,0 +1,144 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/42123"
+            },
+            {
+                "href": "http://scrapi.org/object/55963"
+            },
+            {
+                "href": "http://scrapi.org/object/65607"
+            },
+            {
+                "href": "http://scrapi.org/object/45387"
+            },
+            {
+                "href": "http://scrapi.org/object/53715"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 8, 2014",
+                "href": "/exhibitions/listings/2014/tibet-and-india",
+                "rel": "Tibet and India"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/chinese-carving",
+                "rel": "Colors of the Universe"
+            },
+            {
+                "date": "From July 19, 2013",
+                "href": "/exhibitions/listings/2013/chinese-snuff-bottles",
+                "rel": "Small Delights"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/ink-art",
+                "rel": "Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "From February 1, 2014",
+                "href": "/exhibitions/listings/2014/edo-period-painting",
+                "rel": "The Flowering of Edo Period Painting"
+            },
+            {
+                "date": "From April 14, 2014",
+                "href": "/exhibitions/listings/2014/lost-kingdoms",
+                "rel": "Lost Kingdoms"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/talks/gallery-talks/chinese-buddhist-sculpture?eid=A001_%7b539805A7-4AAC-4214-A063-93083E921332%7d_20140123142801",
+                "rel": "Chinese Buddhist Sculpture"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R104_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140310111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R104_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140310131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R105_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140311111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R105_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140311120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R105_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140311131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/talks/gallery-talks/gallery-conv-culture-and-politics?eid=A001_%7b33996DD5-3C4F-473B-BCAE-533DF0BF66F1%7d_20140205160349",
+                "rel": "Gallery Conversation\u2014Culture and Politics in Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=A093_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20131018142432",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R106_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140312120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R106_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140312131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=nc",
+                "rel": "Central and North Asia, 1600\u20131800 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=eac",
+                "rel": "China, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/69856"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/69856"
+        }
+    },
+    "accession number": "46.188",
+    "credit line": "Gift of Mathias Komor, 1946",
+    "culture": "China",
+    "date": "17th century",
+    "department": "Asian Art",
+    "description": "This vestment for a Daoist priest is densely embroidered with figures representing the Daoist pantheon. The deities float on clouds amid cranes in flight. The pantheon shown here had remained largely unchanged since the Yuan dynasty (1271\u20131368). Scholars suggest that the layout of a jiang yi corresponds to the layout of a Daoist temple, with minor deities represented on the front of the robe (corresponding to the south wall of a temple) and major deities on the back of the robe (north wall). The entrance to a temple, like the front opening of this robe, has a tiger on one side (the west) and a dragon on the other (the east).Major figures on the back of the robe include the Jade Emperor (the large figure at the center back) and the Three Pure Ones, seen at the center top flanked by the sun and moon. Minor figures, shown on the front of the robe, are identifiable through various attributes. For example, the Lord of the White Tiger Star appears on the front left near the center, accompanied by a tiger.",
+    "dimensions": "53 x 83 1/2 in. (134.6 x 212.1 cm)",
+    "id": 69856,
+    "image": "http://images.metmuseum.org/CRDImages/as/original/136908.jpg",
+    "medium": "Silk and metallic thread embroidery on silk satin damask",
+    "title": "Daoist Robe of Descent (Jiang yi)",
+    "what": [
+        "Costume",
+        "Silk",
+        "Needlework",
+        "Embroidery",
+        "Robes",
+        "Satin",
+        "Damask"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Asia",
+        "China"
+    ]
+}

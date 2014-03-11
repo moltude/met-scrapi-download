@@ -1,0 +1,114 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/79849"
+            },
+            {
+                "href": "http://scrapi.org/object/83177"
+            },
+            {
+                "href": "http://scrapi.org/object/81536"
+            },
+            {
+                "href": "http://scrapi.org/object/94892"
+            },
+            {
+                "href": "http://scrapi.org/object/91904"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R130_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140310130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/81168"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/81168"
+        }
+    },
+    "accession number": "1992.31.2a\u2013c",
+    "credit line": "Gift of James R. Creel IV and Mr. and Mrs. Lawrence G. Creel, 1992",
+    "culture": "American or European",
+    "date": "ca. 1855",
+    "department": "Costume Institute",
+    "dimensions": [
+        "Length at CB (a) 14 3/4 in. (37.5 cm)",
+        "Length at CB (b) 12 in. (30.5 cm)",
+        "Length at CB (c) 46 in. (116.8 cm)"
+    ],
+    "id": 81168,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/DT6845.jpg",
+    "medium": "silk",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/DT6845.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/DT6846.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1992.31.2b_F2.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1992.31.2b_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1992.31.2b_d1.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1992.31.2b_d2.jpg"
+    ],
+    "title": "Ensemble",
+    "what": [
+        "Silk",
+        "Ensembles"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe"
+    ]
+}

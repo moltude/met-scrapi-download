@@ -1,0 +1,136 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/38123"
+            },
+            {
+                "href": "http://scrapi.org/object/38385"
+            },
+            {
+                "href": "http://scrapi.org/object/73214"
+            },
+            {
+                "href": "http://scrapi.org/object/39600"
+            },
+            {
+                "href": "http://scrapi.org/object/38317"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 8, 2014",
+                "href": "/exhibitions/listings/2014/tibet-and-india",
+                "rel": "Tibet and India"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/chinese-carving",
+                "rel": "Colors of the Universe"
+            },
+            {
+                "date": "From July 19, 2013",
+                "href": "/exhibitions/listings/2013/chinese-snuff-bottles",
+                "rel": "Small Delights"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/ink-art",
+                "rel": "Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "From February 1, 2014",
+                "href": "/exhibitions/listings/2014/edo-period-painting",
+                "rel": "The Flowering of Edo Period Painting"
+            },
+            {
+                "date": "From April 14, 2014",
+                "href": "/exhibitions/listings/2014/lost-kingdoms",
+                "rel": "Lost Kingdoms"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/talks/gallery-talks/chinese-buddhist-sculpture?eid=A001_%7b539805A7-4AAC-4214-A063-93083E921332%7d_20140123142801",
+                "rel": "Chinese Buddhist Sculpture"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R104_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140310111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R104_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140310131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R105_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140311111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R105_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140311120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R105_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140311131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/talks/gallery-talks/gallery-conv-culture-and-politics?eid=A001_%7b33996DD5-3C4F-473B-BCAE-533DF0BF66F1%7d_20140205160349",
+                "rel": "Gallery Conversation\u2014Culture and Politics in Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=A093_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20131018142432",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R106_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140312120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R106_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140312131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=07\u00aeion=sss",
+                "rel": "South Asia: South, 1000\u20131400 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/38120"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/38120"
+        }
+    },
+    "accession number": "57.51.7a\u2013g",
+    "credit line": "Bequest of Cora Timken Burnett, 1956",
+    "culture": "India (Bihar or West Bengal) or Bangladesh",
+    "date": "11th\u201312th century",
+    "department": "Asian Art",
+    "description": "In this extremely large sculpture, the Hindu god Vishnu is attended by his two consorts: to his left, Sarasvati, the goddess of poetry and music; to his right, Lakshmi, the goddess of fortune. The architectural ensemble in which they stand is inhabited by a series of gods, demigods, ascetics, and worshipers. Two river goddesses stand at the base of the columns. Beyond them, at the outer edges in niches, are figures representing the weapons of Vishnu in human form: Gadadevi (his mace) and Chakrapurusha (his war discus). Ganesha occupies the niche at the top left corner; Karttikeya occupies the corresponding spot on the right. The two inner niches house Shiva (left) and Brahma (right).",
+    "dimensions": "H. 7 ft. 2 in. (218.4 cm); W. 53 11/16 in. (136.3 cm); D. 1 7/8 in. (30.2 cm)",
+    "id": 38120,
+    "image": "http://images.metmuseum.org/CRDImages/as/original/57_51_7.jpg",
+    "medium": "Black stone",
+    "title": "Vishnu with His Consorts, Lakshmi and Sarasvati",
+    "what": [
+        "Sculpture",
+        "Stone",
+        "Reliefs"
+    ],
+    "when": "A.D. 1000-1400",
+    "where": [
+        "Asia",
+        "India",
+        "Bihar"
+    ]
+}

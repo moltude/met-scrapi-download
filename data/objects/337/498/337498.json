@@ -1,0 +1,112 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/340429"
+            },
+            {
+                "href": "http://scrapi.org/object/340433"
+            },
+            {
+                "href": "http://scrapi.org/object/340431"
+            },
+            {
+                "href": "http://scrapi.org/object/340430"
+            },
+            {
+                "href": "http://scrapi.org/object/343263"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/neoc_1/hd_neoc_1.htm",
+                "rel": "Neoclassicism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/frac/hd_frac.htm",
+                "rel": "The French Academy in Rome"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/grtr/hd_grtr.htm",
+                "rel": "The Grand Tour"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/337498"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/337498"
+        }
+    },
+    "accession number": "1971.63.1",
+    "credit line": "Rogers Fund, 1971",
+    "date": "ca. 1756\u201358",
+    "department": "Drawings and Prints",
+    "description": "This watercolor seems to have been intended as an artistic end in itself, since it is not a study for a known painting.  Panini did use the composition, however, in a series of pairs of paintings executed between 1756 and 1758, representing picture galleries crowded with many views of either ancient or modern Rome.  In the \"Roma Moderna\" of the first pair, which was commissioned by the Duke of Choiseul and is now in the Museum of Fine Arts, Boston, the Scalinata is seen from the same perspective as in this drawing.  The \"Roma Moderna\" of the second pair, which is also in the Metropolitan Museum (52.63.2), includes the Scalinata as well, on the floor to the left of the Duke, just as it is in the Boston painting.  In the third set, now in the Mus\u00e9e du Louvre, Paris, the Scalinata is high on the wall to the right.",
+    "dimensions": "13-11/16 x 11-9/16 in.  (34.8 x 29.3 cm)",
+    "id": 337498,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP801488.jpg",
+    "medium": "Pen and black ink, brush and gray wash, watercolor, over graphite",
+    "provenance": [
+        "Jacques-Laure Le Tonnelier de Breteuil (French)",
+        "His saleJanuary 16-25, 1786, no. 76",
+        "Jean-Baptiste-Pierre Lebrun",
+        "His saleMarch 11-30, 1791, no. 260",
+        "Marquis de Lagoy (French, 1764\u20131829)",
+        "Lagoy Collection Inventory, No. 136",
+        "Maldwin Drummond(according to Christie's)",
+        "Christie's, LondonJune 23, 1970, no. 152, repr.",
+        "Hans M. Calmann"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP801488.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/dp1971.63.1.R.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DT627.jpg"
+    ],
+    "title": "Scalinata della Trinit\u00e0 dei Monti",
+    "what": [
+        "Ink",
+        "Drawings",
+        "Watercolors",
+        "Graphite"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Giovanni Paolo Panini"
+}

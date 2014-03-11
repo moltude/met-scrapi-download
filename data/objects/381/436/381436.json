@@ -1,0 +1,108 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/414808"
+            },
+            {
+                "href": "http://scrapi.org/object/414809"
+            },
+            {
+                "href": "http://scrapi.org/object/414810"
+            },
+            {
+                "href": "http://scrapi.org/object/414811"
+            },
+            {
+                "href": "http://scrapi.org/object/414812"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/rembp/hd_rembp.htm",
+                "rel": "Rembrandt van Rijn (1606\u20131669): Prints"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/381436"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/381436"
+        }
+    },
+    "accession number": "1983.1027(1-12)",
+    "credit line": "Edward Pearce Casey Fund, 1983",
+    "date": "1645",
+    "department": "Drawings and Prints",
+    "description": "Plan or aerial view of the city of Rome, taken from the north-west. The map shows Rome in its late sixteenth-century condition. The map was first printed in 1593. This edition with changes dates to 1645.",
+    "dimensions": "Overall 41 5/16 x 94 1/2 in. (105 x 240 cm)",
+    "id": 381436,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP278701.jpg",
+    "medium": "Etching with some engraving, undescribed state (printed from 12 plates)",
+    "provenance": [
+        "Vendor: R. E. Lewis Inc."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP278701.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP826507.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP826503.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP826500.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP826501.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP826502.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP826504.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP826508.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP826509.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP826510.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP826505.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP826506.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP826511.jpg"
+    ],
+    "title": "Plan of the City of Rome",
+    "what": [
+        "Prints",
+        "Etching",
+        "Engraving",
+        "Printing plates"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": [
+        "Antonio Tempesta",
+        "Cardinal Camillo Pamphili",
+        "Giovanni Domenico de Rossi"
+    ]
+}

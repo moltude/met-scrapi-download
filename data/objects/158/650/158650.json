@@ -1,0 +1,114 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/156712"
+            },
+            {
+                "href": "http://scrapi.org/object/156713"
+            },
+            {
+                "href": "http://scrapi.org/object/156714"
+            },
+            {
+                "href": "http://scrapi.org/object/156715"
+            },
+            {
+                "href": "http://scrapi.org/object/156716"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R130_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140310130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/158650"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/158650"
+        }
+    },
+    "accession number": "2009.300.3687",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. Clive Runnels and Mrs. Edward L. Ryerson, 1957",
+    "culture": "American",
+    "date": "1949",
+    "department": "Costume Institute",
+    "description": "The nearly 400 sketches by Charles James in the Brooklyn Museum Collection were purchased from Mr. James and subsequently donated to the Museum in 1957.  Starting with three sketchbooks that cover the period 1935-1940, the collection, the remainder of which is comprised of individual sketches, tracks James's design process from that early period to the mid-1950s.  Drawn on ledger, notebook, typing, lined and graph papers, as well as menu backs and other unconventional formats, they give insight into James' restless creativity which led him to ever-changing variations and permutations of the geometric and biomorphic forms that are the basis of his singular artistry in dress. Most of the sketches are annotated in his hand, some including To Do lists and other personal notations.  Some were attached together, presumably by him, with straight pins and a note describing what they are.  The component groupings of like designs reflected in the accession numbers, however, were made by museum staff some time after their accession.",
+    "dimensions": "12 x 19 in. (30.5 x 48.3 cm)",
+    "id": 158650,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/57.218.20b_CP4.jpg",
+    "medium": "paper, graphite",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/57.218.20b_CP4.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/57.218.20b_bw.jpg"
+    ],
+    "title": "Sketch",
+    "what": [
+        "Graphite",
+        "Sketches"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "Charles James"
+}

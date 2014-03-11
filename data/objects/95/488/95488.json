@@ -1,0 +1,139 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/81693"
+            },
+            {
+                "href": "http://scrapi.org/object/94950"
+            },
+            {
+                "href": "http://scrapi.org/object/102378"
+            },
+            {
+                "href": "http://scrapi.org/object/119449"
+            },
+            {
+                "href": "http://scrapi.org/object/108402"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R130_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140310130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=waa",
+                "rel": "Anatolia and the Caucasus, 1900 A.D.\u2013present"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=nc",
+                "rel": "Central and North Asia, 1900 A.D.\u2013present"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=eue",
+                "rel": "Eastern Europe and Scandinavia, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/95488"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/95488"
+        }
+    },
+    "accession number": "1977.199a\u2013h",
+    "credit line": "Gift of Mrs. Lawrence Evans Jr., 1977",
+    "culture": "Russian",
+    "date": "1910",
+    "department": "Costume Institute",
+    "dimensions": [
+        "Length (a) 59 1/4 in. (150.5 cm)",
+        "Heel to Toe (e, f) 10 3/4 in. (27.3 cm)"
+    ],
+    "id": 95488,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/1977.199a_F.JPG",
+    "medium": "silk, wax",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/1977.199a_F.JPG",
+        "http://images.metmuseum.org/CRDImages/ci/original/1977.199a_S.JPG",
+        "http://images.metmuseum.org/CRDImages/ci/original/1977.199a_B.JPG",
+        "http://images.metmuseum.org/CRDImages/ci/original/1977.199a_label.JPG",
+        "http://images.metmuseum.org/CRDImages/ci/original/1977.199b_Tp.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1977.199b_Bt.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1977.199cd_S1.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1977.199cd_S2.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1977.199d_d1.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1977.199d_d2.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1977.199ef_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1977.199ef_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1977.199gh_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1977.199gh_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1977.199a\u2013h_d.jpg"
+    ],
+    "title": "Wedding ensemble",
+    "what": [
+        "Silk",
+        "Ensembles",
+        "Wax"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Asia",
+        "Russia"
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/451023"
+            },
+            {
+                "href": "http://scrapi.org/object/453250"
+            },
+            {
+                "href": "http://scrapi.org/object/451320"
+            },
+            {
+                "href": "http://scrapi.org/object/447806"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A249_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114331",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A250_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114353",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world-french?eid=R026_%7b85906EA1-CA66-4610-A52C-39562E1A4C40%7d_20140310133000",
+                "rel": "Arts du monde Islamique (Arts of the Islamic World in French)"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R130_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140310141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=wai",
+                "rel": "Iran, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/447798"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/447798"
+        }
+    },
+    "accession number": "25.68.5",
+    "credit line": "Fletcher Fund, 1925",
+    "culture": "Islamic",
+    "date": "second quarter 17th century",
+    "department": "Islamic Art",
+    "description": "Mounted on an album page below a calligraphy signed by Nur al-Din Muhammad Lahiji, these two drawings form a single composition depicting an old man dressed as a dervish pursuing a youth with a wine bottle and cup. Although the drawings are ascribed to Riza-yi 'Abbasi, the quality of line here is more rigid and less sure than that of the master. The image of an old man yearning for a youth finds parallels in Persian mystical poetry. The line of poetry above the drawings refers to the virtue of a girl on the verge of womanhood, but may be an ironic reference to the youth in the drawing.",
+    "dimensions": "5 in. high 2.12 in. wide (12.7 cm high 5.4 cm wide)",
+    "id": 447798,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/sf25-68-5r.jpg",
+    "medium": "Ink, transparent and opaque watercolor, and gold on paper",
+    "provenance": [
+        "[ Hagop Kevorkian, New York, until 1925",
+        "sold to MMA]"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/sf25-68-5r.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/59615.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP319098.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/246377.jpg"
+    ],
+    "title": "The Old man and the Youth",
+    "what": [
+        "Metal",
+        "Ink",
+        "Paper",
+        "Gold",
+        "Watercolors",
+        "Manuscripts",
+        "Codices"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Asia",
+        "Iran",
+        "Isfahan"
+    ],
+    "who": [
+        "Riza-yi `Abbasi",
+        "Nur al-Din Muhammad Lahiji"
+    ]
+}

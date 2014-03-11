@@ -1,0 +1,115 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/271258"
+            },
+            {
+                "href": "http://scrapi.org/object/285630"
+            },
+            {
+                "href": "http://scrapi.org/object/285631"
+            },
+            {
+                "href": "http://scrapi.org/object/285632"
+            },
+            {
+                "href": "http://scrapi.org/object/286162"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/comm/hd_comm.htm",
+                "rel": "Commedia dell'arte"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/gray/hd_gray.htm",
+                "rel": "Gustave Le Gray (1820\u20131884)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/nadr/hd_nadr.htm",
+                "rel": "Nadar (1820\u20131910)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/frph/hd_frph.htm",
+                "rel": "The Rise of Paper Photography in 1850s France"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwf",
+                "rel": "France, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/283117"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/283117"
+        }
+    },
+    "accession number": "2005.100.371",
+    "credit line": "Gilman Collection, Gift of The Howard Gilman Foundation, 2005",
+    "date": "November 1855",
+    "department": "Photographs",
+    "description": "F\u00e9lix Tournachon first met Alexandre Dumas (1802-1870) in the 1820s, when the young author brought manuscripts to his father, Victor Tournachon, to publish. After admiring Dumas's swashbuckling historical dramas at school, F\u00e9lix became his friend in the 1840s, a period when he was working as a journalist, novelist, and caricaturist with the nom de plume Nadar. In 1855 the two men dreamed of writing a play together, but eventually they collaborated only on this portrait, made in November of that year.     Seated casually, his hands folded comfortably on his cane, Dumas addressed Nadar with a jovial vivacity suggesting the camaraderie that was their wont. His lively expression surely owes something to the interest he took in his friend's conversation, but it also derives from Nadar's uncanny ability to draw from his sitters their most characteristic expressions. He avowed that although anyone could learn to photograph in a single session, what could not be taught was \"a feel for light\" and a quick intuition for \"the moral comprehension of one's subject . . . which permits the most familiar and favorable resemblance, the intimate one.\"",
+    "dimensions": "Image 23.8 x 18.5cm (9 3/8 x 7 5/16in.)",
+    "id": 283117,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP279886.jpg",
+    "medium": "Salted paper print from glass negative",
+    "provenance": [
+        "(sold Sotheby's Park Bernet, November 2, 1979, lot 238A)",
+        "Gilman Paper Company Collection, New York"
+    ],
+    "title": "Alexandre Dumas",
+    "what": [
+        "Photographs",
+        "Books",
+        "Albums",
+        "Salted paper prints"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Nadar"
+}

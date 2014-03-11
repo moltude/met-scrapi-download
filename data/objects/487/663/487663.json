@@ -1,0 +1,149 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/487291"
+            },
+            {
+                "href": "http://scrapi.org/object/487292"
+            },
+            {
+                "href": "http://scrapi.org/object/500029"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From November 20, 2013",
+                "href": "/exhibitions/listings/2013/jewels-by-jar",
+                "rel": "Jewels by JAR"
+            },
+            {
+                "date": "From February 24, 2014",
+                "href": "/exhibitions/listings/2014/lucas-samaras",
+                "rel": "Lucas Samaras"
+            },
+            {
+                "date": "From December 17, 2013",
+                "href": "/exhibitions/listings/2013/metropolitan-vanities",
+                "rel": "Metropolitan Vanities"
+            },
+            {
+                "date": "From October 22, 2013",
+                "href": "/exhibitions/listings/2013/william-kentridge",
+                "rel": "William Kentridge"
+            },
+            {
+                "date": "From April 29, 2014",
+                "href": "/exhibitions/listings/2014/dan-graham",
+                "rel": "The Roof Garden Commission: Dan Graham"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/college/jewels?eid=A001_%7bB2CEEB36-09E2-43E1-B6FD-1CA91686BA29%7d_20140219113337",
+                "rel": "Jewels by JAR Workshop"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R104_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140310144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/modern-art-french?eid=R027_%7b96311A2D-1D25-45BE-83E2-2054BC16D70B%7d_20140311133000",
+                "rel": "Art Moderne et Contemporain (Modern and Contemporary Art in French)"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R105_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140311144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R106_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140312144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R027_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140313140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R107_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140313144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=A076_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20131126112236",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/faces?eid=A002_%7b8EAA5A8F-1DA9-4AC7-8199-BDE367AC2FB1%7d_20140124163826",
+                "rel": "Faces! Drawing in the Galleries for Adults"
+            },
+            {
+                "date": "March 18, 2014",
+                "href": "/events/programs/tours/modern-art-french?eid=R028_%7b96311A2D-1D25-45BE-83E2-2054BC16D70B%7d_20140318133000",
+                "rel": "Art Moderne et Contemporain (Modern and Contemporary Art in French)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/dsrf/hd_dsrf.htm",
+                "rel": "Design Reform"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/exot/hd_exot.htm",
+                "rel": "Exoticism in the Decorative Arts"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwb",
+                "rel": "Great Britain and Ireland, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/487663"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/487663"
+        }
+    },
+    "accession number": "29.32",
+    "credit line": "Anonymous Gift, 1929",
+    "date": "1882\u201388",
+    "department": "Modern and Contemporary Art",
+    "description": "In 1869 de Morgan, a painter and stained-glass artist who designed tiles and glass for the William Morris firm, began decorating pottery; by 1873 he was running a highly successful pottery manufacture. He revived the medieval luster technique to decorate ceramics with an iridescent metallic surface, and from about 1875 favored \"Persian\" colors-pigments made from such metallic oxides as silver, which produces a brassy yellow, and copper, for a rich ruby red. These lusterwares were shown at the 1878 Exposition Universelle in Paris.",
+    "dimensions": [
+        "Diameter 20 1/4 x D. 2 5/8 in. (51.4 x 6.7 cm)",
+        "Weight 8.8 lbs (4 kg)"
+    ],
+    "id": 487663,
+    "image": "http://images.metmuseum.org/CRDImages/ma/original/DP225965.jpg",
+    "medium": "Lustred earthenware",
+    "provenance": [
+        "the artist (in 1888)",
+        "William Morris, London",
+        "Edward H. Van Ingen, New York (until d. 1920)",
+        "Private collection (until 1929; anonymous gift to MMA)"
+    ],
+    "title": "Charger",
+    "what": [
+        "Ceramics",
+        "Pottery",
+        "Earthenware",
+        "Dishes",
+        "Platters",
+        "Chargers"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "United Kingdom"
+    ],
+    "who": [
+        "Merton Abbey Tapestry Works",
+        "William De Morgan"
+    ]
+}

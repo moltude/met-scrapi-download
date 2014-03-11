@@ -1,0 +1,103 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/286439"
+            },
+            {
+                "href": "http://scrapi.org/object/286702"
+            },
+            {
+                "href": "http://scrapi.org/object/286703"
+            },
+            {
+                "href": "http://scrapi.org/object/286709"
+            },
+            {
+                "href": "http://scrapi.org/object/286257"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/pheu/hd_pheu.htm",
+                "rel": "Photography in Europe, 1945\u201360"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/283315"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/283315"
+        }
+    },
+    "accession number": "2005.100.166",
+    "credit line": "Gilman Collection, Purchase, Alfred Stieglitz Society Gifts, 2005",
+    "date": "1936",
+    "department": "Photographs",
+    "description": "Possibly the most famous of war photographs, this image is all but synonymous with the name of its maker, Robert Capa, who was proclaimed in 1938, at the age of twenty-five, \"the greatest war photographer in the world\" in the British magazine \"Picture Post.\" Taken at the beginning of the Spanish Civil War and showing the moment of a bullet's impact on a loyalist soldier, this photograph has become an emblem of the medium's unrivaled capacity to depict sudden death. It is also prototypical of the style of photojournalism that came to define the work of Capa and his colleagues at the picture press agency Magnum Photos in the late 1940s.     If such images have etched themselves into the public's mind, it is not because of their existence as original prints, but rather because of their proliferation through newspapers and magazines. This mounted and varnished print is thus an anomalous rarity: signed by Capa himself, it appears to have been made in the late 1940s or early 1950s for public exhibition.      Although the scene depicted is specific to an event now temporally distanced, the image nevertheless seems strangely familiar and retains its powerful impact. Its expressive charge recalls another, equally famous image of war in Spain, Francisco Goya's \"The Third of May, 1808\" (1814). Capa's image excludes Goya's narrative elements--the executioners, stark backdrop, and dramatic nocturnal light--and instead zeroes in on the instant of death forever anticipated in the painting.",
+    "dimensions": "Image 24.7 x 34 cm (9 3/4 x 13 3/8 in.)",
+    "id": 283315,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP132535.jpg",
+    "medium": "Gelatin silver print",
+    "provenance": [
+        "Private Collection, New York (sold, benefit auction)",
+        "[Mark Kelman]",
+        "Gilman Paper Company Collection, New York, January 30, 1980"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ph/original/DP132535.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/Capa2005.100.166 verso.jpg"
+    ],
+    "title": "The Falling Soldier",
+    "what": [
+        "Photographs",
+        "Gelatin silver prints"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "Robert Capa"
+}

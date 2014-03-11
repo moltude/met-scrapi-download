@@ -1,0 +1,88 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/391029"
+            },
+            {
+                "href": "http://scrapi.org/object/339710"
+            },
+            {
+                "href": "http://scrapi.org/object/383906"
+            },
+            {
+                "href": "http://scrapi.org/object/383911"
+            },
+            {
+                "href": "http://scrapi.org/object/354644"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwcm",
+                "rel": "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/336879"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/336879"
+        }
+    },
+    "accession number": "1987.1017",
+    "credit line": "Edward Pearce Casey Fund, 1987",
+    "date": "1920 ca.",
+    "department": "Drawings and Prints",
+    "description": "Little is known about the artist Guido Heigl to whom this drawing is attributed. This is most likely largely due to his early departure at the age of 36, since his career as an artist seems to have started off quite successfully. He was awarded several prizes during his years at the Kunstgewerbeschule in Vienna (1908 \u2013 ca. 1911/1912) and worked as a designer for the Wiener Werkst\u00e4tte and various other manufacturers. He is known to have made designs for textiles, silverware and the graphic arts. He is however, most often referred to as an architect, of which this design for a room with a balcony seems to be proof. Both in the drawing technique and mode of rendering, as well as in the style of the interior it reminds strongly of his professor Josef Hoffman (Austrian, Pirnitz 1870\u20131956 Vienna) and was almost certainly made while Heigl was active in the Wiener Werkst\u00e4tte.",
+    "dimensions": "13 x 13 13/16 in.  (33.0 x 35.1 cm)",
+    "id": 336879,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP819678.jpg",
+    "medium": "Brush and black ink, blue and green crayon and grey and brown gouache over graphite.",
+    "title": "Design for a Room with a Balcony",
+    "what": [
+        "Ink",
+        "Drawings",
+        "Watercolors",
+        "Graphite",
+        "Gouache",
+        "Crayons"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "Germany"
+    ],
+    "who": "Guido Heigl"
+}

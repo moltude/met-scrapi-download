@@ -1,0 +1,56 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/591826"
+            },
+            {
+                "href": "http://scrapi.org/object/591827"
+            },
+            {
+                "href": "http://scrapi.org/object/591828"
+            },
+            {
+                "href": "http://scrapi.org/object/591829"
+            },
+            {
+                "href": "http://scrapi.org/object/591845"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=eustn",
+                "rel": "Venice and Northern Italy, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/591836"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/591836"
+        }
+    },
+    "accession number": "911.1. M362",
+    "credit line": "Presented by Bobby and Allan Weissglass",
+    "culture": "Venice Presso Gio. Giacomo Hertz, 1684",
+    "date": "1684",
+    "department": "The Libraries",
+    "description": "Domenico Martinelli's \"Ritratto di Venezia\" was created in 1684 as a tour book for visitors to Venice. A tremendous amount of detailed information has been packed into this compact, almost pocket-sized volume. As the title states, the work is divided into two sections. Part 1 describes most of the paintings, sculptures, epitaphs, and inscriptions found inside each church in Venice, providing today's reader with a rare picture of the city in the late seventeenth century. Of particular value are the works cited by Martinelli that are no longer in their original location. Part 2 briefly discusses the civic life of the Venetian Republic as well as some of the more notable public buildings and artworks contained therein.Illustrated: frontispiece",
+    "dimensions": "H 6 3/4 in. (17 cm)",
+    "id": 591836,
+    "image": "http://images.metmuseum.org/CRDImages/li/original/li911.1. M362.R.jpg",
+    "medium": "Printed book",
+    "title": "Il Ritratto di Venezia",
+    "what": [
+        "Books",
+        "Printing"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "Italy",
+        "Venice"
+    ],
+    "who": "Domenico Martinelli"
+}

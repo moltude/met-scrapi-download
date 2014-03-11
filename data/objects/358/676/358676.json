@@ -1,0 +1,102 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/358472"
+            },
+            {
+                "href": "http://scrapi.org/object/364041"
+            },
+            {
+                "href": "http://scrapi.org/object/363989"
+            },
+            {
+                "href": "http://scrapi.org/object/364020"
+            },
+            {
+                "href": "http://scrapi.org/object/364022"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/bwtr/hd_bwtr.htm",
+                "rel": "Watercolor Painting in Britain, 1750\u20131850"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwb",
+                "rel": "Great Britain and Ireland, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/358676"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/358676"
+        }
+    },
+    "accession number": "41.77.1",
+    "credit line": "Harris Brisbane Dick Fund, 1941",
+    "date": "1791",
+    "department": "Drawings and Prints",
+    "dimensions": "sheet 12 1/8 x 17 1/8 in. (30.8 x 43.5 cm)",
+    "id": 358676,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP801556.jpg",
+    "medium": "Pen and ink and watercolor",
+    "provenance": [
+        "W. T. B. Ashley (British), in 1880",
+        "H. W. Bruton(sold anonymously at the following)",
+        "Christie's, London, Feb. 12, 1912, lot 108 (Property a Gentleman)",
+        "P. & D. Colnaghi & Co., Ltd.(bought at Christies, 1912)",
+        "Knoedler and Co.(1913, sold to Walters)",
+        "Sarah Green Walters",
+        "Parke-Bernet (New York), April 25, 1941, lot 1067 (Walters sale)",
+        "Vendor: Parke-Bernet (New York)April 25, 1941, no. 1067"
+    ],
+    "title": "A Gaming Table at Devonshire House",
+    "what": [
+        "Ink",
+        "Drawings",
+        "Watercolors"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "United Kingdom"
+    ],
+    "who": [
+        "Thomas Rowlandson",
+        "Georgiana Cavendish, Duchess of Devonshire"
+    ]
+}

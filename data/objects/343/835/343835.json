@@ -1,0 +1,82 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/340329"
+            },
+            {
+                "href": "http://scrapi.org/object/339936"
+            },
+            {
+                "href": "http://scrapi.org/object/339937"
+            },
+            {
+                "href": "http://scrapi.org/object/336977"
+            },
+            {
+                "href": "http://scrapi.org/object/337694"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/343835"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/343835"
+        }
+    },
+    "accession number": "1970.736.4",
+    "credit line": "Gift of Mr. and Mrs. Charles Wrightsman, 1970",
+    "date": "late 18th century",
+    "department": "Drawings and Prints",
+    "dimensions": "9 7/8 x 6 3/4 in.  (25.1 x 17.1 cm)",
+    "id": 343835,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP808844.jpg",
+    "medium": "Pen and black ink, brush and rose wash over graphite.",
+    "provenance": [
+        "Charles-Fr\u00e9d\u00e9ric Mew\u00e8s (Strasbourg 1860\u20131914 Paris)",
+        "Donor: Charles and Jayne Wrightsman Vendor: W. R. Jeudwine (London)The Wrightsmans purchased this work in 1968."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP808844.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/1970.736.4.jpg"
+    ],
+    "title": "Design for a Theatre",
+    "what": [
+        "Ink",
+        "Drawings",
+        "Graphite"
+    ],
+    "who": "Anonymous, French, 18th century"
+}

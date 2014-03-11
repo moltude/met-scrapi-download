@@ -1,0 +1,99 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/10192"
+            },
+            {
+                "href": "http://scrapi.org/object/14872"
+            },
+            {
+                "href": "http://scrapi.org/object/17782"
+            },
+            {
+                "href": "http://scrapi.org/object/19774"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 18, 2013",
+                "href": "/exhibitions/listings/2013/american-west",
+                "rel": "The American West in Bronze, 1850\u20131925"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/american-art-weekend?eid=A185_%7b501B6EDB-D4CC-4402-98B8-688E06337497%7d_20131127141222",
+                "rel": "American Art"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/monday-at-the-met-spring-2014?eid=R001_%7bBB2BF277-3666-435E-8B95-12CDE21533EA%7d_20140303100000",
+                "rel": "Monday at the Met with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R100_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140303120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R101_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140304120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R076_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140304134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R102_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140305120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R077_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140305134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R103_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140306120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R078_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140306134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/k12-educator-programs/the-american-west?eid=A001_%7b59F3CABA-5299-48C0-8465-1CF2F278D0C3%7d_20131122143623",
+                "rel": "The American West"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/10193"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/10193"
+        }
+    },
+    "accession number": "1988.306",
+    "credit line": "Morris K. Jesup Fund, 1988",
+    "date": "1921",
+    "department": "American Paintings and Sculpture",
+    "dimensions": "4 1/2 x 3 in. (11.4 x 7.6 cm)",
+    "id": 10193,
+    "image": "http://images.metmuseum.org/CRDImages/ap/original/ap1988.306.jpg",
+    "medium": "Watercolor on ivory",
+    "title": "Self-Portrait",
+    "what": [
+        "Paintings",
+        "Watercolors",
+        "Bone",
+        "Ivory",
+        "Miniatures"
+    ],
+    "when": "A.D. 1900-present",
+    "who": "Rosina Cox Boardman"
+}

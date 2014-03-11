@@ -1,0 +1,100 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/286546"
+            },
+            {
+                "href": "http://scrapi.org/object/286340"
+            },
+            {
+                "href": "http://scrapi.org/object/266944"
+            },
+            {
+                "href": "http://scrapi.org/object/284818"
+            },
+            {
+                "href": "http://scrapi.org/object/294768"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwf",
+                "rel": "France, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/269072"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/269072"
+        }
+    },
+    "accession number": "46.122.3",
+    "credit line": "Harris Brisbane Dick Fund, 1946",
+    "date": "1850\u201353",
+    "department": "Photographs",
+    "description": "Louis-D\u00e9sir\u00e9 Blanquart-\u00c9vrard pursued William Henry Fox Talbot's negative/positive experiments and by 1851 was confident enough to open a factory in the outskirts of Lille, in northern France, that cleared the way to mass-producing photographs in the same quantities as traditional prints. At last, photography could hope to succeed as both art and industry. A frequent collaborator of Blanquart-\u00c9vrard, Marville contributed more than one hundred photographs, mostly architectural views, to the publisher's many portfolios.      This image is somewhat atypical of Marville's oeuvre. Its atmosphere of intimacy and nonchalance evokes the achievements of the wealthy amateur photographers of the time more than the severe architectural views usually associated with Marville. However, it was published in Blanquart-\u00c9vrard's album, \u00c9tudes photographiques (1853), the title of which suggests that such pictures were intended as studies for artists.",
+    "dimensions": "20.9 x 16.2 cm (8 1/4 x 6 3/8 in.)",
+    "gallery-id": 693,
+    "id": 269072,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP158041.jpg",
+    "medium": "Salted paper print (Blanquart-\u00c9vrard process) from paper negative",
+    "provenance": [
+        "E. Weill, London"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ph/original/DP158041.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/MM56167.jpg"
+    ],
+    "title": "Homme allong\u00e9 au pied d'un ch\u00e0taignier",
+    "what": [
+        "Photographs",
+        "Salted paper prints"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": [
+        "Imprimerie Blanquart-\u00c9vrard",
+        "Charles Marville"
+    ]
+}

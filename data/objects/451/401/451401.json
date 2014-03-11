@@ -1,0 +1,122 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/456342"
+            },
+            {
+                "href": "http://scrapi.org/object/457728"
+            },
+            {
+                "href": "http://scrapi.org/object/452749"
+            },
+            {
+                "href": "http://scrapi.org/object/450538"
+            },
+            {
+                "href": "http://scrapi.org/object/451409"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A232_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134244",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A237_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134557",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/programs-for-visitors-with-disabilities/visitors-who-are-deaf/beauty-and-innovation?eid=A001_%7b77D8F57E-5FC9-4578-8A95-30A43C89CFDD%7d_20140210164006",
+                "rel": "Met Signs Tours in ASL\u2014Beauty and Innovation: Understanding Islamic Art"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A251_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114408",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=ssa",
+                "rel": "South Asia, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/451401"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/451401"
+        }
+    },
+    "accession number": "57.51.22",
+    "credit line": "Bequest of Cora Timken Burnett, 1956",
+    "culture": "Islamic",
+    "date": "first quarter 17th century",
+    "department": "Islamic Art",
+    "description": "This figure can be identified as a sufi, on account of his long-sleeved khirqa cloak, and turban wrapped in fabric. His curled-up posture and lowered gaze suggest that he is in a state of deep introspection. Sufis frequently spent periods of up to forty days in isolation in the wilderness. This practice, called khalwa, facilitated distraction-free meditation and prayer. Young sufis would engage in this habit under the guidance of a shaikh, and more advanced sufis would sustain this practice independently throughout their lives.",
+    "dimensions": [
+        "OveralL. 15 3/8 x 10 3/8in. (39 x 26.3cm)",
+        "Dimensions of painting 5 5/16 x 8 7/8in. (13.5 x 22.5cm)"
+    ],
+    "id": 451401,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/sf57-51-22r.jpg",
+    "medium": "Ink, opaque watercolor, and gold on paper",
+    "provenance": [
+        "[ Hagop Kevorkian, New York, by 1914]",
+        "Cora Timken Burnett, Alpine, NJ (by 1940\u2013d. 1956; bequeathed to MMA)"
+    ],
+    "title": "Portrait of a Sufi",
+    "what": [
+        "Metal",
+        "Ink",
+        "Paper",
+        "Gold",
+        "Watercolors",
+        "Manuscripts",
+        "Codices"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Asia",
+        "India",
+        "Deccan"
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/51528"
+            },
+            {
+                "href": "http://scrapi.org/object/48879"
+            },
+            {
+                "href": "http://scrapi.org/object/48884"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 8, 2014",
+                "href": "/exhibitions/listings/2014/tibet-and-india",
+                "rel": "Tibet and India"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/chinese-carving",
+                "rel": "Colors of the Universe"
+            },
+            {
+                "date": "From July 19, 2013",
+                "href": "/exhibitions/listings/2013/chinese-snuff-bottles",
+                "rel": "Small Delights"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/ink-art",
+                "rel": "Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "From February 1, 2014",
+                "href": "/exhibitions/listings/2014/edo-period-painting",
+                "rel": "The Flowering of Edo Period Painting"
+            },
+            {
+                "date": "From April 14, 2014",
+                "href": "/exhibitions/listings/2014/lost-kingdoms",
+                "rel": "Lost Kingdoms"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/highlights-of-asia?eid=A041_%7b93924202-8616-42E2-8DA1-39A4591F1426%7d_20140122180137",
+                "rel": "Highlights of Asia"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R100_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140303111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R100_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140303131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R101_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140304111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R101_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140304120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R101_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140304131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/talks/gallery-talks/the-flowering-of-edo-period-painting-spring?eid=A001_%7bB9065A06-A3F9-4CAB-8F49-ED3038F1E7A2%7d_20140205171419",
+                "rel": "Exhibition Tour\u2014The Flowering of Edo Period Painting: Japanese Masterworks from the Feinberg Collection"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=A092_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20131018142423",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R102_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140305120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R102_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140305131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=nc",
+                "rel": "Central and North Asia, 1400\u20131600 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=eac",
+                "rel": "China, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/36135"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/36135"
+        }
+    },
+    "accession number": "1981.285.9",
+    "credit line": "Edward Elliott Family Collection, Purchase, The Dillon Fund Gift, 1981",
+    "culture": "China",
+    "date": "dated 1578",
+    "department": "Asian Art",
+    "description": "The second son of Wen Zhengming (1470\u20131559), Wen Jia followed the precedent of his father and his father's mentor, Shen Zhou (1427\u20131509), and developed a thorough mastery of the painting styles of the four great masters of the late Yuan dynasty. Here, Wen Jia re-created the style of the Yuan master Wu Zhen (1280\u20131354), with its softly contoured mountains defined in pale texture strokes set off by dark black foliage dots.Wen painted this work for the famous art collector Xiang Yuanbian (1525\u20131590). In his longer inscription he transcribed the text of Summer Song, composed by the poet and official Huangfu Fang (1503\u20131582). In his shorter inscription he dedicated the painting to Xiang on the occasion of Xiang's fifty-fourth birthday. Xiang's enthusiasm for the work is attested to by the presence of fifteen of his seals.",
+    "dimensions": [
+        "Image 46 1/4 x 15 11/16 in. (117.5 x 39.8 cm)",
+        "Overall with mounting 90 3/4 x 23 3/8 in. (230.5 x 59.4 cm)",
+        "Overall with knobs 90 3/4 x 26 in. (230.5 x 66 cm)"
+    ],
+    "id": 36135,
+    "image": "http://images.metmuseum.org/CRDImages/as/original/DT9400.jpg",
+    "medium": "Hanging scroll; ink and color on paper",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/as/original/DT9400.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/1981_285_9_226068.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/1981_285_9_226069.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/1981_285_9_226070.jpg"
+    ],
+    "title": "Landscape Dedicated to Xiang Yuanbian",
+    "what": [
+        "Ink",
+        "Paper",
+        "Paintings",
+        "Scroll paintings",
+        "Scrolls",
+        "Hanging scrolls"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Asia",
+        "China"
+    ],
+    "who": "Wen Jia"
+}

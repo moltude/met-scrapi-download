@@ -1,0 +1,125 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/313258"
+            },
+            {
+                "href": "http://scrapi.org/object/313217"
+            },
+            {
+                "href": "http://scrapi.org/object/317754"
+            },
+            {
+                "href": "http://scrapi.org/object/310243"
+            },
+            {
+                "href": "http://scrapi.org/object/310244"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From September 16, 2013",
+                "href": "/exhibitions/listings/2013/feathered-walls",
+                "rel": "Feathered Walls"
+            },
+            {
+                "date": "From October 8, 2013",
+                "href": "/exhibitions/listings/2013/nelson-rockefeller",
+                "rel": "The Nelson A. Rockefeller Vision"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=A115_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140210093011",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/talks/gallery-talks/ancient-american-sculpture?eid=A001_%7b7A6AA394-9359-47C1-87B4-65B0894C01AB%7d_20140123114645",
+                "rel": "Ancient American Sculpture"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R105_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140311130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R106_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140312130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R107_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140313130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 18, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/shaping-the-african-art-canon?eid=A001_%7b447041C4-D9E7-43A9-AE5F-85BAEB6E7196%7d_20140214113010",
+                "rel": "Shaping the African Art Canon: From the Museum to the Classroom"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/talks/the-observant-eye/shared-memory-sculptural-ancestral-objects-from-oceania?eid=A001_%7b94768B86-339F-4726-A3BC-8F798C423768%7d_20140123143856",
+                "rel": "Shared Memory: Sculptural Ancestral Objects from Oceania"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=A116_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140210093151",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/talks/gallery-talks/ancient-american-sculpture?eid=A002_%7b7A6AA394-9359-47C1-87B4-65B0894C01AB%7d_20140123114700",
+                "rel": "Ancient American Sculpture"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=04\u00aeion=san",
+                "rel": "Northern Andes, 1000 B.C.\u20131 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/314299"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/314299"
+        }
+    },
+    "accession number": "1982.231",
+    "credit line": "Gift of Gertrud A. Mellon, 1982",
+    "culture": "Tolita-Tumaco",
+    "date": "1st century BCE\u20131st century CE",
+    "department": "Arts of Africa, Oceania and the Americas",
+    "description": "This vivid figure is representative of a well-known type of seated male figure from the Pacific coast region of northern Ecuador and southern Colombia. Low-lying and swampy--and inhospitable to the later Spanish colonists of the 1500s--the area was home at the turn of the first millennium A.D. to the people of the Tolita-Tumaco culture, who made large ceramic sculptures with great skill. These three-dimensional works of impressive size, which today are usually fragmentary, stand out within the larger corpus of Precolumbian South American ceramic works primarily for their size and their uncommonly expressive portrayal of the human face and figure. The example here has the face of old age--with wrinkles, baggy skin beneath the eyes, only a few remaining teeth, and stubble on the chin; but these features only enhance the presence and heighten the drama of the forward-thrusting figure. Clearly a man of high status, he wears bracelets and a collar and originally had other ornaments in his ears and nose that may have been made of gold.",
+    "dimensions": "H. 25 x W. 14 1/2 x D. 13 in. (63.5 x 36.8 x 33cm)",
+    "gallery-id": 357,
+    "id": 314299,
+    "image": "http://images.metmuseum.org/CRDImages/ao/original/DT1263.jpg",
+    "medium": "Ceramic",
+    "provenance": [
+        "[Andre Emmerich Gallery, New York, until 1971]",
+        "Gertrude A. Mellon, New York, 1971\u20131982"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ao/original/DT1263.jpg",
+        "http://images.metmuseum.org/CRDImages/ao/original/VS1982_231A.jpg",
+        "http://images.metmuseum.org/CRDImages/ao/original/VS1982_231AB.jpg",
+        "http://images.metmuseum.org/CRDImages/ao/original/VS1982_231ABC.jpg"
+    ],
+    "title": "Seated Figure",
+    "what": [
+        "Ceramics",
+        "Sculpture",
+        "Figures"
+    ],
+    "where": [
+        "South America",
+        "Colombia"
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/248501"
+            },
+            {
+                "href": "http://scrapi.org/object/250544"
+            },
+            {
+                "href": "http://scrapi.org/object/251513"
+            },
+            {
+                "href": "http://scrapi.org/object/256224"
+            },
+            {
+                "href": "http://scrapi.org/object/256222"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R104_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140310123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R105_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140311123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R106_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140313123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R027_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140313130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R107_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140314123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/conversations-with-curators-and-conservators/terracotta-column-krater?eid=A001_%7b1CC4797D-7295-4614-9ACD-19C00BA693F4%7d_20140204162630",
+                "rel": "Conversation with a Curator\u2014Terracotta Column-Krater"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A144_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142257",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A145_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142312",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R116_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140331123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=04\u00aeion=waa",
+                "rel": "Anatolia and the Caucasus (Asia Minor), 1000 B.C.\u20131 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=04\u00aeion=eusb",
+                "rel": "Ancient Greece, 1000 B.C.\u20131 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/252453"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/252453"
+        }
+    },
+    "accession number": "26.59.1",
+    "credit line": "Gift of The American Society for the Excavation of Sardis, 1926",
+    "culture": "Greek",
+    "date": "ca. 300 B.C.",
+    "department": "Greek and Roman Art",
+    "description": "The section of a fluted Ionic column in the center of this room stood over fifty-eight feet high in its original location at the Temple of Artemis. The delicate foliate carving on the capital is unique among extant capitals from the temple, and the torus (foliated base), with its vegetal scale-like pattern, is also exceptionally elaborate. This capital is slightly smaller than others found at the site, indicating that it does not belong to the outer colonnade. Two similar pairs of columns (marked in red on the plan shown nearby) stood in the east and west porches. The column, displayed here with most of the shaft omitted, was probably originally from one or more of those pairs. Alternatively, it may be from the cella (inner room) or from the inner back porch. Parts of the fluted shaft are restored, and the profiled base below the torus is a copy of the original.",
+    "dimensions": "H. 142 1/8 in. (361 cm)",
+    "gallery-id": 160,
+    "id": 252453,
+    "image": "http://images.metmuseum.org/CRDImages/gr/original/DP144130.jpg",
+    "medium": "Marble",
+    "provenance": [
+        "From Sardis (Butler 1925, p. 65)."
+    ],
+    "title": "Marble column from the Temple of Artemis at Sardis",
+    "what": [
+        "Sculpture",
+        "Stone",
+        "Marble",
+        "Capitals"
+    ],
+    "when": "1000 B.C.-A.D. 1",
+    "where": [
+        "Europe",
+        "Greece"
+    ]
+}

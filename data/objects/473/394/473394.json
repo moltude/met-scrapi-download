@@ -1,0 +1,122 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/464924"
+            },
+            {
+                "href": "http://scrapi.org/object/468946"
+            },
+            {
+                "href": "http://scrapi.org/object/475032"
+            },
+            {
+                "href": "http://scrapi.org/object/466060"
+            },
+            {
+                "href": "http://scrapi.org/object/468554"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 25, 2014",
+                "href": "/exhibitions/listings/2014/canterbury-stained-glass",
+                "rel": "Radiant Light"
+            },
+            {
+                "date": "From August 6, 2013",
+                "href": "/exhibitions/listings/2013/design-motifs-in-byzantine-art",
+                "rel": "Design Motifs in Byzantine Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R105_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140311104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R010_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140311150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R106_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140312104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R011_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140312150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R107_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140313104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R012_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140313150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R108_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140314104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R013_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140314150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/dresssing-the-part?eid=A001_%7b9C4AFFB5-1623-45E3-BE4C-5DFE582A20E6%7d_20140113143427",
+                "rel": "Dressing the Part: Medieval Costumes for Biblical Prophets and Ancestors"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/473394"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/473394"
+        }
+    },
+    "accession number": "14.2.2a-e",
+    "credit line": "Rogers Fund, 1914",
+    "culture": "Coptic",
+    "date": "500\u2013600",
+    "department": "Medieval Art",
+    "description": "Scales such as these were used throughout the Byzantine world to measure money and other lightweight objects. According to Byzantine law, the suspension cord of the scales was to be held by two fingers of one hand, with the other fingers straight to ensure that no undue pressure was placed on the scales. The wooden storage container protected the delicate balance of the mechanism.",
+    "dimensions": [
+        "Overall 1 5/16 x 9 1/8 x 3 9/16 in. (3.3 x 23.2 x 9.1 cm)",
+        "Scale set up on mount c-e 6 7/8 x 8 7/16 x 2 in. (17.4 x 21.4 x 5.1 cm)"
+    ],
+    "gallery-id": 302,
+    "id": 473394,
+    "image": "http://images.metmuseum.org/CRDImages/md/original/sf14-2-2a-es13.jpg",
+    "medium": "Wooden box and copper alloy scale",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/md/original/sf14-2-2a-es13.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/sf14-2-2a-es01.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/sf14-2-2a-es02.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/sf14-2-2a-es03.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/sf14-2-2a-es04.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/sf14-2-2a-es07.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/sf14-2-2a-es10.jpg"
+    ],
+    "title": "Wooden Box with Bronze Balance Scale",
+    "what": [
+        "Metal",
+        "Copper",
+        "Woodwork",
+        "Boxes",
+        "Scales",
+        "Balances"
+    ],
+    "when": "A.D. 500-1000"
+}

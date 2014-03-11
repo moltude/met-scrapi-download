@@ -1,0 +1,147 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/369801"
+            },
+            {
+                "href": "http://scrapi.org/object/369828"
+            },
+            {
+                "href": "http://scrapi.org/object/369849"
+            },
+            {
+                "href": "http://scrapi.org/object/360149"
+            },
+            {
+                "href": "http://scrapi.org/object/486900"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/aima/hd_aima.htm",
+                "rel": "African Influences in Modern Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/stgl/hd_stgl.htm",
+                "rel": "Alfred Stieglitz (1864\u20131946) and His Circle"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/cube/hd_cube.htm",
+                "rel": "Cubism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/klee/hd_klee.htm",
+                "rel": "Paul Klee (1879\u20131940)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/symb/hd_symb.htm",
+                "rel": "Symbolism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/mont/hd_mont.htm",
+                "rel": "The Lure of Montmartre, 1880\u20131900"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/geab/hd_geab.htm",
+                "rel": "Geometric Abstraction"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/pica/hd_pica.htm",
+                "rel": "Pablo Picasso (1881\u20131973)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/scpa/hd_scpa.htm",
+                "rel": "School of Paris"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/surr/hd_surr.htm",
+                "rel": "Surrealism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/369846"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/369846"
+        }
+    },
+    "accession number": "1983.1212.35",
+    "credit line": "Gift of Reiss-Cohen Inc., 1983",
+    "date": "1937, printed 1961",
+    "department": "Drawings and Prints",
+    "description": "Picasso executed close to sixty pictures of weeping women between January and November 1937.  Many of them served a preparatory drawings for his monumental antiwar mural, Guernica (Centro de Arte Reina Sof\u00eda, Madrid), although, surprisingly, there are no individual weeping women in the final version of the painting.  Even after the completion of Guernica, Picasso continued to explore the theme in several paintings, drawings, and etchings.  He depicts this sorrowful woman in a Spanish mantilla standing before a wall.  He used a took known as a scraper to create the many marks on her tormented face and to emphasize the gashlike tears streaming from her eyes.",
+    "dimensions": [
+        "plate 13 5/8 x 9 3/4 in. (34.6 x 24.8 cm)",
+        "sheet 20 x 15 3/4 in. (50.8 x 40 cm)"
+    ],
+    "id": 369846,
+    "medium": "Aquatint and drypoint",
+    "provenance": [
+        "Donor: Reiss-Cohen Inc."
+    ],
+    "title": "Weeping Woman in Front of a Wall",
+    "what": [
+        "Prints",
+        "Etching",
+        "Intaglio prints",
+        "Engravings",
+        "Drypoints",
+        "Aquatint"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": [
+        "Pablo Picasso",
+        "Galerie Louise Leiris",
+        "Jacques Fr\u00e9laut"
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/249466"
+            },
+            {
+                "href": "http://scrapi.org/object/249467"
+            },
+            {
+                "href": "http://scrapi.org/object/249468"
+            },
+            {
+                "href": "http://scrapi.org/object/249465"
+            },
+            {
+                "href": "http://scrapi.org/object/249478"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R105_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140311123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R106_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140313123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R027_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140313130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R107_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140314123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/conversations-with-curators-and-conservators/terracotta-column-krater?eid=A001_%7b1CC4797D-7295-4614-9ACD-19C00BA693F4%7d_20140204162630",
+                "rel": "Conversation with a Curator\u2014Terracotta Column-Krater"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A144_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142257",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A145_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142312",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R116_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140331123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R117_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140401123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=05\u00aeion=eust",
+                "rel": "Italian Peninsula, 1\u2013500A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/257879"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/257879"
+        }
+    },
+    "accession number": "2012.479.6",
+    "credit line": "Gift of Ren\u00e9e E. and Robert A. Belfer, 2012",
+    "culture": "Roman",
+    "date": "1st half of 1st century A.D.",
+    "department": "Greek and Roman Art",
+    "description": "Translucent purple, with same color handles.Everted rim, folded over, in and down into mouth; cylindrical neck, flaring at base to join sloping shoulder; elongated piriform body, tapering to pointed base with rounded end; two strap handles with vertical ribbing attached to shoulder, drawn up vertically, turned inward, one in a curve, the other at a right angle, and trailed on to neck below rim.Intact; minor patches of soil encrustation; some dulling and iridescent weathering.This deep purple vase is remarkable for its size and elegant simplicity. No close parallel is known, but it may be regarded as a rare masterpiece of early Roman blown glass.",
+    "dimensions": [
+        "H. 12 1/8 in. (30.8 cm)",
+        "Diameter (Diameter w/ cross handles) 4 3/8 in. (11.1 cm)",
+        "Diameter 4 1/2 x 1 15/16 in. (11.4 x 5 cm)"
+    ],
+    "gallery-id": 166,
+    "id": 257879,
+    "image": "http://images.metmuseum.org/CRDImages/gr/original/DP281253.jpg",
+    "medium": "Glass, purple; blown",
+    "provenance": [
+        "Gawain McKinley, London, before 1980.  Purchased by Selim Dere of Fortuna Fine Arts, New York, January 1980. Purchased by Ren\u00e9e E. and Robert A. Belfer from Fortuna Fine Arts, New York, on April 10, 1995.  Given  by Ren\u00e9e E. and Robert A. Belfer to The Metropolitan Museum of Art, 2012.  The work has been on loan to, and on display at, The Metropolitan Museum of Art since April 2007."
+    ],
+    "title": "Glass two-handled bottle (amphora)",
+    "what": [
+        "Glass",
+        "Amphorae"
+    ],
+    "when": "A.D. 1-500",
+    "where": [
+        "Roman Empire"
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/286391"
+            },
+            {
+                "href": "http://scrapi.org/object/286419"
+            },
+            {
+                "href": "http://scrapi.org/object/286566"
+            },
+            {
+                "href": "http://scrapi.org/object/286567"
+            },
+            {
+                "href": "http://scrapi.org/object/286712"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/rfen/hd_rfen.htm",
+                "rel": "Roger Fenton (1819\u20131869)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwb",
+                "rel": "Great Britain and Ireland, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/282039"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/282039"
+        }
+    },
+    "accession number": "1997.382.34",
+    "credit line": "The Rubel Collection, Purchase, Lila Acheson Wallace, Anonymous, Joyce and Robert Menschel, Jennifer and Joseph Duke, and Ann Tenenbaum and Thomas H. Lee Gifts, 1997",
+    "date": "1858",
+    "department": "Photographs",
+    "description": "Fenton made a series of photographs inspired by the Victorian vogue for the exotic trappings of empire, modeled on the harem scenes and odalisques of Eug\u00e8ne Delacroix and Jean-Auguste-Dominique Ingres that he had seen in Paris, and motivated by his desire to elevate the status of photography by tackling themes more frequently treated in painting.\"Reclining Odalisque\" is among the quietest pictures in his series. There are no cowering slaves or leering sultans, no music or dancing, few stage props, no narrative tale. The odalisque is simply there, a vision floating in darkness: the exquisite embodiment of Victorian fascination with the exotic and the erotic. She lies languorously on dark pillows set on layers of carpet; she is barefoot but crowned with golden coins; she wears loose-fitting, patterned harem pants and a blouse fully unbuttoned to reveal a hint of bare breast below gossamer.  She caresses an upturned goblet drum, a phallic darabukke inlaid with mother-of-pearl, and she looks at us from the shadows, subtly provocative in a way calculated to stir the Western imagination.",
+    "dimensions": "28.5 x 39 cm (11 1/4 x 15 3/8 in.)",
+    "id": 282039,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/ph1997.382.34.R.jpg",
+    "medium": "Salted paper print from glass negative",
+    "provenance": [
+        "Roger Fenton's \"grey albums\"",
+        "(sold, Christie's, South Kensington, June 27, 1978, lot 279)",
+        "[Sean Thackeray, San Francisco]",
+        "William Rubel, Santa Cruz, California",
+        "[Hans P. Kraus, Jr., Fine Photographs, New York]"
+    ],
+    "title": "[Reclining Odalisque]",
+    "what": [
+        "Photographs",
+        "Salted paper prints"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "United Kingdom"
+    ],
+    "who": "Roger Fenton"
+}

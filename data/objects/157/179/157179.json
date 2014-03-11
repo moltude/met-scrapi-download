@@ -1,0 +1,121 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/128088"
+            },
+            {
+                "href": "http://scrapi.org/object/88355"
+            },
+            {
+                "href": "http://scrapi.org/object/159429"
+            },
+            {
+                "href": "http://scrapi.org/object/157156"
+            },
+            {
+                "href": "http://scrapi.org/object/157155"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R150_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140407130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwb",
+                "rel": "Great Britain and Ireland, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/157179"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/157179"
+        }
+    },
+    "accession number": "2009.300.2362a, b",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of the Y.M.C.A., 1946",
+    "culture": "Scottish",
+    "date": "late 19th century",
+    "department": "Costume Institute",
+    "description": "Gypsy Rose Lee (1911-1970) was a burlesque performer and author of the 1957 memoir which became the highly successful stage musical and movie \"Gypsy\". The Brooklyn Museum collection contains several garments worn by her son, Erik Lee Preminger. In her European travels Lee collected examples of regional dress for him to wear for promotional purposes when they returned to the U.S.",
+    "dimensions": [
+        "Length at CB (a) 27 in. (68.6 cm)",
+        "(b) 72 in. (182.9 cm)"
+    ],
+    "id": 157179,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/46.197.1_46.197.2_front_CP4.jpg",
+    "medium": "wool, leather, metal",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/46.197.1_46.197.2_front_CP4.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/46.197.1_46.197.2_back_CP4.jpg"
+    ],
+    "title": "Kilt",
+    "what": [
+        "Metal",
+        "Costume",
+        "Wool",
+        "Leather",
+        "Skirts",
+        "Kilts"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "United Kingdom",
+        "Scottish"
+    ]
+}

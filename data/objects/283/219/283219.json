@@ -1,0 +1,93 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/286424"
+            },
+            {
+                "href": "http://scrapi.org/object/286425"
+            },
+            {
+                "href": "http://scrapi.org/object/286426"
+            },
+            {
+                "href": "http://scrapi.org/object/286427"
+            },
+            {
+                "href": "http://scrapi.org/object/286428"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=na",
+                "rel": "The United States and Canada, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/283219"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/283219"
+        }
+    },
+    "accession number": "2005.100.618",
+    "credit line": "Gilman Collection, Purchase, Gift of The Howard Gilman Foundation, by exchange, 2005",
+    "date": "1861",
+    "department": "Photographs",
+    "description": "When he was twenty-one Carleton Watkins left Oneonta, New York, for California, following the example of Collis P. Huntington, another Oneonta native who had moved to California to make his fortune. After a stint in Huntington's store in Sacramento, Watkins moved to San Francisco where he chanced into an apprenticeship with Robert Vance, the famous daguerreotypist. By l858 Watkins had established an independent practice, photographing mining operations and land claims for financiers who were building their careers in the lap of the new state.     In l861 Watkins traveled with one of his patrons, Trenor Park, entrepreneur of the Mariposa gold mine, on a family excursion to Yosemite, an extraordinarily beautiful valley surrounded by cliffs three thousand feet in height. Unknown to white settlers until 1849, the valley was twenty hours by stage and mule from San Francisco.  But word spread fast at the Mariposa mine, and by 1858 there were land claims, a better road, and tourists enough to support a hotel.  In 1859 C. L. Weed photographed the valley, and by 1861 Easterners had come to know of the awe-inspiring site from articles in the Boston \"Evening Transcript\" written by the Unitarian minister Thomas Starr King.     The thirty mammoth plate (22 x 18 inches) and one hundred stereo views that Watkins took in Yosemite in 1861 were among the first photographs of the valley sent back East.  Through Starr King, Oliver Wendell Holmes and Ralph Waldo Emerson received copies, and in l862 the photographs excited further interest when they were exhibited at Goupil's New York gallery.  It was partly on their evidence that President Lincoln signed a bill in l864 declaring the valley inviolate and leading the way to the National Parks system.     The giant sequoia tree in Watkins's photograph is eighty-six feet in circumference, two hundred twenty-five feet high, and some three thousand years old. Grisly Giant, as the tree is known, helped clinch the notion that Yosemite was a relict of Eden in North America.",
+    "dimensions": "Image 52.3 x 40.7; Mount: 61.4 x 54.1",
+    "id": 283219,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP205144.jpg",
+    "medium": "Albumen silver print from glass negative",
+    "provenance": [
+        "[Reinhart Galleries, Colebrook, Connecticut]",
+        "Gilman Paper Company Collection, New York, New York, July 19, 1985"
+    ],
+    "title": "The Grisly Giant, Mariposa Grove, Yosemite",
+    "what": [
+        "Photographs",
+        "Albumen silver prints"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "Carleton E. Watkins"
+}

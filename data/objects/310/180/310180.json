@@ -1,0 +1,123 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/312137"
+            },
+            {
+                "href": "http://scrapi.org/object/316602"
+            },
+            {
+                "href": "http://scrapi.org/object/312307"
+            },
+            {
+                "href": "http://scrapi.org/object/314221"
+            },
+            {
+                "href": "http://scrapi.org/object/317781"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From September 16, 2013",
+                "href": "/exhibitions/listings/2013/feathered-walls",
+                "rel": "Feathered Walls"
+            },
+            {
+                "date": "From October 8, 2013",
+                "href": "/exhibitions/listings/2013/nelson-rockefeller",
+                "rel": "The Nelson A. Rockefeller Vision"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R105_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140311130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R106_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140312130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R107_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140313130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 18, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/shaping-the-african-art-canon?eid=A001_%7b447041C4-D9E7-43A9-AE5F-85BAEB6E7196%7d_20140214113010",
+                "rel": "Shaping the African Art Canon: From the Museum to the Classroom"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/talks/the-observant-eye/shared-memory-sculptural-ancestral-objects-from-oceania?eid=A001_%7b94768B86-339F-4726-A3BC-8F798C423768%7d_20140123143856",
+                "rel": "Shared Memory: Sculptural Ancestral Objects from Oceania"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=A116_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140210093151",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/talks/gallery-talks/ancient-american-sculpture?eid=A002_%7b7A6AA394-9359-47C1-87B4-65B0894C01AB%7d_20140123114700",
+                "rel": "Ancient American Sculpture"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R117_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140401130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R118_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140402130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=sfg",
+                "rel": "Guinea Coast, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/310180"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/310180"
+        }
+    },
+    "accession number": "1976.239",
+    "credit line": "Rogers Fund, 1976",
+    "culture": "Yoruba peoples, Ife group",
+    "date": "16th century",
+    "department": "Arts of Africa, Oceania and the Americas",
+    "description": "Works in metal in a wealth of bronzes in a variety of styles and types are found throughout the southern half of Nigeria, especially along the lower part of the Niger River. The numerous \"Lower Niger bronzes\" discovered in Benin at the end of the nineteenth century that were long considered to be of local origin are now thought to come from a number of locations and time periods; some are from the Igbo-Igala area, but most were made in centers influenced by Yoruba and Benin art. Scientific dating of the clay cores in several of these sculptures revealed that a few were made as early as the fourteenth century. Some must, therefore, be contemporary with the naturalistic bronzes of Ife and may be provincial reflections of Ife style.       In the Yoruba center of Ijebu, brass casters drew upon motifs found in Benin and Owo which they translated into distinctly Ijebu configurations of composite animal, bird, and fish forms. The complex regional interrelationships that have historically existed between Benin, Owo, and other Yoruba casting traditions are underscroed by a shared tradition of cast-metal altar rings. The iconography of a group of about twenty examples is related to sacrifice.",
+    "dimensions": "Diam. 7 1/2 in. (19 cm)",
+    "gallery-id": 352,
+    "id": 310180,
+    "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1976_239.jpg",
+    "medium": "Brass or copper alloy",
+    "provenance": [
+        "[Joseph and Margaret Knopfelmacher, Craft Caravan, New York, until 1976]"
+    ],
+    "title": "Altar Ring",
+    "what": [
+        "Metal",
+        "Sculpture",
+        "Copper alloy",
+        "Copper",
+        "Brass",
+        "Rings",
+        "Altars"
+    ],
+    "where": [
+        "Africa",
+        "Nigeria"
+    ],
+    "who": "Yoruba"
+}

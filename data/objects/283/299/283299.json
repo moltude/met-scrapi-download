@@ -1,0 +1,97 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/285797"
+            },
+            {
+                "href": "http://scrapi.org/object/285795"
+            },
+            {
+                "href": "http://scrapi.org/object/265541"
+            },
+            {
+                "href": "http://scrapi.org/object/265571"
+            },
+            {
+                "href": "http://scrapi.org/object/266116"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/stei/hd_stei.htm",
+                "rel": "Edward Steichen (1879\u20131973): The Photo\u2013Secession Years"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/283299"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/283299"
+        }
+    },
+    "accession number": "2005.100.157",
+    "credit line": "Gilman Collection, Purchase, Ann Tenenbaum and Thomas H. Lee Gift, 2005",
+    "date": "1924",
+    "department": "Photographs",
+    "description": "Edward Steichen made this portrait of Princess Yusupov in New York in 1924, during his second year as chief photographer at Cond\u00e9 Nast. Although the photograph is dramatic and glamorous in the manner characteristic of Steichen's commercial portraiture, an unexpected sadness tempers the sitter's beauty and proud bearing. Princess Irina Alexandrovna Yusupov (1895-1970) was the daughter of Grand Duchess Xenia Alexandrovna and the niece of Emperor Nicholas II (see no. 194). In 1914 she married Prince Felix Yusupov, best remembered as the murderer of Rasputin, the controversial monk whose association with the Russian imperial family discredited the monarchy in its last years. Having seen many of her relatives killed during the Revolution, Princess Yusupov was active on behalf of Russian refugees. She was in New York with her husband to patronize charity events when this photograph was made; it appeared in the April 15, 1924, issue of \"Vogue.\"",
+    "dimensions": "Image 24.9 x 20 cm (9 13/16 x 7 7/8 in.)",
+    "id": 283299,
+    "medium": "Gelatin silver print",
+    "provenance": [
+        "[Graphics International, Washington, DC]",
+        "Gilman Paper Company Collection, New York, September 18, 1979"
+    ],
+    "title": "Princess Yusupov",
+    "what": [
+        "Photographs",
+        "Gelatin silver prints"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "Edward J. Steichen"
+}

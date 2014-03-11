@@ -1,0 +1,102 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/3373"
+            },
+            {
+                "href": "http://scrapi.org/object/3374"
+            },
+            {
+                "href": "http://scrapi.org/object/4643"
+            },
+            {
+                "href": "http://scrapi.org/object/4644"
+            },
+            {
+                "href": "http://scrapi.org/object/4645"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 18, 2013",
+                "href": "/exhibitions/listings/2013/american-west",
+                "rel": "The American West in Bronze, 1850\u20131925"
+            },
+            {
+                "date": "February 25, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R097_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140225120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "February 25, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R073_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140225134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "February 26, 2014",
+                "href": "/events/programs/talks/gallery-talks/light-in-american-art-hudson-river-school?eid=A003_%7b86B27E91-724D-4796-8075-F3123974AE65%7d_20131016163855",
+                "rel": "Light in American Art: Hudson River School to Abstract Expressionism"
+            },
+            {
+                "date": "February 26, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R098_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140226120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "February 26, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R074_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140226134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "February 27, 2014",
+                "href": "/events/programs/talks/gallery-talks/the-american-west-in-bronze?eid=A001_%7bF8FF67EB-DE74-4A7A-B860-AAB9F09B0E26%7d_20131024112254",
+                "rel": "Exhibition Tour\u2014The American West in Bronze, 1850\u20131925"
+            },
+            {
+                "date": "February 27, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R099_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140227120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "February 27, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R075_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140227134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "March 1, 2014",
+                "href": "/events/programs/tours/american-art-weekend?eid=A180_%7b501B6EDB-D4CC-4402-98B8-688E06337497%7d_20131127140947",
+                "rel": "American Art"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/american-art-weekend?eid=A185_%7b501B6EDB-D4CC-4402-98B8-688E06337497%7d_20131127141222",
+                "rel": "American Art"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/4642"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/4642"
+        }
+    },
+    "accession number": "18.110.67",
+    "credit line": "John Stewart Kennedy Fund, 1918",
+    "date": "1775\u20131800",
+    "department": "American Decorative Arts",
+    "dimensions": "H. 8 1/4 in. (21 cm)",
+    "id": 4642,
+    "image": "http://images.metmuseum.org/CRDImages/ad/original/42089.jpg",
+    "medium": "Brass",
+    "provenance": [
+        "George S. Palmer, New London, Connecticut, until 1918"
+    ],
+    "title": "Knocker",
+    "what": [
+        "Metal",
+        "Copper alloy",
+        "Brass",
+        "Door knockers"
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/544854"
+            },
+            {
+                "href": "http://scrapi.org/object/544503"
+            },
+            {
+                "href": "http://scrapi.org/object/544504"
+            },
+            {
+                "href": "http://scrapi.org/object/544505"
+            },
+            {
+                "href": "http://scrapi.org/object/552476"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A151_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113641",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R130_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140310140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A145_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113221",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=03\u00aeion=afe",
+                "rel": "Egypt, 2000\u20131000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/544502"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/544502"
+        }
+    },
+    "accession number": "11.215.451",
+    "credit line": "Rogers Fund, 1911",
+    "date": "ca. 1390\u20131353 B.C.",
+    "department": "Egyptian Art",
+    "description": "The important buildings in the palace complex of Amenhotep III at Malqata were embellished with floor, wall, and ceiling paintings. This partially restored section of a ceiling painting was discovered lying face up in a room adjacent to the king's bedchamber. The motif consists of a repeating pattern of rosette-filled running spirals alternating with bucrania (ox skulls). Similar ceiling patterns, both painted and modeled in plaster, have been excavated at Aegean sites of a slightly earlier period.Other obejcts excavated at  Malqata are displayed in gallery 120.",
+    "dimensions": "h. 140 cm (55 1/8 in); w. 140 cm (55 1/8 in)",
+    "gallery-id": 119,
+    "id": 544502,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/DT256117.jpg",
+    "medium": [
+        "Dried Mud, mud plaster, paint",
+        "Gesso"
+    ],
+    "provenance": [
+        "Museum excavations, 1910\u201311. Acquired by the Museum in the Division of Finds, 1911."
+    ],
+    "title": "Ceiling painting from the palace of Amenhotep III",
+    "what": [
+        "Paintings",
+        "Plaster",
+        "Mud"
+    ],
+    "when": "2000-1000 B.C.",
+    "where": [
+        "Africa",
+        "Egypt",
+        "Upper Egypt",
+        "Thebes"
+    ]
+}

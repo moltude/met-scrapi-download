@@ -1,0 +1,94 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/286141"
+            },
+            {
+                "href": "http://scrapi.org/object/286142"
+            },
+            {
+                "href": "http://scrapi.org/object/286143"
+            },
+            {
+                "href": "http://scrapi.org/object/262482"
+            },
+            {
+                "href": "http://scrapi.org/object/262295"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwb",
+                "rel": "Great Britain and Ireland, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/285424"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/285424"
+        }
+    },
+    "accession number": "2004.217",
+    "credit line": "Funds from various donors, 2004",
+    "date": "ca. 1870",
+    "department": "Photographs",
+    "description": "Here the Central Park obelisk sits in its late nineteenth-century environment, a neglected area of the Alexandria harbor. What this photograph did not capture was the new buildings going up nearby, indicating the harbor was undergoing modernization. It was this development that created an atmosphere in which Egyptian nationalists in 1880 argued that the obelisk should remain in Egypt as a symbol of the country\u2019s antiquity. However, Khedive Ismail had already given the obelisk to the United States, and Henry Gorringe was quickly arranging its transportation to New York City. Frith, and later his staff, captured pictures that illustrated Egypt\u2019s antiquity, frequently with local people as part of the scene. People who had traveled to Egypt, or perhaps only dreamed of traveling there, could choose a series of prints from the company\u2019s stock and have them bound as a souvenir, much like Speculum Romanae Magnificentiae published some three hundred years earlier.",
+    "dimensions": "Image 15.5 x 20.8 cm (6 1/8 x 8 3/16 in.)",
+    "gallery-id": 136,
+    "id": 285424,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP147834.jpg",
+    "medium": "Albumen silver print from glass negative",
+    "provenance": [
+        "(Swann, May 15,2003, lot 249)",
+        "[Charles Schwartz, Ltd, New York]"
+    ],
+    "title": "[Egyptian Obelisk, \"Cleopatra's Needle,\" in Alexandria, Egypt]",
+    "what": [
+        "Photographs",
+        "Albumen silver prints"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "United Kingdom"
+    ],
+    "who": "Francis Frith"
+}

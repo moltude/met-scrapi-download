@@ -1,0 +1,119 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/33386"
+            },
+            {
+                "href": "http://scrapi.org/object/33388"
+            },
+            {
+                "href": "http://scrapi.org/object/33389"
+            },
+            {
+                "href": "http://scrapi.org/object/33391"
+            },
+            {
+                "href": "http://scrapi.org/object/26306"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From October 2, 2012",
+                "href": "/exhibitions/listings/2012/arms-and-armor",
+                "rel": "Bashford Dean and the Creation of the Arms and Armor Department"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A074_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112917",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A084_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113556",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A093_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113923",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A075_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112932",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A094_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113938",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 5, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A085_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113610",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161351",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A076_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112951",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 19, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161305",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 26, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A086_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113630",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=eaj",
+                "rel": "Japan, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/34939"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/34939"
+        }
+    },
+    "accession number": "14.60.38",
+    "credit line": "Gift of Mrs. Adrian H. Joline, 1914",
+    "culture": "Japanese",
+    "date": "17th century",
+    "department": "Arms and Armor",
+    "dimensions": "Diam. 3 5/16 in. (8.4 cm);  thickness 3/16 in. (.5 cm); Wt. 4.1 oz. (116.2 g)",
+    "id": 34939,
+    "image": "http://images.metmuseum.org/CRDImages/aa/original/14.60.38_002feb2014.jpg",
+    "medium": "Iron, copper",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/aa/original/14.60.38_002feb2014.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/14.60.38_001feb2014.jpg"
+    ],
+    "title": "Sword Guard (Tsuba)",
+    "what": [
+        "Metal",
+        "Arms",
+        "Furniture",
+        "Iron and iron alloy",
+        "Edged weapons",
+        "Copper",
+        "Swords",
+        "Iron",
+        "Guards"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Asia",
+        "Japan"
+    ]
+}

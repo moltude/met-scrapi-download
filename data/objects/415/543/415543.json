@@ -1,0 +1,91 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/397247"
+            },
+            {
+                "href": "http://scrapi.org/object/397248"
+            },
+            {
+                "href": "http://scrapi.org/object/397249"
+            },
+            {
+                "href": "http://scrapi.org/object/415521"
+            },
+            {
+                "href": "http://scrapi.org/object/415522"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwf",
+                "rel": "France, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/415543"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/415543"
+        }
+    },
+    "accession number": "2012.193",
+    "credit line": "Purchase, Phyllis D. Massar Gift, 2012",
+    "date": "1651",
+    "department": "Drawings and Prints",
+    "description": "Print from a series of six reproducing the weapon trophies over the second floor windows of Palazzo Milesi in Rome, designed and executed by Polidoro da Caravaggio in 1525/26. The print shows a large trophy with a Roman centurion helmet. The helmet is characterized by two hybrid sphinxes on the sides and an eagle with spread wings on top. To the left of the central helemt is another smaller one, which appears to be crowned by a lion's head. In a semispherical compartment below the central helmet the inscriptions have been placed.",
+    "dimensions": "Plate 8 3/8 x 11 9/16 in. (21.2 x 29.3 cm)",
+    "id": 415543,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP825701.jpg",
+    "medium": "Engraving",
+    "provenance": [
+        "Vendor: Katrin Bellinger Kunsthandel , Munich"
+    ],
+    "title": "Divers Troph\u00e9es (Weapon Trophies after the Fa\u00e7ade of Palazzo Milesi in Rome)",
+    "what": [
+        "Prints",
+        "Engraving"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": [
+        "Polidoro da Caravaggio",
+        "Charles Errard le fils",
+        "Ren\u00e9 Lochon"
+    ]
+}

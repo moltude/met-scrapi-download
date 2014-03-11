@@ -1,0 +1,108 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/348084"
+            },
+            {
+                "href": "http://scrapi.org/object/348063"
+            },
+            {
+                "href": "http://scrapi.org/object/348087"
+            },
+            {
+                "href": "http://scrapi.org/object/348089"
+            },
+            {
+                "href": "http://scrapi.org/object/348079"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/villa/hd_villa.htm",
+                "rel": "The Idea and Invention of the Villa"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwf",
+                "rel": "France, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/348061"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/348061"
+        }
+    },
+    "accession number": "1975.131.184",
+    "credit line": "Bequest of Harry G. Sperling, 1971",
+    "date": "late 17th\u2013early 18th century",
+    "department": "Drawings and Prints",
+    "dimensions": "sheet 6 5/16 x 10 13/16 in. (16 x 27.5 cm)",
+    "id": 348061,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP802346.jpg",
+    "medium": "Pen and brown ink, brown wash, heightened with white (slightly oxidized) on blue paper.",
+    "provenance": [
+        "John Thane (British, London 1748\u20131818)",
+        "Sir Thomas Lawrence (British, Bristol 1769\u20131830 London)",
+        "William Esdaile (British, 1758\u20131837 London)",
+        "Christie's, London, June 18, 1840, part of lot 113 (as by Benvenuto Cellini)",
+        "A. E. Williamson (Stuppington)",
+        "Ockham",
+        "Lord Tredegar, Baron Tredegar (British)",
+        "Leo Franklyn (German, born 1889)",
+        "Sotheby's, LondonJune 21, 1950, part of lot 19 (as by Benvenuto Cellini)",
+        "Donor: Harry G. Sperling"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP802346.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP802345.jpg"
+    ],
+    "title": "King Midas Feasting At The Arrival of Silenus",
+    "what": [
+        "Ink",
+        "Drawings",
+        "Paper"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": [
+        "Peter Paul Rubens",
+        "Bernard Picart"
+    ]
+}

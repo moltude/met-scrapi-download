@@ -1,0 +1,129 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/21998"
+            },
+            {
+                "href": "http://scrapi.org/object/22000"
+            },
+            {
+                "href": "http://scrapi.org/object/32425"
+            },
+            {
+                "href": "http://scrapi.org/object/32844"
+            },
+            {
+                "href": "http://scrapi.org/object/32197"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From October 2, 2012",
+                "href": "/exhibitions/listings/2012/arms-and-armor",
+                "rel": "Bashford Dean and the Creation of the Arms and Armor Department"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A074_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112917",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A084_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113556",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A093_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113923",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A075_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112932",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A094_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113938",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 5, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A085_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113610",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161351",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A076_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112951",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 19, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161305",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 26, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A086_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113630",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=euwc",
+                "rel": "Central Europe (including Germany), 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/23084"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/23084"
+        }
+    },
+    "accession number": "29.150.3b\u2013p",
+    "credit line": "Bashford Dean Memorial Collection, Bequest of Bashford Dean, 1928",
+    "culture": "German, probably Augsburg",
+    "date": "dated 1524",
+    "department": "Arms and Armor",
+    "description": "These pieces were once part of a complete armor designed for use in battle. Its missing parts include the helmet, collar, gauntlets, and leg defenses. Even though incomplete, this armor is notable for the quality of its construction, the elegance of its form, accented by prominent roped ridges, and for its lively etched decoration. The etched decoration features distinctive female heads, birds, and trophies amid foliate scrolls, all derived from prints by Daniel Hopfer (1471\u20131536). It is believed that early in his career, Hopfer etched ornament and figures on armor. Emperor Maximilian especially favored armor decorated with Italianate motifs in the Norther Renaissance style.",
+    "dimensions": "Wt., 28 lb. (12.7 kg); H. as mounted, 29 3/4 in. (75.57 cm); Breastplate (c) 14 3/4 \u00d7 14 3/4 \u00d7 7 11/16 in. (37.5 \u00d7 37.5 \u00d7 19.5 cm); Wt., 6 lb. 14 oz. (3112 g); Tassets (d): 10 1/4 \u00d7 19 5/16 \u00d7 7 3/8 in. (26 \u00d7 49 \u00d7 18.7 cm); Wt., 3 lb. 3 oz. (1445 g); Backplate (e): 15 9/16 \u00d7 14 15/16 \u00d7 9 1/4 in. (39.5 \u00d7 38 \u00d7 23.5 cm); Wt., 5 lb. 3 oz. (2340 g); Culet (f): 5 7/8 \u00d7 18 5/16 \u00d7 12 3/16 in. (15 \u00d7 46.5 \u00d7 31 cm); Wt., 2 lb. 8 oz. (1141 g); Right Pauldron (g): 10 13/16 \u00d7 10 13/16 \u00d7 7 13/16 in. (27.5 \u00d7 27.5 \u00d7 19.8 cm); Wt., 2 lb. 7 oz. (1110 g); Left Pauldron (h): 11 5/8 \u00d7 11 5/16 \u00d7 8 9/16 in. (29.5 \u00d7 28.8 \u00d7 21.8 cm), Wt., 2 lb. 12 oz. (1251 g); Vambrace (i): 20 \u00d7 6 \u00d7 9 1/2 in. (50.8 \u00d7 15.2 \u00d7 24.1 cm), Wt., 2 lb. 9 oz. (1165 g); Vambrace (j): 20 \u00d7 5 1/2 \u00d7 9 in. (50.8 \u00d7 14 \u00d7 22.9 cm), Wt., 2 lb. 8 oz. (1136 g)",
+    "id": 23084,
+    "image": "http://images.metmuseum.org/CRDImages/aa/original/DP296548.jpg",
+    "medium": "Etched steel",
+    "provenance": [
+        "Ex. coll.: Bashford Dean, New York."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/aa/original/DP296548.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP288753.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP296543.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP296544.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP296545.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP296546.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP296547.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP296549.jpg"
+    ],
+    "title": "Portions of a Field Armor",
+    "what": [
+        "Metal",
+        "Costume",
+        "Etching",
+        "Iron and iron alloy",
+        "Iron alloy",
+        "Steel",
+        "Armor"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Germany",
+        "Bavaria",
+        "Augsburg"
+    ]
+}

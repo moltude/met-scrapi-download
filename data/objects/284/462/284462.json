@@ -1,0 +1,111 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/286578"
+            },
+            {
+                "href": "http://scrapi.org/object/286592"
+            },
+            {
+                "href": "http://scrapi.org/object/286593"
+            },
+            {
+                "href": "http://scrapi.org/object/286655"
+            },
+            {
+                "href": "http://scrapi.org/object/285753"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/bola/hd_bola.htm",
+                "rel": "Body/Landscape: Photography and the Reconfiguration of the Sculptural Object"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=eust",
+                "rel": "Italian Peninsula, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/284462"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/284462"
+        }
+    },
+    "accession number": "2001.165a\u2013g",
+    "credit line": "Purchase, Jennifer and Joseph Duke Gift, 2001",
+    "date": "1970\u201371",
+    "department": "Photographs",
+    "description": "Arte Povera was a uniquely Italian variant on the Conceptualism of the late 1960s and early '70s. In place of skepticism and doubt, artists such as Michelangelo Pistoletto, Giovanni Anselmo, Giuseppe Penone, and others showed an unfailing confidence in the possibility of reclaiming the individual from the deadening effects of consumer culture; the group's critical mouthpiece, Germano Celant, described the artist's new role as \"the free self-projection of human activity.\"In this piece, Penone photographed a glass slide pressed against different parts of his body until he had recorded his entire anatomy; the corporeal fragments (numbering more than one hundred) were then reassembled into a grid of tiny mercator projections mapping his personal landscape. The artist also created versions of this piece as a book and as printed images on photosensitized windows in an exhibition hall.",
+    "dimensions": [
+        "69.5 x 107cm (27 3/8 x 42 1/8in.), each",
+        "Frame 76.2 \u00d7 114.3 cm (30 \u00d7 45 in.), each"
+    ],
+    "id": 284462,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP112771.jpg",
+    "medium": "Gelatin silver print",
+    "provenance": [
+        "[Curt Marcus Gallery, New York]"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ph/original/DP112771.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP109297.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP112772.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP112773.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP112774.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP112775.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP112776.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/Penone2001.165a-g.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/Penone2001.165a-gView2.jpg"
+    ],
+    "title": "Svolgere la propria pelle",
+    "what": [
+        "Photographs",
+        "Gelatin silver prints"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Giuseppe Penone"
+}

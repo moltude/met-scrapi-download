@@ -1,0 +1,130 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/451023"
+            },
+            {
+                "href": "http://scrapi.org/object/453250"
+            },
+            {
+                "href": "http://scrapi.org/object/447798"
+            },
+            {
+                "href": "http://scrapi.org/object/447806"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A250_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114353",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world-french?eid=R026_%7b85906EA1-CA66-4610-A52C-39562E1A4C40%7d_20140310133000",
+                "rel": "Arts du monde Islamique (Arts of the Islamic World in French)"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R130_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140310141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A232_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134244",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=wai",
+                "rel": "Iran, 1400\u20131600 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=wai",
+                "rel": "Iran, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/451320"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/451320"
+        }
+    },
+    "accession number": "55.121.39",
+    "credit line": "Rogers Fund, 1955",
+    "culture": "Islamic",
+    "date": "ca. 1600",
+    "department": "Islamic Art",
+    "description": "The style and subject of this work are emblematic of the master painter Riza, who is best known for his paintings of languorous youths. The curving body of the young man, his delicately painted curls, and the garden setting are all typical of Riza\u2019s work in the early seventeenth century. His style and subjects reflect the taste of Shah 'Abbas\u2019 court at Isfahan, which was renowned for its luxurious palaces and gardens, and attracted visitors from all over the world. The painting is signed below the figure and to the right of the fruit: \"Riza drew it.\"",
+    "dimensions": [
+        "H. 5 3/8 in. (13.6 cm)",
+        "W. 2 1/2 in. (6.4 cm)"
+    ],
+    "id": 451320,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/DT4817.jpg",
+    "medium": "Ink, opaque watercolor, and gold on paper",
+    "provenance": [
+        "[ Hagop Kevorkian, New York, until 1955, sold to MMA]"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/DT4817.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/sf55-121-39d.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/sf55-121-39r.jpg"
+    ],
+    "title": "Man in a Fur-Lined Coat",
+    "what": [
+        "Metal",
+        "Ink",
+        "Paper",
+        "Books",
+        "Gold",
+        "Watercolors",
+        "Albums",
+        "Manuscripts",
+        "Codices"
+    ],
+    "where": [
+        "Asia",
+        "Iran",
+        "Isfahan"
+    ],
+    "who": "Riza-yi `Abbasi"
+}

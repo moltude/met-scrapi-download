@@ -1,0 +1,146 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/502325"
+            },
+            {
+                "href": "http://scrapi.org/object/502848"
+            },
+            {
+                "href": "http://scrapi.org/object/503790"
+            },
+            {
+                "href": "http://scrapi.org/object/503791"
+            },
+            {
+                "href": "http://scrapi.org/object/503414"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/early-guitars",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/musical-instruments-east-and-west?eid=R079_%7bB33A51AA-7250-402C-9FC0-8A302D14AD06%7d_20140311121500",
+                "rel": "Musical Instruments: East and West"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/musical-instruments-east-and-west?eid=R080_%7bB33A51AA-7250-402C-9FC0-8A302D14AD06%7d_20140313121500",
+                "rel": "Musical Instruments: East and West"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/musical-instruments-east-and-west?eid=R081_%7bB33A51AA-7250-402C-9FC0-8A302D14AD06%7d_20140314121500",
+                "rel": "Musical Instruments: East and West"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/family-programs/sunday-studio/string-and-sound?eid=A002_%7b47DD1CB2-ECBA-4009-A975-5F11C7EB2F6A%7d_20131025180255",
+                "rel": "String and Sound: Musical Instruments"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/welcome-guitars?eid=A001_%7bA97BC4B9-BB40-468B-B769-E2288B803700%7d_20140210174255",
+                "rel": "Welcome and Introduction"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/guitars-unlocking?eid=A001_%7b2EF7231E-3208-4491-A372-F94BAC6ACEF2%7d_20140210174844",
+                "rel": "Early American Guitars: Unlocking the Mystery"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/concerts-and-performances/sunday-at-the-met-performance-guitars?eid=A001_%7b307D3D27-A407-452E-8961-47E4218B0B1A%7d_20140210175831",
+                "rel": "Sunday at the Met Performance\u2014Early American Guitars: The Instruments of C. F. Martin"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/concerts-and-performances/sunday-at-the-met-performance-guitars?eid=A002_%7b307D3D27-A407-452E-8961-47E4218B0B1A%7d_20140210175914",
+                "rel": "Sunday at the Met Performance\u2014Early American Guitars: The Instruments of C. F. Martin"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/family-programs/start-with-art-at-the-met-and-start-with-art-at-the-met-plus/making-music?eid=A001_%7b3AE007A9-D4D7-4923-B5F4-F9F8E5300152%7d_20131114160057",
+                "rel": "Start with Art at the Met Plus\u2014Making Music"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/musical-instruments-east-and-west?eid=R088_%7bB33A51AA-7250-402C-9FC0-8A302D14AD06%7d_20140401121500",
+                "rel": "Musical Instruments: East and West"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/renk/hd_renk.htm",
+                "rel": "Renaissance Keyboards"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/reno/hd_reno.htm",
+                "rel": "Renaissance Organs"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwc",
+                "rel": "Central Europe (including Germany), 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/503530"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/503530"
+        }
+    },
+    "accession number": "2002.323 a-f",
+    "credit line": "Purchase, Clara Mertens Bequest, in memory of Andr\u00e9 Mertens, 2002",
+    "date": "ca. 1625",
+    "department": "Musical Instruments",
+    "description": "Inside the ebony case of this musical clock is an extremely rare and important instrument consisting of a sixteen-note pipe organ and a sixteen-string spinet that may be played independently of the organ.  Made by the renowned team of Samuel Bidermann and his son (also Samuel)--the father\u2019s L-shaped pinning style appears in this work--and Viet Langenbucher, the extraordinary piece includes, in addition to the organ and spinet, a clock and five carved and colorfully clad commedia dell'arte figures that perform a circling dance in the clock's tower when the instruments sound to mark the hours.The complex clock is perhaps the most musically elaborate automatic instrument to survive from the early seventeenth century.  Its three airs, probably by composer Hans Leo Hassler (baptized 1564-1612), the elder Bidermann's teacher and once keeper of the knowledge of pinning barrels in Augsburg, are stored on the original pinned cylinder.  Most cylinders and their tunes were replaced by subsequent generations, but this one was spared to provide us with an extremely rare musical document that allows us to hear the airs as they were played in the seventeenth century.",
+    "dimensions": "Overall 78.1 x 32 x 50 cm (30 3/4 x 12 5/8 x 19 11/16 in.)",
+    "gallery-id": 684,
+    "id": 503530,
+    "image": "http://images.metmuseum.org/CRDImages/mi/original/MI20.jpg",
+    "medium": "Ebony, various wood and metals, wire, parchment and leather",
+    "provenance": [
+        "Previously owned by the Time Museum in ChicagoSotheby's, New York, lot 205, June 19, 2002"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/mi/original/MI20.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/MI22.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/MIDP2002.323tune1.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/MIDP2002.323tune2.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/MIDP2002.323tune3.jpg"
+    ],
+    "title": "Musical Clock with Spinet and Organ",
+    "what": [
+        "Metal",
+        "Wood",
+        "Leather",
+        "Musical instruments",
+        "Aerophones",
+        "Chordophones",
+        "Timepieces",
+        "Parchment",
+        "Clocks",
+        "Ebony",
+        "Organs",
+        "Harpsichords",
+        "Spinets"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "Germany",
+        "Bavaria",
+        "Augsburg"
+    ],
+    "who": [
+        "Samuel Bidermann",
+        "Veit Langenbucher"
+    ]
+}

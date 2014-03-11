@@ -1,0 +1,153 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/459172"
+            },
+            {
+                "href": "http://scrapi.org/object/490146"
+            },
+            {
+                "href": "http://scrapi.org/object/459175"
+            },
+            {
+                "href": "http://scrapi.org/object/490147"
+            },
+            {
+                "href": "http://scrapi.org/object/459173"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From November 20, 2013",
+                "href": "/exhibitions/listings/2013/jewels-by-jar",
+                "rel": "Jewels by JAR"
+            },
+            {
+                "date": "From November 5, 2013",
+                "href": "/exhibitions/listings/2013/carlo-scarpa",
+                "rel": "Venetian Glass by Carlo Scarpa"
+            },
+            {
+                "date": "From February 24, 2014",
+                "href": "/exhibitions/listings/2014/lucas-samaras",
+                "rel": "Lucas Samaras"
+            },
+            {
+                "date": "From December 17, 2013",
+                "href": "/exhibitions/listings/2013/metropolitan-vanities",
+                "rel": "Metropolitan Vanities"
+            },
+            {
+                "date": "From October 22, 2013",
+                "href": "/exhibitions/listings/2013/william-kentridge",
+                "rel": "William Kentridge"
+            },
+            {
+                "date": "From April 29, 2014",
+                "href": "/exhibitions/listings/2014/dan-graham",
+                "rel": "The Roof Garden Commission: Dan Graham"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R100_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140303144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/modern-art-french?eid=R026_%7b96311A2D-1D25-45BE-83E2-2054BC16D70B%7d_20140304133000",
+                "rel": "Art Moderne et Contemporain (Modern and Contemporary Art in French)"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R101_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140304144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R102_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140305144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R026_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140306140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R103_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140306144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/collecting-and-intepreting-at-the-met?eid=A001_%7b6A0B3958-68AC-4F22-BB73-D898FB894401%7d_20140127111701",
+                "rel": "Fellows Colloquium\u2014Collecting and Interpreting at the Met"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/talks/gallery-talks/metropolitan-vanities?eid=A001_%7bF51ADF90-5C6F-45EF-822C-6AE4940219F6%7d_20140206160301",
+                "rel": "Exhibition Tour\u2014Metropolitan Vanities: The History of the Dressing Table"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/college/jewels?eid=A001_%7bB2CEEB36-09E2-43E1-B6FD-1CA91686BA29%7d_20140219113337",
+                "rel": "Jewels by JAR Workshop"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R104_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140310144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/jpon/hd_jpon.htm",
+                "rel": "Japonisme"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/dcpt/hd_dcpt.htm",
+                "rel": "The Nabis and Decorative Painting"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwf",
+                "rel": "France, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/488853"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/488853"
+        }
+    },
+    "accession number": "55.173",
+    "credit line": "Gift of Alex M. Lewyt, 1955",
+    "date": "1889",
+    "department": "Modern and Contemporary Art",
+    "description": "In his sober, high-collared garment, the pensive twenty-three year old Vuillard might be taken for a civil servant or a clergyman. Only the palette and paintbrushes in his right hand identify him as a painter. The artist\u2019s friend Waroquy, with a cigarette between his lips, looms behind, his facial features and his body rendered more vaguely. Waroquy\u2019s name appears frequently in Vuillard\u2019s journal during 1888\u201389, although today nearly nothing is known about him. The dreamlike quality of the picture derives from the fact that it is a mirror image. This is understood by the small bottle at the lower right, which is placed in front of the mirror and is also reflected in it. According to one of Vuillard\u2019s autobiographical journal entries, he posed in front of a mirror in the bedroom of the apartment of his beloved Grandmother Michaud, in the rue de Miromesnil in Paris.",
+    "dimensions": "36 1/2 x 28 1/2 in. (92.7 x 72.4 cm)",
+    "id": 488853,
+    "image": "http://images.metmuseum.org/CRDImages/ma/original/DT2171.jpg",
+    "medium": "Oil on canvas",
+    "provenance": [
+        "the artist (possibly until d. 1940)",
+        "his brother-in-law, Ker Xavier Roussel, Paris (possibly by inheritance, 1940\u2013d. 1944)",
+        "his son, Jacques Roussel, Paris (1944\u2013probably 1949; sold to Salz)",
+        "[Sam Salz, New York (1949\u201353",
+        "sold on February 3, 1953, to Lewyt]",
+        "Alex M. Lewyt, New York (1953\u201355; his gift to MMA)"
+    ],
+    "title": "Self-Portrait with Waroquy",
+    "what": [
+        "Paintings",
+        "Canvas",
+        "Oil paintings"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "\u00c9douard Vuillard"
+}

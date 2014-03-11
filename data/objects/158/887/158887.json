@@ -1,0 +1,113 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/78980"
+            },
+            {
+                "href": "http://scrapi.org/object/97249"
+            },
+            {
+                "href": "http://scrapi.org/object/97250"
+            },
+            {
+                "href": "http://scrapi.org/object/97251"
+            },
+            {
+                "href": "http://scrapi.org/object/105239"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R150_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140407130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=eaj",
+                "rel": "Japan, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/158887"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/158887"
+        }
+    },
+    "accession number": "2009.300.38a\u2013c",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Brooklyn Museum Collection",
+    "culture": "Japanese",
+    "date": "1966\u201369",
+    "department": "Costume Institute",
+    "description": "This evening ensemble is an early example of Hanae Mori's work. Here she uses two types of fabric printed with the same motif to create a shadow effect. The cape sleeves are reminiscent of the extended sleeves of the furisode, a formal kimono style worn by young, unmarried women.",
+    "dimensions": [
+        "Length at CB (a) 27 in. (68.6 cm)",
+        "Length at CB (b) 43 1/2 in. (110.5 cm)"
+    ],
+    "id": 158887,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/CP49a-c_CP3.jpg",
+    "medium": "silk",
+    "title": "Evening ensemble",
+    "what": [
+        "Silk",
+        "Ensembles"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Asia",
+        "Japan"
+    ],
+    "who": "Hanae Mori"
+}

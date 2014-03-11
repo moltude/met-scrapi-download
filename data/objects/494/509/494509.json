@@ -1,0 +1,170 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/500192"
+            },
+            {
+                "href": "http://scrapi.org/object/637222"
+            },
+            {
+                "href": "http://scrapi.org/object/629121"
+            },
+            {
+                "href": "http://scrapi.org/object/500193"
+            },
+            {
+                "href": "http://scrapi.org/object/346949"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From November 20, 2013",
+                "href": "/exhibitions/listings/2013/jewels-by-jar",
+                "rel": "Jewels by JAR"
+            },
+            {
+                "date": "From November 5, 2013",
+                "href": "/exhibitions/listings/2013/carlo-scarpa",
+                "rel": "Venetian Glass by Carlo Scarpa"
+            },
+            {
+                "date": "From February 24, 2014",
+                "href": "/exhibitions/listings/2014/lucas-samaras",
+                "rel": "Lucas Samaras"
+            },
+            {
+                "date": "From December 17, 2013",
+                "href": "/exhibitions/listings/2013/metropolitan-vanities",
+                "rel": "Metropolitan Vanities"
+            },
+            {
+                "date": "From October 22, 2013",
+                "href": "/exhibitions/listings/2013/william-kentridge",
+                "rel": "William Kentridge"
+            },
+            {
+                "date": "From April 29, 2014",
+                "href": "/exhibitions/listings/2014/dan-graham",
+                "rel": "The Roof Garden Commission: Dan Graham"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R100_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140303144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/modern-art-french?eid=R026_%7b96311A2D-1D25-45BE-83E2-2054BC16D70B%7d_20140304133000",
+                "rel": "Art Moderne et Contemporain (Modern and Contemporary Art in French)"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R101_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140304144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R102_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140305144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R026_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140306140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R103_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140306144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/collecting-and-intepreting-at-the-met?eid=A001_%7b6A0B3958-68AC-4F22-BB73-D898FB894401%7d_20140127111701",
+                "rel": "Fellows Colloquium\u2014Collecting and Interpreting at the Met"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/talks/gallery-talks/metropolitan-vanities?eid=A001_%7bF51ADF90-5C6F-45EF-822C-6AE4940219F6%7d_20140206160301",
+                "rel": "Exhibition Tour\u2014Metropolitan Vanities: The History of the Dressing Table"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/college/jewels?eid=A001_%7bB2CEEB36-09E2-43E1-B6FD-1CA91686BA29%7d_20140219113337",
+                "rel": "Jewels by JAR Workshop"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R104_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140310144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/cncp/hd_cncp.htm",
+                "rel": "Conceptual Art and Photography"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/john/hd_john.htm",
+                "rel": "Jasper Johns (born 1930)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/phef/hd_phef.htm",
+                "rel": "Photography in the Expanded Field: Painting, Performance, and the Neo\u2013Avant\u2013Garde"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/post/hd_post.htm",
+                "rel": "The Postwar Print Renaissance in America"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/494509"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/494509"
+        }
+    },
+    "accession number": "2005.390a-c",
+    "credit line": "Gift of Steven and Alexandra Cohen, and Purchase, Lila Acheson Wallace Gift, Bequest of Gioconda King, by exchange, Anonymous Gift and Gift of Sylvia de Cuevas, by exchange, Janet Lee Kadesky Ruttenberg Fund, in memory of William S. Lieberman, Mayer Fund, Norman M. Leff Bequest, and George A. Hearn and Kathryn E. Hurd Funds, 2005",
+    "date": "1959",
+    "department": "Modern and Contemporary Art",
+    "description": "Winter Pool, the first painting by Rauschenberg to enter the Museum's collection, is a prime example of a very important period in this highly inventive and influential artist's work\u2014the mid-1950s to the early 1960s\u2014when he created bold objects that were a hybrid of painting and sculpture and a reinvention of collage. He called them Combines. In Cubist collage, pasted papers add up to a readable image, such as a still life. With Combines, there is no narrative and the interpretation is left to the viewer.The work, in exceptionally fresh condition, consists of two separate canvases, each about the height of a man. A wooden ladder bridges the gap between them, and its legs extend to the floor, inviting the viewer to climb into the picture. The compositions of both canvases consist of syncopated grids formed by rectangles of paint and found objects: shirt cuffs, a handkerchief, poster letters, and photographic reproductions. Rauschenberg's virtuoso handling of paint both exploits and confronts the dominant painterly style of the early 1950s\u2014Abstract Expressionism\u2014and undermines the Renaissance notion that a painting shows an ideal world behind the canvas surface.",
+    "dimensions": "89 1/2 x 58 1/2 x 4 in. (227.3 x 148.6 x 10.2 cm)",
+    "gallery-id": 923,
+    "id": 494509,
+    "medium": "Combine painting oil, paper, fabric, wood, metal, sandpaper, tape, printed paper, printed reproductions, handheld bellows, and found painting, on two canvases, with ladder",
+    "provenance": [
+        "The artist",
+        "[Leo Castelli Gallery]",
+        "Count Giuseppe Panza di Biumo (until 1963; sold on May 22 through Castelli to Ganz)",
+        "Victor and Sally Ganz (1963\u201388; their sale, Sotheby's, New York, November 10, 1988, to Brant)",
+        "Mr. and Mrs. Peter M. Brant (from 1988)",
+        "David Geffen",
+        "[Gagosian Gallery, New York]"
+    ],
+    "title": "Winter Pool",
+    "what": [
+        "Metal",
+        "Paper",
+        "Paintings",
+        "Printing",
+        "Oil paintings",
+        "Cloth",
+        "Printing paper",
+        "Bellows",
+        "Ladders"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "Robert Rauschenberg"
+}

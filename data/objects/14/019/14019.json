@@ -1,0 +1,132 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/14025"
+            },
+            {
+                "href": "http://scrapi.org/object/14031"
+            },
+            {
+                "href": "http://scrapi.org/object/13850"
+            },
+            {
+                "href": "http://scrapi.org/object/13829"
+            },
+            {
+                "href": "http://scrapi.org/object/15971"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 18, 2013",
+                "href": "/exhibitions/listings/2013/american-west",
+                "rel": "The American West in Bronze, 1850\u20131925"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R105_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140311120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R079_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140311134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R106_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140312120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R080_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140312134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R107_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140313120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R081_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140313134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/saturday-seminar-spring-2014?eid=R002_%7bE063A39F-FC40-4ECC-B690-C4C13F70B2A0%7d_20140315103000",
+                "rel": "Saturday Seminar with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/programs-for-visitors-with-disabilities/visitors-with-developmental-and-learning-disabilities/discoveries-westward-bound?eid=A001_%7bE5928C68-7EDB-4853-BA5C-44B6BAEFED3E%7d_20140206162625",
+                "rel": "Discoveries\u2014Westward Bound (Ages 18 and above)"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/programs-for-visitors-with-disabilities/visitors-with-developmental-and-learning-disabilities/discoveries-family-westward-bound?eid=A001_%7b4560930D-CFDB-4C16-9050-2BA6AE2F478C%7d_20140206163830",
+                "rel": "Discoveries\u2014Westward Bound (Ages 5\u201317)"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/talks/gallery-talks/the-american-west-in-bronze-spring?eid=A001_%7b354F82EB-4CF6-4AA3-A112-410983A132BF%7d_20140206161314",
+                "rel": "Exhibition Tour\u2014The American West in Bronze, 1850\u20131925"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/cawh/hd_cawh.htm",
+                "rel": "Candace Wheeler (1827\u20131923)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=na",
+                "rel": "The United States and Canada, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/14019"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/14019"
+        }
+    },
+    "accession number": "28.70.3",
+    "credit line": "Gift of Mrs. Boudinot Keith, 1928",
+    "culture": "American",
+    "date": "ca. 1885",
+    "department": "American Decorative Arts",
+    "dimensions": "26 1/4 x 24 1/2 in. (66.7 x 62.2 cm)",
+    "id": 14019,
+    "image": "http://images.metmuseum.org/CRDImages/ad/original/DP8059.jpg",
+    "medium": "Silk and metal threads, damask, woven",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ad/original/DP8059.jpg",
+        "http://images.metmuseum.org/CRDImages/ad/original/APS2463.jpg",
+        "http://images.metmuseum.org/CRDImages/ad/original/DT944.jpg",
+        "http://images.metmuseum.org/CRDImages/ad/original/61DCAT16R5.jpg",
+        "http://images.metmuseum.org/CRDImages/ad/original/267416.jpg",
+        "http://images.metmuseum.org/CRDImages/ad/original/267379.jpg",
+        "http://images.metmuseum.org/CRDImages/ad/original/70923.jpg"
+    ],
+    "title": "Sample",
+    "what": [
+        "Metal",
+        "Silk",
+        "Textiles",
+        "Woven",
+        "Samples",
+        "Damask"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "North and Central America",
+        "United States",
+        "New York",
+        "New York City"
+    ],
+    "who": [
+        "Cheney Brothers",
+        "Tiffany & Wheeler"
+    ]
+}

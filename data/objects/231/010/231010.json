@@ -1,0 +1,153 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/355869"
+            },
+            {
+                "href": "http://scrapi.org/object/381619"
+            },
+            {
+                "href": "http://scrapi.org/object/381621"
+            },
+            {
+                "href": "http://scrapi.org/object/381620"
+            },
+            {
+                "href": "http://scrapi.org/object/201875"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 3, 2014",
+                "href": "/exhibitions/listings/2014/william-morris",
+                "rel": "William Morris"
+            },
+            {
+                "date": "From November 22, 2011",
+                "href": "/exhibitions/listings/2011/faberge",
+                "rel": "Faberg\u00e9 from the Matilda Geddings Gray Foundation Collection"
+            },
+            {
+                "date": "From February 4, 2014",
+                "href": "/exhibitions/listings/2014/french-ceramics",
+                "rel": "Making Pottery Art"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/carpeaux",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "From January 22, 2014",
+                "href": "/exhibitions/listings/2014/antonio-canova",
+                "rel": "Antonio Canova"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R100_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140303131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining?eid=A001_%7b7C69242D-2B76-4B1B-B2B8-0F004589560B%7d_20140107112846",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R101_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140304131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining-family-individual?eid=R001_%7b2F11F3B2-6834-484B-AE0F-5066D7E783B5%7d_20140305100000",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/world-enlightened?eid=R001_%7bEC37AED7-F558-4A27-A806-094491540250%7d_20140305101500",
+                "rel": "Cultural Discoveries\u2014Wednesdays with Olivier Bernier: Europe in the Eighteenth Century, A World Enlightened"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining-family-individual?eid=R002_%7b2F11F3B2-6834-484B-AE0F-5066D7E783B5%7d_20140306100000",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R102_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140306131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining-family-individual?eid=R001_%7b2F11F3B2-6834-484B-AE0F-5066D7E783B5%7d_20140307100000",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/collecting-and-intepreting-at-the-met?eid=A001_%7b6A0B3958-68AC-4F22-BB73-D898FB894401%7d_20140127111701",
+                "rel": "Fellows Colloquium\u2014Collecting and Interpreting at the Met"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R103_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140307131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwf",
+                "rel": "France, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/231010"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/231010"
+        }
+    },
+    "accession number": "2004.113a, b",
+    "credit line": "Rogers Fund and Edith Perry Chapman Fund, 2004",
+    "culture": "French, Paris",
+    "date": "1794",
+    "department": "European Sculpture and Decorative Arts",
+    "description": "The popularity of the victorious sixth-century Byzantine general Belisarius aroused the jealous wrath of his emperor Justinian to the point that he had Belisarius imprisoned, then blinded and turned loose to beg for his living. Antiroyalist elements in French society found parallels in the court of Louis XVI, which was coming under increased criticism. When the terracotta model for this group was exhibited at the Salon of 1791, the sentimental Neoclassical public surely relished its pathos and the contrast between the forms of the sightless but ever-proud mendicant and his weary young guide. The quality of the bronze's chasing led early commentators to suppose Chaudet carried it out himself, but more likely he turned to a professional foundry for the expertise needed to give the metal its dazzling range of surfaces. The Neoclassical age sometimes had unexpected kinetic moments: fitted within the unpatinated base is the original turntable on which the group can be revolved so as to be appreciated from every angle.",
+    "dimensions": "H. 18 in., D. 14 3/8 in. (47.5 x 36.6 cm)",
+    "gallery-id": 553,
+    "id": 231010,
+    "image": "http://images.metmuseum.org/CRDImages/es/original/DP250361.jpg",
+    "medium": "Bronze, mounted in a bronze circlet with floral ornament painted to resemble gilt bronze, into which is fitted the original rotating mechanism",
+    "provenance": [
+        "[ sale, Mont-de-Pi\u00e9t\u00e9 , Paris, April 18\u201325, 1803; probably to P\u00e9rignon; sold for 1,630 francs) ]",
+        "probably Alexis-Nicolas P\u00e9rignon (probably 1803\u201317; sale, Galerie Lebrun, Paris, December 10, 1817, no. 136)",
+        "Edmond Courty (by 1968\u2013d. 2002; sale, H\u00f4tel Drouot, Paris, October 18, 2002, no. 47) ]",
+        "[ Charles Janoray, LLC , New York (until 2004; sold to MMA) ]"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/es/original/DP250361.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP250360.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP250362.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP250363.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP250364.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP250365.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP250366.jpg"
+    ],
+    "title": "Belisarius and His Guide",
+    "what": [
+        "Metal",
+        "Sculpture",
+        "Copper alloy",
+        "Bronze",
+        "Gilt",
+        "Painting",
+        "Statues",
+        "Figurines"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "France",
+        "Paris"
+    ],
+    "who": "Antoine Denis Chaudet"
+}

@@ -1,0 +1,109 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/288322"
+            },
+            {
+                "href": "http://scrapi.org/object/294011"
+            },
+            {
+                "href": "http://scrapi.org/object/288149"
+            },
+            {
+                "href": "http://scrapi.org/object/288272"
+            },
+            {
+                "href": "http://scrapi.org/object/288285"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwc",
+                "rel": "Central Europe and Low Countries, 1800\u20131900 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwcm",
+                "rel": "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/288134"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/288134"
+        }
+    },
+    "accession number": "1982.1182.302\u2013.306",
+    "credit line": "Gift of Weston J. Naef, in memory of Kathleen W. Naef and Weston J. Naef Sr., 1982",
+    "date": "1870s\u20131910s",
+    "department": "Photographs",
+    "dimensions": "Mounts approximately 8.9 x 17.8 cm (3 1/2 x 7 in.)",
+    "id": 288134,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP74745.jpg",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ph/original/DP74745.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP74746.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP74747.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP74748.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP74749.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP74750.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP74751.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP74752.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP74753.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP74754.jpg"
+    ],
+    "title": "[Group of 5 Stereograph Views of Austria]",
+    "what": [
+        "Photographs",
+        "Stereographs"
+    ],
+    "where": [
+        "Europe",
+        "Austria"
+    ],
+    "who": [
+        "Unknown",
+        "Underwood & Underwood",
+        "Keystone View Company, London",
+        "J. F. Jarvis",
+        "Franz Richard Unterberger"
+    ]
+}

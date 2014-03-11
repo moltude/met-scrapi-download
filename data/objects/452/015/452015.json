@@ -1,0 +1,117 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/452012"
+            },
+            {
+                "href": "http://scrapi.org/object/452013"
+            },
+            {
+                "href": "http://scrapi.org/object/452014"
+            },
+            {
+                "href": "http://scrapi.org/object/452016"
+            },
+            {
+                "href": "http://scrapi.org/object/452017"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A232_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134244",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A237_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134557",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/programs-for-visitors-with-disabilities/visitors-who-are-deaf/beauty-and-innovation?eid=A001_%7b77D8F57E-5FC9-4578-8A95-30A43C89CFDD%7d_20140210164006",
+                "rel": "Met Signs Tours in ASL\u2014Beauty and Innovation: Understanding Islamic Art"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A251_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114408",
+                "rel": "Arts of the Islamic World"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/452015"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/452015"
+        }
+    },
+    "accession number": "68.215.22",
+    "credit line": "Gift of Dr. and Mrs. Lewis Balamuth, 1968",
+    "culture": "Islamic",
+    "date": "late 19th\u2013early 20th century",
+    "department": "Islamic Art",
+    "dimensions": [
+        "12 5/8 x 9 1/2in. (32 x 24.1cm)",
+        "Dimensions of painting 9 1/16 x 6in. (23 x 15.2cm)"
+    ],
+    "id": 452015,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/DP215865.jpg",
+    "medium": "Ink, opaque watercolor, silver, and gold on paper",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/DP215865.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/sf68-215-22.jpg"
+    ],
+    "title": "\"Zal Returned to Sam\", Folio from a Shahnama (Book of Kings)",
+    "what": [
+        "Metal",
+        "Ink",
+        "Paper",
+        "Silver",
+        "Gold",
+        "Watercolors",
+        "Manuscripts",
+        "Codices",
+        "Folios",
+        "Illuminated manuscripts"
+    ],
+    "where": [
+        "Asia",
+        "Kashmir"
+    ]
+}

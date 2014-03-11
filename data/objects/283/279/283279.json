@@ -1,0 +1,103 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/286490"
+            },
+            {
+                "href": "http://scrapi.org/object/286610"
+            },
+            {
+                "href": "http://scrapi.org/object/285703"
+            },
+            {
+                "href": "http://scrapi.org/object/265820"
+            },
+            {
+                "href": "http://scrapi.org/object/265821"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/hopp/hd_hopp.htm",
+                "rel": "Edward Hopper (1882\u20131967)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/283279"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/283279"
+        }
+    },
+    "accession number": "2005.100.624",
+    "credit line": "Gilman Collection, Purchase, Ann Tenenbaum and Thomas H. Lee Gift, 2005",
+    "date": "1926",
+    "department": "Photographs",
+    "description": "Berenice Abbott opened a photographic portrait studio in Paris in 1926 after having worked for three years as an assistant to Man Ray, whom she had met in New York. Although her Paris portraits are indebted stylistically to Man Ray's, she brought to them a sympathetic eye that was very much her own. Her portraits of women are notable for their empathic understanding of her subjects, but she reached a depth of expression in her photographs of James Joyce (1882-1941). Abbott photographed Joyce on two occasions, the first in 1926 at his home, the second in 1928 at her studio, as was her more customary practice. In spite of Abbott's annotation on the back of the print, this portrait belongs to the earlier session, when Joyce was photographed both with and without the patch over his eye, worn because of his sadly degenerating sight. For this particular exposure Joyce removed the patch and held it, with his glasses, in his right hand; his forehead still bears the diagonal impression of the ribbon. This intimate portrait, with its softly diffused lighting, suggests the complex, introverted character of Joyce's imagination. It is with good reason that Abbott's are considered the definitive portraits of the author of \"Ulysses\" and \"Finnegan's Wake.\"",
+    "dimensions": "23.3 x 17.4cm (9 3/16 x 6 7/8in.)",
+    "id": 283279,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP138131.jpg",
+    "medium": "Gelatin silver print",
+    "provenance": [
+        "Berenice Abbott",
+        "[Paul Katz, North Bennington, VT]",
+        "Gilman Paper Company Collection, New York, November 3, 1981"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ph/original/DP138131.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/Abbott2005.100.624verso.jpg"
+    ],
+    "title": "[James Joyce]",
+    "what": [
+        "Photographs",
+        "Gelatin silver prints"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "Berenice Abbott"
+}

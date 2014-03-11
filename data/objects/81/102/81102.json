@@ -1,0 +1,129 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/85978"
+            },
+            {
+                "href": "http://scrapi.org/object/109798"
+            },
+            {
+                "href": "http://scrapi.org/object/85937"
+            },
+            {
+                "href": "http://scrapi.org/object/162917"
+            },
+            {
+                "href": "http://scrapi.org/object/162920"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R150_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140407130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/81102"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/81102"
+        }
+    },
+    "accession number": "C.I.58.13.6a, b",
+    "credit line": "Gift of Lisa and Jody Greene, in memory of their loving mother, Mrs. Ethel S. Greene, 1958",
+    "culture": "French",
+    "date": "spring/summer 1948",
+    "department": "Costume Institute",
+    "description": "Keenly historicist, Balenciaga invented a fantasy of eighteenth-century court dress, knowing that Marie-Antoinette favored overdresses with swags anchored by roses.  Sustained by wide panniers also appropriated from eighteenth-century fashion, Balenciaga renewed the Rococo rose for the 1940s and 1950s.",
+    "dimensions": [
+        "Length (a) 53 1/4 in. (135.3 cm)",
+        "Length at CB (b) 43 1/2 in. (110.5 cm)"
+    ],
+    "id": 81102,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/DT441.jpg",
+    "medium": "silk, steel",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/DT441.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/DT253772.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/DT253773.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI58.13.6ab_d2.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI58.13.6ab_d3.jpg"
+    ],
+    "title": "Ball gown",
+    "what": [
+        "Metal",
+        "Costume",
+        "Silk",
+        "Iron and iron alloy",
+        "Dresses",
+        "Iron alloy",
+        "Steel",
+        "Gowns"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": [
+        "House of Balenciaga",
+        "Cristobal Balenciaga"
+    ]
+}

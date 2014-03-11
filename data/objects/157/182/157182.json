@@ -1,0 +1,117 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/157401"
+            },
+            {
+                "href": "http://scrapi.org/object/157430"
+            },
+            {
+                "href": "http://scrapi.org/object/157849"
+            },
+            {
+                "href": "http://scrapi.org/object/157924"
+            },
+            {
+                "href": "http://scrapi.org/object/157986"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R130_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140310130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwf",
+                "rel": "France, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/157182"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/157182"
+        }
+    },
+    "accession number": "2009.300.2365",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Lucie and Mary Stevenson, 1948",
+    "culture": "French",
+    "date": "1875\u201380",
+    "department": "Costume Institute",
+    "description": "While this parasol is of French make, the accession records suggest that it was purchased in South America by a United States serviceman (the donor's father).  The intricate carving on the handle is very detailed, depicting a variety of motifs including male and female figures and architectural structures that are vertically aligned with a sense of perspective as is a hallmark of Asian artistry.  The records also describe the end of the handle as a \"dragon's head with a movable tongue.\"",
+    "dimensions": "25 1/2 in. (64.8 cm)",
+    "id": 157182,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/48.62_CP4.jpg",
+    "medium": "silk, ivory, metal",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/48.62_CP4.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/48.62_detail_CP4.jpg"
+    ],
+    "title": "Parasol",
+    "what": [
+        "Metal",
+        "Costume",
+        "Silk",
+        "Bone",
+        "Ivory",
+        "Parasols"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "France"
+    ]
+}

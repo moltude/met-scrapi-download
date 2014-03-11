@@ -1,0 +1,130 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/475509"
+            },
+            {
+                "href": "http://scrapi.org/object/479000"
+            },
+            {
+                "href": "http://scrapi.org/object/466633"
+            },
+            {
+                "href": "http://scrapi.org/object/469839"
+            },
+            {
+                "href": "http://scrapi.org/object/469942"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 25, 2014",
+                "href": "/exhibitions/listings/2014/canterbury-stained-glass",
+                "rel": "Radiant Light"
+            },
+            {
+                "date": "From August 6, 2013",
+                "href": "/exhibitions/listings/2013/design-motifs-in-byzantine-art",
+                "rel": "Design Motifs in Byzantine Art"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R007_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140307150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/ancestors-of-christ?eid=A001_%7b64F28017-6AB0-4B00-864F-E5676EE07585%7d_20140113142350",
+                "rel": "The Ancestors of Christ: Stained Glass Windows from Canterbury Cathedral"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/ancestors-of-christ?eid=A002_%7b64F28017-6AB0-4B00-864F-E5676EE07585%7d_20140113142402",
+                "rel": "The Ancestors of Christ: Stained Glass Windows from Canterbury Cathedral"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R008_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140309150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R009_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140310150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R105_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140311104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R010_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140311150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R106_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140312104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R011_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140312150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=07\u00aeion=euwf",
+                "rel": "France, 1000\u20131400 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/469939"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/469939"
+        }
+    },
+    "accession number": "1991.252",
+    "credit line": "The Cloisters Collection, 1991",
+    "culture": "French",
+    "date": "ca. 1280",
+    "department": "The Cloisters",
+    "description": "The pose of this statuette of a cleric of friar, echoing ancient figures of Atlas, and the indentation cast into its back tell us that it was originally intended as a support for a larger object. Like the carved pair of altar angels in The Cloister's collection (acc. nos. 52.33.1, .2), the style of this cast figure derives ultimately from the seminal sculpture of thirteenth-century Reims Cathedral\u2014in this case from the console figures on the west facade and nave exterior. No thirteenth-century shrine survives intact with support figures like this one, but there are examples from the later Middle Ages. Furthermore, a number of the scenes depicted in the Hours of Jeanne d'Evreux (acc. no. 54.1.2) are set in architectural frameworks supported by similar bent figures.",
+    "dimensions": "Overall 2 5/8 x 1 5/16 x 1 11/16in. (6.7 x 3.4 x 4.3cm)",
+    "gallery-id": 14,
+    "id": 469939,
+    "image": "http://images.metmuseum.org/CRDImages/cl/original/DP102852.jpg",
+    "medium": "Copper alloy with mercury gilding",
+    "provenance": [
+        "Private Collection",
+        "[ Christie's, London (December 15, 1982, lot 22)]",
+        "Peter Wilson , London (sale, 1991)",
+        "[ Sotheby's, London (July 4, 1991, lot 15)]"
+    ],
+    "title": "Support Figure of a Seated Cleric or Friar",
+    "what": [
+        "Metal",
+        "Sculpture",
+        "Copper alloy",
+        "Metalwork",
+        "Gilt",
+        "Copper",
+        "Statues",
+        "Figurines",
+        "Mercury"
+    ],
+    "when": "A.D. 1000-1400",
+    "where": [
+        "Europe",
+        "France",
+        "Marne",
+        "Rheims"
+    ]
+}

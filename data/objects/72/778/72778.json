@@ -1,0 +1,163 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/49637"
+            },
+            {
+                "href": "http://scrapi.org/object/49638"
+            },
+            {
+                "href": "http://scrapi.org/object/72775"
+            },
+            {
+                "href": "http://scrapi.org/object/72776"
+            },
+            {
+                "href": "http://scrapi.org/object/36073"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 8, 2014",
+                "href": "/exhibitions/listings/2014/tibet-and-india",
+                "rel": "Tibet and India"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/chinese-carving",
+                "rel": "Colors of the Universe"
+            },
+            {
+                "date": "From July 19, 2013",
+                "href": "/exhibitions/listings/2013/chinese-snuff-bottles",
+                "rel": "Small Delights"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/ink-art",
+                "rel": "Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "From February 1, 2014",
+                "href": "/exhibitions/listings/2014/edo-period-painting",
+                "rel": "The Flowering of Edo Period Painting"
+            },
+            {
+                "date": "From April 14, 2014",
+                "href": "/exhibitions/listings/2014/lost-kingdoms",
+                "rel": "Lost Kingdoms"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/highlights-of-asia?eid=A041_%7b93924202-8616-42E2-8DA1-39A4591F1426%7d_20140122180137",
+                "rel": "Highlights of Asia"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R100_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140303111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R100_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140303131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R101_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140304111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R101_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140304120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R101_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140304131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/talks/gallery-talks/the-flowering-of-edo-period-painting-spring?eid=A001_%7bB9065A06-A3F9-4CAB-8F49-ED3038F1E7A2%7d_20140205171419",
+                "rel": "Exhibition Tour\u2014The Flowering of Edo Period Painting: Japanese Masterworks from the Feinberg Collection"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=A092_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20131018142423",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R102_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140305120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R102_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140305131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/chcl/hd_chcl.htm",
+                "rel": "Chinese Calligraphy"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/cnat/hd_cnat.htm",
+                "rel": "Nature in Chinese Culture"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/cptg/hd_cptg.htm",
+                "rel": "Traditional Chinese Painting in the Twentieth Century"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=nc",
+                "rel": "Central and North Asia, 1900 A.D.\u2013present"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=eac",
+                "rel": "China, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/72778"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/72778"
+        }
+    },
+    "accession number": "2005.509.15",
+    "credit line": "The Lin Yutang Family Collection, Gift of Richard M. Lai, Jill Lai Miller, and Larry C. Lai, in memory of Taiyi Lin Lai, 2005",
+    "culture": "China",
+    "date": "dated 1942",
+    "department": "Asian Art",
+    "description": "All his life, Xu Beihong championed the revitalization of Chinese painting through an integration of Western-style realism and Chinese brush techniques. Here, using sharp tonal contrasts of ink and white paper, Xu's swift rendition of this noble steed embodies the spirit of a traditional \"ink play.\" The horse's naturalistic pose is deftly captured in abbreviated brushwork. The chiaroscuro modeling of its form is more subjective than scientific, but the horse's accurate anatomy and the convincing foreshortening of its body reflect Xu's solid grounding in Western academic art. The hauteur of the unleashed, unmounted animal isessentially Western in character, whereas its mane and tail, blowing unnaturally in opposite directions, attests to the artist's ultimately subjective (Chinese) approach.Xu's passionate images of horses, a traditional symbol of Chinese martial spirit, were intended to inspire patriotic resistance during the Sino-Japanese War (1937\u201345). Here, for example, the artist reveals his own sense of frustration by adding a poem by Du Fu (712\u2013770) that describes a famous breed of war horses that had been put to pasture because of their old age despite their continued willingness to fight:Nanshi [in Gansu province] is a congenial habitat for heavenly horses;Tens of thousands of them are always stalwart.Floating clouds expand across the vast frontier;Autumn grasses grow tall over the mountains.I have heard that the pure bloodline of dragon-horsesLives on in the aging Sushuang horse.Neighing sadly longing to fight,It stands tall facing the sky.(trans. by Shi-yee Liu)",
+    "dimensions": [
+        "Image 26 5/8 x 11 1/8 in. (67.6 x 28.3 cm)",
+        "Overall with mounting 89 x 18 1/8 in. (226.1 x 46 cm)",
+        "Overall with knobs 89 x 21 in. (226.1 x 53.3 cm)"
+    ],
+    "id": 72778,
+    "image": "http://images.metmuseum.org/CRDImages/as/original/DP146969.jpg",
+    "medium": "Hanging scroll; ink on paper",
+    "title": "Heavenly Horse",
+    "what": [
+        "Ink",
+        "Paper",
+        "Paintings",
+        "Scroll paintings",
+        "Scrolls",
+        "Hanging scrolls"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Asia",
+        "China"
+    ],
+    "who": "Xu Beihong"
+}

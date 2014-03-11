@@ -1,0 +1,93 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/339005"
+            },
+            {
+                "href": "http://scrapi.org/object/338997"
+            },
+            {
+                "href": "http://scrapi.org/object/338998"
+            },
+            {
+                "href": "http://scrapi.org/object/339022"
+            },
+            {
+                "href": "http://scrapi.org/object/339023"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/365246"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/365246"
+        }
+    },
+    "accession number": "2004.250",
+    "credit line": "Purchase, Rogers Fund and Mr. and Mrs. David M. Tobey Gift, 2004",
+    "date": "ca. 1618",
+    "department": "Drawings and Prints",
+    "dimensions": "sheet 23 x 16-7/16 in. (58.4 x 41.8 cm)",
+    "id": 365246,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP820517.jpg",
+    "medium": "Modified black chalk (dipped in a gum solution), traces of white gouache highlights, on light brown paper.",
+    "provenance": [
+        "Giuseppe Vallardi (Italian, Milan 1784\u20131863)small remnant of stamp at lower left",
+        "Peter Kroeker (Essen), since 1950s",
+        "Galerie Arnoldi-Livie (Munich)",
+        "Vendor: Galerie Arnoldi-Livie (Munich)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP820517.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DR1014.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/2004.250.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DT243862.jpg"
+    ],
+    "title": "Seated Nude Young Man in Nearly Frontal View",
+    "what": [
+        "Drawings",
+        "Paper",
+        "Watercolors",
+        "Chalk",
+        "Gouache"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Guercino (Giovanni Francesco Barbieri)"
+}

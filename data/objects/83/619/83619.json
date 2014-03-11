@@ -1,0 +1,135 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/79405"
+            },
+            {
+                "href": "http://scrapi.org/object/80417"
+            },
+            {
+                "href": "http://scrapi.org/object/80499"
+            },
+            {
+                "href": "http://scrapi.org/object/80500"
+            },
+            {
+                "href": "http://scrapi.org/object/83580"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R150_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140407130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/cost/hd_cost.htm",
+                "rel": "Costume in The Metropolitan Museum of Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/coho/hd_coho.htm",
+                "rel": "Dressing for the Cocktail Hour"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/chnl/hd_chnl.htm",
+                "rel": "Gabrielle \"Coco\" Chanel (1883\u20131971) and the House of Chanel"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/83619"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/83619"
+        }
+    },
+    "accession number": "1994.96.5a\u2013d",
+    "credit line": "Gift of Mrs. William McCormick Blair, Jr., 1994",
+    "culture": "French",
+    "date": "fall/winter 1990\u201391",
+    "department": "Costume Institute",
+    "dimensions": "[no dimensions available]",
+    "id": 83619,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/1994.96.5a-c_F.jpg",
+    "medium": "(a, b) wool; (c, d) silk",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/1994.96.5a-c_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1994.96.5a_label.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1994.96.5bc_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1994.96.5bd_F.jpg"
+    ],
+    "title": "Suit",
+    "what": [
+        "Costume",
+        "Silk",
+        "Wool",
+        "Suits"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": [
+        "House of Chanel",
+        "Karl Lagerfeld"
+    ]
+}

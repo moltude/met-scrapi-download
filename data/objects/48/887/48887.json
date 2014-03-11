@@ -1,0 +1,287 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/50915"
+            },
+            {
+                "href": "http://scrapi.org/object/54114"
+            },
+            {
+                "href": "http://scrapi.org/object/54151"
+            },
+            {
+                "href": "http://scrapi.org/object/54091"
+            },
+            {
+                "href": "http://scrapi.org/object/48886"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 8, 2014",
+                "href": "/exhibitions/listings/2014/tibet-and-india",
+                "rel": "Tibet and India"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/chinese-carving",
+                "rel": "Colors of the Universe"
+            },
+            {
+                "date": "From July 19, 2013",
+                "href": "/exhibitions/listings/2013/chinese-snuff-bottles",
+                "rel": "Small Delights"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/ink-art",
+                "rel": "Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "From February 1, 2014",
+                "href": "/exhibitions/listings/2014/edo-period-painting",
+                "rel": "The Flowering of Edo Period Painting"
+            },
+            {
+                "date": "From April 14, 2014",
+                "href": "/exhibitions/listings/2014/lost-kingdoms",
+                "rel": "Lost Kingdoms"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/collecting-and-intepreting-at-the-met?eid=A001_%7b6A0B3958-68AC-4F22-BB73-D898FB894401%7d_20140127111701",
+                "rel": "Fellows Colloquium\u2014Collecting and Interpreting at the Met"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R103_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140307111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R104_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140307120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R103_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140307131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/reimagining-the-indian-and-tibetan?eid=A001_%7b1CC0F050-77BD-4961-8CAE-AB84C1C7437E%7d_20140210162127",
+                "rel": "Friday Focus\u2014Reimagining the Indian and Tibetan Buddhist Traditions: A Conversation"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/talks/gallery-talks/viewing-japanese-art-through-the-eyes?eid=A002_%7b571216BC-D5E9-4F1A-8F13-0049B30D5F0F%7d_20140124100414",
+                "rel": "Viewing Japanese Art through the Eyes of PixCell-Deer#24"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/talks/gallery-talks/chinese-buddhist-sculpture?eid=A001_%7b539805A7-4AAC-4214-A063-93083E921332%7d_20140123142801",
+                "rel": "Chinese Buddhist Sculpture"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R104_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140310111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R104_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140310131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R105_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140311111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/edop/hd_edop.htm",
+                "rel": "Art of the Edo Period (1615\u20131868)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/plea/hd_plea.htm",
+                "rel": "Art of the Pleasure Quarters and the Ukiyo\u2013e Style"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/jpon/hd_jpon.htm",
+                "rel": "Japonisme"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/ukiy/hd_ukiy.htm",
+                "rel": "Woodblock Prints in the Ukiyo\u2013e Style"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=eaj",
+                "rel": "Japan, 1600\u20131800 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=eaj",
+                "rel": "Japan, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/48887"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/48887"
+        }
+    },
+    "accession number": "JIB141a, b",
+    "credit line": "Fletcher Fund, 1941",
+    "culture": "Japan",
+    "date": "19th century",
+    "department": "Asian Art",
+    "dimensions": "each 7 3/4 \u00d7 5 1/4 in. (19.7 \u00d7 13.3 cm)",
+    "id": 48887,
+    "image": "http://images.metmuseum.org/CRDImages/as/original/DP317455.jpg",
+    "medium": "Two volumes of drawings; ink and color on paper",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/as/original/DP317455.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317906.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317456.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317457.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317458.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317459.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317460.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317461.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317462.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317463.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317464.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317465.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317466.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317467.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317468.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317469.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317470.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317471.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317472.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317473.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317474.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317475.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317476.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317477.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317478.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317479.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317480.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317481.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317482.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317483.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317484.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317485.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317486.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317487.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317488.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317489.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317490.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317491.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317492.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317493.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317494.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317495.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317496.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317497.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317498.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317499.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317500.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317501.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317502.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317503.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317504.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317506.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317507.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317508.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317509.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317510.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317511.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317512.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317513.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317514.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317515.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317519.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317520.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317521.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317522.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317523.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317524.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317525.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317526.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317527.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317528.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317529.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317530.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317531.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317532.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317533.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317534.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317535.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317536.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317537.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317538.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317539.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317540.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317541.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317542.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317543.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317544.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317545.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317546.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317547.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317548.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317549.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317550.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317551.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317552.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317553.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317554.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317555.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317556.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317557.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317558.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317561.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317905.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317563.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317564.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317565.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317566.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317567.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317568.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317569.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317570.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317571.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317572.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317573.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317574.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317575.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317576.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317577.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317578.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317579.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317580.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317581.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317582.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP317583.jpg"
+    ],
+    "title": "Miniature Drawings",
+    "what": [
+        "Ink",
+        "Drawings",
+        "Paper",
+        "Books",
+        "Pamphlets"
+    ],
+    "where": [
+        "Asia",
+        "Japan"
+    ],
+    "who": "Katsushika Hokusai"
+}

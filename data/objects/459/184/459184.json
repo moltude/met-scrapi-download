@@ -1,0 +1,129 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/338125"
+            },
+            {
+                "href": "http://scrapi.org/object/339174"
+            },
+            {
+                "href": "http://scrapi.org/object/337494"
+            },
+            {
+                "href": "http://scrapi.org/object/339116"
+            },
+            {
+                "href": "http://scrapi.org/object/339130"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R129_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140307134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R130_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140310134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R131_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140311134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R132_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140312134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R133_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140313134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R134_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140314134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A109_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131126111651",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A115_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131127144444",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A110_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131126111706",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R145_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140331134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/leon/hd_leon.htm",
+                "rel": "Leonardo da Vinci (1452\u20131519)"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/459184"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/459184"
+        }
+    },
+    "accession number": "1975.1.369",
+    "credit line": "Robert Lehman Collection, 1975",
+    "date": "ca. 1490",
+    "department": "Robert Lehman Collection",
+    "description": "Leonardo da Vinci's abundant drawings and notebooks record his keen and tireless observation of all aspects of the natural world. This accurately rendered depiction of a bear walking was presumably drawn from life. (In one of his notebooks the artist wrote of the presence of bears in the woods outside Milan.) It relates thematically to a small group of drawings of a bear's head and paws that Leonardo probably produced for an anatomical treatise. The faint outlines of a seated woman are visible beneath the drawing of the bear, indicating that Leonardo reused the sheet.",
+    "dimensions": "4 1/16 x 5 1/4 in.  (10.3 x 13.3 cm)",
+    "id": 459184,
+    "image": "http://images.metmuseum.org/CRDImages/rl/original/DT3181.jpg",
+    "medium": "metalpoint on light buff prepared paper",
+    "provenance": [
+        "Thomas Lawrence, London",
+        "Samuel Woodburn, London",
+        "Lawrence-Woodburn sale 1860, June 8, lot 1038",
+        "private collection, England",
+        "[P.& D. Colnaghi & Co., London]",
+        "Ludwig Rosenthal, Bern, Switzerland",
+        "(later L.V. Randall, Montreal)",
+        "[Schaeffer Galleries, New York]",
+        "acquired by Robert Lehman from Schaeffer Galleries in February 1945"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/rl/original/DT3181.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/rl1975.1.369.R.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/DP102431.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/DR477.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/DT727.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/46H_094R3.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/269494.jpg"
+    ],
+    "title": "A Bear Walking",
+    "what": [
+        "Drawings",
+        "Paper"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Leonardo da Vinci"
+}

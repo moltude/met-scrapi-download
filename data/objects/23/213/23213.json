@@ -1,0 +1,127 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/23208"
+            },
+            {
+                "href": "http://scrapi.org/object/23201"
+            },
+            {
+                "href": "http://scrapi.org/object/22885"
+            },
+            {
+                "href": "http://scrapi.org/object/24817"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From October 2, 2012",
+                "href": "/exhibitions/listings/2012/arms-and-armor",
+                "rel": "Bashford Dean and the Creation of the Arms and Armor Department"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A083_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113541",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A074_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112917",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A084_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113556",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A093_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113923",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A075_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112932",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A094_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113938",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 5, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A085_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113610",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161351",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A076_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112951",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 19, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161305",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/make/hd_make.htm",
+                "rel": "Famous Makers and European Centers of Arms and Armor Production"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=euwc",
+                "rel": "Central Europe (including Germany), 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/23213"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/23213"
+        }
+    },
+    "accession number": "29.156.45",
+    "credit line": "Bashford Dean Memorial Collection, Gift of Edward S. Harkness, 1929",
+    "culture": "German, Augsburg",
+    "date": "ca. 1490\u201395",
+    "department": "Arms and Armor",
+    "description": "This sallet was a new type probably invented by Lorenz Helmschmid for Emperor Maximilian I (1459\u20131519) around the time he became head of the Holy Roman Empire in 1493. Its construction, with the falling buffe (chin defense) pivoting on the same points as the visor, anticipates the development of close helmets around 1510. The gilt fleur-de-lis trim, which originally bordered the entire helmet, is a typical late Gothic decoration on armors of high quality and is found on several that belonged to Maximilian and other members of the Habsburg court.",
+    "dimensions": "Wt., 4 lb. 15.7 oz. (2261 g)",
+    "gallery-id": 373,
+    "id": 23213,
+    "image": "http://images.metmuseum.org/CRDImages/aa/original/164094.jpg",
+    "medium": "Steel, gilt copper",
+    "provenance": [
+        "Ex. coll.: Arsenal of St. Irene, Constantinople."
+    ],
+    "title": "Sallet of Emperor Maximilian I (1459\u20131519)",
+    "what": [
+        "Metal",
+        "Costume",
+        "Gilt",
+        "Iron and iron alloy",
+        "Copper",
+        "Iron alloy",
+        "Steel",
+        "Armor",
+        "Body armor",
+        "Helmets",
+        "Sallets"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Germany",
+        "Bavaria",
+        "Augsburg"
+    ],
+    "who": "Lorenz Helmschmid"
+}

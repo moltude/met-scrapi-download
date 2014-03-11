@@ -1,0 +1,135 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/228665"
+            },
+            {
+                "href": "http://scrapi.org/object/228708"
+            },
+            {
+                "href": "http://scrapi.org/object/228703"
+            },
+            {
+                "href": "http://scrapi.org/object/227882"
+            },
+            {
+                "href": "http://scrapi.org/object/227967"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 3, 2014",
+                "href": "/exhibitions/listings/2014/william-morris",
+                "rel": "William Morris"
+            },
+            {
+                "date": "From November 22, 2011",
+                "href": "/exhibitions/listings/2011/faberge",
+                "rel": "Faberg\u00e9 from the Matilda Geddings Gray Foundation Collection"
+            },
+            {
+                "date": "From February 4, 2014",
+                "href": "/exhibitions/listings/2014/french-ceramics",
+                "rel": "Making Pottery Art"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/carpeaux",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "From January 22, 2014",
+                "href": "/exhibitions/listings/2014/antonio-canova",
+                "rel": "Antonio Canova"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R105_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140311131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/membership-events/evening-receptions/carpeaux-sustaining-reception?eid=A001_%7bB97F7097-C940-4FDB-8982-A3EC61BD9084%7d_20140107152519",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/world-enlightened?eid=R002_%7bEC37AED7-F558-4A27-A806-094491540250%7d_20140312101500",
+                "rel": "Cultural Discoveries\u2014Wednesdays with Olivier Bernier: Europe in the Eighteenth Century, A World Enlightened"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/talks/gallery-talks/the-passions-of-jean-baptiste-carpeaux?eid=A003_%7b7437318B-B35F-4C96-BAA4-FF8EDD85D6CA%7d_20140206123059",
+                "rel": "Exhibition Tour\u2014The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R106_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140313131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R107_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140314131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/art-making-programs/artist-demonstrations/sculpting-in-clay?eid=A001_%7bC514395B-8A7D-4198-93C8-44AD416FF697%7d_20131025175140",
+                "rel": "Sculpting in Clay"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/friday-evening-gallery-event-what-moves-you?eid=A001_%7b1EC22848-690F-4DDE-99C8-D3C4580691E8%7d_20140130135425",
+                "rel": "Friday Evening Gallery Event\u2014What Moves You?"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/art-making-programs/drop-in-drawing/gesture-and-movement?eid=A001_%7bACC3D053-EBAF-4C6F-9C96-0EFE6188B165%7d_20140214095024",
+                "rel": "Gesture and Movement: European Sculpture"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/artists-perspective-carpeaux?eid=A001_%7b2AD637DD-235E-43B7-B10D-A9A5F987E53D%7d_20140204164152",
+                "rel": "Exhibition Tour\u2014An Artist's Perspective on The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwb",
+                "rel": "Great Britain and Ireland, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/228464"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/228464"
+        }
+    },
+    "accession number": "57.122.539",
+    "credit line": "From the Collection of Mrs. Lathrop Colgate Harper, Bequest of Mabel Herbert Harper, 1957",
+    "culture": "British",
+    "date": "1827",
+    "department": "European Sculpture and Decorative Arts",
+    "dimensions": "H. 18 x W. 13 1/4 inches (45.7 x 33.7 cm)",
+    "id": 228464,
+    "image": "http://images.metmuseum.org/CRDImages/es/original/164763.jpg",
+    "medium": "Wool and silk on wool",
+    "provenance": [
+        "Mrs. Lathrop Colgate Harper"
+    ],
+    "title": "Sampler",
+    "what": [
+        "Silk",
+        "Textiles",
+        "Needlework",
+        "Wool",
+        "Embroidery",
+        "Samplers"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "United Kingdom"
+    ]
+}

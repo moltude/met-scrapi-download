@@ -1,0 +1,114 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/325344"
+            },
+            {
+                "href": "http://scrapi.org/object/325663"
+            },
+            {
+                "href": "http://scrapi.org/object/324930"
+            },
+            {
+                "href": "http://scrapi.org/object/324922"
+            },
+            {
+                "href": "http://scrapi.org/object/324924"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R103_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140307121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R104_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140310121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R105_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140312121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R106_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140313121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R107_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140314121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R116_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140331121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R117_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140402121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R118_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140403121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=04\u00aeion=wam",
+                "rel": "Mesopotamia, 1000 B.C.\u20131 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/324332"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/324332"
+        }
+    },
+    "accession number": "54.117.12a, b",
+    "credit line": "Rogers Fund, 1954",
+    "culture": "Assyrian",
+    "date": "ca. 721\u2013705 B.C.",
+    "department": "Ancient Near Eastern Art",
+    "dimensions": "13.19 x 6.3 x 0.59 in. (33.5 x 16 x 1.5 cm)",
+    "gallery-id": 402,
+    "id": 324332,
+    "image": "http://images.metmuseum.org/CRDImages/an/original/DP110589.jpg",
+    "medium": "Ivory",
+    "provenance": [
+        "1953, excavated by Max Mallowan, on behalf of the British School of Archaeology in Iraq",
+        "ceded in the division of finds to the British School of Archaeology in Iraq",
+        "acquired by the Museum in 1954, as a result of its financial contribution to the excavations."
+    ],
+    "title": "Panels of a writing board",
+    "what": [
+        "Bone",
+        "Ivory",
+        "Panels",
+        "Tablets",
+        "Writing tablet"
+    ],
+    "when": "1000 B.C.-A.D. 1",
+    "where": [
+        "Asia",
+        "Iraq",
+        "Nimrud"
+    ],
+    "who": "Assyrian"
+}

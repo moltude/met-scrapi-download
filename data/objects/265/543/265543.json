@@ -1,0 +1,100 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/286056"
+            },
+            {
+                "href": "http://scrapi.org/object/265589"
+            },
+            {
+                "href": "http://scrapi.org/object/283289"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=waa",
+                "rel": "Anatolia and the Caucasus, 1900 A.D.\u2013present"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=nc",
+                "rel": "Central and North Asia, 1900 A.D.\u2013present"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=eue",
+                "rel": "Eastern Europe and Scandinavia, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/265543"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/265543"
+        }
+    },
+    "accession number": "1987.1100.47",
+    "credit line": "Ford Motor Company Collection, Gift of Ford Motor Company and John C. Waddell, 1987",
+    "date": "ca. 1926",
+    "department": "Photographs",
+    "description": "In 1926 Lissitzky joined colleagues from the Association of New Architects (ASNOVA) in designing a new sports club, and he created this frenzied representation of an urban athlete as a model for a large frieze. He combined images of at least three separate elements-the runner, the track and hurdle, and a double exposure of Times Square-into a single print and then sliced that print into strips, creating an object that is both constructed and deconstructed. The visual result is a suspenseful moment-shattered, separated, and stretched-that weaves the mechanics of man into a dynamic tapestry of industrial optimism. The heroic pose of the runner, transposed to the center of New York City, becomes an emblem of triumphant human achievement: man and metal engage in an ambitious leap across several voids in the service of industrial progress.",
+    "dimensions": "13.1 x 12.8 cm (5 3/16 x 5 1/16 in.)",
+    "id": 265543,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DT1191.jpg",
+    "medium": "Gelatin silver print",
+    "provenance": [
+        "Nicolai Khardjiev, U.S.S.R. (probably directly from Lissitzky)",
+        "[Boris Kerdinum, New York (early 1980s)]",
+        "[Rosa Esman, New York (ca. 1983)]",
+        "John C. Waddell, New York (December 28, 1983)"
+    ],
+    "title": "Runner in the City",
+    "what": [
+        "Photographs",
+        "Gelatin silver prints",
+        "Collages"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Asia",
+        "Russia"
+    ],
+    "who": "El Lissitzky"
+}

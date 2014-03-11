@@ -1,0 +1,143 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/337405"
+            },
+            {
+                "href": "http://scrapi.org/object/337411"
+            },
+            {
+                "href": "http://scrapi.org/object/337448"
+            },
+            {
+                "href": "http://scrapi.org/object/337532"
+            },
+            {
+                "href": "http://scrapi.org/object/337533"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/cmon/hd_cmon.htm",
+                "rel": "Claude Monet (1840\u20131926)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/mane/hd_mane.htm",
+                "rel": "\u00c9douard Manet (1832\u20131883)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/imml/hd_imml.htm",
+                "rel": "Impressionism: Art and Modernity"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/sarg/hd_sarg.htm",
+                "rel": "John Singer Sargent (1856\u20131925)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/lith/hd_lith.htm",
+                "rel": "Lithography in the Nineteenth Century"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/prnt2/hd_prnt2.htm",
+                "rel": "The Print in the Nineteenth Century"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/coup/hd_coup.htm",
+                "rel": "Couples in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/mati/hd_mati.htm",
+                "rel": "Henri Matisse (1869\u20131954)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/rlsm/hd_rlsm.htm",
+                "rel": "Nineteenth\u2013Century French Realism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/sara/hd_sara.htm",
+                "rel": "The Salon and The Royal Academy"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwf",
+                "rel": "France, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/337536"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/337536"
+        }
+    },
+    "accession number": "1983.1093",
+    "credit line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1983",
+    "date": "1867",
+    "department": "Drawings and Prints",
+    "dimensions": [
+        "plate 3 3/8 x 8 1/8in. (8.6 x 20.6cm)",
+        "sheet 3 7/8 x 8 1/2in. (9.8 x 21.6cm)"
+    ],
+    "id": 337536,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP815234.jpg",
+    "medium": "etching and aquatint on laid paper; state II of VI",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP815234.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/MM71961.jpg"
+    ],
+    "title": "Olympia (small plate)",
+    "what": [
+        "Prints",
+        "Etching",
+        "Paper",
+        "Aquatint",
+        "Laid paper"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "\u00c9douard Manet"
+}

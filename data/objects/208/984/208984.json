@@ -1,0 +1,163 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/202266"
+            },
+            {
+                "href": "http://scrapi.org/object/208983"
+            },
+            {
+                "href": "http://scrapi.org/object/202274"
+            },
+            {
+                "href": "http://scrapi.org/object/202275"
+            },
+            {
+                "href": "http://scrapi.org/object/202695"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 3, 2014",
+                "href": "/exhibitions/listings/2014/william-morris",
+                "rel": "William Morris"
+            },
+            {
+                "date": "From November 22, 2011",
+                "href": "/exhibitions/listings/2011/faberge",
+                "rel": "Faberg\u00e9 from the Matilda Geddings Gray Foundation Collection"
+            },
+            {
+                "date": "From February 4, 2014",
+                "href": "/exhibitions/listings/2014/french-ceramics",
+                "rel": "Making Pottery Art"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/carpeaux",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "From January 22, 2014",
+                "href": "/exhibitions/listings/2014/antonio-canova",
+                "rel": "Antonio Canova"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/membership-events/evening-receptions/carpeaux-supporting-reception?eid=A001_%7b60301F85-6473-4C1C-8DAB-5D8B2E9406EE%7d_20140107151713",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R105_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140311131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/membership-events/evening-receptions/carpeaux-sustaining-reception?eid=A001_%7bB97F7097-C940-4FDB-8982-A3EC61BD9084%7d_20140107152519",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/world-enlightened?eid=R002_%7bEC37AED7-F558-4A27-A806-094491540250%7d_20140312101500",
+                "rel": "Cultural Discoveries\u2014Wednesdays with Olivier Bernier: Europe in the Eighteenth Century, A World Enlightened"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/talks/gallery-talks/the-passions-of-jean-baptiste-carpeaux?eid=A003_%7b7437318B-B35F-4C96-BAA4-FF8EDD85D6CA%7d_20140206123059",
+                "rel": "Exhibition Tour\u2014The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R106_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140313131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R107_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140314131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/art-making-programs/artist-demonstrations/sculpting-in-clay?eid=A001_%7bC514395B-8A7D-4198-93C8-44AD416FF697%7d_20131025175140",
+                "rel": "Sculpting in Clay"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/friday-evening-gallery-event-what-moves-you?eid=A001_%7b1EC22848-690F-4DDE-99C8-D3C4580691E8%7d_20140130135425",
+                "rel": "Friday Evening Gallery Event\u2014What Moves You?"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/art-making-programs/drop-in-drawing/gesture-and-movement?eid=A001_%7bACC3D053-EBAF-4C6F-9C96-0EFE6188B165%7d_20140214095024",
+                "rel": "Gesture and Movement: European Sculpture"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwf",
+                "rel": "France, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/208984"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/208984"
+        }
+    },
+    "accession number": "59.24c",
+    "credit line": "Purchase, Ella Morris de Peyster Bequest, 1959",
+    "culture": "French, Paris",
+    "date": "ca. 1781",
+    "department": "European Sculpture and Decorative Arts",
+    "description": "This is one of a group of reliefs from the court of the H\u00f4tel de Bourbon-Cond\u00e9, Paris. It was built by the architect Alexandre-Th\u00e9odore Brongniart in 1781 for the princess Louise Ad\u00e9la\u00efde de Bourbon-Cond\u00e9. The reliefs remained there until the beginning of the twentieth century.",
+    "dimensions": [
+        "Overall (visible dimensions, confirmed) 74 1/4 x 167 3/4 in. (188.6 x 426.1 cm)",
+        "Overall (historic dimensions) 77 x 157 1/2 in. (195.6 x 400.1 cm)"
+    ],
+    "gallery-id": 552,
+    "id": 208984,
+    "image": "http://images.metmuseum.org/CRDImages/es/original/ES4781.jpg",
+    "medium": "Stucco",
+    "provenance": [
+        "Agence des Subsistances (1790\u2013March 21, 1797)",
+        "M. Gauthier (from May 10, 1797)",
+        "Joseph Sands",
+        "and Henri Salder (1797\u2013January 25, 1798)",
+        "Joseph Sands (January 25, 1798\u2013May 10, 1798)",
+        "Jules Victor Barras (August 15, 1798\u2013May 10, 1799)",
+        "Sibuet Georges (1799\u2013July 1, 1810)",
+        "Antoine Dubois (July 1, 1810\u2013August 11, 1812)",
+        "Boucard de Vanrobais (August 11, 1812\u2013July 1825)",
+        "marquis de  Nicola\u00ff (July 16, 1825\u20131847)",
+        "Coll\u00e8ge Arm\u00e9nien (February 5, 1847\u20131880)",
+        "comtesse de Chambrun (May 29, 1880\u20131891)",
+        "comte de Chambrun (1891\u201399)",
+        "Mus\u00e9e Social (from 1900)",
+        "Mlle Val de Curzay (after 1900\u2013before 1907)",
+        "Les Dames de la Retraite (after 1900\u2013before 1907)",
+        "Monsieur F\u00e9ron Vrau (1907\u201308)",
+        "Mme Le Pic-Gaillard (from February 1911)",
+        "Mme Gallaud (in 1918)",
+        "vicomte de Canson (1918\u201358)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/es/original/ES4781.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/ES4790.jpg"
+    ],
+    "title": "Satyresses and satyr children",
+    "what": [
+        "Sculpture",
+        "Reliefs",
+        "Plaster",
+        "Stucco"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "France",
+        "Paris"
+    ],
+    "who": "Clodion (Claude Michel)"
+}

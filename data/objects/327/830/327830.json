@@ -1,0 +1,117 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/327829"
+            },
+            {
+                "href": "http://scrapi.org/object/327831"
+            },
+            {
+                "href": "http://scrapi.org/object/327832"
+            },
+            {
+                "href": "http://scrapi.org/object/326160"
+            },
+            {
+                "href": "http://scrapi.org/object/328670"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R100_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140303121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R101_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140305121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R102_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140306121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R103_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140307121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R104_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140310121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R105_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140312121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R106_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140313121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R107_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140314121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=05\u00aeion=nc",
+                "rel": "Central and North Asia, 1\u2013500A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/327830"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/327830"
+        }
+    },
+    "accession number": "2000.42.2",
+    "credit line": "Purchase, Raymond and Beverly Sackler Gift, 2000",
+    "culture": "Kushan",
+    "date": "ca. 3rd century A.D.",
+    "department": "Ancient Near Eastern Art",
+    "description": "This rare Central Asian votive panel depicts a deity (with nimbus) being approached by a male worshiper, probably nonroyal but portrayed as of equal stature to the god. Compositionally, they follow scenes of homage and investiture from the post-Hellenistic West and from Iran in which a king and a god appear side by side. A majestic figure with a full beard and long wavy hair, who has been identified as the supreme deity Zeus/Serapis/Ohrmazd, receives a suppliant in the characteristic Iranian short tunic and leggings, hands clasped in adoration. Here, the rich intercultural style that developed in the Kushan realm is clearly displayed: Indian divine iconography; the Iranian type of two-figured composition; and Greco-Roman naturalism in the drapery and pose, as well as in the use of light and shadow to suggest modeling.  The panel has holes at the corners and was probably set up, together with two others acquired by the Museum, on the interior walls of a sanctuary, perhaps a family shrine.",
+    "dimensions": [
+        "H. 56.8 cm, W. 52.3 cm, D. 5.4 cm",
+        "43 lbs"
+    ],
+    "gallery-id": 405,
+    "id": 327830,
+    "image": "http://images.metmuseum.org/CRDImages/an/original/2000.42.2.jpg",
+    "medium": "Terracotta, gouache",
+    "provenance": [
+        "By 1932, collection of Yamanaka & Co., Osaka",
+        "acquired by the Museum in 2000, purchased from Isao Kurita, Japan."
+    ],
+    "title": "Panel with the god Zeus/Serapis/Ohrmazd and worshiper",
+    "what": [
+        "Ceramics",
+        "Clay",
+        "Paintings",
+        "Terracotta",
+        "Panels",
+        "Gouaches"
+    ],
+    "when": "A.D. 1-500",
+    "where": [
+        "Asia",
+        "Afghanistan"
+    ],
+    "who": "Kushan"
+}

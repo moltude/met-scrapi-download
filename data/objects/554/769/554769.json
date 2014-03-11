@@ -1,0 +1,122 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/543885"
+            },
+            {
+                "href": "http://scrapi.org/object/543911"
+            },
+            {
+                "href": "http://scrapi.org/object/543947"
+            },
+            {
+                "href": "http://scrapi.org/object/543969"
+            },
+            {
+                "href": "http://scrapi.org/object/543948"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A151_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113641",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R130_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140310140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A145_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113221",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=03\u00aeion=afe",
+                "rel": "Egypt, 2000\u20131000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/554769"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/554769"
+        }
+    },
+    "accession number": "66.99.94",
+    "credit line": [
+        "Purchase, Fletcher Fund and The Guide Foundation Inc. Gift, 1966 (66.99.94)",
+        "Gift of R. J. Demar\u00e9e, 2009 (2009.253)"
+    ],
+    "date": "ca. 1294\u20131250 B.C.",
+    "department": "Egyptian Art",
+    "description": "This statuette depicts a kneeling man holding a stela inscribed with a hymn to the sun. An inscription on the back of the statuette identifies the man as Bay, who was a scribe working in the administration of the temple of Seti I, a post he probably held into the reign of Seti's son, Ramesses II. Complete statues of nonroyal individuals from this period are uncommon, and pieces of this fine quality are extremely rare.",
+    "dimensions": [
+        "Overall H.  28.1 cm (7 1/2 in); w. 15 cm (4 in); d. 15 cm (5 7/8 in)",
+        "upper half h. 17.8 cm (7 in)",
+        "lower half h. 11.5 cm (4 1/2 in)"
+    ],
+    "gallery-id": 124,
+    "id": 554769,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/DP231293.jpg",
+    "medium": "Limestone",
+    "provenance": [
+        "66.99.94: formerly Gallatin Collection. Purchased by the Museum, 1966. Previously purchased by Gallatin at Esoterica, October 1958.2009.253: acquired in a shop at the Mena House Hotel in 1965\u20131966 by Egyptologist Robert J. Demar\u00e9e. Join with MMA 66.99.94 noted by Demar\u00e9e on a study visit to the Metropolitan Museum, 2008. Donated to the Metropolitan Museum by Demar\u00e9e, 2009."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/eg/original/DP231293.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/66.99.94_tr.3.2009_right3_4.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/66.99.94_tr.3.2009_rp.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/66.99.94_tr.3.2009_left3_4.jpg"
+    ],
+    "title": "Stelophorous Statue of Bay",
+    "what": "Limestone",
+    "when": "2000-1000 B.C.",
+    "where": [
+        "Africa",
+        "Egypt"
+    ]
+}

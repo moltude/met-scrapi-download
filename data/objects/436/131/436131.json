@@ -1,0 +1,196 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/333808"
+            },
+            {
+                "href": "http://scrapi.org/object/333809"
+            },
+            {
+                "href": "http://scrapi.org/object/436159"
+            },
+            {
+                "href": "http://scrapi.org/object/436135"
+            },
+            {
+                "href": "http://scrapi.org/object/333811"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/piero-della-francesca",
+                "rel": "Piero della Francesca"
+            },
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "From April 22, 2014",
+                "href": "/exhibitions/listings/2014/goya",
+                "rel": "Goya and the Altamira Family"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R105_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140311123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R106_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140312123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R027_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140313140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/painters-and-paintings?eid=A001_%7b9706CFE2-7062-4475-BC2D-7FD5AFF14712%7d_20140129160910",
+                "rel": "Fellows Colloquium\u2014Painters and Paintings"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R107_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140314123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/saturday-seminar-spring-2014?eid=R002_%7bE063A39F-FC40-4ECC-B690-C4C13F70B2A0%7d_20140315103000",
+                "rel": "Saturday Seminar with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=A250_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20131126132033",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/faces?eid=A002_%7b8EAA5A8F-1DA9-4AC7-8199-BDE367AC2FB1%7d_20140124163826",
+                "rel": "Faces! Drawing in the Galleries for Adults"
+            },
+            {
+                "date": "March 20, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R028_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140320140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=A271_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20131127135733",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/cmon/hd_cmon.htm",
+                "rel": "Claude Monet (1840\u20131926)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/dgsp/hd_dgsp.htm",
+                "rel": "Edgar Degas (1834\u20131917): Painting and Drawing"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/mane/hd_mane.htm",
+                "rel": "\u00c9douard Manet (1832\u20131883)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/jpon/hd_jpon.htm",
+                "rel": "Japonisme"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/mont/hd_mont.htm",
+                "rel": "The Lure of Montmartre, 1880\u20131900"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/prnt2/hd_prnt2.htm",
+                "rel": "The Print in the Nineteenth Century"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/aimp/hd_aimp.htm",
+                "rel": "American Impressionism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/dgsb/hd_dgsb.htm",
+                "rel": "Edgar Degas (1834\u20131917): Bronze Sculpture"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/imml/hd_imml.htm",
+                "rel": "Impressionism: Art and Modernity"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/lith/hd_lith.htm",
+                "rel": "Lithography in the Nineteenth Century"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/cast/hd_cast.htm",
+                "rel": "Mary Stevenson Cassatt (1844\u20131926)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/sara/hd_sara.htm",
+                "rel": "The Salon and The Royal Academy"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwf",
+                "rel": "France, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/436131"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/436131"
+        }
+    },
+    "accession number": "29.100.190",
+    "credit line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+    "date": "ca. 1890",
+    "department": "European Paintings",
+    "dimensions": "22 x 18 3/4 in. (55.9 x 47.6 cm)",
+    "gallery-id": 817,
+    "id": 436131,
+    "image": "http://images.metmuseum.org/CRDImages/ep/original/DP253484.jpg",
+    "medium": "Pastel and charcoal on blue laid paper, mounted at perimeter on backing board",
+    "provenance": [
+        "Tadamasa Hayashi, Tokyo and Paris (by about 1890\u2013d. 1906; his estate, 1906\u201313; his estate sale, American Art Association, New York, January 8\u20139, 1913, no. 85, for $3,100 to Durand-Ruel for Havemeyer)",
+        "Mrs. H. O. (Louisine W.) Havemeyer, New York (1913\u2013d. 1929; cat., 1931, p. 133)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ep/original/DP253484.jpg",
+        "http://images.metmuseum.org/CRDImages/ep/original/2300.jpg"
+    ],
+    "title": "Bather Stepping into a Tub",
+    "what": [
+        "Drawings",
+        "Paper",
+        "Charcoal",
+        "Laid paper",
+        "Pastels",
+        "Backing boards"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Edgar Degas"
+}

@@ -1,0 +1,115 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/473286"
+            },
+            {
+                "href": "http://scrapi.org/object/473327"
+            },
+            {
+                "href": "http://scrapi.org/object/464804"
+            },
+            {
+                "href": "http://scrapi.org/object/464942"
+            },
+            {
+                "href": "http://scrapi.org/object/464923"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 25, 2014",
+                "href": "/exhibitions/listings/2014/canterbury-stained-glass",
+                "rel": "Radiant Light"
+            },
+            {
+                "date": "From August 6, 2013",
+                "href": "/exhibitions/listings/2013/design-motifs-in-byzantine-art",
+                "rel": "Design Motifs in Byzantine Art"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/ancestors-of-christ?eid=A001_%7b64F28017-6AB0-4B00-864F-E5676EE07585%7d_20140113142350",
+                "rel": "The Ancestors of Christ: Stained Glass Windows from Canterbury Cathedral"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/ancestors-of-christ?eid=A002_%7b64F28017-6AB0-4B00-864F-E5676EE07585%7d_20140113142402",
+                "rel": "The Ancestors of Christ: Stained Glass Windows from Canterbury Cathedral"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R008_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140309150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R009_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140310150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R105_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140311104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R010_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140311150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R106_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140312104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R011_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140312150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R107_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140313104500",
+                "rel": "Masterpieces of the Middle Ages"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/466255"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/466255"
+        }
+    },
+    "accession number": "1993.263",
+    "credit line": "Purchase, William Kelly Simpson Gift, 1993",
+    "culture": "East Germanic",
+    "date": "350\u2013450",
+    "department": "Medieval Art",
+    "description": "The winged insect was a popular motif in both Germanic and nomadic metalwork during the late fourth and fifth centuries. Gold bees appeared in the grave of the Frankish king Childeric (d. 482), while other richly appointed graves, such as that at Domagnano (17.190.698), included cicada brooches.",
+    "dimensions": "Overall 1/8 x 1 3/16 x 11/16 x 5/8 in. (0.3 x 3 x 1.8 x 1.6 cm)",
+    "gallery-id": 301,
+    "id": 466255,
+    "image": "http://images.metmuseum.org/CRDImages/md/original/DP30280.jpg",
+    "medium": "Copper alloy, cast; copper alloy pin/spring",
+    "provenance": [
+        "W. Bastiaan Blok, Noordwijk, The Netherlands (sold 1993)"
+    ],
+    "title": "Brooch in the Form of a Cicada",
+    "what": [
+        "Metal",
+        "Costume",
+        "Copper alloy",
+        "Metalwork",
+        "Jewelry",
+        "Copper",
+        "Pins",
+        "Brooches"
+    ],
+    "when": "A.D. 1-500"
+}

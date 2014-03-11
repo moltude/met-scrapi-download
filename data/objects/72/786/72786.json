@@ -1,0 +1,142 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/73180"
+            },
+            {
+                "href": "http://scrapi.org/object/73127"
+            },
+            {
+                "href": "http://scrapi.org/object/73125"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 8, 2014",
+                "href": "/exhibitions/listings/2014/tibet-and-india",
+                "rel": "Tibet and India"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/chinese-carving",
+                "rel": "Colors of the Universe"
+            },
+            {
+                "date": "From July 19, 2013",
+                "href": "/exhibitions/listings/2013/chinese-snuff-bottles",
+                "rel": "Small Delights"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/ink-art",
+                "rel": "Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "From February 1, 2014",
+                "href": "/exhibitions/listings/2014/edo-period-painting",
+                "rel": "The Flowering of Edo Period Painting"
+            },
+            {
+                "date": "From April 14, 2014",
+                "href": "/exhibitions/listings/2014/lost-kingdoms",
+                "rel": "Lost Kingdoms"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/highlights-of-asia?eid=A041_%7b93924202-8616-42E2-8DA1-39A4591F1426%7d_20140122180137",
+                "rel": "Highlights of Asia"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R100_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140303111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R100_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140303131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R101_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140304111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R101_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140304120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R101_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140304131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/talks/gallery-talks/the-flowering-of-edo-period-painting-spring?eid=A001_%7bB9065A06-A3F9-4CAB-8F49-ED3038F1E7A2%7d_20140205171419",
+                "rel": "Exhibition Tour\u2014The Flowering of Edo Period Painting: Japanese Masterworks from the Feinberg Collection"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=A092_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20131018142423",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R102_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140305120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R102_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140305131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=nc",
+                "rel": "Central and North Asia, 1900 A.D.\u2013present"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=eac",
+                "rel": "China, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/72786"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/72786"
+        }
+    },
+    "accession number": "2005.509.10",
+    "credit line": "The Lin Yutang Family Collection, Gift of Richard M. Lai, Jill Lai Miller, and Larry C. Lai, in memory of Taiyi Lin Lai, 2005",
+    "culture": "China",
+    "date": "undated",
+    "department": "Asian Art",
+    "description": "Shen Yinmo was one of the most influential calligraphers of twentieth-century China. Here, he has transcribed a poem by the eminent scholar-official, poet, and calligrapher Huang Tingjian (1045\u20131105), upon assuming an official post in Ye County (in Henan Province). The poem, inspired] by two well-known local legends, is a meditation on the vicissitudes of human history:The white crane left in search of Wang Zijin [fl. sixth century B.C.];The true dragon yearned for Shen Zhuliang [fl. late sixth century B.C.].Events in the remote past are gone like birds flying away;Now I pour out my sorrow, facing the setting sun.Old folks from former times can still name the counties of the Tang dynasty;On broken steles remain the writings of the Jin period.The drifting clouds make no plan to settle down;Only the desolate mountains linger in lasting thoughts.(trans. by Shi-yee Liu)Shen Yinmo was particularly influenced by the calligraphy of the early Tang master Chu Suiliang (596\u2013658). This work reflects Chu's elegant finesse in the tall, slightly tilted configuration of the characters and in the sensuous fluctuation of the brushstrokes within graceful structures. The pronounced waviness of Shen's long, horizontal strokes is a salient feature of Huang Tingjian's calligraphy that Shen quite naturally incorporated in transcribing Huang's poem.",
+    "dimensions": [
+        "Image 26 3/8 x 13 in. (67 x 33 cm)",
+        "Overall with knobs 63 x 21 7/16 in. (160 x 54.5 cm)"
+    ],
+    "id": 72786,
+    "image": "http://images.metmuseum.org/CRDImages/as/original/DP146947.jpg",
+    "medium": "Hanging scroll; ink on paper",
+    "title": "Poem by Huang Tingjian",
+    "what": [
+        "Ink",
+        "Paper",
+        "Paintings",
+        "Scroll paintings",
+        "Scrolls",
+        "Hanging scrolls",
+        "Calligraphy"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Asia",
+        "China"
+    ],
+    "who": "Shen Yinmo"
+}

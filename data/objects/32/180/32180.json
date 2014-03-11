@@ -1,0 +1,128 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/27478"
+            },
+            {
+                "href": "http://scrapi.org/object/33297"
+            },
+            {
+                "href": "http://scrapi.org/object/33306"
+            },
+            {
+                "href": "http://scrapi.org/object/33315"
+            },
+            {
+                "href": "http://scrapi.org/object/33350"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From October 2, 2012",
+                "href": "/exhibitions/listings/2012/arms-and-armor",
+                "rel": "Bashford Dean and the Creation of the Arms and Armor Department"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A074_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112917",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A084_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113556",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A093_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113923",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A075_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112932",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A094_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113938",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 5, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A085_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113610",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161351",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A076_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112951",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 19, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161305",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 26, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A086_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113630",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwb",
+                "rel": "Great Britain and Ireland, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/32180"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/32180"
+        }
+    },
+    "accession number": "35.81.3a\u2013e",
+    "credit line": "Bequest of Charles N. Daly, 1934",
+    "culture": "British",
+    "date": "ca. 1800",
+    "department": "Arms and Armor",
+    "dimensions": "L. 14 1/2 in. (36.8 cm); barrel L. 6 in. (15.2 cm); Cal. .55 in. (14 mm); Wt., 3 lb. 15 oz. (1.79 kg)",
+    "id": 32180,
+    "image": "http://images.metmuseum.org/CRDImages/aa/original/100807.jpg",
+    "medium": "Steel, wood (walnut), silver",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/aa/original/100807.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/100792.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/100624.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/100622.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/100623.jpg"
+    ],
+    "title": "Lord Nelson's Repeating Flintlock Pistol in Case with Accessories",
+    "what": [
+        "Metal",
+        "Silver",
+        "Wood",
+        "Arms",
+        "Iron and iron alloy",
+        "Iron alloy",
+        "Steel",
+        "Firearms",
+        "Walnut",
+        "Locks",
+        "Small arms",
+        "Handguns",
+        "Pistols",
+        "Flintlocks",
+        "Snaphances",
+        "Repeating"
+    ],
+    "where": [
+        "Europe",
+        "United Kingdom"
+    ]
+}

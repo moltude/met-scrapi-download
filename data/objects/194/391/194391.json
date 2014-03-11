@@ -1,0 +1,158 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/194393"
+            },
+            {
+                "href": "http://scrapi.org/object/348936"
+            },
+            {
+                "href": "http://scrapi.org/object/348951"
+            },
+            {
+                "href": "http://scrapi.org/object/348949"
+            },
+            {
+                "href": "http://scrapi.org/object/348953"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 3, 2014",
+                "href": "/exhibitions/listings/2014/william-morris",
+                "rel": "William Morris"
+            },
+            {
+                "date": "From November 22, 2011",
+                "href": "/exhibitions/listings/2011/faberge",
+                "rel": "Faberg\u00e9 from the Matilda Geddings Gray Foundation Collection"
+            },
+            {
+                "date": "From February 4, 2014",
+                "href": "/exhibitions/listings/2014/french-ceramics",
+                "rel": "Making Pottery Art"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/carpeaux",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "From January 22, 2014",
+                "href": "/exhibitions/listings/2014/antonio-canova",
+                "rel": "Antonio Canova"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining-family-individual?eid=A002_%7b2F11F3B2-6834-484B-AE0F-5066D7E783B5%7d_20140107114234",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R104_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140310131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/membership-events/evening-receptions/carpeaux-supporting-reception?eid=A001_%7b60301F85-6473-4C1C-8DAB-5D8B2E9406EE%7d_20140107151713",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R105_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140311131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/membership-events/evening-receptions/carpeaux-sustaining-reception?eid=A001_%7bB97F7097-C940-4FDB-8982-A3EC61BD9084%7d_20140107152519",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/world-enlightened?eid=R002_%7bEC37AED7-F558-4A27-A806-094491540250%7d_20140312101500",
+                "rel": "Cultural Discoveries\u2014Wednesdays with Olivier Bernier: Europe in the Eighteenth Century, A World Enlightened"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/talks/gallery-talks/the-passions-of-jean-baptiste-carpeaux?eid=A003_%7b7437318B-B35F-4C96-BAA4-FF8EDD85D6CA%7d_20140206123059",
+                "rel": "Exhibition Tour\u2014The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R106_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140313131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R107_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140314131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/friday-evening-gallery-event-what-moves-you?eid=A001_%7b1EC22848-690F-4DDE-99C8-D3C4580691E8%7d_20140130135425",
+                "rel": "Friday Evening Gallery Event\u2014What Moves You?"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwf",
+                "rel": "France, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/194391"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/194391"
+        }
+    },
+    "accession number": "17.190.1911",
+    "credit line": "Gift of J. Pierpont Morgan, 1917",
+    "culture": "French (probably St. Cloud)",
+    "date": "ca. 1695\u20131710",
+    "department": "European Sculpture and Decorative Arts",
+    "description": "This vase was once thought to have been made in Rouen at the first porcelain factory established in France (see the pot pourri jar exhibited elsewhere in this case). However, recent scholarship suggests that it was made at Saint Cloud, the first enterprise in France to produce soft-paste porcelain commercially, in contrast to the limited and experimental output in Rouen. The decoration, painted in cobalt blue underneath the clear lead glaze, combines elements taken from Chinese porcelains with images derived from the sixteenth-century French artist Jacques Androuet Du Cerceau (ca. 1520\u20131586).",
+    "dimensions": "H. 8 in. (20.3 cm.)",
+    "gallery-id": 551,
+    "id": 194391,
+    "image": "http://images.metmuseum.org/CRDImages/es/original/DP156482.jpg",
+    "medium": "Soft-paste porcelain",
+    "provenance": [
+        "Gaston Le Breton",
+        "J. Pierpont Morgan (until 1917; to MMA)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/es/original/DP156482.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/ES4236.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP149927.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP149928.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP149929.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP156483.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP156484.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/ES4235.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/ES4234.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/ES650.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/ES651.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/ES652.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/240789.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/240790.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/240791.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/40930.jpg"
+    ],
+    "title": "Vase",
+    "what": [
+        "Ceramics",
+        "Clay",
+        "Vessels",
+        "Faience",
+        "Porcelain",
+        "Vases",
+        "Soft paste porcelain"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Jacques Androuet Du Cerceau"
+}

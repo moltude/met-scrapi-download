@@ -1,0 +1,120 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/109679"
+            },
+            {
+                "href": "http://scrapi.org/object/109680"
+            },
+            {
+                "href": "http://scrapi.org/object/146134"
+            },
+            {
+                "href": "http://scrapi.org/object/157043"
+            },
+            {
+                "href": "http://scrapi.org/object/158324"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R130_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140310130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/158895"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/158895"
+        }
+    },
+    "accession number": "2009.300.3906a, b",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Beth Levine in memory of her husband, Herbert, 1994",
+    "culture": "American",
+    "date": "ca. 1965",
+    "department": "Costume Institute",
+    "description": "Beth Levine's ingenious and witty designs, experimentation with novel materials, and ability to invent practical solutions have earned her the place of top female shoe designer of the 20th century. Levine was particularly adept at predicting future trends and devising structural innovations. Chief among her achievements were the popularization of the fashion boot in the 1960s, the use of vinyl and spandex, and the inventions of the Spring-o-lator mule, the stocking shoe, and the topless shoe. These boundary-breaking innovations earned Levine a Coty award 1967.Levine used surrealist imagery, including plastic grass, race cars, and sports equipment, in several of her well known designs.  \"Kick Off\" is a whimsical adaptation of a football in to a sporty shoe.",
+    "dimensions": "4 1/2 x 9 in. (11.4 x 22.9 cm)",
+    "id": 158895,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/1994.40.2_CP4.jpg",
+    "medium": "leather",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/1994.40.2_CP4.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1994.40.2a-b_transp595.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1994.40.2a-b (595).JPG"
+    ],
+    "title": "\"Kick Off\"",
+    "what": [
+        "Costume",
+        "Leather",
+        "Footwear",
+        "Shoes"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": [
+        "Herbert Levine Inc.",
+        "Beth Levine"
+    ]
+}

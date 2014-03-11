@@ -1,0 +1,128 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/13504"
+            },
+            {
+                "href": "http://scrapi.org/object/13505"
+            },
+            {
+                "href": "http://scrapi.org/object/13506"
+            },
+            {
+                "href": "http://scrapi.org/object/13507"
+            },
+            {
+                "href": "http://scrapi.org/object/13508"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 18, 2013",
+                "href": "/exhibitions/listings/2013/american-west",
+                "rel": "The American West in Bronze, 1850\u20131925"
+            },
+            {
+                "date": "February 25, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R097_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140225120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "February 25, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R073_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140225134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "February 26, 2014",
+                "href": "/events/programs/talks/gallery-talks/light-in-american-art-hudson-river-school?eid=A003_%7b86B27E91-724D-4796-8075-F3123974AE65%7d_20131016163855",
+                "rel": "Light in American Art: Hudson River School to Abstract Expressionism"
+            },
+            {
+                "date": "February 26, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R098_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140226120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "February 26, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R074_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140226134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "February 27, 2014",
+                "href": "/events/programs/talks/gallery-talks/the-american-west-in-bronze?eid=A001_%7bF8FF67EB-DE74-4A7A-B860-AAB9F09B0E26%7d_20131024112254",
+                "rel": "Exhibition Tour\u2014The American West in Bronze, 1850\u20131925"
+            },
+            {
+                "date": "February 27, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R099_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140227120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "February 27, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R075_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140227134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "March 1, 2014",
+                "href": "/events/programs/tours/american-art-weekend?eid=A180_%7b501B6EDB-D4CC-4402-98B8-688E06337497%7d_20131127140947",
+                "rel": "American Art"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/american-art-weekend?eid=A185_%7b501B6EDB-D4CC-4402-98B8-688E06337497%7d_20131127141222",
+                "rel": "American Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/7107"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/7107"
+        }
+    },
+    "accession number": "1980.497.5",
+    "credit line": "Gift of Fred and Nancylee Dikeman, in memory of his father, John Dikeman, 1980",
+    "culture": "American",
+    "date": "1900\u20131907",
+    "department": "American Decorative Arts",
+    "dimensions": [
+        "1980.497.5a 9 1/2 x 16 1/16 in. (24.1 x 40.8 cm)",
+        "1980.497.5b 9 9/16 x 5 1/2 in. (24.3 x 14 cm)"
+    ],
+    "id": 7107,
+    "image": "http://images.metmuseum.org/CRDImages/ad/original/DP114172.jpg",
+    "medium": "Metal, cloth, glass",
+    "provenance": [
+        "Tiffany Studios, New York",
+        "John Dikeman, New York",
+        "his son, Fred Dikeman, Flushing, New York, until 1980."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ad/original/DP114172.jpg",
+        "http://images.metmuseum.org/CRDImages/ad/original/DP114170.jpg",
+        "http://images.metmuseum.org/CRDImages/ad/original/DP114171.jpg",
+        "http://images.metmuseum.org/CRDImages/ad/original/DP114179.jpg",
+        "http://images.metmuseum.org/CRDImages/ad/original/ADA3331.jpg",
+        "http://images.metmuseum.org/CRDImages/ad/original/ADA3330.jpg"
+    ],
+    "title": "Sample pattern for a lamp shade",
+    "what": [
+        "Metal",
+        "Glass",
+        "Cloth"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States",
+        "New York",
+        "New York City"
+    ],
+    "who": "Tiffany Studios"
+}

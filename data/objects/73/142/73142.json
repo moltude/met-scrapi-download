@@ -1,0 +1,141 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/76986"
+            },
+            {
+                "href": "http://scrapi.org/object/49807"
+            },
+            {
+                "href": "http://scrapi.org/object/76988"
+            },
+            {
+                "href": "http://scrapi.org/object/78471"
+            },
+            {
+                "href": "http://scrapi.org/object/76984"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 8, 2014",
+                "href": "/exhibitions/listings/2014/tibet-and-india",
+                "rel": "Tibet and India"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/chinese-carving",
+                "rel": "Colors of the Universe"
+            },
+            {
+                "date": "From July 19, 2013",
+                "href": "/exhibitions/listings/2013/chinese-snuff-bottles",
+                "rel": "Small Delights"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/ink-art",
+                "rel": "Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "From February 1, 2014",
+                "href": "/exhibitions/listings/2014/edo-period-painting",
+                "rel": "The Flowering of Edo Period Painting"
+            },
+            {
+                "date": "From April 14, 2014",
+                "href": "/exhibitions/listings/2014/lost-kingdoms",
+                "rel": "Lost Kingdoms"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R104_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140310111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R104_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140310131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R105_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140311111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R105_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140311120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R105_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140311131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/talks/gallery-talks/gallery-conv-culture-and-politics?eid=A001_%7b33996DD5-3C4F-473B-BCAE-533DF0BF66F1%7d_20140205160349",
+                "rel": "Gallery Conversation\u2014Culture and Politics in Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=A093_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20131018142432",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R106_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140312120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R106_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140312131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R107_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140313120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=eaj",
+                "rel": "Japan, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/73142"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/73142"
+        }
+    },
+    "accession number": "2005.467",
+    "credit line": "Gift of Sue Cassidy Clark, in honor of Dr. Barbara Brennan Ford, 2005",
+    "culture": "Japan",
+    "department": "Asian Art",
+    "description": "The word keit\u014d  (literally, \"chicken's head\") connotes the cockscomb flower, which blooms from late summer to early autumn. As in English, the name of this showy flower celebrates the flamboyant head of the rooster. The early twentieth century, from which this kimono dates, saw an interest in objective, near-photographic-naturalism in y\u016bzen-dyed and painted kimono patterns, such as the stand of cockscomb flowers seen on the lower half of this robe. The robe could almost serve as an illustration of a 1915 poem by Nagatsuka Takashi (1879\u20131915), who was known for his delicate sensitivity to the progression of the seasons: The cockscomb flowers, reflecting the chill autumn sun, Are reddening sharply.",
+    "dimensions": "60 7/16 x 50 9/16 in. (153.5 x 128.5 cm)",
+    "id": 73142,
+    "image": "http://images.metmuseum.org/CRDImages/as/original/DP278733.jpg",
+    "medium": "Y\u016bzen-dyed and painted silk crepe",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/as/original/DP278733.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP277428.jpg"
+    ],
+    "title": "Kimono with Cockscomb Flowers",
+    "what": [
+        "Costume",
+        "Silk",
+        "Painting",
+        "Dyeing",
+        "Kimonos",
+        "Crepe"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Asia",
+        "Japan"
+    ]
+}

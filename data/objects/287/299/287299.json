@@ -1,0 +1,92 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/276278"
+            },
+            {
+                "href": "http://scrapi.org/object/276276"
+            },
+            {
+                "href": "http://scrapi.org/object/276277"
+            },
+            {
+                "href": "http://scrapi.org/object/276401"
+            },
+            {
+                "href": "http://scrapi.org/object/286413"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/287299"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/287299"
+        }
+    },
+    "accession number": "2006.406a\u2013g",
+    "credit line": "Purchase, Alfred Stieglitz Society Gifts, 2006",
+    "date": "1974",
+    "department": "Photographs",
+    "description": "One of the great works of late Conceptualism, Rock Star (Character Appropriation) is a witty, note-perfect imitation of an archetype then at the height of its sway over the popular imagination. Born in Buenos Aires in 1946, Lamelas first came to prominence with his installation for the Argentinean pavilion at the 1968 Venice Biennale, entitled Office of Information about the Vietnam War at Three Levels: The Visual Image, Text, and Audio. For that piece, the artist essentially transformed the exhibition space into a working newsroom, in which information about the war arrived constantly via telex and was read aloud through microphones in various languages. Lamelas's desire to break through the insular confines of the avant-garde eventually led him to Hollywood, where he attempted to bridge the gap between radical artistic production and commercial cinema. For Rock Star (Character Appropriation), the artist created a series of uncannily authentic-looking stills of himself decked out in the full regalia of a rock singer and in the throes of liberation and ecstatic release. The utterly convincing aspect of performance in the work is bolstered by technical wizardry, complete with blinding, halo-like circles of light and the rushing blur of you-are-there snapshots. A direct precursor to Cindy Sherman's Untitled Film Stills, Lamelas's star turn is a trenchant examination of mass media mythology from the inside.",
+    "dimensions": "38.9 x 30.5 cm (15 5/16 x 12 in.) each",
+    "id": 287299,
+    "medium": "Gelatin silver print",
+    "provenance": [
+        "the artist",
+        "[Galerie Philomena Magers, Munich]"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ph/original/DP135656.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP135657.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP135658.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP135659.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP135660.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP135661.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP135662.jpg"
+    ],
+    "title": "Rock Star (Character Appropriation)",
+    "what": [
+        "Photographs",
+        "Gelatin silver prints"
+    ],
+    "when": "A.D. 1900-present",
+    "who": "David Lamelas"
+}

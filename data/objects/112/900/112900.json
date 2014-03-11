@@ -1,0 +1,110 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/112899"
+            },
+            {
+                "href": "http://scrapi.org/object/162360"
+            },
+            {
+                "href": "http://scrapi.org/object/82767"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R130_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140310130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/112900"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/112900"
+        }
+    },
+    "accession number": "2005.44.2",
+    "credit line": "Gift of Miguel Adrover, 2005",
+    "culture": "American",
+    "date": "2000",
+    "department": "Costume Institute",
+    "description": "The fantastical life of Miguel Adrover, from his childhood on almond farms in the Mediterranean to his rather mysterious friendship with couture genius Alexander McQueen, perfectly complements the poetry and whimsiness of the very garments he constructs.  Though he arrived in New York from Majorca in 1990, it was the designer's first official runway effort in 1999 that became both a critical muse and a fashionista's fantasy.  His collections exhibit both a love for cross-cultural eclecticism, from Muslim veiling to western quilting techniques, and a fusion of historical elements, drawing from the prudities of the Victorian era and the ostentation of the contemporary New York street in the same stitch.  This piece, which was donated to the Costume Institute as a tribute to New York upon his indefinite departure for Madrid in 2004, emerged from a series of collections that paid homage to the recyclability and raw decorousness of New York's fashion world.  The dress exhibits an excessively weathered banner of pride that every Big Apple tourist longs to appropriate: \"I (heart) NY.\" The significance of the logo is its pedestrian origins; these cotton tees, produced in every color and size, can be purchased on nearly every popular street corner in lower Manhattan.  Quite contrarily, and with wit aplomb, Adrover has imposed an overstated pouf sleeve, layered in confectionary chiffon ruffles onto this spare tee dress.  The sleeve shape and style found its climax in twentieth\u2013century high fashion in the gluttonous 1980s, a period of grossly overstated luxury that has its various associations with Reaganite politics and the stark separation of the American economic classes.   This fusion of symbology is typical of Adrover, and only serves to enrich the irony of his design as a self-contained symbol of the co-existence of the exclusive elite and the marginalized masses of New York City.",
+    "dimensions": "Length at CB 27 1/2 in. (69.9 cm)",
+    "id": 112900,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/DP114794.jpg",
+    "medium": "cotton, cotton/silk blend; synthetic",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/DP114794.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/2005.44.2.jpg"
+    ],
+    "title": "\"I Love New York\"",
+    "what": [
+        "Costume",
+        "Silk",
+        "Cotton",
+        "Dresses"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "Miguel Adrover"
+}

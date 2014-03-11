@@ -1,0 +1,112 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/283179"
+            },
+            {
+                "href": "http://scrapi.org/object/285716"
+            },
+            {
+                "href": "http://scrapi.org/object/285717"
+            },
+            {
+                "href": "http://scrapi.org/object/285718"
+            },
+            {
+                "href": "http://scrapi.org/object/285719"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/adag/hd_adag.htm",
+                "rel": "The Daguerreian Era and Early American Photography on Paper, 1839\u20131860"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=na",
+                "rel": "The United States and Canada, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/283180"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/283180"
+        }
+    },
+    "accession number": "2005.100.614a\u2013g",
+    "credit line": "Gilman Collection, Gift of The Howard Gilman Foundation, 2005",
+    "date": "1854",
+    "department": "Photographs",
+    "description": "In 1841-42, William and Frederick Langenheim opened a daguerreotype studio in Philadelphia. Known for their technical innovations, the former journalists were not the city's first but were certainly its most celebrated photographers. On May 26, 1854, the Langenheim brothers made eight sequential photographs of the first total eclipse of the sun visible in North America since the invention of photography. Although six other daguerreotypists and one calotypist are known to have documented the event, only these seven daguerreotypes survive. In the northern hemisphere, the moon always shadows the sun from right to left during a solar eclipse; these images therefore seem odd because they are, like all uncorrected daguerreotypes, reversed laterally as in a mirror.It is noteworthy that these daguerreotypes are quite small, three exceptionally so. In order to produce any kind of image at all, the Langenheims were forced to use the smallest cameras available, since smaller cameras require proportionally less light and there was virtually no available light when the disk of the new moon eclipsed the largest part of the sun. The missing eighth image was probably made on the smaller plate size and showed nothing at all-a total eclipse.",
+    "dimensions": "From 3.2 x 2.5 cm (1 1/4 x 1 in.) to 7.2 x 5.9 cm (2 13/16 x 2 5/16 in.)",
+    "id": 283180,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP205277.jpg",
+    "medium": "Daguerreotype",
+    "provenance": [
+        "Langenheim family by descent",
+        "[Rinhart Gallery, by 1983]",
+        "Gilman Paper Company Collection, New York, August 3, 1983"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ph/original/DP205277.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP205278.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP205279.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP205280.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP205281.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP205282.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP205283.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP205284.jpg"
+    ],
+    "title": "Eclipse of the Sun",
+    "what": [
+        "Photographs",
+        "Daguerreotypes"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": [
+        "William Langenheim",
+        "Frederick Langenheim"
+    ]
+}

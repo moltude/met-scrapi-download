@@ -1,0 +1,110 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/245480"
+            },
+            {
+                "href": "http://scrapi.org/object/245483"
+            },
+            {
+                "href": "http://scrapi.org/object/245769"
+            },
+            {
+                "href": "http://scrapi.org/object/249979"
+            },
+            {
+                "href": "http://scrapi.org/object/247212"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R104_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140310123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R105_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140311123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R106_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140313123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R027_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140313130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R107_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140314123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/conversations-with-curators-and-conservators/terracotta-column-krater?eid=A001_%7b1CC4797D-7295-4614-9ACD-19C00BA693F4%7d_20140204162630",
+                "rel": "Conversation with a Curator\u2014Terracotta Column-Krater"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A144_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142257",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A145_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142312",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R116_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140331123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=04\u00aeion=eust",
+                "rel": "Italian Peninsula, 1000 B.C.\u20131 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/249835"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/249835"
+        }
+    },
+    "accession number": "17.194.601",
+    "credit line": "Gift of J. Pierpont Morgan, 1917",
+    "culture": "Eastern Mediterranean or South Italian",
+    "date": "late 4th\u2013early 3rd century B.C.",
+    "department": "Greek and Roman Art",
+    "description": "Translucent cobalt blue, with handle and pad-base in same color; trails in opaque yellow, opaque white, and opaque turquoise blue.Applied trefoil rim-disk with long spout; cylindrical neck; narrow angular shoulder; straight-sided cylindrical body, expanding downward, and then curving in to applied low circular pad-base with uneven flattish bottom; strap handle attached in pad to upper body over trail decoration, drawn up and round in a loop, arching above the rim-disk, and pressed onto back of rim-disk and top of neck.A fine yellow trail attached at edge of rim-disk; another unmarvered yellow trail wound spirally five and a quarter times around neck; a third yellow trail, marvered, begun on shoulder and wound round on body, tooled into a feather pattern and extending as far as the point of greatest diameter; mingling with it in alternating bands, turquoise blue and white trails in nine vertical panels with alternating upward and downward strokes; a fine turquoise blue trail wound round edge of pad-base.Intact, except for weathered chip in rim-disk; dulling, pitting, and much of surface covered with creamy white weathering and iridescence.Among the rarer shapes of Mediterranean Group II vessels are the tall, slender oinochoe (jug/pitcher) with a trefoil spout and the lentoid aryballos with twisted glass canes running between the ring handles.",
+    "dimensions": "H. 5 7/8 in. (14.8 cm)",
+    "gallery-id": 158,
+    "id": 249835,
+    "image": "http://images.metmuseum.org/CRDImages/gr/original/DP152375.jpg",
+    "medium": "Glass; core-formed, Group II",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/gr/original/DP152375.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/GR839.jpg"
+    ],
+    "title": "Glass oinochoe (perfume jug)",
+    "what": [
+        "Vessels",
+        "Glass",
+        "Oinochoai"
+    ],
+    "when": "1000 B.C.-A.D. 1",
+    "where": [
+        "Europe",
+        "Italy"
+    ]
+}

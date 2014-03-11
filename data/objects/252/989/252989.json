@@ -1,0 +1,112 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/249372"
+            },
+            {
+                "href": "http://scrapi.org/object/249399"
+            },
+            {
+                "href": "http://scrapi.org/object/249420"
+            },
+            {
+                "href": "http://scrapi.org/object/249398"
+            },
+            {
+                "href": "http://scrapi.org/object/249423"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R104_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140310123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R105_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140311123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R106_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140313123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R027_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140313130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R107_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140314123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/conversations-with-curators-and-conservators/terracotta-column-krater?eid=A001_%7b1CC4797D-7295-4614-9ACD-19C00BA693F4%7d_20140204162630",
+                "rel": "Conversation with a Curator\u2014Terracotta Column-Krater"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A144_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142257",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A145_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142312",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R116_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140331123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=05\u00aeion=eust",
+                "rel": "Italian Peninsula, 1\u2013500A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/252989"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/252989"
+        }
+    },
+    "accession number": "29.100.75",
+    "credit line": "H.O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+    "culture": "Roman",
+    "date": "2nd half of 1st century A.D.",
+    "department": "Greek and Roman Art",
+    "description": "Translucent pale blue green.Uneven knocked-off, slightly inverted rim; flaring neck; plastic body; flaring base with circular, flat bottom. Mold seams visible to either side of face, slightly misaligned on proper right side, extending to the top of the body.Body in the shape of a male head with negroid features and hair arranged in vertical plaits; there are eleven short plaits over the forehead, two longer plaits in front of his ears, and four tiers of fifteen long plaits on the back of his head; he wears a wreath, tied at the back of his head and extending above his ears to his forehead, consists of leaves and berries; his brow are knit, his long eyebrows are arched, his ears are large and well defined, his eyes have small round pupils, his cheeks are plump, his nose is broad, his mouth is open (as if in a grimace), showing his teeth, and his chin is dimpled; he wears small spherical earrings that hang down from the bottom of his ear lobes. On the bottom, three raised, unevenly spaced, concentric circles.Intact; some bubbles; pitting, creamy weathering, and brilliant iridescence on exterior; thick whitish weathering and iridescence on interiorA small number of other cups probably from the same mold are known.",
+    "dimensions": "H. 3 3/4 in. (9.5 cm)",
+    "gallery-id": 171,
+    "id": 252989,
+    "image": "http://images.metmuseum.org/CRDImages/gr/original/DP117551.jpg",
+    "medium": "Glass; blown in a four-part mold",
+    "provenance": [
+        "Said to be from Scythopolis (Beit She'an, Israel)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/gr/original/DP117551.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP118338.jpg"
+    ],
+    "title": "Glass cup in the shape of a negro head",
+    "what": [
+        "Glass",
+        "Drinking vessels",
+        "Cups"
+    ],
+    "when": "A.D. 1-500",
+    "where": [
+        "Roman Empire"
+    ]
+}

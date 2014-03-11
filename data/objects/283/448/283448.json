@@ -1,0 +1,230 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/284649"
+            },
+            {
+                "href": "http://scrapi.org/object/284651"
+            },
+            {
+                "href": "http://scrapi.org/object/284654"
+            },
+            {
+                "href": "http://scrapi.org/object/284655"
+            },
+            {
+                "href": "http://scrapi.org/object/284656"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/edph/hd_edph.htm",
+                "rel": "Early Documentary Photography"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/kodk/hd_kodk.htm",
+                "rel": "Kodak and the Rise of Amateur Photography"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/evan/hd_evan.htm",
+                "rel": "Walker Evans (1903\u20131975)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/283448"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/283448"
+        }
+    },
+    "accession number": "1994.259.44.1-125",
+    "credit line": "Walker Evans Archive, 1994",
+    "date": "ca. 1960",
+    "department": "Photographs",
+    "dimensions": "35mm each",
+    "id": 283448,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP44274.jpg",
+    "medium": "Color film transparency",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44274.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44285.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44286.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44287.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44311.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44312.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44313.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44314.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44315.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44275.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44276.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44277.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44278.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44279.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44280.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44281.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44282.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44283.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44284.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44288.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44289.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44290.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44291.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44292.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44293.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44294.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44295.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44296.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44297.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44298.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44299.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44300.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44301.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44302.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44303.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44304.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44305.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44306.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44307.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44308.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44309.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44310.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44316.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44317.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44318.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44319.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44320.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44321.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44322.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44323.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44324.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44325.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44326.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44327.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44328.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44329.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44330.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44331.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44332.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44333.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44334.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44335.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44336.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44337.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44338.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44339.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44340.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44341.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44342.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44343.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44344.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44345.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44346.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44347.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44348.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44349.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44350.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44351.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44352.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44353.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44354.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44355.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44356.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44357.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44358.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44359.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44360.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44361.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44362.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44363.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44364.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44365.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44366.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44367.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44368.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44369.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44370.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44371.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44398.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44372.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44373.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44374.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44375.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44376.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44377.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44378.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44379.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44380.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44381.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44382.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44383.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44384.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44385.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44386.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44387.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44388.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44389.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44390.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44391.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44392.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44393.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44394.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44395.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44396.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP44397.jpg"
+    ],
+    "title": "[125 Views of Spectators at Ascot Raceway for Sports Illustrated Article]",
+    "what": [
+        "Film",
+        "Transparencies"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "Walker Evans"
+}

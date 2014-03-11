@@ -1,0 +1,142 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/451992"
+            },
+            {
+                "href": "http://scrapi.org/object/452037"
+            },
+            {
+                "href": "http://scrapi.org/object/453351"
+            },
+            {
+                "href": "http://scrapi.org/object/452743"
+            },
+            {
+                "href": "http://scrapi.org/object/452937"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world-french?eid=R026_%7b85906EA1-CA66-4610-A52C-39562E1A4C40%7d_20140310133000",
+                "rel": "Arts du monde Islamique (Arts of the Islamic World in French)"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R130_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140310141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A232_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134244",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A237_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134557",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=07\u00aeion=eusb",
+                "rel": "Balkan Peninsula, 1000\u20131400 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=eusb",
+                "rel": "Balkan Peninsula, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/446861"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/446861"
+        }
+    },
+    "accession number": "16.99",
+    "credit line": "Gift of Mrs. Edward S. Harkness, 1916",
+    "culture": "Byzantine",
+    "date": "13th and 17th century",
+    "department": "Islamic Art",
+    "description": "These jeweled, enameled, and gilt-silver repouss\u00e9 covers for a gospel are examples of the work produced in the late seventeenth-century silversmith workshop of Kayseri. Both front and back cover are signed, informing us that they were made in Kayseri in 1691 by Astuatsatur Shahamir. The central image on the front cover depicts the Adoration of the Shepherds, and above, the magi following the star. Amid angels, the banner in the sky proclaims, \"Glory to God in the highest and on Earth peace.\" The same composition of shepherds appears on two sets of gospel covers made in Kayseri by M. Karapet Malkhas, one dated 1671 (Mekhitarist Library, Vienna, MS 416) and the other dated 1691 (present location unknown). On the back is the Resurrection, showing Christ in a mandorla holding a bannered cross, surrounded by baroque cherubs and clouds. The green velvet spine is decorated with six garnets and numerous glass or crystal gems arranged in a diamond pattern. These covers were attached to a gospel copied and illuminated by a thirteenth-century scribe named Grigor, possibly from Cilicia.",
+    "dimensions": [
+        "Pages H. 10 in. (25.4 cm)",
+        "W. 6 3/4 in. (17.1 cm)",
+        "Binding H. 10 1/4 in. (26 cm)",
+        "W. 7 3/8 in. (18.7 cm)"
+    ],
+    "id": 446861,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/16.99a.jpg",
+    "medium": [
+        "Ink and tempura on parchment",
+        "Cover silver, gilt, jewels, enamel"
+    ],
+    "provenance": [
+        "M. C. D. Borden, New York (until 1913; his sale, American Art Galleries,New York, February 17\u201319, 1913, lot 497, to Harkness)",
+        "Mrs. Edward S. Harkness, New York (1913\u201316; gifted to MMA)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/16.99a.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/99539.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/99540.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/99541.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/99543.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/99542.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/99544.jpg"
+    ],
+    "title": "Gospel with Silver Cover",
+    "what": [
+        "Metal",
+        "Ink",
+        "Silver",
+        "Gilt",
+        "Enamels",
+        "Gems",
+        "Manuscripts",
+        "Codices",
+        "Illuminated manuscripts"
+    ],
+    "where": [
+        "Asia",
+        "Turkey",
+        "Kayseri"
+    ]
+}

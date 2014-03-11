@@ -1,0 +1,78 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/402052"
+            },
+            {
+                "href": "http://scrapi.org/object/343725"
+            },
+            {
+                "href": "http://scrapi.org/object/343885"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwl",
+                "rel": "Low Countries, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/410227"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/410227"
+        }
+    },
+    "accession number": "32.123.11",
+    "credit line": "Harris Brisbane Dick Fund, 1933",
+    "date": "1617",
+    "department": "Drawings and Prints",
+    "description": "This sheet is part of a series of square grotesque designs by the goldsmith Esaias von Hulsen. The patterns he designed for this series are very complex compilations of animals, human figures and various different objects placed in a network of thin strips characterized by many C-Volutes, also known as Schweifwerk. Decorations such as these go back to Roman mural decorations, the most famous of which were to be found in the Domus Aurea in Rome. Renaissance and Baroque artists developed these grotesques further and came up with many \u2018modern\u2019 manifestations. Von Hulsen\u2019s prints are remarkable because he is one of the first to break the Renaissance habit of creating symmetrical designs.",
+    "dimensions": "Plate 4 7/16 x 4 3/8 in. (11.2 x 11.1 cm)",
+    "id": 410227,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP823434.jpg",
+    "medium": "Blackwork",
+    "provenance": [
+        "Vendor: Robert Laurie & James Whittle (London)"
+    ],
+    "title": "Square Blackwork Design in Silhouette Style with Schweifwerk and Grotesque Figures",
+    "what": "Prints",
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "Netherlands"
+    ],
+    "who": "Esaias von Hulsen"
+}

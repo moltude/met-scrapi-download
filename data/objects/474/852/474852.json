@@ -1,0 +1,142 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/479572"
+            },
+            {
+                "href": "http://scrapi.org/object/479573"
+            },
+            {
+                "href": "http://scrapi.org/object/479574"
+            },
+            {
+                "href": "http://scrapi.org/object/479575"
+            },
+            {
+                "href": "http://scrapi.org/object/479576"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 25, 2014",
+                "href": "/exhibitions/listings/2014/canterbury-stained-glass",
+                "rel": "Radiant Light"
+            },
+            {
+                "date": "From August 6, 2013",
+                "href": "/exhibitions/listings/2013/design-motifs-in-byzantine-art",
+                "rel": "Design Motifs in Byzantine Art"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/ancestors-of-christ?eid=A001_%7b64F28017-6AB0-4B00-864F-E5676EE07585%7d_20140113142350",
+                "rel": "The Ancestors of Christ: Stained Glass Windows from Canterbury Cathedral"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/ancestors-of-christ?eid=A002_%7b64F28017-6AB0-4B00-864F-E5676EE07585%7d_20140113142402",
+                "rel": "The Ancestors of Christ: Stained Glass Windows from Canterbury Cathedral"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R008_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140309150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R009_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140310150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R105_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140311104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R010_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140311150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R106_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140312104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R011_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140312150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R107_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140313104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/draw/hd_draw.htm",
+                "rel": "Drawing in the Middle Ages"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=07\u00aeion=euwb",
+                "rel": "Great Britain and Ireland, 1000\u20131400 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/474852"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/474852"
+        }
+    },
+    "accession number": "2002.433",
+    "credit line": "The Cloisters Collection, 2002",
+    "culture": "British",
+    "date": "ca. 1230",
+    "department": "The Cloisters",
+    "description": "This manuscript, linking biblical history with the genealogy of Christ, conveys the scholastic tradition of the medieval university context from which it derived. Written by Peter of Poitiers, chancellor at the University of Paris from 1193 to 1205, the Compendium Historiale in Genealogia Christi was essentially an abridgment of biblical history for students in the form of a genealogical tree of Christ. It was frequently copied in vertical roll and illustrated with line drawings and diagrams, as is this English example. The history of the world is organized into six ages, each introduced in the manuscript with a line drawing. This fine pen rendering of the Nativity illustrates the sixth age- that of the Incarnation of Christ. The other figurative drawings in the manuscript represent the kings of David and Zedekiah.Diagrams were important tools for medieval thinkers, and the manuscript is enlivened with examples representing the Mansions in the Desert (the forty- two places the Israelites stopped over a period of three years during the Exodus), the Twelve tribes of Israel, and the city of Jerusalem. In creating his compendium, with its complex interplay of word and image, Peter of Poitiers made a lasting contribution to both scholarship and pedagogy.",
+    "dimensions": [
+        "Overall 65 9/16 x 13 1/16 in. (166.5 x 33.2 cm)",
+        "Framed 76 1/2 x 23 x 2 1/4 in. (194.3 x 58.4 x 5.7 cm)"
+    ],
+    "gallery-id": 10,
+    "id": 474852,
+    "image": "http://images.metmuseum.org/CRDImages/cl/original/tr508a-2002s1.jpg",
+    "medium": "Ink on vellum",
+    "provenance": [
+        "Thornel Family North Riding, Yorkshire, England (between 1577-1582)",
+        "Mrs. S. Faure (sold Sotheby Parke Bernet, London, 1976)",
+        "Ian Woodner New York",
+        "Diana and Andrea Woodner",
+        "[ Bruce Ferrini , Akron, Ohio]",
+        "[ Margaret Demant Huntington Woods, Michigan (sold 2002)]"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/cl/original/tr508a-2002s1.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/2002.433.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/tr508a-2002d6.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/tr508a-2002d7.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/tr508a-2002d4.jpg"
+    ],
+    "title": "Fragment of a Compendium of the Genealogy of Christ",
+    "what": [
+        "Ink",
+        "Paintings",
+        "Manuscripts",
+        "Parchment",
+        "Illuminations",
+        "Vellum"
+    ],
+    "when": "A.D. 1000-1400",
+    "where": [
+        "Europe",
+        "United Kingdom"
+    ]
+}

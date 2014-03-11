@@ -1,0 +1,123 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/503928"
+            },
+            {
+                "href": "http://scrapi.org/object/505719"
+            },
+            {
+                "href": "http://scrapi.org/object/503647"
+            },
+            {
+                "href": "http://scrapi.org/object/503202"
+            },
+            {
+                "href": "http://scrapi.org/object/504678"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/early-guitars",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/concerts-and-performances/ernie-sites?eid=A001_%7bE8CB7AEE-6F19-46A1-BCDF-ACF04F0FA0A0%7d_20140221154312",
+                "rel": "Gallery Concert: Ernie Sites, Guitar"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A001_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203181946",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A002_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203182002",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A004_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203182034",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A006_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203182105",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A005_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20140206152942",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A001_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115501",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A002_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115523",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A003_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115537",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A004_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115549",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwc",
+                "rel": "Central Europe and Low Countries, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/503047"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/503047"
+        }
+    },
+    "accession number": "59.105",
+    "credit line": "Rogers Fund, 1959",
+    "date": "1831",
+    "department": "Musical Instruments",
+    "dimensions": [
+        "Total L. 115.7 cm (45-9/16 in.); Body L.: 68.2 cm (26-5/8 in.);",
+        "Widths UB. 33.3 cm (13-1/8 in.): MB.  23.2 cm (9-1/8 in);  LB. 39.5 (15\u00bd in.); Sto. 34.2 (13-3/8 in);",
+        "String L. 60.4 (23\u00bd);",
+        "For other measurements see department file."
+    ],
+    "gallery-id": 684,
+    "id": 503047,
+    "image": "http://images.metmuseum.org/CRDImages/mi/original/DP217179.jpg",
+    "medium": "Wood, various materials",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/mi/original/DP217179.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/DP217180.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/DP217181.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/DP217182.jpg"
+    ],
+    "title": "Arpeggione",
+    "what": [
+        "Musical instruments",
+        "Chordophones",
+        "Lutes",
+        "Arpeggiones"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "Austria",
+        "Vienna"
+    ],
+    "who": "Johann Georg Staufer"
+}

@@ -1,0 +1,135 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/467518"
+            },
+            {
+                "href": "http://scrapi.org/object/467519"
+            },
+            {
+                "href": "http://scrapi.org/object/467520"
+            },
+            {
+                "href": "http://scrapi.org/object/467521"
+            },
+            {
+                "href": "http://scrapi.org/object/467522"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 25, 2014",
+                "href": "/exhibitions/listings/2014/canterbury-stained-glass",
+                "rel": "Radiant Light"
+            },
+            {
+                "date": "From August 6, 2013",
+                "href": "/exhibitions/listings/2013/design-motifs-in-byzantine-art",
+                "rel": "Design Motifs in Byzantine Art"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/ancestors-of-christ?eid=A001_%7b64F28017-6AB0-4B00-864F-E5676EE07585%7d_20140113142350",
+                "rel": "The Ancestors of Christ: Stained Glass Windows from Canterbury Cathedral"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/ancestors-of-christ?eid=A002_%7b64F28017-6AB0-4B00-864F-E5676EE07585%7d_20140113142402",
+                "rel": "The Ancestors of Christ: Stained Glass Windows from Canterbury Cathedral"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R008_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140309150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R009_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140310150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R105_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140311104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R010_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140311150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R106_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140312104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R011_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140312150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R107_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140313104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=euwl",
+                "rel": "Low Countries, 1400\u20131600 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwl",
+                "rel": "Low Countries, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/468477"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/468477"
+        }
+    },
+    "accession number": "55.18.4",
+    "credit line": "Gift of Harry G. Friedman, 1955",
+    "culture": "Netherlandish",
+    "date": "late 15th\u2013early 16th century",
+    "department": "Medieval Art",
+    "dimensions": [
+        "Overall 16 3/4 x 11 5/8 in. (42.5 x 29.6 cm)",
+        "Historiated initial 3 1/4 x 3 1/2 in. (8.2 x 8.9 cm)",
+        "Text Area 12 1/16 x 8 1/8 in. (30.6 x 20.7 cm)",
+        "Mat Size 19 3/16 x 14 1/4 in. (48.8 x 36.2 cm)"
+    ],
+    "id": 468477,
+    "image": "http://images.metmuseum.org/CRDImages/md/original/sf55-18-4s1.jpg",
+    "medium": "Tempera, ink, and metal leaf on parchment",
+    "provenance": [
+        "Harry G. Friedman(until 1955)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/md/original/sf55-18-4s1.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/sf55-18-4s2.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/sf55-18-4d1.jpg"
+    ],
+    "title": "Manuscript Illumination with King David in an Initial D, from a Gradual",
+    "what": [
+        "Metal",
+        "Ink",
+        "Paintings",
+        "Manuscripts",
+        "Tempera",
+        "Parchment",
+        "Illuminations"
+    ],
+    "where": [
+        "Europe",
+        "Netherlands"
+    ]
+}

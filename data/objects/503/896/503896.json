@@ -1,0 +1,121 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/503271"
+            },
+            {
+                "href": "http://scrapi.org/object/504534"
+            },
+            {
+                "href": "http://scrapi.org/object/501778"
+            },
+            {
+                "href": "http://scrapi.org/object/501784"
+            },
+            {
+                "href": "http://scrapi.org/object/500532"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/early-guitars",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A001_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115501",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A002_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115523",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A003_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115537",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A004_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115549",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A005_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115601",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A006_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115612",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/musical-instruments-east-and-west?eid=R079_%7bB33A51AA-7250-402C-9FC0-8A302D14AD06%7d_20140311121500",
+                "rel": "Musical Instruments: East and West"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/musical-instruments-east-and-west?eid=R080_%7bB33A51AA-7250-402C-9FC0-8A302D14AD06%7d_20140313121500",
+                "rel": "Musical Instruments: East and West"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/musical-instruments-east-and-west?eid=R081_%7bB33A51AA-7250-402C-9FC0-8A302D14AD06%7d_20140314121500",
+                "rel": "Musical Instruments: East and West"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/family-programs/sunday-studio/string-and-sound?eid=A002_%7b47DD1CB2-ECBA-4009-A975-5F11C7EB2F6A%7d_20131025180255",
+                "rel": "String and Sound: Musical Instruments"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwc",
+                "rel": "Central Europe (including Germany), 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/503896"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/503896"
+        }
+    },
+    "accession number": "1985.210",
+    "credit line": "Purchase, The Barrington Foundation Inc. Gift, The Howard Bayne Fund, Rogers Fund, Mr. and Mrs. Thatcher M. Brown III and  Mrs. Norma F. Finer Perll Gifts, Gifts of Rev. George Nichols Marshall and The Crosby Brown Collection of Musical Instruments, by exchange, and funds from various donors, 1985",
+    "date": "18th century",
+    "department": "Musical Instruments",
+    "dimensions": [
+        "W. across bottom   93.7 cm     36-7/8 in.",
+        "D.  across bottom   31.7           12-1/2  in.",
+        "H.  without lid           13.5             5-3/8",
+        "3-octave span          37              14-5/8",
+        "L. naturals              8                3-1/4",
+        "L. top string            6.4             2-1/4  (sounding)",
+        "L. bottm string      76.4           30-1/8  (sounding)"
+    ],
+    "id": 503896,
+    "image": "http://images.metmuseum.org/CRDImages/mi/original/DT8133.jpg",
+    "medium": "Wood",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/mi/original/DT8133.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/C3967 1985.210 view1.jpg"
+    ],
+    "title": "Clavichord",
+    "what": [
+        "Musical instruments",
+        "Chordophones",
+        "Zithers",
+        "Clavichords"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "Germany"
+    ]
+}

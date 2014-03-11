@@ -1,0 +1,152 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/437523"
+            },
+            {
+                "href": "http://scrapi.org/object/437524"
+            },
+            {
+                "href": "http://scrapi.org/object/437525"
+            },
+            {
+                "href": "http://scrapi.org/object/437526"
+            },
+            {
+                "href": "http://scrapi.org/object/437527"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/piero-della-francesca",
+                "rel": "Piero della Francesca"
+            },
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "From April 22, 2014",
+                "href": "/exhibitions/listings/2014/goya",
+                "rel": "Goya and the Altamira Family"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/talks/gallery-talks/piero-della-francesca?eid=A001_%7bE50FD455-5FC1-41D0-9391-C456264363EF%7d_20140206160624",
+                "rel": "Exhibition Tour\u2014Piero della Francesca: Personal Encounters"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=A257_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20131127123002",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/monday-at-the-met-spring-2014?eid=R001_%7bBB2BF277-3666-435E-8B95-12CDE21533EA%7d_20140303100000",
+                "rel": "Monday at the Met with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R100_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140303123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R101_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140304123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R102_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140305123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R026_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140306140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R103_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140307123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/talks/the-observant-eye/stepping-out-of-the-frame?eid=A001_%7b438572AD-6B0F-4DA2-94FB-49B8931634C1%7d_20140123142901",
+                "rel": "Stepping Out of the Frame: Three-Dimensionality in the New Galleries for European Paintings"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/saturday-seminar-spring-2014?eid=R001_%7bE063A39F-FC40-4ECC-B690-C4C13F70B2A0%7d_20140308103000",
+                "rel": "Saturday Seminar with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/coup/hd_coup.htm",
+                "rel": "Couples in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/rvd_p/hd_rvd_p.htm",
+                "rel": "Peter Paul Rubens (1577\u20131640) and Anthony van Dyck (1599\u20131641): Paintings"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/port/hd_port.htm",
+                "rel": "Portraiture in Renaissance and Baroque Europe"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwl",
+                "rel": "Low Countries, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/437532"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/437532"
+        }
+    },
+    "accession number": "1981.238",
+    "credit line": "Gift of Mr. and Mrs. Charles Wrightsman, in honor of Sir John Pope-Hennessy, 1981",
+    "date": "ca. 1635",
+    "department": "European Paintings",
+    "dimensions": "80 1/4 x 62 1/4 in. (203.8 x 158.1 cm)",
+    "gallery-id": 628,
+    "id": 437532,
+    "image": "http://images.metmuseum.org/CRDImages/ep/original/DT30.jpg",
+    "medium": "Oil on wood",
+    "provenance": [
+        "Governor General of the Low Countries",
+        "Ch\u00e2teau of Tervueren, Brussels (until 1704?)",
+        "John Churchill, 1st Duke of Marlborough, Blenheim Palace, Woodstock, Oxfordshire (1704?\u2013d. 1722)",
+        "the Dukes of Marlborough, Blenheim Palace (1722\u20131883)",
+        "George Charles Spencer-Churchill, 8th Duke of Marlborough, Blenheim Palace (1883\u201384)",
+        "baron Mayer Alphonse de Rothschild, Paris (1884\u2013d. 1905)",
+        "his son, baron \u00c9douard de Rothschild, Paris (1905\u2013d. 1949)",
+        "his widow, baronne Germaine de Rothschild, Paris (1949\u2013d. 1975; her estate, 1975\u201376)",
+        "[Wildenstein, Paris and New York, 1976\u201378",
+        "sold to Wrightsman]",
+        "Mr. and Mrs. Charles Wrightsman, New York (1978\u201381)"
+    ],
+    "title": "Rubens, His Wife Helena Fourment (1614\u20131673), and Their Son Frans (1633\u20131678)",
+    "what": [
+        "Paintings",
+        "Oil paint"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "Flanders"
+    ],
+    "who": "Peter Paul Rubens"
+}

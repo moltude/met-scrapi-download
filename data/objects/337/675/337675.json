@@ -1,0 +1,98 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/337672"
+            },
+            {
+                "href": "http://scrapi.org/object/337682"
+            },
+            {
+                "href": "http://scrapi.org/object/337678"
+            },
+            {
+                "href": "http://scrapi.org/object/337679"
+            },
+            {
+                "href": "http://scrapi.org/object/337680"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwf",
+                "rel": "France, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/337675"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/337675"
+        }
+    },
+    "accession number": "62.238",
+    "credit line": "Rogers Fund, 1962",
+    "date": "early 18th century",
+    "department": "Drawings and Prints",
+    "dimensions": "12 5/16 x 17 5/16 in.  (31.2 x 43.9 cm)",
+    "id": 337675,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP811588.jpg",
+    "medium": "Brush and brown wash, heightened with white, over black chalk, on blue paper. All four in curved corners have been filled in.",
+    "provenance": [
+        "Chabot (French), his sale, December 17, 1787, lot 130",
+        "Paignon-Dijonval (French), in 1792 to his heir",
+        "Vicomte Morel de Vind\u00e9 (French), sold in 1816 to Samuel Woodburn, London",
+        "Samuel Woodburn (British, 1786\u20131853)",
+        "Vendor: Herbert E. Feist"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP811588.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DR195.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/264949_62.238.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/264949.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/62.238.jpg"
+    ],
+    "title": "Alexander and Porus",
+    "what": [
+        "Drawings",
+        "Paper",
+        "Chalk"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Fran\u00e7ois Le Moyne"
+}

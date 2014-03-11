@@ -1,0 +1,129 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/317800"
+            },
+            {
+                "href": "http://scrapi.org/object/317801"
+            },
+            {
+                "href": "http://scrapi.org/object/317810"
+            },
+            {
+                "href": "http://scrapi.org/object/313405"
+            },
+            {
+                "href": "http://scrapi.org/object/313398"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From September 16, 2013",
+                "href": "/exhibitions/listings/2013/feathered-walls",
+                "rel": "Feathered Walls"
+            },
+            {
+                "date": "From October 8, 2013",
+                "href": "/exhibitions/listings/2013/nelson-rockefeller",
+                "rel": "The Nelson A. Rockefeller Vision"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R105_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140311130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R106_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140312130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R107_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140313130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 18, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/shaping-the-african-art-canon?eid=A001_%7b447041C4-D9E7-43A9-AE5F-85BAEB6E7196%7d_20140214113010",
+                "rel": "Shaping the African Art Canon: From the Museum to the Classroom"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/talks/the-observant-eye/shared-memory-sculptural-ancestral-objects-from-oceania?eid=A001_%7b94768B86-339F-4726-A3BC-8F798C423768%7d_20140123143856",
+                "rel": "Shared Memory: Sculptural Ancestral Objects from Oceania"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=A116_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140210093151",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/talks/gallery-talks/ancient-american-sculpture?eid=A002_%7b7A6AA394-9359-47C1-87B4-65B0894C01AB%7d_20140123114700",
+                "rel": "Ancient American Sculpture"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R117_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140401130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R118_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140402130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=05\u00aeion=sac",
+                "rel": "Central and Southern Andes, 1\u2013500A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/313400"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/313400"
+        }
+    },
+    "accession number": "1979.206.1225",
+    "credit line": "The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+    "culture": "Moche (Loma Negra)",
+    "date": "390\u2013450",
+    "department": "Arts of Africa, Oceania and the Americas",
+    "description": "Nose ornaments made of precious metals were worn by the elite in Peru beginning in the middle of the first millennium B.C.; they remained in fashion for over a thousand years, until about 700 A.D. Among the Moche people of the north coast, they were an essential part of royal costume. This handsome crescent is made of silver and came from the site of Loma Negra in the Piura Valley. It is so big it would have covered the wearer's lower face when suspended from the nasal septum. It has a gold border of intertwined \"eared\" serpents, their profile faces with toothy mouths and split tongues appearing at the top on either side of the ornament. Attached to the serpent bodies with small pieces of gold wire are numerous gold disks, which would have moved and glittered with the slightest movement of the wearer. The \"eared\" serpent was a mythological creature often depicted in ancient Peruvian art with feline characteristics such as whiskers and fangs.Moche metalworkers often combined two metals on fancy ornaments. In addition to the aesthetic appeal, joining gold and silver may have had symbolic meaning, perhaps expressing ideas of duality and complementarity.",
+    "dimensions": "H. 4 15/16 x W. 8 5/16 x D. 7/16 in. (12.5 x 21.1 x 1.1 cm)",
+    "gallery-id": 357,
+    "id": 313400,
+    "image": "http://images.metmuseum.org/CRDImages/ao/original/DT9422.jpg",
+    "medium": "Gold, silver, shell",
+    "provenance": [
+        "[Andre Emmerich Gallery, New York, until 1969]",
+        "Nelson A. Rockefeller, New York, 1969, on loan to the Museum of Primitive Art, New York, 1969\u20131978"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ao/original/DT9422.jpg",
+        "http://images.metmuseum.org/CRDImages/ao/original/h2_1979_206_1225.jpg"
+    ],
+    "title": "Nose Ornament with Intertwined Serpents",
+    "what": [
+        "Metal",
+        "Costume",
+        "Silver",
+        "Gold",
+        "Jewelry",
+        "Shell",
+        "Nose ornaments"
+    ],
+    "when": "A.D. 1-500",
+    "where": [
+        "South America",
+        "Peru"
+    ],
+    "who": "Moche"
+}

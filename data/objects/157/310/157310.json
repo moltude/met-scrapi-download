@@ -1,0 +1,117 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/157402"
+            },
+            {
+                "href": "http://scrapi.org/object/156502"
+            },
+            {
+                "href": "http://scrapi.org/object/159147"
+            },
+            {
+                "href": "http://scrapi.org/object/157530"
+            },
+            {
+                "href": "http://scrapi.org/object/83519"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R130_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140310130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/157310"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/157310"
+        }
+    },
+    "accession number": "2009.300.2480a\u2013d",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of the International Business Machine Corporation, 1960",
+    "culture": "Italian",
+    "date": "1740\u201360",
+    "department": "Costume Institute",
+    "description": "This suit is the epitome of mid-18th century men's wear with its curved jacket front, fitted breeches, narrow sleeves and decorative mid-thigh length waistcoat.  Waistcoats of the time were a vehicle for imagination and, in this case, add an ornate aspect to an otherwise conservative ensemble.  The unique textile of the waistcoat indicates an interest in the exotic, with a stairway leading up to a pavilion with an overarching natural elements, while still following traditional floral patterning commonly found in waistcoats of the 18th century.  Unlike most suits of the period, this suit can be undoubtedly linked through matching buttons on the coat, breeches and waistcoat.",
+    "dimensions": [
+        "Length at CB (a) 41 in. (104.1 cm)",
+        "Length at CB (b) 27 in. (68.6 cm)",
+        "Length at CB (c) 29 in. (73.7 cm)"
+    ],
+    "id": 157310,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/60.87.61a-c_front_CP4.jpg",
+    "medium": "silk, metal, cotton, linen",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/60.87.61a-c_front_CP4.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/60.87.61a-c_back_CP4.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/60.87.61b-c_CP4.jpg"
+    ],
+    "title": "Suit",
+    "what": [
+        "Metal",
+        "Costume",
+        "Silk",
+        "Cotton",
+        "Linen",
+        "Suits"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "Italy"
+    ]
+}

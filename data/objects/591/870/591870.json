@@ -1,0 +1,55 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/357908"
+            },
+            {
+                "href": "http://scrapi.org/object/591843"
+            },
+            {
+                "href": "http://scrapi.org/object/591833"
+            },
+            {
+                "href": "http://scrapi.org/object/591846"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/591870"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/591870"
+        }
+    },
+    "accession number": "152.7 T36 Q",
+    "credit line": "Purchased with income from the Jacob S. Rogers Fund",
+    "date": "1921",
+    "department": "The Libraries",
+    "description": "\"Formes et couleurs\" is an album of sixty-seven decorative motifs in the Art Nouveau and Art Deco styles, printed in vivid colors using the pochoir process. These plates, originally in a portfolio, were meant to serve as inspirational models for artists and artisans working in the fine and decorative arts. Pochoir is a stenciling process used for the reproduction of original color works. It was used in France by the most prominent artists and craftsmen to produce illustrated deluxe portfolios, books, limited-edition journals, and decorative and fine-art prints between 1895 and 1935.Illustrated: pl. 1, \"Formes et Couleurs,\" pochoir illustration with floral and animal motifs",
+    "dimensions": "H 18 1/2 in. (47 cm)",
+    "id": 591870,
+    "image": "http://images.metmuseum.org/CRDImages/li/original/li152.7 T36 Q.R.jpg",
+    "medium": "Printed book, pochoir plates",
+    "title": "Formes et couleurs: vingt planches en couleurs contenant soixante-sept motifs decoratifs",
+    "what": [
+        "Books",
+        "Printing",
+        "Plates",
+        "Stenciling",
+        "Pochoir"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France",
+        "Paris"
+    ],
+    "who": "Auguste H. Thomas"
+}

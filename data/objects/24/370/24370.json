@@ -1,0 +1,132 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/31599"
+            },
+            {
+                "href": "http://scrapi.org/object/35714"
+            },
+            {
+                "href": "http://scrapi.org/object/27599"
+            },
+            {
+                "href": "http://scrapi.org/object/24630"
+            },
+            {
+                "href": "http://scrapi.org/object/24631"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From October 2, 2012",
+                "href": "/exhibitions/listings/2012/arms-and-armor",
+                "rel": "Bashford Dean and the Creation of the Arms and Armor Department"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A083_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113541",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A074_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112917",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A084_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113556",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A093_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113923",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A075_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112932",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A094_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113938",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 5, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A085_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113610",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161351",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A076_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112951",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 19, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161305",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=07\u00aeion=eaj",
+                "rel": "Japan, 1000\u20131400 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=eaj",
+                "rel": "Japan, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/24370"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/24370"
+        }
+    },
+    "accession number": "36.25.1695a, b",
+    "credit line": "Bequest of George C. Stone, 1935",
+    "culture": "Japanese",
+    "date": "blade, 14th century; mounting, 19th century",
+    "department": "Arms and Armor",
+    "dimensions": "L. 42 in. (106.7 cm); L. of blade 28 1/2 in. (72.4 cm)",
+    "id": 24370,
+    "image": "http://images.metmuseum.org/CRDImages/aa/original/sfma36.25.1695a, b_138743.jpg",
+    "medium": "Steel, gold, silver, wood, deerskin, textile, mother-of-pearl, stone, rayskin",
+    "provenance": [
+        "Ex coll:  George C. Stone, New York, no 2592"
+    ],
+    "title": "Blade and Mounting for a Slung Sword (Tachi)",
+    "what": [
+        "Metal",
+        "Textiles",
+        "Silver",
+        "Wood",
+        "Arms",
+        "Iron and iron alloy",
+        "Stone",
+        "Edged weapons",
+        "Swords",
+        "Iron alloy",
+        "Steel",
+        "Blades",
+        "Mother of pearl",
+        "Deerskin"
+    ],
+    "where": [
+        "Asia",
+        "Japan"
+    ],
+    "who": [
+        "Harunari",
+        "Kozori School",
+        "Norimitsu"
+    ]
+}

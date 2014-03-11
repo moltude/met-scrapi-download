@@ -1,0 +1,122 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/550058"
+            },
+            {
+                "href": "http://scrapi.org/object/549189"
+            },
+            {
+                "href": "http://scrapi.org/object/551300"
+            },
+            {
+                "href": "http://scrapi.org/object/551301"
+            },
+            {
+                "href": "http://scrapi.org/object/551302"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A145_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113221",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/talks/gallery-talks/egyptian-sculpture?eid=A002_%7b09B70F74-B68F-4731-A787-D861CCC990BA%7d_20140123144040",
+                "rel": "Egyptian Sculpture"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/cleopatra-welcome-and-introduction?eid=A001_%7bCE6C92F7-59C2-4721-A363-E48BE5CF7EBF%7d_20140226151517",
+                "rel": "Welcome and Introduction"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=03\u00aeion=afe",
+                "rel": "Egypt, 2000\u20131000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/544692"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/544692"
+        }
+    },
+    "accession number": "23.10.1",
+    "credit line": "Gift of Mr. and Mrs. V. Everit Macy, 1923",
+    "date": "ca. 1336\u20131323 B.C.",
+    "department": "Egyptian Art",
+    "description": "Haremhab was a royal scribe and general of the army under Tutankhamun. He continued to serve during the reign of Aya and eventually succeeded Aya as king. This statue was made before Haremhab ascended the throne. By having himself depicted as a scribe, Haremhab declares himself to be among the elite group of literate individuals, thus following a tradition more than a thousand years old of depicting great officials as men of wisdom and learning.He sits erect, but relaxed, his gaze slightly down. Across his knees he unrolls a papyrus scroll on which he has composed a hymn to the god Thoth, patron of scribes. A  shell containing ink lies on his left knee. Over his left shoulder is a strap with a miniature scribe's kit attached to each end. A figure of the god Amun is incised on his forearm, perhaps indicating a tattoo.In this statue the unlined, youthful face is belied by the potbelly and the folds of flesh beneath the breasts. These artistic conventions indicate that the subject has reached the age of wisdom. Although the scribal pose exhibits the frontal orientation common to all formal Egyptian statue, it may be appreciated more fully as a piece of sculpture in the round since it has no back pillar. The youthful face reflects the features seen on many statues depicting Tutankhamun (50.6), and the style of this magnificent life-size sculpture retains some of the softness and naturalism of the earlier Amarna period while looking forward to later Ramesside art.",
+    "dimensions": "h. 113 cm (44 1/2 in); w. 71 cm (27 15/16 in); d. 55.5 cm (21 7/8 in)",
+    "gallery-id": 121,
+    "id": 544692,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/DP238391.jpg",
+    "medium": "Granodiorite",
+    "provenance": [
+        "Purchased from Khawam Brothers, Cairo, and donated to the Museum by Mr. and Mrs. V. Everit Macy, New York, 1923."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/eg/original/DP238391.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/DP238356.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/23.10.1_EGDP010721.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/23.10.1_EGDP010728.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/23.10.1_EGDP010729.jpg"
+    ],
+    "title": "Haremhab as a Scribe of the King",
+    "what": [
+        "Sculpture",
+        "Statues",
+        "Granodiorite"
+    ],
+    "when": "2000-1000 B.C.",
+    "where": [
+        "Africa",
+        "Egypt",
+        "Upper Egypt",
+        "Memphis"
+    ]
+}

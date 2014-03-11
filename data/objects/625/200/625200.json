@@ -1,0 +1,133 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/22769"
+            },
+            {
+                "href": "http://scrapi.org/object/32845"
+            },
+            {
+                "href": "http://scrapi.org/object/35650"
+            },
+            {
+                "href": "http://scrapi.org/object/35845"
+            },
+            {
+                "href": "http://scrapi.org/object/22412"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From October 2, 2012",
+                "href": "/exhibitions/listings/2012/arms-and-armor",
+                "rel": "Bashford Dean and the Creation of the Arms and Armor Department"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A074_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112917",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A084_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113556",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A093_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113923",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A075_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112932",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A094_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113938",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 5, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A085_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113610",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161351",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A076_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112951",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 19, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161305",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 26, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A086_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113630",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=na",
+                "rel": "The United States and Canada, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/625200"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/625200"
+        }
+    },
+    "accession number": "2013.622a, b",
+    "credit line": "Purchase, Arthur Ochs Sulberger Gift, 2013",
+    "culture": "American",
+    "date": "1817",
+    "department": "Arms and Armor",
+    "dimensions": "39 5/16 x 4 5/8 x 1 7/8 in. (99.8 x 11.7 x 4.7 cm); Wt. 2 lb. 12 oz. (1237 g); sword L 38 1/2 in. (97.8 cm); sword Wt. 1 lb. 11 oz. (888 g); blade L. 32 5/16 in. (82 cm); blade W. 1 1/16 in. (2.7 cm)",
+    "id": 625200,
+    "image": "http://images.metmuseum.org/CRDImages/aa/original/sfsb2013.622ab_001.jpg",
+    "medium": "Steel, copper alloy (brass), gold, leather",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/aa/original/sfsb2013.622ab_001.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/sfsb2013.622ab_002.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/sfsb2013.622ab_003.jpg"
+    ],
+    "title": "Presentation Sword and Scabbard of Peleg K. Dunham (1794\u20131822)",
+    "what": [
+        "Metal",
+        "Copper alloy",
+        "Gold",
+        "Arms",
+        "Iron and iron alloy",
+        "Edged weapons",
+        "Copper",
+        "Leather",
+        "Swords",
+        "Iron alloy",
+        "Steel",
+        "Brass",
+        "Cases",
+        "Sheaths",
+        "Scabbards",
+        "Ceremonial weapons",
+        "Ceremonial swords",
+        "Presentation swords"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": [
+        "John Meer",
+        "William Rose Sr., 1783\u20131856"
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/285689"
+            },
+            {
+                "href": "http://scrapi.org/object/285690"
+            },
+            {
+                "href": "http://scrapi.org/object/265521"
+            },
+            {
+                "href": "http://scrapi.org/object/265611"
+            },
+            {
+                "href": "http://scrapi.org/object/266537"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/phbh/hd_phbh.htm",
+                "rel": "Photography at the Bauhaus"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/phdu/hd_phdu.htm",
+                "rel": "Photography in D\u00fcsseldorf"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/nvis/hd_nvis.htm",
+                "rel": "The New Vision of Photography"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwcm",
+                "rel": "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/283283"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/283283"
+        }
+    },
+    "accession number": "2005.100.145",
+    "credit line": "Gilman Collection, Purchase, Ann Tenenbaum and Thomas H. Lee Gift, 2005",
+    "date": "1927\u201328",
+    "department": "Photographs",
+    "description": "As a boy August Sander worked in a mine in the Siegen area east of Cologne. His enthusiasm for photography was sparked when he had the opportunity to assist a photographer who was visiting the area. After training in Trier and Linz, he opened his own studio in Cologne in 1910. By 1920 his main focus had become a portrait atlas entitled \"Citizens of the Twentieth Century,\" which was to be a collective image of the German people. By allowing dress, gesture, environment, and tools of the trade to define his sitters as much as their physiognomies, and by organizing the portraits according to the sitter's profession or social status, Sander arrived at a classification of social types. Even the sitter's identification was limited to profession or social standing--peasant woman, pastry cook, upper-class family, bohemian, and so forth. This vast project occupied Sander until it was brought to an abrupt halt by the Nazis in 1934.     When the first installment of sixty photographs was published in 1929 under the title \"Face of the Time,\" it met with great critical acclaim. The head-on views, the absence of retouching, and the resulting unadorned images allied Sander with the \"new objectivity\" advocated by other contemporary artists. The book remains an exemplar of a new kind of publication that emerged in the 1920s, in which photographic images were not seen simply as illustrations but as autonomous works of art.     This portrait, taken in Berlin, of the Dadaist Raoul Hausmann, wearing only a beret, a monocle, and loose pants, defines him as an artist of the intellectual avant-garde, his surly mouth and confidently poised body revealing something of his domineering personality. Hausmann is so clearly an individual, performing for the camera as the Dadasoph, or resident theorist of the movement, that the generic caption \"artist\" would hardly have sufficed. Perhaps it was for this reason that the portrait was not included in \"Face of the Time,\" though paradoxically Sander had traveled to Berlin specifically at the suggestion of his publisher in order that the book include some well-known figures to give it more popular appeal.",
+    "dimensions": "Image 24 x 16.8 cm (9 7/16 x 6 5/8 in.)",
+    "id": 283283,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP281324.jpg",
+    "medium": "Gelatin silver print",
+    "provenance": [
+        "[Zabriskie Gallery]",
+        "Gilman Paper Company Collection, New York, June 1, 1978"
+    ],
+    "title": "[Raoul Hausmann]",
+    "what": [
+        "Photographs",
+        "Gelatin silver prints"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "Germany"
+    ],
+    "who": "August Sander"
+}

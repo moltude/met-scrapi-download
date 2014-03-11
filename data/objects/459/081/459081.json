@@ -1,0 +1,114 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/459086"
+            },
+            {
+                "href": "http://scrapi.org/object/459088"
+            },
+            {
+                "href": "http://scrapi.org/object/459089"
+            },
+            {
+                "href": "http://scrapi.org/object/459090"
+            },
+            {
+                "href": "http://scrapi.org/object/459091"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R125_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140303134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R126_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140304134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R127_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140305134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R128_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140306134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R129_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140307134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R130_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140310134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R131_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140311134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R132_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140312134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R133_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140313134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R134_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140314134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/459081"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/459081"
+        }
+    },
+    "accession number": "1975.1.139",
+    "credit line": "Robert Lehman Collection, 1975",
+    "date": "ca. 1640-50",
+    "department": "Robert Lehman Collection",
+    "dimensions": "42 5/8 x 32 1/2 in. (108.3 x 82.6 cm)",
+    "id": 459081,
+    "image": "http://images.metmuseum.org/CRDImages/rl/original/DP123021.jpg",
+    "medium": "Oil on canvas",
+    "provenance": [
+        "Probably Mrs. J. E. Fiseau",
+        "her sale, Amsterdam, 30 August 1797, lot 184 (as Rembrandt; to Van Santen for Fl 870)",
+        "earl of Mansfield (bought at a sale in London about 1818)",
+        "David William, third earl of Mansfield, Scone Palace, Perth, still in 1909, possibly 1910",
+        "[R. Langton Douglas, London]",
+        "[M. Knoedler and Co., New York].  Acquired by Philip Lehman from Knoedler in April 1911."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/rl/original/DP123021.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/1557.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/DP145951.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/ep1975.1.139.bw.R.jpg"
+    ],
+    "title": "Portrait of a Man Seated in an Armchair",
+    "what": [
+        "Paintings",
+        "Canvas",
+        "Oil paintings"
+    ],
+    "when": "A.D. 1600-1800",
+    "who": "Dutch (Amsterdam) Painter, about 1640\u201350"
+}

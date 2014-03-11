@@ -1,0 +1,144 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/72788"
+            },
+            {
+                "href": "http://scrapi.org/object/72790"
+            },
+            {
+                "href": "http://scrapi.org/object/73160"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 8, 2014",
+                "href": "/exhibitions/listings/2014/tibet-and-india",
+                "rel": "Tibet and India"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/chinese-carving",
+                "rel": "Colors of the Universe"
+            },
+            {
+                "date": "From July 19, 2013",
+                "href": "/exhibitions/listings/2013/chinese-snuff-bottles",
+                "rel": "Small Delights"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/ink-art",
+                "rel": "Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "From February 1, 2014",
+                "href": "/exhibitions/listings/2014/edo-period-painting",
+                "rel": "The Flowering of Edo Period Painting"
+            },
+            {
+                "date": "From April 14, 2014",
+                "href": "/exhibitions/listings/2014/lost-kingdoms",
+                "rel": "Lost Kingdoms"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/talks/gallery-talks/chinese-buddhist-sculpture?eid=A001_%7b539805A7-4AAC-4214-A063-93083E921332%7d_20140123142801",
+                "rel": "Chinese Buddhist Sculpture"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R104_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140310111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R104_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140310131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R105_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140311111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R105_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140311120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R105_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140311131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/talks/gallery-talks/gallery-conv-culture-and-politics?eid=A001_%7b33996DD5-3C4F-473B-BCAE-533DF0BF66F1%7d_20140205160349",
+                "rel": "Gallery Conversation\u2014Culture and Politics in Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=A093_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20131018142432",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R106_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140312120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R106_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140312131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=nc",
+                "rel": "Central and North Asia, 1900 A.D.\u2013present"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=eac",
+                "rel": "China, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/72789"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/72789"
+        }
+    },
+    "accession number": "2005.509.18",
+    "credit line": "The Lin Yutang Family Collection, Gift of Richard M. Lai, Jill Lai Miller, and Larry C. Lai, in memory of Taiyi Lin Lai, 2005",
+    "culture": "China",
+    "date": "dated 1968",
+    "department": "Asian Art",
+    "description": "In this piece written for his daughter Taiyi, Lin Yutang transcribes a poem by the renowned literatus Su Shi (1037\u20131101). This poem describes, in a humorous tone, an awkward situation Su Shi encountered when he was banished to Huangzhou (present-day Huanggang, Hubei) from 1080 to 1084. Being locked out of his own house late one night, he transformed his predicament into an aesthetic experience:After a drink at night at Dongpo [in Huangzhou],I wake up and get drunk again;By the time I come home it seems to be midnight.The boy servant is asleep, snoring like thunder,And does not answer the door.Resting on a cane I listen to the murmur of the river.I always regret that I am not master of my own life.When can I stop this hustling about?The night is late, the air is calm, and the water has a sheen of unruffled light.Let me take a small boat down the river hence,To spend beyond the seas the remainder of my days.(trans. after Lin Yutang)Su Shi's self-mockery certainly appealed to Lin Yutang, the Chinese master of humor. In his biography of Su, The Gay Genius: The Life and Times of Su Tungpo (1947), Lin describes him as \"an incorrigible optimist, a great humanitarian, a friend of the people, a prose master, an original painter, a great calligraphist, an experimenter in wine making, an engineer, a hater of Puritanism, a yogi, a Buddhist believer, a Confucian statesman, a secretary to the emperor, a confirmed winebibber, a humane judge, a dissenter in politics, a prowler in the moonlight, a poet, and a wag.\"",
+    "dimensions": [
+        "Image 10 13/16 x 23 1/16 in. (27.5 x 58.5 cm)",
+        "Framed 17 11/16 x 38 3/16 in. (45 x 97 cm)"
+    ],
+    "id": 72789,
+    "image": "http://images.metmuseum.org/CRDImages/as/original/DP146972.jpg",
+    "medium": "Album leaf; ink on paper",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/as/original/DP146972.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP148471.jpg"
+    ],
+    "title": "Ci Poem by Su Shi",
+    "what": [
+        "Ink",
+        "Paper",
+        "Books",
+        "Albums",
+        "Calligraphy"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Asia",
+        "China"
+    ],
+    "who": "Lin Yutang"
+}

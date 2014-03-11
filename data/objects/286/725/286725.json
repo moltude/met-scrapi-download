@@ -1,0 +1,104 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/285567"
+            },
+            {
+                "href": "http://scrapi.org/object/285569"
+            },
+            {
+                "href": "http://scrapi.org/object/285566"
+            },
+            {
+                "href": "http://scrapi.org/object/285570"
+            },
+            {
+                "href": "http://scrapi.org/object/285571"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/ap80/hd_ap80.htm",
+                "rel": "Art and Photography: The 1980s"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/286725"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/286725"
+        }
+    },
+    "accession number": "2006.91",
+    "credit line": "Purchase, Charlene and David Howe, Henry Nias Foundation Inc., Jennifer Saul, Robert Yaffa, Harriet Ames Charitable Trust, and Gary and Sarah Wolkowitz Gifts, 2006",
+    "date": "1986",
+    "department": "Photographs",
+    "description": "Wall's staged tableaux straddle the worlds of the museum and the street. The scale and ambition of his pictures-scenes of everyday life shot through with larger intimations of political struggle-equally evoke the Salon paintings of nineteenth-century French painters such as Gustave Courbet and \u00c9douard Manet and the advertising light boxes seen at airport terminals and bus stops. The combination is not as strange as it seems, however, in that these earlier artists regularly shocked viewers by chronicling the social transformations and class conflicts of their own historical moment in a manner deemed unworthy of serious art. References to their canvases abound in The Storyteller, from the trio of urban castaways echoing the figures in Manet's D\u00e9jeuner sur l'Herbe to the steeply pitched, spatially ambiguous landscape that recalls Courbet's Young Women from the Village. Yet these allusions are never gratuitous: Manet himself scandalized the public by having the roguish Parisian pleasure-seekers of his contemporary pastoral mimic the poses of Giorgione's revered Concert Champ\u00eatre. \tSet in a leftover sliver of land off a highway in Vancouver, where the artist lives, The Storyteller shows the liminal space where past meets future, crisscrossed by power lines and illuminated from within by the electric light that permeates our world of spectacle, consumption, and waste. Yet the work is ultimately hopeful, holding in suspension the potential for cultural traditions to survive and contest historical amnesia, the homogenizing effects of the media, and the empty promises of technological progress. In creating a space that is both irrevocably fragmented yet retains the possibility for coherence in the mind of the viewer, Wall's picture is, in its largest sense, a statement about the meaning and function of art itself.",
+    "dimensions": "Image 229 x 437 cm (90 3/16 x 172 1/16 in.)",
+    "id": 286725,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/WallL.2004.55.jpg",
+    "medium": "Silver dye bleach transparency in light box",
+    "provenance": [
+        "Jeff Wall",
+        "[Marian Goodman Gallery, New York]"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ph/original/WallL.2004.55.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP244452.jpg"
+    ],
+    "title": "The Storyteller",
+    "what": [
+        "Photographs",
+        "Boxes",
+        "Dye",
+        "Transparencies"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "Canada"
+    ],
+    "who": "Jeff Wall"
+}

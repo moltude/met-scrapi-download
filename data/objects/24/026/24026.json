@@ -1,0 +1,121 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/24496"
+            },
+            {
+                "href": "http://scrapi.org/object/32744"
+            },
+            {
+                "href": "http://scrapi.org/object/32186"
+            },
+            {
+                "href": "http://scrapi.org/object/24991"
+            },
+            {
+                "href": "http://scrapi.org/object/23354"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From October 2, 2012",
+                "href": "/exhibitions/listings/2012/arms-and-armor",
+                "rel": "Bashford Dean and the Creation of the Arms and Armor Department"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A083_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113541",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A074_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112917",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A084_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113556",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A093_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113923",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A075_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112932",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A094_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113938",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 5, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A085_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113610",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161351",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A076_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112951",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 19, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161305",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=eus",
+                "rel": "Southern Europe, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/24026"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/24026"
+        }
+    },
+    "accession number": "36.25.119",
+    "credit line": "Bequest of George C. Stone, 1935",
+    "culture": "Caucasian",
+    "date": "dated A.H. 1223/A.D. 1808\u20139",
+    "department": "Arms and Armor",
+    "description": "The Arabic inscriptions include the names of the maker and the owner, the latter apparently a descendant of the ruling house of the Crimean Tartars.",
+    "gallery-id": 379,
+    "id": 24026,
+    "image": "http://images.metmuseum.org/CRDImages/aa/original/DP153242.jpg",
+    "medium": "Steel, silver, niello, gold",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/aa/original/DP153242.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP153240.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP153241.jpg"
+    ],
+    "title": "Helmet",
+    "what": [
+        "Metal",
+        "Costume",
+        "Silver",
+        "Gold",
+        "Iron and iron alloy",
+        "Iron alloy",
+        "Steel",
+        "Helmets",
+        "Niellos"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Asia",
+        "Caucasus"
+    ]
+}

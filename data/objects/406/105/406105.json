@@ -1,0 +1,96 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/395768"
+            },
+            {
+                "href": "http://scrapi.org/object/340688"
+            },
+            {
+                "href": "http://scrapi.org/object/340689"
+            },
+            {
+                "href": "http://scrapi.org/object/340690"
+            },
+            {
+                "href": "http://scrapi.org/object/340691"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/406105"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/406105"
+        }
+    },
+    "accession number": "2013.211",
+    "credit line": "Purchase, Brooke Russell Astor Bequest, 2013",
+    "date": "ca. 1540\u201370",
+    "department": "Drawings and Prints",
+    "dimensions": "Sheet 9 1/2 x 5 11/16 in. (24.1 x 14.4 cm)",
+    "id": 406105,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP832999.jpg",
+    "medium": "Pen and gold-brown ink, brush and white and silver washes on blue paper",
+    "provenance": [
+        "Jonathan Richardson Jr. (British, London 1694\u20131771 London)",
+        "Sir Joshua Reynolds (British, Plympton 1723\u20131792 London)",
+        "Sir Thomas Lawrence (British, Bristol 1769\u20131830 London)",
+        "P. Huart",
+        "William Russell (British, 1800\u20131884 London)",
+        "David Rust",
+        "Christie's, New York, January 26, 2012, lot 47",
+        "Vendor: Katrin Bellinger Kunsthandel , Munich"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP832999.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP832007.jpg"
+    ],
+    "title": "Niche Surrounded by a Decorative Frame Dedicated to the Theme of Music",
+    "what": [
+        "Ink",
+        "Drawings",
+        "Paper"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": [
+        "Anonymous, Italian, Lombard, 16th century",
+        "Bernardino Campi"
+    ]
+}

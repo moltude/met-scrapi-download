@@ -1,0 +1,131 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/460191"
+            },
+            {
+                "href": "http://scrapi.org/object/460192"
+            },
+            {
+                "href": "http://scrapi.org/object/204517"
+            },
+            {
+                "href": "http://scrapi.org/object/204518"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R131_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140311134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R132_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140312134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R133_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140313134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R134_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140314134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A109_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131126111651",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A115_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131127144444",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A110_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131126111706",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R145_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140331134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/talks/gallery-talks/european-sculpture-in-the-robert-lehman-collection?eid=A001_%7b835B4316-D69F-4E38-A76F-839A55CF6946%7d_20140123112008",
+                "rel": "European Sculpture in the Robert Lehman Collection"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R146_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140401134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/maio/hd_maio.htm",
+                "rel": "Maiolica in the Renaissance"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/459198"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/459198"
+        }
+    },
+    "accession number": "1975.1.1019",
+    "credit line": "Robert Lehman Collection, 1975",
+    "date": "ca. 1520\u20131525",
+    "department": "Robert Lehman Collection",
+    "description": "This plate is one of twenty-one surviving pieces of the most famous and elaborate majolica service of the Renaissance, created for Isabella d'Este, marchioness of Mantua, by Nicola da Urbino, the most celebrated majolica painter of his generation. The center of this dish shows Isabella's coat of arms surrounded by three of her personal emblems: a musical scroll, a candelabrum with one lit candle, and a bunch of lottery tickets. On the rim is a portrayal of the musical contest between Apollo and Pan judged by King Midas, a subject recounted in Ovid's \"Metamorphoses.\" The subtle coloring and delicate execution of the expansive landscape setting reveal the artist's consummate skill. Another piece from this service is also in the Robert Lehman Collection.",
+    "dimensions": "Diam. 10 13/16 in. (27.5 cm)",
+    "gallery-id": 950,
+    "id": 459198,
+    "image": "http://images.metmuseum.org/CRDImages/rl/original/DT740.jpg",
+    "medium": "Maiolica (tin-glazed earthenware)",
+    "provenance": [
+        "Isabella d'Este, marchioness of Mantua",
+        "Fr\u00e9d\u00e9ric Spitzer, Paris",
+        "Spitzer sale, 1893, lot 1705, ill.",
+        "Alfred Israel Pringsheim, Munich, later Zurich (1850-1941)",
+        "sale*, Sotheby's, London, June 8, 1939, lot 190, ill.",
+        "[Julius Goldschmidt, London, for Lehman]",
+        "acquired by Robert Lehman through Goldschmidt Galleries, New York, 1939."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/rl/original/DT740.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/rl1975.1.1019.R.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/RLC32.jpg"
+    ],
+    "title": "Armorial Plate (tondino): The story of King Midas",
+    "what": [
+        "Metal",
+        "Ceramics",
+        "Metalwork",
+        "Pottery",
+        "Earthenware",
+        "Glaze",
+        "Glazing",
+        "Plate",
+        "Ceramic glaze",
+        "Maiolica",
+        "Tin",
+        "Tin glaze"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Nicola da Urbino"
+}

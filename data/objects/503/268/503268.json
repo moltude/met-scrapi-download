@@ -1,0 +1,117 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/504425"
+            },
+            {
+                "href": "http://scrapi.org/object/500661"
+            },
+            {
+                "href": "http://scrapi.org/object/500662"
+            },
+            {
+                "href": "http://scrapi.org/object/500649"
+            },
+            {
+                "href": "http://scrapi.org/object/504426"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/early-guitars",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/musical-instruments-east-and-west?eid=R079_%7bB33A51AA-7250-402C-9FC0-8A302D14AD06%7d_20140311121500",
+                "rel": "Musical Instruments: East and West"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/musical-instruments-east-and-west?eid=R080_%7bB33A51AA-7250-402C-9FC0-8A302D14AD06%7d_20140313121500",
+                "rel": "Musical Instruments: East and West"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/musical-instruments-east-and-west?eid=R081_%7bB33A51AA-7250-402C-9FC0-8A302D14AD06%7d_20140314121500",
+                "rel": "Musical Instruments: East and West"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/family-programs/sunday-studio/string-and-sound?eid=A002_%7b47DD1CB2-ECBA-4009-A975-5F11C7EB2F6A%7d_20131025180255",
+                "rel": "String and Sound: Musical Instruments"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/welcome-guitars?eid=A001_%7bA97BC4B9-BB40-468B-B769-E2288B803700%7d_20140210174255",
+                "rel": "Welcome and Introduction"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/guitars-unlocking?eid=A001_%7b2EF7231E-3208-4491-A372-F94BAC6ACEF2%7d_20140210174844",
+                "rel": "Early American Guitars: Unlocking the Mystery"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/concerts-and-performances/sunday-at-the-met-performance-guitars?eid=A001_%7b307D3D27-A407-452E-8961-47E4218B0B1A%7d_20140210175831",
+                "rel": "Sunday at the Met Performance\u2014Early American Guitars: The Instruments of C. F. Martin"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/concerts-and-performances/sunday-at-the-met-performance-guitars?eid=A002_%7b307D3D27-A407-452E-8961-47E4218B0B1A%7d_20140210175914",
+                "rel": "Sunday at the Met Performance\u2014Early American Guitars: The Instruments of C. F. Martin"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/family-programs/start-with-art-at-the-met-and-start-with-art-at-the-met-plus/making-music?eid=A001_%7b3AE007A9-D4D7-4923-B5F4-F9F8E5300152%7d_20131114160057",
+                "rel": "Start with Art at the Met Plus\u2014Making Music"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/musical-instruments-east-and-west?eid=R088_%7bB33A51AA-7250-402C-9FC0-8A302D14AD06%7d_20140401121500",
+                "rel": "Musical Instruments: East and West"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=eaj",
+                "rel": "Japan, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/503268"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/503268"
+        }
+    },
+    "accession number": "1986.117",
+    "credit line": "Purchase, East Productions U.S.A., Inc. Gift and funds from various donors, 1986",
+    "date": "19th century",
+    "department": "Musical Instruments",
+    "description": "Otsuzumi and Kotsuzumi are drums used in Noh, Nagauta (dance music), geza and in traditional folk music. Their structure is similar but the otsuzumi is larger and has thicker heads.  Heads, made of horsehide and attached to iron rings, are tightly laced to the cherry wood body. The heads are susceptible to humidity changes and heat may be applied to dry the hide or during the performance the kotsuzumi player may moisten the head with breath to adjust the drum's sharp tone. The kotsuzumi is held up to the right shoulder by the left hand which squeezes the rope while the right hand strikes the head in various ways. The otsuzumi is held in the left hand on the left thigh with the right hand striking the head.",
+    "dimensions": "L. 26.5 cm (10-7/16 in.); Diam. 20.2 cm (7-15/16 in.)",
+    "gallery-id": 681,
+    "id": 503268,
+    "image": "http://images.metmuseum.org/CRDImages/mi/original/C4389 1986.117.jpg",
+    "medium": "Wood, horsehide, cord",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/mi/original/C4389 1986.117.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/239807.jpg"
+    ],
+    "title": "Kotsuzumi",
+    "what": [
+        "Musical instruments",
+        "Membranophones",
+        "Drums",
+        "Cord",
+        "Hourglass drums",
+        "Tsuzumi",
+        "Kotsuzumi"
+    ],
+    "where": [
+        "Asia",
+        "Japan"
+    ]
+}

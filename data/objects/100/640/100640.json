@@ -1,0 +1,124 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/79233"
+            },
+            {
+                "href": "http://scrapi.org/object/79235"
+            },
+            {
+                "href": "http://scrapi.org/object/83283"
+            },
+            {
+                "href": "http://scrapi.org/object/83305"
+            },
+            {
+                "href": "http://scrapi.org/object/83579"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R150_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140407130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/100640"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/100640"
+        }
+    },
+    "accession number": "1976.268a, b",
+    "credit line": "Gift of Mrs. Pierre Schlumberger, 1976",
+    "culture": "French",
+    "date": "early 1970s",
+    "department": "Costume Institute",
+    "dimensions": [
+        "Length (a) 21 in. (53.3 cm)",
+        "Length at CB (b) 24 in. (61 cm)"
+    ],
+    "id": 100640,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/1976.268ab_F.jpg",
+    "medium": "silk, wool",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/1976.268ab_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1976.268a_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1976.268a_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1976.268b_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1976.268b_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1976.268b_label.jpg"
+    ],
+    "title": "Ensemble",
+    "what": [
+        "Silk",
+        "Wool",
+        "Ensembles"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": [
+        "House of Dior",
+        "Marc Bohan"
+    ]
+}

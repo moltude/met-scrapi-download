@@ -1,0 +1,133 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/451280"
+            },
+            {
+                "href": "http://scrapi.org/object/451295"
+            },
+            {
+                "href": "http://scrapi.org/object/457058"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A250_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114353",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world-french?eid=R026_%7b85906EA1-CA66-4610-A52C-39562E1A4C40%7d_20140310133000",
+                "rel": "Arts du monde Islamique (Arts of the Islamic World in French)"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R130_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140310141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A232_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134244",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=ssa",
+                "rel": "South Asia, 1400\u20131600 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=ssa",
+                "rel": "South Asia, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/451281"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/451281"
+        }
+    },
+    "accession number": "55.121.10.34",
+    "credit line": "Purchase, Rogers Fund and The Kevorkian Foundation Gift, 1955",
+    "culture": "Islamic",
+    "date": "recto ca. 1620; verso: 1537\u201347",
+    "department": "Islamic Art",
+    "description": "The inscription in Jahangir\u2019s hand on the inner border of this painting states that it is a portrait of Mulla Muhammad Bijapuri, probably the emissary sent by Ibrahim 'Adil Shah II to ask for assistance from the Mughals against his rival Malik Ambar of Ahmadnagar. Hashim was a Deccani painter specializing portraits who moved to the Mughal court ca. 1620. While his use of strong contours and choice of color palette remained constant, under Jahangir\u2019s direction Hashim\u2019s rendering of facial features evolved dramatically.",
+    "dimensions": [
+        "H. 15 5/16 in. (38.9 cm)",
+        "W. 10 3/16 in. (25.9 cm)"
+    ],
+    "id": 451281,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/DP247726.jpg",
+    "medium": "Ink, opaque watercolor, and gold on paper",
+    "provenance": [
+        "Jack S. Rofe, Scotland (in 1929; sale, Sotheby's London,December 12, 1929, to Kevorkian)",
+        "[ Hagop Kevorkian, New York, 1929\u201355",
+        "gift and sale to MMA]"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/DP247726.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/sf55-121-10-34a.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/181897.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/219281.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP247707.jpg"
+    ],
+    "title": "\"Portrait of Mulla Muhammad Khan Vali of Bijapur\", Folio from the Shah Jahan Album",
+    "what": [
+        "Metal",
+        "Ink",
+        "Paper",
+        "Books",
+        "Gold",
+        "Watercolors",
+        "Albums",
+        "Manuscripts",
+        "Codices"
+    ],
+    "where": [
+        "Asia",
+        "India"
+    ],
+    "who": [
+        "Mir 'Ali Haravi",
+        "Hashim"
+    ]
+}

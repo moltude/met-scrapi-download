@@ -1,0 +1,123 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/470262"
+            },
+            {
+                "href": "http://scrapi.org/object/464016"
+            },
+            {
+                "href": "http://scrapi.org/object/464017"
+            },
+            {
+                "href": "http://scrapi.org/object/464239"
+            },
+            {
+                "href": "http://scrapi.org/object/464237"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 25, 2014",
+                "href": "/exhibitions/listings/2014/canterbury-stained-glass",
+                "rel": "Radiant Light"
+            },
+            {
+                "date": "From August 6, 2013",
+                "href": "/exhibitions/listings/2013/design-motifs-in-byzantine-art",
+                "rel": "Design Motifs in Byzantine Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R105_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140311104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R010_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140311150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R106_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140312104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R011_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140312150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R107_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140313104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R012_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140313150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R108_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140314104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R013_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140314150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/dresssing-the-part?eid=A001_%7b9C4AFFB5-1623-45E3-BE4C-5DFE582A20E6%7d_20140113143427",
+                "rel": "Dressing the Part: Medieval Costumes for Biblical Prophets and Ancestors"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=06\u00aeion=eusb",
+                "rel": "Balkan Peninsula, 500\u20131000 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/470263"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/470263"
+        }
+    },
+    "accession number": "17.190.136d-f",
+    "credit line": "Gift of J. Pierpont Morgan, 1917",
+    "culture": "Byzantine",
+    "date": "10th century",
+    "department": "Medieval Art",
+    "dimensions": [
+        "d 3 1/4 x 1 x 1/16 in. (8.3 x 2.5 x 0.2 cm)",
+        "e 3/16 x 1 x 1/8 in. (0.5 x 2.5 x 0.3 cm)",
+        "f 1/4 x 1 1/8 x 1/8 in. (0.6 x 2.9 x 0.3 cm)"
+    ],
+    "id": 470263,
+    "image": "http://images.metmuseum.org/CRDImages/md/original/sf17-190-136d-fs1.jpg",
+    "medium": "Bone",
+    "provenance": [
+        "J. Pierpont Morgan, London and New York (until 1917)"
+    ],
+    "title": "Casket Fragments",
+    "what": [
+        "Fragments",
+        "Bone",
+        "Ivory",
+        "Caskets"
+    ],
+    "where": [
+        "Asia",
+        "Turkey",
+        "Marmara",
+        "Istanbul"
+    ]
+}

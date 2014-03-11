@@ -1,0 +1,122 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/544703"
+            },
+            {
+                "href": "http://scrapi.org/object/544770"
+            },
+            {
+                "href": "http://scrapi.org/object/559952"
+            },
+            {
+                "href": "http://scrapi.org/object/559953"
+            },
+            {
+                "href": "http://scrapi.org/object/559954"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/teen-programs/saturday-sketching/saturday-sketching-egyptian-art?eid=A001_%7b8698F79D-A7E0-44F1-99CF-57C8A2E2471A%7d_20131211143556",
+                "rel": "Saturday Sketching\u2014Egyptian Art (Ages 11\u201318)"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A151_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113641",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R130_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140310140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=03\u00aeion=afe",
+                "rel": "Egypt, 2000\u20131000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/544517"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/544517"
+        }
+    },
+    "accession number": "30.8.60a, b",
+    "credit line": "Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915",
+    "date": "ca. 1390\u20131352 B.C.",
+    "department": "Egyptian Art",
+    "description": "This painted shabti box is inscribed for Yuya, father of Queen Tiye, the principal wife of Amenhotep III. Although not of royal lineage, as in-laws of the king, Yuya and his wife Tjuyu were given a sumptuous burial in the royal cemetery now known as the Valley of the Kings. The tomb (KV 46) was discovered in 1905 by an American, Theodore M. Davis, who was allowed to keep a few of the finds, the majority of which are in the Egyptian Museum, Cairo.Three shabtis (30.8.56\u2013.58), also inscribed for Yuya, are also in the Museum's collection.",
+    "dimensions": "H. 35.5 cm (14 in); w. 14.5 cm (5 11/16 in)",
+    "gallery-id": 119,
+    "id": 544517,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/30.8.60-DT541.jpg",
+    "medium": "Painted wood",
+    "provenance": [
+        "Theodore M. Davis Excavations by Quibell and Weigall, 1905. Acquired by Davis in the division of finds, 1905. Theodore M. Davis Collection 1905-1015. Bequeathed to the Museum by Davis, 1915",
+        "accessioned, 1930."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/eg/original/30.8.60-DT541.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/DT541.jpg"
+    ],
+    "title": "Shabti box of Yuya",
+    "what": [
+        "Sculpture",
+        "Wood",
+        "Painting",
+        "Boxes",
+        "Shabti"
+    ],
+    "when": "2000-1000 B.C.",
+    "where": [
+        "Africa",
+        "Egypt",
+        "Upper Egypt",
+        "Thebes"
+    ]
+}

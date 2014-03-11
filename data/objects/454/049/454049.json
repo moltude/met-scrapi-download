@@ -1,0 +1,134 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/456967"
+            },
+            {
+                "href": "http://scrapi.org/object/454011"
+            },
+            {
+                "href": "http://scrapi.org/object/456921"
+            },
+            {
+                "href": "http://scrapi.org/object/447091"
+            },
+            {
+                "href": "http://scrapi.org/object/453169"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A232_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134244",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A237_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134557",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/programs-for-visitors-with-disabilities/visitors-who-are-deaf/beauty-and-innovation?eid=A001_%7b77D8F57E-5FC9-4578-8A95-30A43C89CFDD%7d_20140210164006",
+                "rel": "Met Signs Tours in ASL\u2014Beauty and Innovation: Understanding Islamic Art"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A251_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114408",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/mugh_2/hd_mugh_2.htm",
+                "rel": "The Art of the Mughals after 1600"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=ssa",
+                "rel": "South Asia, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/454049"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/454049"
+        }
+    },
+    "accession number": "2001.302",
+    "credit line": "Cynthia Hazen Polsky and Leon B. Polsky Fund, 2001",
+    "culture": "Islamic",
+    "date": "mid-18th century",
+    "department": "Islamic Art",
+    "description": "This scene of leisure typifies the gracious style of later Mughal painting practiced at provincial centers such as Lucknow in the eighteenth century. Here, a prince and his consort smoke a huqqa, attended by ladies in the pleasant surroundings of a walled palace garden. Nidha Mal, a talented artist of the Delhi-based court of Mughal emperor Muhammad Shah (r. 1719\u201348), later moved to Lucknow, where he continued to paint in the refined and naturalistic Delhi style.",
+    "dimensions": "10 5/8 x 7 3/8in. (27 x 18.7cm)",
+    "id": 454049,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/DP246522.jpg",
+    "medium": "Ink, opaque watercolor, and gold on paper",
+    "provenance": [
+        "[ Terence McInerney, 2001",
+        "sold by MMA]"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/DP246522.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/sf2001-302r.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/268840.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/ISL99.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DT4548.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/2001.302.jpg"
+    ],
+    "title": "Prince and Ladies in a Garden",
+    "what": [
+        "Metal",
+        "Ink",
+        "Paper",
+        "Gold",
+        "Watercolors",
+        "Manuscripts",
+        "Codices"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Asia",
+        "India",
+        "Uttar Pradesh",
+        "Lucknow"
+    ],
+    "who": "Nidha Mal"
+}

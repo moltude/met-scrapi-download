@@ -1,0 +1,137 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/437404"
+            },
+            {
+                "href": "http://scrapi.org/object/437408"
+            },
+            {
+                "href": "http://scrapi.org/object/437409"
+            },
+            {
+                "href": "http://scrapi.org/object/437410"
+            },
+            {
+                "href": "http://scrapi.org/object/437411"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/piero-della-francesca",
+                "rel": "Piero della Francesca"
+            },
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "From April 22, 2014",
+                "href": "/exhibitions/listings/2014/goya",
+                "rel": "Goya and the Altamira Family"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/talks/gallery-talks/piero-della-francesca?eid=A001_%7bE50FD455-5FC1-41D0-9391-C456264363EF%7d_20140206160624",
+                "rel": "Exhibition Tour\u2014Piero della Francesca: Personal Encounters"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=A257_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20131127123002",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/monday-at-the-met-spring-2014?eid=R001_%7bBB2BF277-3666-435E-8B95-12CDE21533EA%7d_20140303100000",
+                "rel": "Monday at the Met with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R100_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140303123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R101_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140304123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R102_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140305123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R026_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140306140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R103_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140307123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/talks/the-observant-eye/stepping-out-of-the-frame?eid=A001_%7b438572AD-6B0F-4DA2-94FB-49B8931634C1%7d_20140123142901",
+                "rel": "Stepping Out of the Frame: Three-Dimensionality in the New Galleries for European Paintings"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/saturday-seminar-spring-2014?eid=R001_%7bE063A39F-FC40-4ECC-B690-C4C13F70B2A0%7d_20140308103000",
+                "rel": "Saturday Seminar with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwl",
+                "rel": "Low Countries, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/437406"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/437406"
+        }
+    },
+    "accession number": "14.40.624",
+    "credit line": "Bequest of Benjamin Altman, 1913",
+    "date": "probably ca. 1658\u201362",
+    "department": "European Paintings",
+    "dimensions": "42 3/4 x 34 in. (108.6 x 86.4 cm)",
+    "id": 437406,
+    "image": "http://images.metmuseum.org/CRDImages/ep/original/DP145912.jpg",
+    "medium": "Oil on canvas",
+    "provenance": [
+        "sale, Amsterdam, May 23, 1798, no. 156, for 450 florins to Roos",
+        "marchese d'Vrea, Genoa",
+        "cavaliere Domenico Odone, Genoa and Vienna (by 1857\u2013before 1875; sold through Miethke to Lippmann-Lissingen)",
+        "Joseph Ritter von Lippmann-Lissingen, Vienna (by 1875\u201376; his sale, H\u00f4tel Drouot, Paris, March 16, 1876, no. 35, for Fr 175,000 to Wilson)",
+        "John Waterloo Wilson, Brussels (1876\u2013at least 1886; his sale, Paris, March 14\u201316, 1881, no. 91, for Fr 200,000, bought in)",
+        "Wilbrenninck, The Hague",
+        "[Boussod, Valadon & Cie, Paris]",
+        "Maurice Kann, Paris (by 1901\u2013d. 1906; his estate, 1906\u20139; sold to Duveen)",
+        "[Duveen, Paris, 1909",
+        "sold for $262,980 to Altman]",
+        "Benjamin Altman, New York (1909\u2013d. 1913)"
+    ],
+    "title": "Portrait of a Man (\"The Auctioneer\")",
+    "what": [
+        "Paintings",
+        "Canvas",
+        "Oil paint"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "Netherlands"
+    ],
+    "who": "Rembrandt"
+}

@@ -1,0 +1,109 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/247464"
+            },
+            {
+                "href": "http://scrapi.org/object/248132"
+            },
+            {
+                "href": "http://scrapi.org/object/248112"
+            },
+            {
+                "href": "http://scrapi.org/object/248117"
+            },
+            {
+                "href": "http://scrapi.org/object/248118"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A146_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142808",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R104_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140310123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R105_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140311123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R106_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140313123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R027_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140313130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R107_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140314123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/conversations-with-curators-and-conservators/terracotta-column-krater?eid=A001_%7b1CC4797D-7295-4614-9ACD-19C00BA693F4%7d_20140204162630",
+                "rel": "Conversation with a Curator\u2014Terracotta Column-Krater"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A144_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142257",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A145_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142312",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=05\u00aeion=eust",
+                "rel": "Italian Peninsula, 1\u2013500A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/252887"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/252887"
+        }
+    },
+    "accession number": "26.269",
+    "credit line": "Funds from various donors, 1926",
+    "culture": "Roman",
+    "date": "1st or 2nd century A.D.",
+    "department": "Greek and Roman Art",
+    "description": "Copy of a Greek statue of the last quarter of the 3rd century B.C.In spite of its battered condition, the portrait conveys the personality of a great thinker. There are striking similarities between this head and portraits of Aristotle (384\u2013322 B.C.), the tutor of Alexander the Great and one of the most important intellects of the fourth century B.C., but the identity of this man remains unknown. The existence of a second head of the same type in the National Archaeological Museum in Chieti, Italy, likely indicates that a well-known person is represented.",
+    "dimensions": "H. 12 13/16 in. (32.5 cm)",
+    "gallery-id": 162,
+    "id": 252887,
+    "image": "http://images.metmuseum.org/CRDImages/gr/original/66183.jpg",
+    "medium": "Marble, Pentelic",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/gr/original/66183.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/66182.jpg"
+    ],
+    "title": "Marble head of a philosopher",
+    "what": [
+        "Sculpture",
+        "Stone",
+        "Marble"
+    ],
+    "when": "A.D. 1-500",
+    "where": [
+        "Roman Empire"
+    ]
+}

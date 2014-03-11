@@ -1,0 +1,115 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/460870"
+            },
+            {
+                "href": "http://scrapi.org/object/461330"
+            },
+            {
+                "href": "http://scrapi.org/object/460437"
+            },
+            {
+                "href": "http://scrapi.org/object/461350"
+            },
+            {
+                "href": "http://scrapi.org/object/460999"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R130_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140310134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R131_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140311134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R132_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140312134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R133_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140313134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R134_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140314134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A109_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131126111651",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A115_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131127144444",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A110_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131126111706",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R145_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140331134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/talks/gallery-talks/european-sculpture-in-the-robert-lehman-collection?eid=A001_%7b835B4316-D69F-4E38-A76F-839A55CF6946%7d_20140123112008",
+                "rel": "European Sculpture in the Robert Lehman Collection"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/461111"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/461111"
+        }
+    },
+    "accession number": "1975.1.1362",
+    "credit line": "Robert Lehman Collection, 1975",
+    "date": "model third quarter 16th century (cast late 16th or 17th century)",
+    "department": "Robert Lehman Collection",
+    "dimensions": "Diam. 9.1 cm, wt. 94.54 g.",
+    "id": 461111,
+    "image": "http://images.metmuseum.org/CRDImages/rl/original/1362r.jpg",
+    "medium": "Copper alloy with a light brown patina.",
+    "provenance": [
+        "Not established."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/rl/original/1362r.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/1362v.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/SLP1362v.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/SLP1362r.jpg"
+    ],
+    "title": "Battle Scene",
+    "what": [
+        "Metal",
+        "Sculpture",
+        "Copper alloy",
+        "Copper",
+        "Plaquettes",
+        "Patina"
+    ],
+    "when": "A.D. 1400-1600",
+    "who": [
+        "German",
+        "Unknown North Italian"
+    ]
+}

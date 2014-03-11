@@ -1,0 +1,120 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/135772"
+            },
+            {
+                "href": "http://scrapi.org/object/128443"
+            },
+            {
+                "href": "http://scrapi.org/object/96857"
+            },
+            {
+                "href": "http://scrapi.org/object/96863"
+            },
+            {
+                "href": "http://scrapi.org/object/90881"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R150_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140407130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/96849"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/96849"
+        }
+    },
+    "accession number": "1973.297.4a, b",
+    "credit line": "Gift of Mrs. Murray Graham, 1973",
+    "culture": "American",
+    "date": "1955\u201365",
+    "department": "Costume Institute",
+    "dimensions": "[no dimensions available]",
+    "id": 96849,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/1973.297.4ab_F2.jpg",
+    "medium": "wool",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/1973.297.4ab_F2.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1973.297.4ab_B2.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1973.297.4a_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1973.297.4a_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1973.297.4a_label.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1973.297.4a_label2.jpg"
+    ],
+    "title": "Ensemble",
+    "what": [
+        "Wool",
+        "Ensembles"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": [
+        "James Galanos",
+        "Bonwit Teller & Co."
+    ]
+}

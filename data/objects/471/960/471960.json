@@ -1,0 +1,125 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/469886"
+            },
+            {
+                "href": "http://scrapi.org/object/471130"
+            },
+            {
+                "href": "http://scrapi.org/object/471109"
+            },
+            {
+                "href": "http://scrapi.org/object/475652"
+            },
+            {
+                "href": "http://scrapi.org/object/476710"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 25, 2014",
+                "href": "/exhibitions/listings/2014/canterbury-stained-glass",
+                "rel": "Radiant Light"
+            },
+            {
+                "date": "From August 6, 2013",
+                "href": "/exhibitions/listings/2013/design-motifs-in-byzantine-art",
+                "rel": "Design Motifs in Byzantine Art"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R007_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140307150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/ancestors-of-christ?eid=A001_%7b64F28017-6AB0-4B00-864F-E5676EE07585%7d_20140113142350",
+                "rel": "The Ancestors of Christ: Stained Glass Windows from Canterbury Cathedral"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/ancestors-of-christ?eid=A002_%7b64F28017-6AB0-4B00-864F-E5676EE07585%7d_20140113142402",
+                "rel": "The Ancestors of Christ: Stained Glass Windows from Canterbury Cathedral"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R008_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140309150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R009_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140310150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R105_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140311104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R010_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140311150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R106_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140312104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R011_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140312150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=euwl",
+                "rel": "Low Countries, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/471960"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/471960"
+        }
+    },
+    "accession number": "1972.245.3",
+    "credit line": "The Cloisters Collection, 1972",
+    "culture": "North Netherlandish",
+    "date": "1510\u201320",
+    "department": "The Cloisters",
+    "dimensions": "Overall 8 3/4 in. (22.2 cm)",
+    "gallery-id": 10,
+    "id": 471960,
+    "image": "http://images.metmuseum.org/CRDImages/cl/original/DP241182.jpg",
+    "medium": "Colorless glass, vitreous paint and silver stain",
+    "provenance": [
+        "[ Sibyll Kummer-Rothenh\u00e4usler , Zurich (sold 1972)]"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/cl/original/DP241182.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/cdi1972-245-3.jpg"
+    ],
+    "title": "Roundel with Adoration of the Kings",
+    "what": [
+        "Metal",
+        "Glass",
+        "Silver",
+        "Stained glass",
+        "Roundels"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Netherlands",
+        "Amsterdam"
+    ]
+}

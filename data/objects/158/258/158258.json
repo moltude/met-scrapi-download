@@ -1,0 +1,144 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/83479"
+            },
+            {
+                "href": "http://scrapi.org/object/80741"
+            },
+            {
+                "href": "http://scrapi.org/object/93759"
+            },
+            {
+                "href": "http://scrapi.org/object/82105"
+            },
+            {
+                "href": "http://scrapi.org/object/84700"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R150_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140407130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/wrth/hd_wrth.htm",
+                "rel": "Charles Frederick Worth (1826\u20131895) and The House of Worth"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/cost/hd_cost.htm",
+                "rel": "Costume in The Metropolitan Museum of Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/haut/hd_haut.htm",
+                "rel": "Haute Couture"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/psop/hd_psop.htm",
+                "rel": "Le Colis de Trianon\u2013Versailles and Paris Openings"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/19sil/hd_19sil.htm",
+                "rel": "Nineteenth\u2013Century Silhouette and Support"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/158258"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/158258"
+        }
+    },
+    "accession number": "2009.300.3332",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. Francis Daniel, 1969",
+    "culture": "French",
+    "date": "1918\u201320",
+    "department": "Costume Institute",
+    "description": "The dress is a transitional style from the style of the late teens into the tubular knee-length dresses of the 1920s.  Although it exudes wealth, it is very different from the more traditional styles which had been offered by the House from its inception.  The paillette design is remarkably executed and engaging.Jean-Charles Worth joined the House of Worth around 1910 and became chief designer after World War I when his uncle, Jean-Philippe Worth, retired.  He transitioned the Worth style into a new era of simpler lines and silhouettes with minimal trim indicative of the 1920s and 30s.  He also moved the House into the more practical styles reflecting the decrease in noble patrons.  Jean-Charles retired in 1935, passing the design reins to his nephew, Roger Worth.",
+    "dimensions": "Length at CB 55 in. (139.7 cm)",
+    "id": 158258,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/69.20.1_threequarter_front_CP4.jpg",
+    "medium": "silk, synthetic",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/69.20.1_threequarter_front_CP4.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/69.20.1_back_CP4.jpg"
+    ],
+    "title": "Dinner dress",
+    "what": [
+        "Costume",
+        "Silk",
+        "Dresses"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": [
+        "House of Worth",
+        "Jean-Philippe Worth",
+        "Jean-Charles Worth"
+    ]
+}

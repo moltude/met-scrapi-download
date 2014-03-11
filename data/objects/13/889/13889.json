@@ -1,0 +1,118 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/13647"
+            },
+            {
+                "href": "http://scrapi.org/object/13867"
+            },
+            {
+                "href": "http://scrapi.org/object/13868"
+            },
+            {
+                "href": "http://scrapi.org/object/13869"
+            },
+            {
+                "href": "http://scrapi.org/object/13876"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 18, 2013",
+                "href": "/exhibitions/listings/2013/american-west",
+                "rel": "The American West in Bronze, 1850\u20131925"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/monday-at-the-met-spring-2014?eid=R002_%7bBB2BF277-3666-435E-8B95-12CDE21533EA%7d_20140310100000",
+                "rel": "Monday at the Met with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R104_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140310120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R105_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140311120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R079_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140311134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R106_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140312120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R080_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140312134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R107_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140313120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R081_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140313134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/saturday-seminar-spring-2014?eid=R002_%7bE063A39F-FC40-4ECC-B690-C4C13F70B2A0%7d_20140315103000",
+                "rel": "Saturday Seminar with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/programs-for-visitors-with-disabilities/visitors-with-developmental-and-learning-disabilities/discoveries-westward-bound?eid=A001_%7bE5928C68-7EDB-4853-BA5C-44B6BAEFED3E%7d_20140206162625",
+                "rel": "Discoveries\u2014Westward Bound (Ages 18 and above)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=na",
+                "rel": "The United States and Canada, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/13889"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/13889"
+        }
+    },
+    "accession number": "1973.64",
+    "credit line": "Gift of Mr. and Mrs. Samuel Schwartz, 1973",
+    "culture": "American",
+    "date": "ca. 1845",
+    "department": "American Decorative Arts",
+    "description": "The pieced Stars of Bethlehem appear in three blocks of different sizes. The mid-sized blocks are made into a border. The large central star is surrounded by four smaller stars at the corners. The entire piece is quilted in parallel lines following the outlines of the stars. All of the stars have red centers and concentric rings of diamond-shaped pieces in beige, brown, and light blue printed cottons. The sashing is of a brown printed cotton with colors that are complementary to the colors in the stars. The backing is of plain white woven cotton, and the edge binding is made from the Bashing fabric.",
+    "dimensions": "90 x 89 1/4 in. (228.6 x 226.7 cm)",
+    "id": 13889,
+    "image": "http://images.metmuseum.org/CRDImages/ad/original/TP612.jpg",
+    "medium": "Cotton",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ad/original/TP612.jpg",
+        "http://images.metmuseum.org/CRDImages/ad/original/200581.jpg",
+        "http://images.metmuseum.org/CRDImages/ad/original/ADA2932.jpg"
+    ],
+    "title": "Star of Bethlehem Quilt",
+    "what": [
+        "Textiles",
+        "Cotton",
+        "Bed coverings",
+        "Bedcovers",
+        "Quilts"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "North and Central America",
+        "United States",
+        "New York"
+    ]
+}

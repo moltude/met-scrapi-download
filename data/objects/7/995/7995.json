@@ -1,0 +1,131 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/8391"
+            },
+            {
+                "href": "http://scrapi.org/object/7963"
+            },
+            {
+                "href": "http://scrapi.org/object/2729"
+            },
+            {
+                "href": "http://scrapi.org/object/18205"
+            },
+            {
+                "href": "http://scrapi.org/object/4923"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 18, 2013",
+                "href": "/exhibitions/listings/2013/american-west",
+                "rel": "The American West in Bronze, 1850\u20131925"
+            },
+            {
+                "date": "February 25, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R097_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140225120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "February 25, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R073_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140225134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "February 26, 2014",
+                "href": "/events/programs/talks/gallery-talks/light-in-american-art-hudson-river-school?eid=A003_%7b86B27E91-724D-4796-8075-F3123974AE65%7d_20131016163855",
+                "rel": "Light in American Art: Hudson River School to Abstract Expressionism"
+            },
+            {
+                "date": "February 26, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R098_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140226120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "February 26, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R074_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140226134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "February 27, 2014",
+                "href": "/events/programs/talks/gallery-talks/the-american-west-in-bronze?eid=A001_%7bF8FF67EB-DE74-4A7A-B860-AAB9F09B0E26%7d_20131024112254",
+                "rel": "Exhibition Tour\u2014The American West in Bronze, 1850\u20131925"
+            },
+            {
+                "date": "February 27, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R099_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140227120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "February 27, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R075_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140227134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "March 1, 2014",
+                "href": "/events/programs/tours/american-art-weekend?eid=A180_%7b501B6EDB-D4CC-4402-98B8-688E06337497%7d_20131127140947",
+                "rel": "American Art"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/american-art-weekend?eid=A185_%7b501B6EDB-D4CC-4402-98B8-688E06337497%7d_20131127141222",
+                "rel": "American Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=na",
+                "rel": "The United States and Canada, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/7995"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/7995"
+        }
+    },
+    "accession number": "97.1.3a, b",
+    "credit line": "Gift of a Friend of the Museum, 1897",
+    "culture": "American",
+    "date": "ca. 1888",
+    "department": "American Decorative Arts",
+    "dimensions": [
+        "Overall 3 5/8 x 7 1/2 x 3 3/4 in. (9.2 x 19.1 x 9.5 cm); 15 oz. 14 dwt. (488.4 g)",
+        "Body H. 2 9/16 in. (6.5 cm); 11 oz. 19 dwt. (372 g)",
+        "Cover 1 11/16 x 4 1/2 x 3 1/8 in. (4.3 x 11.4 x 7.9 cm); 3 oz. 15 dwt. (116.4 g)"
+    ],
+    "gallery-id": 706,
+    "id": 7995,
+    "image": "http://images.metmuseum.org/CRDImages/ad/original/DP258818.jpg",
+    "medium": "Silver, silver-gilt, enamel and ivory",
+    "provenance": [
+        "Private Collection, until 1897."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ad/original/DP258818.jpg",
+        "http://images.metmuseum.org/CRDImages/ad/original/DP258819.jpg",
+        "http://images.metmuseum.org/CRDImages/ad/original/DP258822.jpg",
+        "http://images.metmuseum.org/CRDImages/ad/original/241371.jpg"
+    ],
+    "title": "Sugar Bowl",
+    "what": [
+        "Metal",
+        "Silver",
+        "Gilt",
+        "Bone",
+        "Ivory",
+        "Bowls",
+        "Enamels",
+        "Sugar bowls"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "North and Central America",
+        "United States",
+        "New York",
+        "New York City"
+    ],
+    "who": "Tiffany & Co."
+}

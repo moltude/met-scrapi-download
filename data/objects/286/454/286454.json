@@ -1,0 +1,88 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/285744"
+            },
+            {
+                "href": "http://scrapi.org/object/286389"
+            },
+            {
+                "href": "http://scrapi.org/object/286391"
+            },
+            {
+                "href": "http://scrapi.org/object/286419"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/286454"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/286454"
+        }
+    },
+    "accession number": "2005.100.577",
+    "credit line": "Gilman Collection, Purchase, Mrs. Walter Annenberg and The Annenberg Foundation Gift, 2005",
+    "date": "1854",
+    "department": "Photographs",
+    "description": "Having taken lessons from Gustave Le Gray in Paris, this gentleman photographer traveled to Pau, a city in the foothills of the Pyrenees. His now disbound album of photographs of the region tells us very little about the man who signed his negatives W. H. G. except that he was more interested in architecture than in mountains and that he was not yet very practiced in his new hobby. However, on a good day in the historic spa site of Eaux-Bonnes, not far from the Spanish border, he did manage to make a wonderful picture by marrying the rough texture of his paper negative to the shag of a thatched pavilion and the vegetation around it.",
+    "dimensions": [
+        "Image 24.9 x 34.9 cm (9 13/16 x 13 3/4 in.)",
+        "Mount 61.7 x 47.4 cm (24 5/16 x 18 11/16 in.)"
+    ],
+    "id": 286454,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP132064.jpg",
+    "medium": "Salted paper print from paper negative",
+    "provenance": [
+        "(Beaussant & Lef\u00e8vre, Paris, Lot 17, June 1, 1990)",
+        "Gilman Paper Company Collection, New York"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ph/original/DP132064.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP139583.jpg"
+    ],
+    "title": "[Rustic Pavilion at Eaux-Bonnes]",
+    "what": [
+        "Photographs",
+        "Salted paper prints"
+    ],
+    "when": "A.D. 1800-1900",
+    "who": "W. H. Guebhard"
+}

@@ -1,0 +1,141 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/475510"
+            },
+            {
+                "href": "http://scrapi.org/object/469861"
+            },
+            {
+                "href": "http://scrapi.org/object/469858"
+            },
+            {
+                "href": "http://scrapi.org/object/470264"
+            },
+            {
+                "href": "http://scrapi.org/object/475515"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 25, 2014",
+                "href": "/exhibitions/listings/2014/canterbury-stained-glass",
+                "rel": "Radiant Light"
+            },
+            {
+                "date": "From August 6, 2013",
+                "href": "/exhibitions/listings/2013/design-motifs-in-byzantine-art",
+                "rel": "Design Motifs in Byzantine Art"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R008_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140309150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R009_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140310150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R105_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140311104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R010_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140311150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R106_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140312104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R011_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140312150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R107_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140313104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R012_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140313150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R108_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140314104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/jewm/hd_jewm.htm",
+                "rel": "Jews and the Arts in Medieval Europe"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=07\u00aeion=euwc",
+                "rel": "Central Europe (including Germany), 1000\u20131400 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/469869"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/469869"
+        }
+    },
+    "accession number": "1983.125a, b",
+    "credit line": "The Cloisters Collection, 1983",
+    "culture": "German or Bohemian",
+    "date": "1325\u201350",
+    "department": "The Cloisters",
+    "description": "The only known example of its type and date, this double cup is inscribed with the names of the Three Kings--\"Caspar + Melchior + Waltazar\"--and was probably used for traditional toasts associated with Epiphany.  The heraldic devices are unidentified, but one identical to that on the upper section also appears on one of a set of beakers now in the Germanisches Nationalmuseum, Nuremberg.  The beakers in Nuremberg were excavated near the royal residence at Kuttenberg and can be associated with the court of Charles IV at Prague.  The heraldic use of pointed hats strongly suggests that the cup was made for a Jewish patron.  Said to have been excavated with a silver flagon and ewer, now in Stuttgart, The Cloisters double cup may have been hoarded during the anti-Semitic pogroms of 1349.",
+    "dimensions": [
+        "Overall (together) 3 x 4 15/16 x 4 3/16 in. (7.6 x 12.5 x 10.7 cm)",
+        "Bowl only 2 5/16 x 4 15/16 x 4 3/16 in. (5.8 x 12.5 x 10.7 cm)",
+        "Lid only 1 7/16 x 3 3/4 in. (3.6 x 9.5 cm)"
+    ],
+    "gallery-id": 14,
+    "id": 469869,
+    "image": "http://images.metmuseum.org/CRDImages/cl/original/DP132218.jpg",
+    "medium": "Silver, silver gilt, and opaque enamel",
+    "provenance": [
+        "[ Sotheby's, London (March 7, 1983, no. 167)]",
+        "[ Sotheby's, London (sold 1983) ]"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/cl/original/DP132218.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/DP102840.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/DP132219.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/DP132220.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/sf1983-125abd2.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/64T_PRA424DR1.jpg"
+    ],
+    "title": "Double Cup",
+    "what": [
+        "Metal",
+        "Metalwork",
+        "Silver",
+        "Gilt",
+        "Drinking vessels",
+        "Cups",
+        "Enamels"
+    ],
+    "when": "A.D. 1000-1400",
+    "where": [
+        "Europe",
+        "Germany"
+    ]
+}

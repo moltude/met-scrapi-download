@@ -1,0 +1,116 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/79222"
+            },
+            {
+                "href": "http://scrapi.org/object/79263"
+            },
+            {
+                "href": "http://scrapi.org/object/79498"
+            },
+            {
+                "href": "http://scrapi.org/object/79504"
+            },
+            {
+                "href": "http://scrapi.org/object/79506"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R130_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140310130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/158776"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/158776"
+        }
+    },
+    "accession number": "2009.300.37a, b",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. William Randolph Hearst, Jr., 1991",
+    "culture": "French",
+    "date": "fall/winter 1984",
+    "department": "Costume Institute",
+    "description": "Madame Alix Gr\u00e8s' career spanned five decades and throughout them all she excelled in her ability to manipulate fabric and use its innate characteristics to enhance her designs. She executed flowing, body-skimming garments inspired by ancient Greek dress; minimalist, sculptural forms and voluminous, dramatic shapes. In the 1970s, Gr\u00e8s began incorporating elements of regional costume from India into her work with brightly colored, structured taffeta forms. By 1984, she distilled the skirt of her dhoti-like dresses into this sculpltural rhombus. By tightly gathering the taffeta skirt and adding stiffening, she created a form that stands away from the body. The sleeveless bodice with winglike extensions gives the silhouette an almost statue-like appearance, its dramatic presence suggesting the classical figure \"Winged Victory of Samothrace.\"",
+    "dimensions": "Length at CB 62 in. (157.5 cm)",
+    "id": 158776,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/1991.88.2a-b_CP3.jpg",
+    "medium": "silk",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/1991.88.2a-b_CP3.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CTX_OA_H_donor_lender_vendor_Hearst_Mrs_William_Randolph_Augustine_3+of+3_1991.88.2c_sketch_bw.jpg"
+    ],
+    "title": "Evening dress",
+    "what": [
+        "Costume",
+        "Silk",
+        "Dresses",
+        "Evening dresses"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Madame Gr\u00e8s (Alix Barton)"
+}

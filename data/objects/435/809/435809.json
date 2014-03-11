@@ -1,0 +1,167 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/338696"
+            },
+            {
+                "href": "http://scrapi.org/object/338697"
+            },
+            {
+                "href": "http://scrapi.org/object/338694"
+            },
+            {
+                "href": "http://scrapi.org/object/338698"
+            },
+            {
+                "href": "http://scrapi.org/object/338699"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/piero-della-francesca",
+                "rel": "Piero della Francesca"
+            },
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "From April 22, 2014",
+                "href": "/exhibitions/listings/2014/goya",
+                "rel": "Goya and the Altamira Family"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/talks/gallery-talks/piero-della-francesca?eid=A001_%7bE50FD455-5FC1-41D0-9391-C456264363EF%7d_20140206160624",
+                "rel": "Exhibition Tour\u2014Piero della Francesca: Personal Encounters"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=A257_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20131127123002",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/monday-at-the-met-spring-2014?eid=R001_%7bBB2BF277-3666-435E-8B95-12CDE21533EA%7d_20140303100000",
+                "rel": "Monday at the Met with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R100_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140303123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R101_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140304123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R102_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140305123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R026_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140306140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R103_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140307123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/talks/the-observant-eye/stepping-out-of-the-frame?eid=A001_%7b438572AD-6B0F-4DA2-94FB-49B8931634C1%7d_20140123142901",
+                "rel": "Stepping Out of the Frame: Three-Dimensionality in the New Galleries for European Paintings"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/saturday-seminar-spring-2014?eid=R001_%7bE063A39F-FC40-4ECC-B690-C4C13F70B2A0%7d_20140308103000",
+                "rel": "Saturday Seminar with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/enet/hd_enet.htm",
+                "rel": "Early Netherlandish Painting"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/gnrn/hd_gnrn.htm",
+                "rel": "Genre Painting in Northern Europe"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/optg/hd_optg.htm",
+                "rel": "Painting in Oil in the Low Countries and Its Spread to Southern Europe"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/brue/hd_brue.htm",
+                "rel": "Pieter Bruegel the Elder (ca. 1525/30\u20131569)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/rupr/hd_rupr.htm",
+                "rel": "Prague during the Rule of Rudolph II (1583\u20131612)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/habs/hd_habs.htm",
+                "rel": "The Holy Roman Empire and the Habsburgs, 1400\u20131600"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=euwl",
+                "rel": "Low Countries, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/435809"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/435809"
+        }
+    },
+    "accession number": "19.164",
+    "credit line": "Rogers Fund, 1919",
+    "date": "1565",
+    "department": "European Paintings",
+    "dimensions": "Overall, including added strips at top, bottom, and right, 46 7/8 x 63 3/4 in. (119 x 162 cm); original painted surface 45 7/8 x 62 7/8 in. (116.5 x 159.5 cm)",
+    "gallery-id": 642,
+    "id": 435809,
+    "image": "http://images.metmuseum.org/CRDImages/ep/original/DP119115.jpg",
+    "medium": "Oil on wood",
+    "provenance": [
+        "Niclaes Jongelinck, Antwerp (by 1566)",
+        "[Hane von Wijke, Antwerp, until 1594",
+        "sold for fl 1,400 to Antwerp City Council as a gift for Archduke Ernst]",
+        "Archduke Ernst, governor of the Netherlands, Brussels (1594\u2013d. 1595; inv., 1595, nos. 7\u201312, listed as \"Sechs Taffell, von 12 Monathenn des Jars von Bruegel\")",
+        "Emperor Rudolph II, Prague (until d. 1612)",
+        "Archduke Leopold Wilhelm, governor of the Netherlands, Brussels and Vienna (until d. 1662; inv., 1659, nos. 582\u201386, \"F\u00fcnff grosse Stuckh einer Grossen, warin die Zeithen desz Jahrs von \u00d6hlfarb auf Holcz . . . Original vom alten Br\u00f6gel\")",
+        "Emperor Leopold I, Vienna (1662\u2013d. 1705)",
+        "Imperial collection, Vienna (until 1809)",
+        "comte Antoine-Fran\u00e7ois Andr\u00e9ossy, Vienna and Paris (1809\u201316; his sale, P\u00e9rignon, Paris, March 11, 1816, no. 1, as \"Par un ma\u00eetre de l'ancienne \u00c9cole allemande . . . Un paysage du plus grand d\u00e9tail, offrant les travaux de la moisson . . . L. 58 p[ouces]., h. 44 p[ouces]. . . . Avec la date de 1546,\" for Fr 90.11)",
+        "Jacques Doucet, Paris (until shortly before 1912; sold to Cels)",
+        "Paul Jean Cels, Brussels (until 1919; sold to MMA)"
+    ],
+    "title": "The Harvesters",
+    "what": [
+        "Paintings",
+        "Oil paint"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Netherlands"
+    ],
+    "who": "Pieter Bruegel the Elder"
+}

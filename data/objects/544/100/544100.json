@@ -1,0 +1,125 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/543900"
+            },
+            {
+                "href": "http://scrapi.org/object/544446"
+            },
+            {
+                "href": "http://scrapi.org/object/544447"
+            },
+            {
+                "href": "http://scrapi.org/object/544448"
+            },
+            {
+                "href": "http://scrapi.org/object/544449"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R130_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140310140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A145_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113221",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/talks/gallery-talks/egyptian-sculpture?eid=A002_%7b09B70F74-B68F-4731-A787-D861CCC990BA%7d_20140123144040",
+                "rel": "Egyptian Sculpture"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=04\u00aeion=afe",
+                "rel": "Egypt, 1000 B.C.\u20131 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=05\u00aeion=afe",
+                "rel": "Egypt, 1\u2013500A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/544100"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/544100"
+        }
+    },
+    "accession number": "1992.13",
+    "credit line": "Purchase, The Bernard and Audrey Aronson Charitable Trust Gift, in memory of her beloved husband, Bernard Arnonson, 1992",
+    "date": "Late 1st century B.C. \u2013 early 1st century A.D.",
+    "department": "Egyptian Art",
+    "description": "This sculpture is a fine interpretation of the crocodile's physical peculiarities. The horny back contrasts expressively with the fleshy folds around the neck and eyes. The tense posture of the plump legs suggests the weight of the beast.",
+    "dimensions": "h. 29 cm (11 7/16 in); l. 108 cm (42 1/2 in); w. 37.1 cm (14 5/8 in);  weight 124.7 kg (275 lb)",
+    "gallery-id": 131,
+    "id": 544100,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/DT6836.jpg",
+    "medium": "Granite",
+    "provenance": [
+        "Purchased from Jasper Gaunt and Robert Hecht, New York, 1992. Published in BMMA Fall 1992 and subsequently, continuously exhibited."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/eg/original/DT6836.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/DT6837.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/1992.13_top.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/1992.13_02.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/1992.13_03.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/1992.13_04.jpg"
+    ],
+    "title": "Crocodile statue",
+    "what": [
+        "Sculpture",
+        "Statues",
+        "Granite"
+    ],
+    "where": [
+        "Africa",
+        "Egypt"
+    ]
+}

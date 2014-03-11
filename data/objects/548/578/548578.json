@@ -1,0 +1,124 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/544568"
+            },
+            {
+                "href": "http://scrapi.org/object/544596"
+            },
+            {
+                "href": "http://scrapi.org/object/544597"
+            },
+            {
+                "href": "http://scrapi.org/object/557764"
+            },
+            {
+                "href": "http://scrapi.org/object/557802"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A145_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113221",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/talks/gallery-talks/egyptian-sculpture?eid=A002_%7b09B70F74-B68F-4731-A787-D861CCC990BA%7d_20140123144040",
+                "rel": "Egyptian Sculpture"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/cleopatra-welcome-and-introduction?eid=A001_%7bCE6C92F7-59C2-4721-A363-E48BE5CF7EBF%7d_20140226151517",
+                "rel": "Welcome and Introduction"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=03\u00aeion=afe",
+                "rel": "Egypt, 2000\u20131000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/548578"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/548578"
+        }
+    },
+    "accession number": "15.5.19e, l\u2013m",
+    "credit line": "Rogers Fund, 1915",
+    "date": "ca. 1400\u20131390 B.C.",
+    "department": "Egyptian Art",
+    "description": "This facsimile painting copies an entire wall in the tomb of Nakht (TT 52) at Thebes. The wall has been split into two registers with Nakht and his wife, Tawy, seated at the left in both.  At the right side of the upper register, Nakht and his family are shown twice: hunting birds (at the left) and fishing (at the right). The upper half of the bottom register shows the process of making wine and the lower half shows birds being caught in a clap-net and then prepared for storage in jars.The facsimile was painted at the tomb, probably around 1909-1910, by Norman deGaris Davies, director of the Graphic Section of the Museum's Egyptian Expedition.",
+    "dimensions": [
+        "Facsimile H. 200 cm (78 3/4 in); w. 153 cm (60 1/4 in)",
+        "scale 11",
+        "framed h. 194.3 cm (76 1/2 in); w. 203.8 cm (80 1/4 in); th. 3.2 cm (1 1/4 in)"
+    ],
+    "gallery-id": 135,
+    "id": 548578,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/DT12059.jpg",
+    "medium": "Tempera on paper",
+    "provenance": [
+        "Painted at Qurna by Norman de Garis Davies, Lancelot Crane, and Francis Unwin for the Egyptian Expedition of the Metropolitan Museum of Art before 1915."
+    ],
+    "title": "Nakht and Family Fishing and Fowling, Tomb of Nakht",
+    "what": [
+        "Paper",
+        "Tempera",
+        "Facsimiles"
+    ],
+    "when": "2000-1000 B.C.",
+    "where": [
+        "Africa",
+        "Egypt",
+        "Upper Egypt",
+        "Thebes"
+    ],
+    "who": [
+        "Norman de Garis Davies",
+        "Lancelot Crane",
+        "Francis Unwin"
+    ]
+}

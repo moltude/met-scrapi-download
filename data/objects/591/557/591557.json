@@ -1,0 +1,106 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/547951"
+            },
+            {
+                "href": "http://scrapi.org/object/547768"
+            },
+            {
+                "href": "http://scrapi.org/object/547856"
+            },
+            {
+                "href": "http://scrapi.org/object/547857"
+            },
+            {
+                "href": "http://scrapi.org/object/547858"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A151_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113641",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R130_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140310140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A145_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113221",
+                "rel": "Arts of Ancient Egypt"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/591557"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/591557"
+        }
+    },
+    "accession number": "2013.438",
+    "credit line": "Director's Fund, 2013",
+    "date": "54\u201368",
+    "department": "Egyptian Art",
+    "description": "This young woman is revealed frankly in direct white light, her tiny, elaborate curls and gay light-blue mantle striking a somewhat discordant note with her somber eyes and large, strong face. In her ears she wears ball earrings and around her neck, a double-wound chain from which hangs a small golden figure that appears to be Greco-Roman rather than pharaonic Egyptian in style. The texture of the encaustic medium, worked with brushes and tools, reveals the artist\u2019s careful shaping of the curves and dimensionality of the face.A date for this panel in the mid-first century a.d. is indicated by the sitter\u2019s hairstyle\u2014modeled on that of the Emperor Nero\u2019s mother, Agrippina\u2014as well as other features of the painting. The work belongs to the first generation of painted panel portraits, which only emerged as an Egyptian funerary style just before the mid-first century a.d., to continue for only approximately two hundred years.",
+    "dimensions": "H 38 x W 22.3 cm (15 x 8.8 inches)",
+    "gallery-id": 137,
+    "id": 591557,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/DP310140.jpg",
+    "medium": "encaustic on wood",
+    "provenance": [
+        "Purchased 1968 by Uwe Schnell from Heinz Herzer Gallery, Munich. Purchased 1972 by the owner of the Tamerit Collection. Purchased by the Museum from Pierre Berg\u00e9 & Associ\u00e9s, Paris, 2013."
+    ],
+    "title": "Panel painting of a woman in a blue mantle",
+    "what": [
+        "Paintings",
+        "Wood",
+        "Panels",
+        "Encaustic painting",
+        "Panel paintings"
+    ],
+    "when": "A.D. 1-500"
+}

@@ -1,0 +1,144 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/39487"
+            },
+            {
+                "href": "http://scrapi.org/object/45206"
+            },
+            {
+                "href": "http://scrapi.org/object/45207"
+            },
+            {
+                "href": "http://scrapi.org/object/45374"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 8, 2014",
+                "href": "/exhibitions/listings/2014/tibet-and-india",
+                "rel": "Tibet and India"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/chinese-carving",
+                "rel": "Colors of the Universe"
+            },
+            {
+                "date": "From July 19, 2013",
+                "href": "/exhibitions/listings/2013/chinese-snuff-bottles",
+                "rel": "Small Delights"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/ink-art",
+                "rel": "Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "From February 1, 2014",
+                "href": "/exhibitions/listings/2014/edo-period-painting",
+                "rel": "The Flowering of Edo Period Painting"
+            },
+            {
+                "date": "From April 14, 2014",
+                "href": "/exhibitions/listings/2014/lost-kingdoms",
+                "rel": "Lost Kingdoms"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/highlights-of-asia?eid=A041_%7b93924202-8616-42E2-8DA1-39A4591F1426%7d_20140122180137",
+                "rel": "Highlights of Asia"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R100_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140303111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R100_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140303131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R101_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140304111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R101_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140304120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R101_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140304131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/talks/gallery-talks/the-flowering-of-edo-period-painting-spring?eid=A001_%7bB9065A06-A3F9-4CAB-8F49-ED3038F1E7A2%7d_20140205171419",
+                "rel": "Exhibition Tour\u2014The Flowering of Edo Period Painting: Japanese Masterworks from the Feinberg Collection"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=A092_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20131018142423",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R102_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140305120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R102_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140305131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=eaj",
+                "rel": "Japan, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/60786"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/60786"
+        }
+    },
+    "accession number": "2001.385",
+    "credit line": "Purchase, Friends of Asian Art Gifts, in honor of Douglas Dillon, 2001",
+    "culture": "Japan",
+    "date": "mid-16th century",
+    "department": "Asian Art",
+    "description": "A great titmouse is about to alight on a branch of pomegranate in bloom. The use of bright green and orange-red pigments was characteristic of Kano artists inspired by Chinese-style bird-and-flower paintings of the Ming dynasty. The painting was part of a set, perhaps once mounted on a small screen. Seals reading \u201cM\u014d -in,\u201d associated with the artist Kano Yukinobu, are impressed at the left. The work is mounted in a fashion typical for Ming bird-and-flower paintings, with an ornate textile border above and below the painting. A more subtle figured silk, also in Ming style, forms the main part of the mounting.",
+    "dimensions": [
+        "18 3/8 x 15 3/4 in. (46.7 x 40 cm)",
+        "Overall with mounting 52 5/8 x 20 3/8 in. (133.7 x 51.8 cm)"
+    ],
+    "id": 60786,
+    "image": "http://images.metmuseum.org/CRDImages/as/original/ASA344.jpg",
+    "medium": "Hanging scroll; ink and color on paper",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/as/original/ASA344.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/2001_385_d2.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/2001_385_O.jpg"
+    ],
+    "title": "Titmouse with Pomegranate Flowers",
+    "what": [
+        "Ink",
+        "Paper",
+        "Paintings",
+        "Scroll paintings",
+        "Scrolls",
+        "Hanging scrolls"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Asia",
+        "Japan"
+    ],
+    "who": "Kano Yukinobu"
+}

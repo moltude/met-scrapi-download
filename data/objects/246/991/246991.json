@@ -1,0 +1,107 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/251838"
+            },
+            {
+                "href": "http://scrapi.org/object/247994"
+            },
+            {
+                "href": "http://scrapi.org/object/254925"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A146_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142808",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R104_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140310123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R105_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140311123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R106_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140313123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R027_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140313130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R107_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140314123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/conversations-with-curators-and-conservators/terracotta-column-krater?eid=A001_%7b1CC4797D-7295-4614-9ACD-19C00BA693F4%7d_20140204162630",
+                "rel": "Conversation with a Curator\u2014Terracotta Column-Krater"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A144_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142257",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A145_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142312",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=05\u00aeion=eust",
+                "rel": "Italian Peninsula, 1\u2013500A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/246991"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/246991"
+        }
+    },
+    "accession number": "03.12.8a",
+    "credit line": "Gift of Mrs. Frederick F. Thompson, 1903",
+    "culture": "Roman",
+    "date": "1st\u20132nd century A.D.",
+    "department": "Greek and Roman Art",
+    "description": "Copy of a Greek bronze statue of ca. 430 B.C. by PolykleitosThe statue of the Diadoumenos by Polykleitos was extremely popular during the Roman period. Its beauty and fame are mentioned three times in ancient literature and over twenty-five full-size model copies are known. This copy was owned by the Marchese Vincenzo Giustiniani of Rome who, during the first third of the seventeenth century, formed one of the earliest European collections of ancient art. Scholars had not yet identified this statue type as the Polykleitan Diadoumenos, and an incorrect head and arms were added to complete the figure. These have since been removed.",
+    "dimensions": "H. without plinth 67 1/4 in. (170.8 cm)",
+    "gallery-id": 153,
+    "id": 246991,
+    "image": "http://images.metmuseum.org/CRDImages/gr/original/DP154333.jpg",
+    "medium": "Marble",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/gr/original/DP154333.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP154327.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP154325.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP154324.jpg"
+    ],
+    "title": "Marble statue of the Diadoumenos (youth tying a fillet around his head)",
+    "what": [
+        "Sculpture",
+        "Stone",
+        "Statues",
+        "Marble"
+    ],
+    "when": "A.D. 1-500",
+    "where": [
+        "Roman Empire"
+    ],
+    "who": "Polykleitos"
+}

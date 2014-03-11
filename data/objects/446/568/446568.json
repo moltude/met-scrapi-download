@@ -1,0 +1,128 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/453895"
+            },
+            {
+                "href": "http://scrapi.org/object/452750"
+            },
+            {
+                "href": "http://scrapi.org/object/452763"
+            },
+            {
+                "href": "http://scrapi.org/object/452765"
+            },
+            {
+                "href": "http://scrapi.org/object/452766"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A232_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134244",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A237_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134557",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/programs-for-visitors-with-disabilities/visitors-who-are-deaf/beauty-and-innovation?eid=A001_%7b77D8F57E-5FC9-4578-8A95-30A43C89CFDD%7d_20140210164006",
+                "rel": "Met Signs Tours in ASL\u2014Beauty and Innovation: Understanding Islamic Art"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A251_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114408",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=wai",
+                "rel": "Iran, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/446568"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/446568"
+        }
+    },
+    "accession number": "13.228.34",
+    "credit line": "Gift of Alexander Smith Cochran, 1913",
+    "culture": "Islamic",
+    "date": "mid-17th century",
+    "department": "Islamic Art",
+    "description": "In the mid-seventeenth century, followers of the famous Riza-yi 'Abbasi continued his practice of producing drawings of single figures in a landscape for inclusion in albums. The jutting rocks, heavily drawn leafy plants, and delicate quality of line differ from Riza\u2019s lighter, more subtle draftsmanship. This figure portrayed fingering his prayer beads may be a sufi, or mystic, or may simply be reciting prayers or the ninety-nine names of God.",
+    "dimensions": [
+        "H. 4 1/2 in. (11.4 cm)",
+        "W. 1 5/8 in. (4.1 cm)"
+    ],
+    "gallery-id": 462,
+    "id": 446568,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/sf13-228-34d.jpg",
+    "medium": "Ink, transparent and opaque watercolor, and gold on paper",
+    "provenance": [
+        "Alexander Smith Cochran, Yonkers, NY (until 1913; gifted to MMA)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/sf13-228-34d.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/30658.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/sf13-228-34r.jpg"
+    ],
+    "title": "Man with Prayer Beads",
+    "what": [
+        "Metal",
+        "Ink",
+        "Paper",
+        "Gold",
+        "Watercolors",
+        "Manuscripts",
+        "Codices"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Asia",
+        "Iran",
+        "Isfahan"
+    ],
+    "who": "Muhammad `Ali"
+}

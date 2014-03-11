@@ -1,0 +1,92 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/338446"
+            },
+            {
+                "href": "http://scrapi.org/object/338447"
+            },
+            {
+                "href": "http://scrapi.org/object/356741"
+            },
+            {
+                "href": "http://scrapi.org/object/356742"
+            },
+            {
+                "href": "http://scrapi.org/object/357116"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/368602"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/368602"
+        }
+    },
+    "accession number": "29.16.20",
+    "credit line": "Harris Brisbane Dick Fund, 1929",
+    "date": "1480\u201390",
+    "department": "Drawings and Prints",
+    "description": "This print is part of a series comprised of twenty-four Prophets and twelve Sibyls, modeled after the series of the same subject by Baccio Baldini (TIB 2403.052-.089).  Rosselli's engravings are executed in the Broad Manner and Italianate in style, whereas Baldini's are in the Fine Manner and mostly Germanic in style.  Rosselli's prints vary from faithful ciopies of Baldini's prints to loose adapations. This print is copied from Baccio Baldini's Prophet Daniel (TIB. 2403.064).",
+    "dimensions": [
+        "Sheet 11 1/2 \u00d7 7 7/8 in. (29.2 \u00d7 20 cm)",
+        "Plate 7 \u00d7 4 1/4 in. (17.8 \u00d7 10.8 cm)"
+    ],
+    "id": 368602,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP835440.jpg",
+    "medium": "Engraving",
+    "provenance": [
+        "Vendor: Kennedy & Co."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP835440.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/MM91868.jpg"
+    ],
+    "title": "The Prophet Daniel, from Prophets and Sibyls",
+    "what": [
+        "Prints",
+        "Engraving"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": [
+        "Francesco Rosselli",
+        "Baccio Baldini"
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/547023"
+            },
+            {
+                "href": "http://scrapi.org/object/544284"
+            },
+            {
+                "href": "http://scrapi.org/object/544286"
+            },
+            {
+                "href": "http://scrapi.org/object/546292"
+            },
+            {
+                "href": "http://scrapi.org/object/559960"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A145_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113221",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/talks/gallery-talks/egyptian-sculpture?eid=A002_%7b09B70F74-B68F-4731-A787-D861CCC990BA%7d_20140123144040",
+                "rel": "Egyptian Sculpture"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/cleopatra-welcome-and-introduction?eid=A001_%7bCE6C92F7-59C2-4721-A363-E48BE5CF7EBF%7d_20140226151517",
+                "rel": "Welcome and Introduction"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=03\u00aeion=afe",
+                "rel": "Egypt, 2000\u20131000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/559959"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/559959"
+        }
+    },
+    "accession number": "30.8.14",
+    "credit line": "Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915",
+    "date": "ca. 1473\u20131458 B.C.",
+    "department": "Egyptian Art",
+    "description": "This gold-covered knot was among the objects discovered in a foundation deposit in front of the tomb of Hatshepsut (KV 20) in the Valley of the Kings. Foundation deposits often contained magical implements and amulets intended to protect building or tomb that they marked. For more information on this deposit, see 30.8.6.",
+    "dimensions": "L. 7.5 cm (2 15/16 in)",
+    "gallery-id": 116,
+    "id": 559959,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/30.8.14_view.2.jpg",
+    "medium": "Wood, gold leaf",
+    "provenance": [
+        "Theodore M. Davis excavations by Carter, 1903-1904. Acquired by Davis in the division of finds, 1903. Bequeathed to the Museum by Davis, 1915",
+        "accessioned 1930."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/eg/original/30.8.14_view.2.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/30.8.14_view.1.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/30.8.6.etc.jpg"
+    ],
+    "title": "Model Knot from the Foundation Deposit for Hatshepsut's Tomb",
+    "what": [
+        "Metal",
+        "Gold",
+        "Wood",
+        "Models",
+        "Gold leaf"
+    ],
+    "when": "2000-1000 B.C.",
+    "where": [
+        "Africa",
+        "Egypt",
+        "Upper Egypt",
+        "Thebes"
+    ]
+}

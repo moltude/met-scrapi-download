@@ -1,0 +1,126 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/449098"
+            },
+            {
+                "href": "http://scrapi.org/object/449149"
+            },
+            {
+                "href": "http://scrapi.org/object/449150"
+            },
+            {
+                "href": "http://scrapi.org/object/449862"
+            },
+            {
+                "href": "http://scrapi.org/object/450112"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R129_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140307141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A249_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114331",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A250_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114353",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world-french?eid=R026_%7b85906EA1-CA66-4610-A52C-39562E1A4C40%7d_20140310133000",
+                "rel": "Arts du monde Islamique (Arts of the Islamic World in French)"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R130_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140310141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=06\u00aeion=wai",
+                "rel": "Iran, 500\u20131000 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/450116"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/450116"
+        }
+    },
+    "accession number": "40.170.443",
+    "credit line": "Rogers Fund, 1940",
+    "culture": "Islamic",
+    "date": "10th century",
+    "department": "Islamic Art",
+    "description": "In 1935, a team of archaeologists from the Metropolitan Museum began excavating a mound known as Sabz Pushan (the Green-Covered), located near the city of Nishapur. The excavation uncovered part of a tenth-century residential neighborhood with several units richly decorated in carved and painted stucco. This panel was assembled from fragments of carved stucco found on the floor of one of these units, having crumbled off a nearby wall where they originally formed a long dado. The panel\u2019s main decoration consists of a band of eight-point stars, each filled with a slightly different cluster of vegetal motifs. In the very center is a peculiar ornament consisting of a half-palmette leaf from which a motif emerges that could be interpreted as a bird\u2019s head. Such playfulness is common in the architectural ornament of Nishapur, where vines are animated with eyes and hands (40.170.176), and letters on inscription bands sprout leaves (40.170.442).",
+    "dimensions": [
+        "H. 36 1/2 in. (92.7 cm)",
+        "W. 107 in. (271.8 cm)",
+        "Frame D. 2 1/2 in. (6.4 cm)",
+        "Frame D. with tabs 2 3/4 in. (7 cm)",
+        "Wt. 425 lbs. (192.8 kg)"
+    ],
+    "gallery-id": 452,
+    "id": 450116,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/DP250976.jpg",
+    "medium": "Stucco; carved, with some cast plaster elements",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/DP250976.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-40.170.443.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-40.170.443b.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-40.170.443c.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-40.170.443d.JPG"
+    ],
+    "title": "Dado Panel",
+    "what": [
+        "Panels",
+        "Plaster",
+        "Stucco"
+    ],
+    "when": "A.D. 500-1000",
+    "where": [
+        "Asia",
+        "Iran",
+        "Khurasan",
+        "Nishapur"
+    ]
+}

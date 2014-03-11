@@ -1,0 +1,157 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/438857"
+            },
+            {
+                "href": "http://scrapi.org/object/438817"
+            },
+            {
+                "href": "http://scrapi.org/object/436138"
+            },
+            {
+                "href": "http://scrapi.org/object/436140"
+            },
+            {
+                "href": "http://scrapi.org/object/436144"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/piero-della-francesca",
+                "rel": "Piero della Francesca"
+            },
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "From April 22, 2014",
+                "href": "/exhibitions/listings/2014/goya",
+                "rel": "Goya and the Altamira Family"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/talks/gallery-talks/piero-della-francesca?eid=A001_%7bE50FD455-5FC1-41D0-9391-C456264363EF%7d_20140206160624",
+                "rel": "Exhibition Tour\u2014Piero della Francesca: Personal Encounters"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=A257_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20131127123002",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/monday-at-the-met-spring-2014?eid=R001_%7bBB2BF277-3666-435E-8B95-12CDE21533EA%7d_20140303100000",
+                "rel": "Monday at the Met with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R100_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140303123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R101_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140304123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R102_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140305123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R026_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140306140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R103_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140307123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/talks/the-observant-eye/stepping-out-of-the-frame?eid=A001_%7b438572AD-6B0F-4DA2-94FB-49B8931634C1%7d_20140123142901",
+                "rel": "Stepping Out of the Frame: Three-Dimensionality in the New Galleries for European Paintings"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/saturday-seminar-spring-2014?eid=R001_%7bE063A39F-FC40-4ECC-B690-C4C13F70B2A0%7d_20140308103000",
+                "rel": "Saturday Seminar with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/dgsp/hd_dgsp.htm",
+                "rel": "Edgar Degas (1834\u20131917): Painting and Drawing"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwf",
+                "rel": "France, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/436123"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/436123"
+        }
+    },
+    "accession number": "29.100.552",
+    "credit line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+    "date": "1871",
+    "department": "European Paintings",
+    "dimensions": "26 x 21 3/8 in. (66 x 54.3 cm)",
+    "gallery-id": 815,
+    "id": 436123,
+    "image": "http://images.metmuseum.org/CRDImages/ep/original/DT1911.jpg",
+    "medium": "Oil on canvas",
+    "provenance": [
+        "[Durand-Ruel, Paris, 1872\u201374",
+        "stock no. 978",
+        "bought from the artist in January 1872 for Fr 1,500",
+        "sold on March 5 or 6, 1874, for Fr 1,500 to Faure for Degas]",
+        "the artist, Edgar Degas, Paris (1874\u201385; sold on August 20, 1885, for Fr 800 to Durand-Ruel)",
+        "[Durand-Ruel, Paris, 1885",
+        "stock no. 732",
+        "sold on November 10, 1885, for Fr 3,000 to Rouart]",
+        "Rouart, Paris (1885; sold on December 31, 1885, for Fr 3,000 to Durand-Ruel)",
+        "[Durand-Ruel, Paris, 1885\u201387",
+        "deposited with Robertson, December 24, 1885\u2013January 11, 1886",
+        "sold on February 14, 1887, for Fr 2,500 to Faure]",
+        "Jean-Baptiste Faure, Paris (1887\u201394; sold on March 31, 1894, for Fr 10,000 to Durand-Ruel)",
+        "[Durand-Ruel, Paris, 1894",
+        "stock no. 2981 as \"Le ballet de Guillaume Tell\"",
+        "sold on October 4, 1894, for Fr 10,000 to Durand-Ruel, New York]",
+        "[Durand-Ruel, New York, 1894\u201398",
+        "stock no. 1205 as \"Robert le Diable\"",
+        "sold on February 14, 1898, for $4,000 to Havemeyer]",
+        "Mr. and Mrs. H. O. Havemeyer, New York (1898\u2013his d. 1907)",
+        "Mrs. H. O. (Louisine W.) Havemeyer, New York (1907\u2013d. 1929; cat., 1931, pp. 106\u20137, ill.)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ep/original/DT1911.jpg",
+        "http://images.metmuseum.org/CRDImages/ep/original/2264.jpg"
+    ],
+    "title": "The Ballet from \"Robert le Diable\"",
+    "what": [
+        "Paintings",
+        "Canvas",
+        "Oil paint"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Edgar Degas"
+}

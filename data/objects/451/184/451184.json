@@ -1,0 +1,132 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/447526"
+            },
+            {
+                "href": "http://scrapi.org/object/447530"
+            },
+            {
+                "href": "http://scrapi.org/object/447534"
+            },
+            {
+                "href": "http://scrapi.org/object/447583"
+            },
+            {
+                "href": "http://scrapi.org/object/445994"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A249_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114331",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A250_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114353",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world-french?eid=R026_%7b85906EA1-CA66-4610-A52C-39562E1A4C40%7d_20140310133000",
+                "rel": "Arts du monde Islamique (Arts of the Islamic World in French)"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R130_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140310141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=wai",
+                "rel": "Iran, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/451184"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/451184"
+        }
+    },
+    "accession number": "53.214",
+    "credit line": "Gift of Ralph Dudley, 1953",
+    "culture": "Islamic",
+    "date": "17th century",
+    "department": "Islamic Art",
+    "description": "This type of carpet is characterized by a weft structure with four plies and a dense knot count, which explain the tightness and heaviness of the rug. Common Persian motifs are usually knotted in a rich palette with two to three different tones per color. Starting from the center, cloudbands, peonies, lotuses, and other flowers develop in spiral-like movements and are arranged following vertical and horizontal symmetrical axes. Contrasting ground colors\u2014rich red and dark blue\u2014accentuate the vibrancy of the rug and help distinguishing the border from the field.",
+    "dimensions": "L. 97.5 x W. 56.25 in. (247.65 x 142.87 cm)",
+    "id": 451184,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/DP310084.jpg",
+    "medium": "Cotton (warp and weft), wool (pile); asymmetrically knotted pile",
+    "provenance": [
+        "Vitall and Leopold Benguiat, New York (until 1925; their sale, American Art Galleries,New York, December 5, 1925, no. 49, to Walters)",
+        "Henry Walters, Baltimore (1925\u2013d. 1931)",
+        "his wife, Sarah Green Walters, Baltimore (1931\u201341; her sale, Park-Bernet Galleries, New York,May 3, 1941, no. 1327, to Dudley)",
+        "Ralph Dudley, New York (1941\u201353; gifted to MMA)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/DP310084.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/156782.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-53.214.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-53.214b.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-53.214c.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-53.214d.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-53.214e.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-53.214g.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-53.214g.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/wb-53.214h.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/DP310085.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP310086.jpg"
+    ],
+    "title": "\"Floral and Cloudband\" Carpet",
+    "what": [
+        "Textiles",
+        "Cotton",
+        "Wool",
+        "Rugs",
+        "Carpets"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Asia",
+        "Iran"
+    ]
+}

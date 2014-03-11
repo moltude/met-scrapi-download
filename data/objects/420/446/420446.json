@@ -1,0 +1,101 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/437953"
+            },
+            {
+                "href": "http://scrapi.org/object/380570"
+            },
+            {
+                "href": "http://scrapi.org/object/391609"
+            },
+            {
+                "href": "http://scrapi.org/object/417857"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwl",
+                "rel": "Low Countries, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/420446"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/420446"
+        }
+    },
+    "accession number": "2013.144",
+    "credit line": "Purchase, Fletcher and Frits and Rita Markus Funds, 2013",
+    "date": "mid 17th century",
+    "department": "Drawings and Prints",
+    "dimensions": "Sheet 5 5/8 \u00d7 7 15/16 in. (14.3 \u00d7 20.2 cm)",
+    "id": 420446,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP829457.jpg",
+    "medium": "Black chalk, graphite, brush and grey ink; framing line in black chalk or graphite, by a later hand",
+    "provenance": [
+        "Hendrik van Eyl Sluiter (Dutch, 1739\u20131814)",
+        "his sale, Amsterdam, September 26, 1814 and following days, album H, no. 2 (sold for 825 guilders to Hulswit)",
+        "Gerrit Muller (Dutch, ca. 1779\u20131826)",
+        "his sale, Amsterdam, April 2-3, 1827, album D, no. 1 (sold for 755 guilders to Engelberts)",
+        "Hendrik van Cranenburgh (Dutch, 1754\u20131832)",
+        "his sale, Amsterdam, October 26-27, 1858, album B, no. 24(sold for 760 guilders to Nieuwenhuizen)",
+        "Jacob de Vos Jbzn (Dutch, Amsterdam 1803\u20131882 Amsterdam)",
+        "Eug\u00e8ne Schneider (French, 1805\u20131875)",
+        "H\u00f4tel Drouot, Paris, April 6-7, 1876, lot 97(sold for 300 francs)",
+        "Alfred Beurdeley (French, 1847\u20131919)",
+        "Galerie Georges Petit, Paris, 8-10 June 1920, lot 353",
+        "Sotheby's, London, 4 July 2012, lot 91",
+        "Vendor: Katrin Bellinger Kunsthandel , Munich"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP829457.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP834222.jpg"
+    ],
+    "title": "A Mounted Grey Horse being Schooled",
+    "what": [
+        "Ink",
+        "Drawings",
+        "Graphite",
+        "Chalk"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "Netherlands"
+    ],
+    "who": "Philips Wouwerman"
+}

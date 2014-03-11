@@ -1,0 +1,140 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/82699"
+            },
+            {
+                "href": "http://scrapi.org/object/125408"
+            },
+            {
+                "href": "http://scrapi.org/object/82698"
+            },
+            {
+                "href": "http://scrapi.org/object/156777"
+            },
+            {
+                "href": "http://scrapi.org/object/123772"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R130_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140310130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwco",
+                "rel": "Central Europe (not Austria, Germany, and Switzerland), 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/89775"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/89775"
+        }
+    },
+    "accession number": "1992.45a\u2013n",
+    "credit line": "Purchase, Irene Lewisohn and Alice L. Crowley Bequests, 1992",
+    "culture": "Czech",
+    "date": "1940",
+    "department": "Costume Institute",
+    "dimensions": [
+        "Length at CB (a) 14 1/2 in. (36.8 cm)",
+        "Length at CB (b) 20 7/8 in. (53 cm)",
+        "Length at CB (c) 20 7/8 in. (53 cm)",
+        "Length at CB (d) 37 7/8 in. (96.2 cm)",
+        "Length at CB (e) 23 1/2 in. (59.7 cm)",
+        "Length at CB (f) 23 1/4 in. (59.1 cm)",
+        "Length at CB (g) 23 3/8 in. (59.4 cm)",
+        "Total Length (h) 40 1/4 in. (102.2 cm)",
+        "Length at CB (i, k) 6 5/8 in. (16.8 cm)",
+        "Total Length (j, l) 66 7/8 in. (169.9 cm)",
+        "Length at CB (m) 7 1/8 in. (18.1 cm)",
+        "Total Length (n) 74 in. (188 cm)"
+    ],
+    "id": 89775,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/1992.45aceg_F.jpg",
+    "medium": [
+        "(a) wool",
+        "(b\u2013n) cotton"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/1992.45aceg_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1992.45aceg_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1992.45b_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1992.45b_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1992.45c_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1992.45d.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1992.45f.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1992.45g_S.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1992.45h_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1992.45h_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1992.45ik.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1992.45jl.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1992.45mn.jpg"
+    ],
+    "title": "Ensemble",
+    "what": [
+        "Cotton",
+        "Wool",
+        "Ensembles"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "Czech Republic"
+    ]
+}

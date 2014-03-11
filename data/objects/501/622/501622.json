@@ -1,0 +1,123 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/501621"
+            },
+            {
+                "href": "http://scrapi.org/object/500563"
+            },
+            {
+                "href": "http://scrapi.org/object/501623"
+            },
+            {
+                "href": "http://scrapi.org/object/503823"
+            },
+            {
+                "href": "http://scrapi.org/object/503219"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/early-guitars",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A001_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115501",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A002_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115523",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A003_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115537",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A004_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115549",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A005_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115601",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A006_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115612",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/musical-instruments-east-and-west?eid=R079_%7bB33A51AA-7250-402C-9FC0-8A302D14AD06%7d_20140311121500",
+                "rel": "Musical Instruments: East and West"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/musical-instruments-east-and-west?eid=R080_%7bB33A51AA-7250-402C-9FC0-8A302D14AD06%7d_20140313121500",
+                "rel": "Musical Instruments: East and West"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/musical-instruments-east-and-west?eid=R081_%7bB33A51AA-7250-402C-9FC0-8A302D14AD06%7d_20140314121500",
+                "rel": "Musical Instruments: East and West"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/family-programs/sunday-studio/string-and-sound?eid=A002_%7b47DD1CB2-ECBA-4009-A975-5F11C7EB2F6A%7d_20131025180255",
+                "rel": "String and Sound: Musical Instruments"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwb",
+                "rel": "Great Britain and Ireland, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/501622"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/501622"
+        }
+    },
+    "accession number": "89.4.1014",
+    "credit line": "The Crosby Brown Collection of Musical Instruments, 1889",
+    "date": "mid to late 18th century",
+    "department": "Musical Instruments",
+    "dimensions": [
+        "Total length  66 cm., Fingerboard length  22.8 cm., Fingerboard width--top/bottom  4.6/5.2 cm.,",
+        "Body length  36 cm.",
+        "Body width--widest/narrowest  28.1/-",
+        "Body depth--neck/foot  5.7/6.8 cm.",
+        "Vibrating length of strings  43 cm., Diameter of rosette  8.5 cm."
+    ],
+    "gallery-id": 684,
+    "id": 501622,
+    "image": "http://images.metmuseum.org/CRDImages/mi/original/DP169224.jpg",
+    "medium": "Wood and various materials",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/mi/original/DP169224.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/DP169225.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/DP169226.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/DP169227.jpg"
+    ],
+    "title": "Cittern",
+    "what": [
+        "Musical instruments",
+        "Chordophones",
+        "Lutes",
+        "Citterns"
+    ],
+    "where": [
+        "Europe",
+        "United Kingdom",
+        "England",
+        "London"
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/26586"
+            },
+            {
+                "href": "http://scrapi.org/object/21939"
+            },
+            {
+                "href": "http://scrapi.org/object/26436"
+            },
+            {
+                "href": "http://scrapi.org/object/25114"
+            },
+            {
+                "href": "http://scrapi.org/object/35960"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From October 2, 2012",
+                "href": "/exhibitions/listings/2012/arms-and-armor",
+                "rel": "Bashford Dean and the Creation of the Arms and Armor Department"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A074_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112917",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A084_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113556",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A093_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113923",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A075_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112932",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A094_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113938",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 5, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A085_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113610",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161351",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A076_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112951",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 19, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161305",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 26, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A086_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113630",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/afas17/hd_afas17.htm",
+                "rel": "Fashion in European Armor, 1600\u20131700"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=eustn",
+                "rel": "Venice and Northern Italy, 1600\u20131800 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=eustn",
+                "rel": "Venice and Northern Italy, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/24985"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/24985"
+        }
+    },
+    "accession number": "2002.130a\u2013p",
+    "credit line": "Purchase, Arthur Ochs Sulzberger Gift, 2002",
+    "culture": "Italian, Milan or Brescia",
+    "date": "ca. 1610\u201330",
+    "department": "Arms and Armor",
+    "description": "The construction and build of this armor are typical of a cuirassier\u2019s harness, a type developed toward the end of the sixteenth century in response to the growing use and efficiency of firearms. The advent of firearms caused armorers to increase the thickness and weight of plates and to supplement them with separate reinforcing plates. Before an armor of this type was finished, it was fired at with a pistol or musket to test its effectiveness against bullets, and the bullet dents were left as a guarantee of the strength and quality of its steel. This particular armor retains two reinforces with such dents, a rarely encountered plate for the back of the helmet bowl, and a plackard for the breastplate; it formerly possessed a third plate for the front of the visor. Weighing more than eighty-six pounds, it is one of the heaviest field armors known. Although generally conforming to the construction of cuirassier harnesses worn throughout Europe about 1600 to 1640, this example is more characteristic of northern Italian (Milan or Brescia) workmanship. The armor\u2019s weight, its reinforcing plates, and the deep \u201cproof marks\u201d provide a vivid reminder of the constant struggle to adapt armor to changes in tactics and weaponry as well as fashion.",
+    "dimensions": "Wt., 86 lb. 8 oz. (39.24 kg)",
+    "gallery-id": 371,
+    "id": 24985,
+    "image": "http://images.metmuseum.org/CRDImages/aa/original/DT5386.jpg",
+    "medium": "Steel, gold, leather, textile",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/aa/original/DT5386.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/sfeah2002.130a_0003.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/sfeah2002.130a_0004.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/sfeah2002.130ab_0001.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/sfeah2002.130ab_0004.jpg"
+    ],
+    "title": "Cuirassier Armor",
+    "what": [
+        "Metal",
+        "Costume",
+        "Textiles",
+        "Gold",
+        "Iron and iron alloy",
+        "Leather",
+        "Iron alloy",
+        "Steel",
+        "Armor"
+    ],
+    "where": [
+        "Europe",
+        "Italy",
+        "Lombardy",
+        "Milan"
+    ]
+}

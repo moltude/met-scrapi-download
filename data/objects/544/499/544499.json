@@ -1,0 +1,118 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/544776"
+            },
+            {
+                "href": "http://scrapi.org/object/544813"
+            },
+            {
+                "href": "http://scrapi.org/object/544346"
+            },
+            {
+                "href": "http://scrapi.org/object/549536"
+            },
+            {
+                "href": "http://scrapi.org/object/556622"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A145_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113221",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/talks/gallery-talks/egyptian-sculpture?eid=A002_%7b09B70F74-B68F-4731-A787-D861CCC990BA%7d_20140123144040",
+                "rel": "Egyptian Sculpture"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/cleopatra-welcome-and-introduction?eid=A001_%7bCE6C92F7-59C2-4721-A363-E48BE5CF7EBF%7d_20140226151517",
+                "rel": "Welcome and Introduction"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=03\u00aeion=afe",
+                "rel": "Egypt, 2000\u20131000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/544499"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/544499"
+        }
+    },
+    "accession number": "47.105.4",
+    "credit line": "Dodge Fund, 1947",
+    "date": "ca. 1390-1352 B. C.",
+    "department": "Egyptian Art",
+    "description": "The two goddesses shown here were associated with women. Although they face one another, in the conventions of Egyptian art they are meant to be seen as standing side by side, facing the viewer. Taweret appears on the left, identified by the inscription in front of her as \"Taweret, mistress of the sky.\" On her head she wears a sun disk and cow's horns. Although Taweret herself is not usually associated with the sky, this feature, and her epithet, are probably borrowed from Hathor, the goddess of femininity and love, indicating that here Taweret represents the female sex itself. In keeping with her usual role as a protective force for women during and after childbirth, her protruding belly suggests pregnancy. The image on the right is identified by its inscription as \"Mut the great, mistress of Isheru.\" This goddess was the wife of Amun and embodied the principle of motherhood; her name itself means \"mother.\" She is represented here by a human head atop a chest, which may be a symbolic representation of the womb.The stela was commissioned by a man whose name and partially preserved title are inscribed at bottom: \"[ \u2026 ] of [the house of] Amun, Khonsu.\" The stela's imagery suggests that it was in-tended as a votive offering by its donor seeking the intercession of Taweret and Mut for a woman's successful pregnancy and childbirth.",
+    "dimensions": "H. 17.7 cm (6 15/16 in.); W. 14.3 cm (5 5/8 in.); D. 4 cm (1 9/16 in.)",
+    "gallery-id": 117,
+    "id": 544499,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/47.105.4_EGDP013442.jpg",
+    "medium": "Limestone, paint",
+    "provenance": [
+        "Purchased in New York from Frank J. Tano, 1947. An article published by the scholar Ludwig Keimer in 1949 states that he had seen the piece at the house of Luxor dealer Sayed Molattam, who told him it had been found at Deir el-Medina about 1932, and that the piece had subsequently been sold to the Levi de Benzion collection, Cairo."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/eg/original/47.105.4_EGDP013442.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/47.105.4_01.jpg"
+    ],
+    "title": "Votive stela with figures of Goddesses Taweret and Mut of  Isheru",
+    "what": [
+        "Limestone",
+        "Stelae"
+    ],
+    "when": "2000-1000 B.C.",
+    "where": [
+        "Africa",
+        "Egypt",
+        "Upper Egypt",
+        "Thebes"
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/29000"
+            },
+            {
+                "href": "http://scrapi.org/object/29001"
+            },
+            {
+                "href": "http://scrapi.org/object/27172"
+            },
+            {
+                "href": "http://scrapi.org/object/24329"
+            },
+            {
+                "href": "http://scrapi.org/object/23379"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From October 2, 2012",
+                "href": "/exhibitions/listings/2012/arms-and-armor",
+                "rel": "Bashford Dean and the Creation of the Arms and Armor Department"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A074_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112917",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A084_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113556",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A093_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113923",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A075_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112932",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A094_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113938",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 5, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A085_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113610",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161351",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A076_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112951",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 19, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161305",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 26, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A086_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113630",
+                "rel": "Arms and Armor"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/26752"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/26752"
+        }
+    },
+    "accession number": "36.25.2148",
+    "credit line": "Bequest of George C. Stone, 1935",
+    "culture": "Balkan",
+    "date": "18th century",
+    "department": "Arms and Armor",
+    "dimensions": "L. 62 3/4 inches (159.4 cm)",
+    "id": 26752,
+    "image": "http://images.metmuseum.org/CRDImages/aa/original/sfsb36.25.2148_001.jpg",
+    "medium": "Steel, brass, silver, wood, assorted stones",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/aa/original/sfsb36.25.2148_001.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/sfsb36.25.2148_002.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/sfsb36.25.2148_003.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/sfsb36.25.2148_004.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/sfsb36.25.2148_005.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/sfsb36.25.2148_006.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/sfsb36.25.2148_007.jpg"
+    ],
+    "title": "Miquelet Gun",
+    "what": [
+        "Metal",
+        "Copper alloy",
+        "Silver",
+        "Arms",
+        "Iron and iron alloy",
+        "Stone",
+        "Iron alloy",
+        "Steel",
+        "Brass",
+        "Firearms",
+        "Artillery"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "Balkan Peninsula"
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/81022"
+            },
+            {
+                "href": "http://scrapi.org/object/83973"
+            },
+            {
+                "href": "http://scrapi.org/object/157611"
+            },
+            {
+                "href": "http://scrapi.org/object/97300"
+            },
+            {
+                "href": "http://scrapi.org/object/97571"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R150_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140407130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/coho/hd_coho.htm",
+                "rel": "Dressing for the Cocktail Hour"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/156028"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/156028"
+        }
+    },
+    "accession number": "2009.300.1325a, b",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Frances Carpenter, 1965",
+    "culture": "American",
+    "date": "1958\u201360",
+    "department": "Costume Institute",
+    "description": "Norman Norell is credited as the father of American high fashion, an accolade well-deserved for a long career which established the country's fashion industry and made way for other great designers such as Bill Blass, James Galanos, and Halston. In 1941, after years of working with another fashion icon, Hattie Carnegie, Norell partnered with Anthony Traina to form Traina-Norell where he began to receive recognition for his designs. In 1960 Norell founded his own label, Norman Norell Ltd., where his reputation became equal to that of French designers of the time. Norell's style consisted of sophisticated and luxurious garments executed in a relaxed manner. Especially notable are his sequined evening sheaths which remain classic and beautiful in their simplicity.",
+    "dimensions": "Length at CB (a) 43 in. (109.2 cm)",
+    "id": 156028,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/65.222.21a-b_CP3.jpg",
+    "medium": "silk",
+    "title": "Cocktail dress",
+    "what": [
+        "Costume",
+        "Silk",
+        "Dresses",
+        "Cocktail dresses"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": [
+        "Norman Norell",
+        "Nan Duskin"
+    ]
+}

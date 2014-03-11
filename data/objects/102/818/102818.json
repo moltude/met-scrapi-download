@@ -1,0 +1,123 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/102819"
+            },
+            {
+                "href": "http://scrapi.org/object/102822"
+            },
+            {
+                "href": "http://scrapi.org/object/81158"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R150_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140407130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=eust",
+                "rel": "Italian Peninsula, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/102818"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/102818"
+        }
+    },
+    "accession number": "1984.155.8a\u2013f",
+    "credit line": "Gift of Albertina-Roma, 1984",
+    "culture": "Italian",
+    "date": "1971",
+    "department": "Costume Institute",
+    "dimensions": [
+        "Length at CB (a) 32 in. (81.3 cm)",
+        "Length (b) 63 1/8 in. (160.3 cm)",
+        "Length at CB (c) 22 1/2 in. (57.2 cm)",
+        "Length (d) 8 in. (20.3 cm)",
+        "Length (e, f) 10 1/4 in. (26 cm)"
+    ],
+    "id": 102818,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/1984.155.8ab_F.jpg",
+    "medium": "wool, leather, synthetics",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/1984.155.8ab_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1984.155.8ab_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1984.155.8b_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1984.155.8b_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1984.155.8a_label.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1984.155.8d_S1.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1984.155.8d_S2.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1984.155.8ef_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1984.155.8ef_B.jpg"
+    ],
+    "title": "Beachwear",
+    "what": [
+        "Costume",
+        "Wool",
+        "Leather",
+        "Sports clothing",
+        "Beachwear"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Albertina-Roma"
+}

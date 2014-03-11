@@ -1,0 +1,167 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/45481"
+            },
+            {
+                "href": "http://scrapi.org/object/44861"
+            },
+            {
+                "href": "http://scrapi.org/object/49277"
+            },
+            {
+                "href": "http://scrapi.org/object/63316"
+            },
+            {
+                "href": "http://scrapi.org/object/53833"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 8, 2014",
+                "href": "/exhibitions/listings/2014/tibet-and-india",
+                "rel": "Tibet and India"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/chinese-carving",
+                "rel": "Colors of the Universe"
+            },
+            {
+                "date": "From July 19, 2013",
+                "href": "/exhibitions/listings/2013/chinese-snuff-bottles",
+                "rel": "Small Delights"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/ink-art",
+                "rel": "Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "From February 1, 2014",
+                "href": "/exhibitions/listings/2014/edo-period-painting",
+                "rel": "The Flowering of Edo Period Painting"
+            },
+            {
+                "date": "From April 14, 2014",
+                "href": "/exhibitions/listings/2014/lost-kingdoms",
+                "rel": "Lost Kingdoms"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R105_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140311111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R105_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140311120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R105_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140311131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/talks/gallery-talks/gallery-conv-culture-and-politics?eid=A001_%7b33996DD5-3C4F-473B-BCAE-533DF0BF66F1%7d_20140205160349",
+                "rel": "Gallery Conversation\u2014Culture and Politics in Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=A093_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20131018142432",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R106_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140312120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R106_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140312131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R107_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140313120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/programs-for-visitors-with-disabilities/visitors-who-are-blind-or-partially-sighted/picture-this-workshop-asian-art?eid=A001_%7b9CE222FD-E83F-4619-ADE7-7E4A30CBB471%7d_20140206171620",
+                "rel": "Picture This! Workshop\u2014Asian Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R107_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140314111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/edop/hd_edop.htm",
+                "rel": "Art of the Edo Period (1615\u20131868)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/momo/hd_momo.htm",
+                "rel": "Momoyama Period (1573\u20131615)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/pfor/hd_pfor.htm",
+                "rel": "Painting Formats in East Asian Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/rinp/hd_rinp.htm",
+                "rel": "Rinpa Painting Style"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=eaj",
+                "rel": "Japan, 1600\u20131800 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=eaj",
+                "rel": "Japan, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/45562"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/45562"
+        }
+    },
+    "accession number": "29.100.689",
+    "credit line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+    "culture": "Japan",
+    "date": "18th or early 19th century",
+    "department": "Asian Art",
+    "description": "Both the image of a rustic figure carrying a load of kindling and the rounded box lid on which it appears are based on a lacquer writing box attributed to the noted calligrapher and potter Hon\u2019ami K\u014detsu (1558\u20131637). K\u014detsu is recognized as one of the founders of the Rinpa movement, which drew inspiration from traditional Japanese literature. The motif of the woodcutter was often repeated in lacquers and may allude to chapter 48 of The Tale of Genji (Genji monogatari), in which a former teacher sends shoots of bracken fern (warabi) to Nakanokimi, the bride of Genji\u2019s grandson Niou; to a Noh play referring to a poet of ancient times who meets a woodcutter in the mountains; or, perhaps, to both. Whatever the precise inspiration, the K\u014detsu design was copied by lacquer artists in subsequent centuries and became one of the most popular Rinpa design motifs for lacquer writing boxes and inr\u014d. The Metropolitan Museum has no fewer than four lacquer writing boxes with the same design, demonstrating how motifs were transmitted from generation to generation by direct copying and by the study of woodblock-printed drawing manuals of Rinpa motifs.",
+    "dimensions": "H. 3 3/4 in. (9.5 cm); W. 9 in. (22.9 cm); L. 9 3/8 in. (23.8 cm)",
+    "id": 45562,
+    "image": "http://images.metmuseum.org/CRDImages/as/original/DP138472.jpg",
+    "medium": "Gold maki-e on black lacquer with mother-of-pearl inlay",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/as/original/DP138472.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP138507.jpg"
+    ],
+    "title": "Writing Box (Suzuri-bako) with Woodcutter\r\n\r\n",
+    "what": [
+        "Metal",
+        "Gold",
+        "Lacquer",
+        "Boxes",
+        "Pearl",
+        "Maki-e"
+    ],
+    "where": [
+        "Asia",
+        "Japan"
+    ],
+    "who": "Hon'ami K\u014detsu"
+}

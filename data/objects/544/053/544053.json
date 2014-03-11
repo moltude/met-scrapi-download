@@ -1,0 +1,125 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/556705"
+            },
+            {
+                "href": "http://scrapi.org/object/544451"
+            },
+            {
+                "href": "http://scrapi.org/object/544491"
+            },
+            {
+                "href": "http://scrapi.org/object/544222"
+            },
+            {
+                "href": "http://scrapi.org/object/556728"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A151_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113641",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R130_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140310140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A145_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113221",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=02\u00aeion=afe",
+                "rel": "Egypt, 8000\u20132000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/544053"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/544053"
+        }
+    },
+    "accession number": "26.3.104a",
+    "credit line": "Rogers Fund, 1926",
+    "date": "ca. 2051\u20132000 B.C.",
+    "department": "Egyptian Art",
+    "description": "Herbert E. Winlock, the Museum's field director at Thebes, identified this head as an image of the treasurer Khety in whose tomb it was found. Comparisons to complete figures with similar close-fitting, short hair determined, however, that this head belonged to a female figure. The woman was most probably nude, and the absence of a wig and garment made her a representative of femininity in general. Her presence among Khety's burial equipment provided him not with a concubine (another out-dated interpretation), but with the means to be reborn after death. The figure's head is a masterpiece of wood carving. Rounded cheeks, \"love rings\" on the neck, a dimpled chin, a smiling mouth, and the minutely modeled tiny curls of her hair combine to form an image of irresistible charm. The eyes must have been inlaid, and the eyebrows are still filled with dark paste; there are remains of black paint on the hair.",
+    "dimensions": "H. 6.3 cm (2 1/2 in.); W. 4.1 cm (1 5/8 in.); D. 5.2 cm (2 1/16 in.)",
+    "gallery-id": 107,
+    "id": 544053,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/26.3.104a_EGDP011739.jpg",
+    "medium": "Wood, paint and paste fill",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/eg/original/26.3.104a_EGDP011739.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/26.3.104a_EGDP011740.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/26.3.104a_EGDP011741.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/26.3.104a_EGDP011742.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/26.3.104a_01.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/26.3.104a_04.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/26.3.104a_05.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/26.3.104a_06.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/26.3.104a_02.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/26.3.104a_03.jpg"
+    ],
+    "title": "Head of a Female Figure from the Tomb of Khety",
+    "what": [
+        "Sculpture",
+        "Faience",
+        "Wood",
+        "Statues",
+        "Figurines"
+    ],
+    "where": [
+        "Africa",
+        "Egypt",
+        "Upper Egypt",
+        "Thebes"
+    ]
+}

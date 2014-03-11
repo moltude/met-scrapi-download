@@ -1,0 +1,123 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/312707"
+            },
+            {
+                "href": "http://scrapi.org/object/312708"
+            },
+            {
+                "href": "http://scrapi.org/object/312710"
+            },
+            {
+                "href": "http://scrapi.org/object/312706"
+            },
+            {
+                "href": "http://scrapi.org/object/312758"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From September 16, 2013",
+                "href": "/exhibitions/listings/2013/feathered-walls",
+                "rel": "Feathered Walls"
+            },
+            {
+                "date": "From October 8, 2013",
+                "href": "/exhibitions/listings/2013/nelson-rockefeller",
+                "rel": "The Nelson A. Rockefeller Vision"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=A115_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140210093011",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/talks/gallery-talks/ancient-american-sculpture?eid=A001_%7b7A6AA394-9359-47C1-87B4-65B0894C01AB%7d_20140123114645",
+                "rel": "Ancient American Sculpture"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R105_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140311130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R106_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140312130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R107_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140313130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 18, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/shaping-the-african-art-canon?eid=A001_%7b447041C4-D9E7-43A9-AE5F-85BAEB6E7196%7d_20140214113010",
+                "rel": "Shaping the African Art Canon: From the Museum to the Classroom"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/talks/the-observant-eye/shared-memory-sculptural-ancestral-objects-from-oceania?eid=A001_%7b94768B86-339F-4726-A3BC-8F798C423768%7d_20140123143856",
+                "rel": "Shared Memory: Sculptural Ancestral Objects from Oceania"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=A116_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140210093151",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/talks/gallery-talks/ancient-american-sculpture?eid=A002_%7b7A6AA394-9359-47C1-87B4-65B0894C01AB%7d_20140123114700",
+                "rel": "Ancient American Sculpture"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=06\u00aeion=san",
+                "rel": "Northern Andes, 500\u20131000 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/310267"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/310267"
+        }
+    },
+    "accession number": "1977.187.21",
+    "credit line": "Bequest of Alice K. Bache, 1977",
+    "culture": "Capul\u00ed",
+    "date": "4th\u201310th century",
+    "department": "Arts of Africa, Oceania and the Americas",
+    "description": "The most abstract Precolumbian works in gold come from the deep shaft tombs of the Capul\u00ed era in the Colombian/Ecuadorian highlands. The richest Capul\u00ed tombs, some as deep as 130 feet, contained many offerings of ceramics and precious metals. The gold objects display simple elegance and abstract natural forms. On this pendant, the suspension loop, located on most Precolumbian pendants where it cannot be seen, has been integrated into the overall composition and is visible at the top. Some scholars read the pendant as a bird with spread wings and tail, the suspension loop representing its head. The pendant was cut from hammered sheet; it has a well-polished surface. An ancient repair is present on the lower right projection of the ornament.",
+    "dimensions": "H. 5 3/4 in. (14.6 cm)",
+    "gallery-id": 357,
+    "id": 310267,
+    "image": "http://images.metmuseum.org/CRDImages/ao/original/DT5085.jpg",
+    "medium": "Gold",
+    "provenance": [
+        "[Andre Emmerich Gallery, New York, until 1974]",
+        "Alice K. Bache,  New York, 1974\u2013(d.) 1977"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ao/original/DT5085.jpg",
+        "http://images.metmuseum.org/CRDImages/ao/original/vs1977_187_21.jpg"
+    ],
+    "title": "Pendant",
+    "what": [
+        "Metal",
+        "Gold",
+        "Pendants"
+    ],
+    "where": [
+        "South America",
+        "Colombia"
+    ]
+}

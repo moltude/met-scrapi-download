@@ -1,0 +1,113 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/544888"
+            },
+            {
+                "href": "http://scrapi.org/object/571628"
+            },
+            {
+                "href": "http://scrapi.org/object/552768"
+            },
+            {
+                "href": "http://scrapi.org/object/549534"
+            },
+            {
+                "href": "http://scrapi.org/object/551899"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A151_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113641",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R130_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140310140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A145_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113221",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=04\u00aeion=afe",
+                "rel": "Egypt, 1000 B.C.\u20131 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/549511"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/549511"
+        }
+    },
+    "accession number": "12.182.4a",
+    "credit line": "Rogers Fund, 1912",
+    "date": "285\u2013246 B.C. probably",
+    "department": "Egyptian Art",
+    "description": "The Iseum, or temple of Isis, at Behbeit el Hagar in the central Delta was built as a great cult center for Isis, who was worshipped there as almost a primordial principle: thanks to her actions the resurrections and transformations of her husband Osiris were assured, and hence the birth and potency of their son Horus, the divine prototype of the king.The Iseum probably stood on the site of an earlier temple begun in the twenty-sixth dynasty. Nectanebo II built most of the great temple, and constructed it of dark granite, creating an imposing severe structure typical of thirtieth dynasty construction in the Delta. The king was able to decorate only one important chapel before the second Persian invasion. Work did not recommence until the reign of Ptolemy II, who completed the decoration of the sanctuary and chapels. Finally, Ptolemy III added and decorated the hypostyle hall and western fa\u00e7ade.Sometime after Ptolemy III in the third century B.C. but before the early third century a.d., the temple collapsed completely. There is reason to believe that serious foundation problems undermined the structure relatively soon after its erection, and then, perhaps in 24 b.c., an earthquake completely tumbled the structure.In this relief, Osiris, crowned with two plumes, is seated and followed by another seated divinity, possibly Isis, whose scepter is visible. The block comes from the uppermost level of a wall where a series of seated gods was represented.There is good reason to think this relief was carved during the reign of Ptolemy II, the king who completed the relief decoration of most of the temple proper. Despite the fact that their reigns are separated by sixty years, the earliest Ptolemies chose to closely embrace the style of their predecessors of Dynasty 30. Only small details, such as the more relaxed smile and the exaggerated rounded pectoral muscle, seem to differentiate this block stylistically from the earlier block 12.182.4c.",
+    "dimensions": "H. 0.719m",
+    "gallery-id": 128,
+    "id": 549511,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/12.182.4a_01.jpg",
+    "medium": "Granodiorite",
+    "provenance": [
+        "Purchased in Cairo from Dikran Kelekian, 1912."
+    ],
+    "title": "Seated Osiris-Anedjty",
+    "what": [
+        "Sculpture",
+        "Reliefs",
+        "Granodiorite"
+    ],
+    "when": "1000 B.C.-A.D. 1",
+    "where": [
+        "Africa",
+        "Egypt"
+    ]
+}

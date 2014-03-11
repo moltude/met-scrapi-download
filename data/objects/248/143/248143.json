@@ -1,0 +1,122 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/253593"
+            },
+            {
+                "href": "http://scrapi.org/object/254538"
+            },
+            {
+                "href": "http://scrapi.org/object/248132"
+            },
+            {
+                "href": "http://scrapi.org/object/248116"
+            },
+            {
+                "href": "http://scrapi.org/object/248145"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A146_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142808",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R104_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140310123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R105_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140311123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R106_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140313123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R027_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140313130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R107_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140314123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/conversations-with-curators-and-conservators/terracotta-column-krater?eid=A001_%7b1CC4797D-7295-4614-9ACD-19C00BA693F4%7d_20140204162630",
+                "rel": "Conversation with a Curator\u2014Terracotta Column-Krater"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A144_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142257",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A145_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142312",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/rogr/hd_rogr.htm",
+                "rel": "Roman Copies of Greek Statues"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/clan/hd_clan.htm",
+                "rel": "The Rediscovery of Classical Antiquity"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=05\u00aeion=eust",
+                "rel": "Italian Peninsula, 1\u2013500A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/248143"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/248143"
+        }
+    },
+    "accession number": "09.221.6",
+    "credit line": "Rogers Fund, 1909",
+    "culture": "Roman",
+    "date": "1st -2nd century A.D.",
+    "department": "Greek and Roman Art",
+    "description": "Copy of a Greek statue of the 2nd century B.C.During the Classical period, centaurs\u2014mythical creatures, half horse and half man\u2014represented to the Greeks the wild, uncivilized aspects of man, but by the second century B.C., they were far more tame and appeared in bucolic park-like settings together with Eros, god of love, and the entourage of Dionysos. This powerful torso carved in rosso antico comes from a statue of a young centaur. It was attached to the body of a horse that must have been carved in a different color marble. The original Hellenistic statue was probably bronze and one of a pair ofcentaurs, one old and one young, that were meant to be viewed together. A baby Eros straddled the back of each, inciting the young male and restraining the old one in a poignant evocation of sexual decline. A number of Roman copies survive; the most celebrated pair, carved in black marble, was found in 1736 at Hadrian\u2019s Villa near Rome, and they are now among the most famous ancient works in the Capitoline Museum in Rome.",
+    "dimensions": "H. 17 1/2 in. (44.4 cm)",
+    "gallery-id": 162,
+    "id": 248143,
+    "image": "http://images.metmuseum.org/CRDImages/gr/original/DP123864.jpg",
+    "medium": "Marble, Rosso antico",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/gr/original/DP123864.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP123865.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP123866.jpg"
+    ],
+    "title": "Rosso antico torso of a centaur",
+    "what": [
+        "Sculpture",
+        "Fragments",
+        "Stone",
+        "Statues",
+        "Marble"
+    ],
+    "when": "A.D. 1-500",
+    "where": [
+        "Roman Empire"
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/460997"
+            },
+            {
+                "href": "http://scrapi.org/object/461003"
+            },
+            {
+                "href": "http://scrapi.org/object/460911"
+            },
+            {
+                "href": "http://scrapi.org/object/460979"
+            },
+            {
+                "href": "http://scrapi.org/object/461628"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R130_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140310134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R131_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140311134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R132_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140312134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R133_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140313134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R134_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140314134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A109_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131126111651",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A115_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131127144444",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A110_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131126111706",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R145_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140331134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/talks/gallery-talks/european-sculpture-in-the-robert-lehman-collection?eid=A001_%7b835B4316-D69F-4E38-A76F-839A55CF6946%7d_20140123112008",
+                "rel": "European Sculpture in the Robert Lehman Collection"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/460343"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/460343"
+        }
+    },
+    "accession number": "1975.1.64b",
+    "credit line": "Robert Lehman Collection, 1975",
+    "date": "1385",
+    "department": "Robert Lehman Collection",
+    "description": "Spinello Aretino (1350/52-1410) painted these two panels depiciting Saints Philip and James the Greater(?) for an altarpiece for Monte Oliveto Maggiore near Siena. Other panels from the same polyptych survive in the Pinacoteca Nazionale, Siena; the Sz\u00e9pmuv\u00e9szeti M\u00fazeum, Budapest; and the Fogg Art Museum, Cambridge, Massachusetts. Another pilaster panel like the two in the Robert Lehman Collection was sold at Sotheby's in London in 1982. An inscription across the base of the altarpiece frame, recorded by Giorgio Vasari when it was still intact, memorialized the frame carver and the gilder alongside the painter: \"Simone Cini Fiorentino fece l'intaglio, Gabriello Saracini la messe d'oro e Spinello di Luca d'Arezzo la dipinse l'anno 1385.\" The three artists received equal payments for their work. The pastiglia Solomonic columns on these two panels are not as well defined as those on 1975.1.23b, which are subtly delineated with punching. The simple punching on these panels with vague pastiglia moldings befits the humble manner of the two saints.",
+    "dimensions": "Overall, 52.6 x 18.4 cm; sight, 46.2 x 12 cm; engaged.",
+    "gallery-id": 954,
+    "id": 460343,
+    "image": "http://images.metmuseum.org/CRDImages/rl/original/86A_025R2m.jpg",
+    "medium": "A single piece of poplar. Gilt; red-brown bole.",
+    "provenance": [
+        "Monte Oliveto Maggiore, until 1810",
+        "Rapolano, 1840",
+        "J. A. Ramboux, Cologne, from 1942",
+        "Ramboux sale, J. M. Heberle, Cologne, 1867, lots 84, 85",
+        "Wallraf-Richartz-Museum, Cologne",
+        "sale, H\u00f4tel Drouot, Paris, 4 February 1924, lot 110 (No. 25 only to Durlacher)",
+        "sale, Lempertz, Cologne, 14 December 1926, lot 4",
+        "K. W. Bachstitz, The Hague, 1928",
+        "F. J. Mather, Princeton, before 1936",
+        "[Richard Ederheimer, New York], 1936. Acquired by Robert Lehman in November 1943."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/rl/original/86A_025R2m.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/SF-1975-1-64b.jpg"
+    ],
+    "title": "One of a pair of pilaster panels",
+    "what": [
+        "Wood",
+        "Gilt",
+        "Frames",
+        "Poplar"
+    ],
+    "when": "A.D. 1000-1400"
+}

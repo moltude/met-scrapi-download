@@ -1,0 +1,137 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/22001"
+            },
+            {
+                "href": "http://scrapi.org/object/22771"
+            },
+            {
+                "href": "http://scrapi.org/object/22779"
+            },
+            {
+                "href": "http://scrapi.org/object/23198"
+            },
+            {
+                "href": "http://scrapi.org/object/23253"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From October 2, 2012",
+                "href": "/exhibitions/listings/2012/arms-and-armor",
+                "rel": "Bashford Dean and the Creation of the Arms and Armor Department"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A083_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113541",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A074_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112917",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A084_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113556",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A093_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113923",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A075_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112932",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A094_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113938",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 5, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A085_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113610",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161351",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A076_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112951",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 19, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161305",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=euwc",
+                "rel": "Central Europe (including Germany), 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/35778"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/35778"
+        }
+    },
+    "accession number": "04.3.289; 14.25.1559",
+    "credit line": [
+        "Armor Rogers Fund, 1904",
+        "Mail brayette Gift of William H. Riggs, 1913"
+    ],
+    "culture": "German, Nuremberg",
+    "date": "ca. 1525",
+    "department": "Arms and Armor",
+    "description": "This fluted armor is typical of the battle dress of the knightly cavalry of southern Germany and Austria in the 1520s. It is composed of elements from at least three different but very similar armors, all made in Nuremberg when fluted armor was at its peak of fashion. The armor is stamped on the pauldrons (shoulder defenses) with the mark of the city of Nuremberg, on the helmet with the letter N in a pearly circle, on the cuisses (thigh defenses) with a Gothic N, and on the right gauntlet with an indistinct maker's mark. The left arm defense is a nineteenth-century restoration.",
+    "dimensions": [
+        "Weight, 49 lb. (22.23 kg)",
+        "Weight of helmet, 7 lb. 4oz. (3289 g)"
+    ],
+    "gallery-id": 371,
+    "id": 35778,
+    "image": "http://images.metmuseum.org/CRDImages/aa/original/164271.jpg",
+    "medium": "Steel",
+    "provenance": [
+        "Ex. coll.: Armor: Raoul Richards, Rome",
+        "Maurice de Talleyrand-P\u00e9rigord, Duc de Dino, Paris.Mail brayette: Count Leopold, Dresden",
+        "Historical Museum, Dresden.Previously owned by Maurice de Talleyrand-P\u00e9rigord, Duc de Dino",
+        "Previously owned by Raoul Richards"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/aa/original/164271.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/164274.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/164278.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/164280.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/173107.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/4883.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/4884.jpg"
+    ],
+    "title": "Armor",
+    "what": [
+        "Metal",
+        "Costume",
+        "Iron and iron alloy",
+        "Iron alloy",
+        "Steel",
+        "Armor"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Germany",
+        "Bavaria",
+        "Nuremberg"
+    ]
+}

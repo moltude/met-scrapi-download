@@ -1,0 +1,104 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/258313"
+            },
+            {
+                "href": "http://scrapi.org/object/258317"
+            },
+            {
+                "href": "http://scrapi.org/object/258314"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A143_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142244",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R100_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140303123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R101_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140304123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R102_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140306123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R026_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140306130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R103_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140307123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A146_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142808",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R104_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140310123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R105_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140311123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R106_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140313123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=03\u00aeion=eus",
+                "rel": "Southern Europe, 2000\u20131000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/258143"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/258143"
+        }
+    },
+    "accession number": "20.100.1",
+    "credit line": "Rogers Fund, 1920",
+    "culture": "Minoan",
+    "date": "ca. 1600-1450 B.C.",
+    "department": "Greek and Roman Art",
+    "description": "Excavated 1902 in the Temple Treasury at Knossos.The original figure was found with fragments of at least two other 'leaping' ivory figures of similar scale, one of which preserved locks of gilt bronze hair.  The left forearm has been lost from this otherwise extremely faithful reproduction.  In 1920 the Gillierons also offered for sale a reconstituted version of this statuette in painted plaster with long black hair and a belted cod piece at the waist.  The original is in the Herakleion Archaeological Museum.",
+    "dimensions": "Overall 11 5/16 x 4 3/4 in. (28.7 x 12.1 cm)",
+    "id": 258143,
+    "image": "http://images.metmuseum.org/CRDImages/gr/original/DP240950.jpg",
+    "medium": "painted plaster",
+    "title": "Reproduction of an ivory leaper",
+    "what": [
+        "Bone",
+        "Ivory",
+        "Painting",
+        "Plaster"
+    ],
+    "when": "2000-1000 B.C.",
+    "where": [
+        "Europe",
+        "Greece",
+        "Aegean Islands",
+        "Cyclades",
+        "Minoa"
+    ],
+    "who": "E. Gilli\u00e9ron"
+}

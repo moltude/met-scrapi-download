@@ -1,0 +1,98 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/285797"
+            },
+            {
+                "href": "http://scrapi.org/object/285795"
+            },
+            {
+                "href": "http://scrapi.org/object/265541"
+            },
+            {
+                "href": "http://scrapi.org/object/265571"
+            },
+            {
+                "href": "http://scrapi.org/object/266116"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/stei/hd_stei.htm",
+                "rel": "Edward Steichen (1879\u20131973): The Photo\u2013Secession Years"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/266850"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/266850"
+        }
+    },
+    "accession number": "1992.5149",
+    "credit line": "Gift of Grace M. Mayer, 1992",
+    "date": "ca. 1920",
+    "department": "Photographs",
+    "description": "Steichen lived in Paris on and off from 1900 to 1924, making paintings and photographs. A cofounder with Alfred Stieglitz of the Photo-Secession, Steichen offered his former New York studio to the fledgling organization as an exhibition space in 1905. Known first as the Little Galleries of the Photo-Secession and later simply by its address on Fifth Avenue, 291, the gallery introduced modern French art to America through the works of Rodin, Matisse, C\u00e9zanne, and, in 1914, Constantin Brancusi.Steichen and Brancusi, who met at Rodin's studio, became lifelong friends. This view of a corner of Brancusi's studio on the impasse Roncin shows several identifiable works, including \"Cup\" (1917) and \"Endless Column\" (1918). The photograph's centerpiece is the elegant polished bronze \"Golden Bird\" (1919), which soars above the other forms. Distinct from Brancusi's studio photographs\u2014subjective meditations on his own creations\u2014Steichen's view is more orchestrated, geometric, and objective. \"Golden Bird\" is centered, the light modulated, and the constellation of masses carefully balanced in the space defined by the camera. A respectful acknowledgment of the essential abstraction of the sculpture, the photograph seems decidedly modern and presages the formal studio photographs Steichen made in the service of \"Vanity Fair\" and \"Vogue\" beginning in 1923.",
+    "dimensions": "24.4 x 19.4 cm (9 5/8 x 7 5/8 in.)",
+    "gallery-id": 852,
+    "id": 266850,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP232898.jpg",
+    "medium": "Gelatin silver print",
+    "provenance": [
+        "Grace M. Mayer, New York"
+    ],
+    "title": "[Brancusi's Studio]",
+    "what": [
+        "Photographs",
+        "Gelatin silver prints"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "Edward J. Steichen"
+}

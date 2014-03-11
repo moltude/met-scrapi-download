@@ -1,0 +1,115 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/255811"
+            },
+            {
+                "href": "http://scrapi.org/object/254846"
+            },
+            {
+                "href": "http://scrapi.org/object/254854"
+            },
+            {
+                "href": "http://scrapi.org/object/255017"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R105_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140311123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R106_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140313123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R027_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140313130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R107_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140314123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/conversations-with-curators-and-conservators/terracotta-column-krater?eid=A001_%7b1CC4797D-7295-4614-9ACD-19C00BA693F4%7d_20140204162630",
+                "rel": "Conversation with a Curator\u2014Terracotta Column-Krater"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A144_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142257",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A145_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142312",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R116_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140331123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R117_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140401123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=04\u00aeion=eusb",
+                "rel": "Ancient Greece, 1000 B.C.\u20131 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/247609"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/247609"
+        }
+    },
+    "accession number": "07.156.7",
+    "credit line": "Gift of Miss Matilda W. Bruce, 1907",
+    "culture": "Greek, Attic",
+    "date": "ca. 575\u2013560 B.C.",
+    "department": "Greek and Roman Art",
+    "description": "Obverse, Amazonomachy with HeraklesReverse, women, subject unclearOn the largest fragment, from the obverse, the figure of Herakles is clear from his lion skin; he attacks the Amazon Andromache, as indicated by the inscription. Below the palmette-lotus frieze, there was a cavalcade of horsemen.There are four fragments that belong to the piece, 56.128, gift of Mario Astarita, 1956.",
+    "dimensions": "Other 4 x 3 1/4 in. (10.2 x 8.3 cm)",
+    "gallery-id": 171,
+    "id": 247609,
+    "image": "http://images.metmuseum.org/CRDImages/gr/original/DP21771.jpg",
+    "medium": "Terracotta; black-figure",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/gr/original/DP21771.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP21768.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP21767.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP21770.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP21769.jpg"
+    ],
+    "title": "Fragment of a terracotta neck-amphora (jar)",
+    "what": [
+        "Clay",
+        "Vessels",
+        "Fragments",
+        "Vases",
+        "Terracotta",
+        "Amphorae",
+        "Neck amphorae"
+    ],
+    "when": "1000 B.C.-A.D. 1",
+    "where": [
+        "Europe",
+        "Greece"
+    ],
+    "who": "Prometheus Painter"
+}

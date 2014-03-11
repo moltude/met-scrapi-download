@@ -1,0 +1,131 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/12714"
+            },
+            {
+                "href": "http://scrapi.org/object/12740"
+            },
+            {
+                "href": "http://scrapi.org/object/11991"
+            },
+            {
+                "href": "http://scrapi.org/object/11986"
+            },
+            {
+                "href": "http://scrapi.org/object/11987"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 18, 2013",
+                "href": "/exhibitions/listings/2013/american-west",
+                "rel": "The American West in Bronze, 1850\u20131925"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R105_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140311120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R079_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140311134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R106_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140312120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R080_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140312134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R107_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140313120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R081_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140313134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/saturday-seminar-spring-2014?eid=R002_%7bE063A39F-FC40-4ECC-B690-C4C13F70B2A0%7d_20140315103000",
+                "rel": "Saturday Seminar with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/programs-for-visitors-with-disabilities/visitors-with-developmental-and-learning-disabilities/discoveries-westward-bound?eid=A001_%7bE5928C68-7EDB-4853-BA5C-44B6BAEFED3E%7d_20140206162625",
+                "rel": "Discoveries\u2014Westward Bound (Ages 18 and above)"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/programs-for-visitors-with-disabilities/visitors-with-developmental-and-learning-disabilities/discoveries-family-westward-bound?eid=A001_%7b4560930D-CFDB-4C16-9050-2BA6AE2F478C%7d_20140206163830",
+                "rel": "Discoveries\u2014Westward Bound (Ages 5\u201317)"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/talks/gallery-talks/the-american-west-in-bronze-spring?eid=A001_%7b354F82EB-4CF6-4AA3-A112-410983A132BF%7d_20140206161314",
+                "rel": "Exhibition Tour\u2014The American West in Bronze, 1850\u20131925"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/amdr/hd_amdr.htm",
+                "rel": "Late Eighteenth\u2013Century American Drawings"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwf",
+                "rel": "France, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/11985"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/11985"
+        }
+    },
+    "accession number": "54.82",
+    "credit line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1954",
+    "date": "1805\u20137",
+    "department": "American Paintings and Sculpture",
+    "dimensions": "7 1/4 x 6 7/16 in. (18.4 x 16.4 cm)",
+    "gallery-id": 773,
+    "id": 11985,
+    "image": "http://images.metmuseum.org/CRDImages/ap/original/DT5185.jpg",
+    "medium": "Watercolor and graphite on off-white wove paper",
+    "provenance": [
+        "Sir Augustus John Foster",
+        "sale, Sotheby's, London, November 18, 1926,  lot 635",
+        "with Goodspeed's Book Shop, Boston, 1927",
+        "Mr. and Mrs. Luke  Vincent Lockwood, until 1954",
+        "sale, Parke-Bernet, New York, May 13-15,  1954, lot 438"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ap/original/DT5185.jpg",
+        "http://images.metmuseum.org/CRDImages/ap/original/ap54.82.jpg",
+        "http://images.metmuseum.org/CRDImages/ap/original/APs2494.jpg",
+        "http://images.metmuseum.org/CRDImages/ap/original/157537.jpg",
+        "http://images.metmuseum.org/CRDImages/ap/original/268827.jpg"
+    ],
+    "title": "Osage Warrior",
+    "what": [
+        "Drawings",
+        "Paper",
+        "Watercolors",
+        "Graphite",
+        "Wove paper"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Charles Balthazar Julien F\u00e9vret de Saint-M\u00e9min"
+}

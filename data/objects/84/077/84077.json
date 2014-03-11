@@ -1,0 +1,152 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/126723"
+            },
+            {
+                "href": "http://scrapi.org/object/81669"
+            },
+            {
+                "href": "http://scrapi.org/object/126754"
+            },
+            {
+                "href": "http://scrapi.org/object/126725"
+            },
+            {
+                "href": "http://scrapi.org/object/88934"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R130_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140310130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=ssa",
+                "rel": "South Asia and the Himalayan Region, 1800\u20131900 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=ssa",
+                "rel": "South Asia and the Himalayan Region, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/84077"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/84077"
+        }
+    },
+    "accession number": "C.I.39.91.37a\u2013j",
+    "credit line": "Gift of Miss Irene Lewisohn and Mrs. Alice Lewisohn Crowley, 1939",
+    "culture": "Tibetan",
+    "date": "1875\u20131939",
+    "department": "Costume Institute",
+    "dimensions": [
+        "(a) Length 53 1/2 in. (135.9 cm)",
+        "(b) Length 36 1/2 in. (92.7 cm)",
+        "(c) Length 33 in. (83.8 cm)",
+        "(d) Length 12 1/2 in. (31.8 cm)",
+        "(e, f) Length 17 in. (43.2 cm)",
+        "(g) Length 75 in. (190.5 cm)",
+        "(h, i) Length 92 in. (233.7 cm)",
+        "(j) Length 27 in. (68.6 cm)"
+    ],
+    "id": 84077,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/CI39.91.37a_F.jpg",
+    "medium": [
+        "(a) wool, cotton, metal",
+        "(b) silk",
+        "(c) silk, bast fiber",
+        "(d) silk, fur, cotton, paper",
+        "(e, f) wool, cotton, leather",
+        "(g, h, i) cotton, wool",
+        "(j) cotton, bone, wood, metal, leather"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/CI39.91.37a_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI39.91.37a_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI39.91.37b_S.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI39.91.37c_S.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI39.91.37d.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI39.91.37ef_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI39.91.37ef_S.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI39.91.37g.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI39.91.37hi.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI39.91.37j_S.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI39.91.37j_Tp.jpg"
+    ],
+    "title": "Ensemble",
+    "what": [
+        "Metal",
+        "Silk",
+        "Cotton",
+        "Wool",
+        "Bone",
+        "Leather",
+        "Ensembles",
+        "Hair",
+        "Fur",
+        "Plant fiber",
+        "Bast"
+    ],
+    "where": [
+        "Asia",
+        "China",
+        "Tibet"
+    ]
+}

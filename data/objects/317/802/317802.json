@@ -1,0 +1,113 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/318421"
+            },
+            {
+                "href": "http://scrapi.org/object/318429"
+            },
+            {
+                "href": "http://scrapi.org/object/313677"
+            },
+            {
+                "href": "http://scrapi.org/object/313779"
+            },
+            {
+                "href": "http://scrapi.org/object/314862"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From September 16, 2013",
+                "href": "/exhibitions/listings/2013/feathered-walls",
+                "rel": "Feathered Walls"
+            },
+            {
+                "date": "From October 8, 2013",
+                "href": "/exhibitions/listings/2013/nelson-rockefeller",
+                "rel": "The Nelson A. Rockefeller Vision"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=A115_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140210093011",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/talks/gallery-talks/ancient-american-sculpture?eid=A001_%7b7A6AA394-9359-47C1-87B4-65B0894C01AB%7d_20140123114645",
+                "rel": "Ancient American Sculpture"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R105_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140311130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R106_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140312130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R107_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140313130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 18, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/shaping-the-african-art-canon?eid=A001_%7b447041C4-D9E7-43A9-AE5F-85BAEB6E7196%7d_20140214113010",
+                "rel": "Shaping the African Art Canon: From the Museum to the Classroom"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/talks/the-observant-eye/shared-memory-sculptural-ancestral-objects-from-oceania?eid=A001_%7b94768B86-339F-4726-A3BC-8F798C423768%7d_20140123143856",
+                "rel": "Shared Memory: Sculptural Ancestral Objects from Oceania"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=A116_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140210093151",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/talks/gallery-talks/ancient-american-sculpture?eid=A002_%7b7A6AA394-9359-47C1-87B4-65B0894C01AB%7d_20140123114700",
+                "rel": "Ancient American Sculpture"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/317802"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/317802"
+        }
+    },
+    "accession number": "1996.373.1",
+    "credit line": "Purchase, Discovery Communications Inc. Gift, 1996",
+    "culture": "Highlands, Mt. Hagen region",
+    "date": "ca. 1500 B.C.E.\u2013 ?A.D. 1600",
+    "department": "Arts of Africa, Oceania and the Americas",
+    "description": "This stylized bird figure once adorned the end of a stone pestle. Almost certainly used in conjunction with the prehistoric stone mortars found in the same region, such pestles may have been ritual objects\u2014possibly used to grind pigments used for body paint or in the preparation of ceremonial meals.The earliest known works of Oceanic sculpture are a series of ancient stone figures unearthed in various locations on the island of New Guinea, primarily in the mountainous highlands of the interior. To date, no examples have been excavated from a secure archaeological context. Although organic material trapped within a crack in one example has recently been dated to 1500 B.C., firm dating and chronology for the figures are otherwise lacking.The stone sculptures fall into three basic categories: mortars, pestles, and freestanding figures. The tops of many pestles are adorned with images of human heads, birds, or bird's heads. The mortars display similar anthropomorphic and avian imagery as well as geometric motifs. Freestanding figures include depictions of humans, birds, and phalluses, as well as long-nosed animals that some scholars identify as echidnas (spiny mammals resembling hedgehogs). While the original significance and function of these stone images remain unknown, they possibly represent totemic species or ancestors and were likely used in ritual contexts. When found by contemporary New Guinea peoples, these early stone sculptures are often thought to be of supernatural origin and are reused in a variety of religious contexts, from fertility rituals to hunting magic and sorcery.",
+    "dimensions": "H. 2 3/8 x W. 4 1/2 in. (6.1 x 11.4 cm)",
+    "id": 317802,
+    "image": "http://images.metmuseum.org/CRDImages/ao/original/DT4055.jpg",
+    "medium": "Stone",
+    "provenance": [
+        "Edith Watts, Queensland, Australia, collected 1960s\u20131980s in Papua, New Guinea",
+        "Rograda Pty. Ltd., Queensland, Australia, until 1996"
+    ],
+    "title": "Pestle Finial",
+    "what": [
+        "Stone",
+        "Finials",
+        "Pestles"
+    ],
+    "where": [
+        "Oceania",
+        "Papua New Guinea"
+    ]
+}

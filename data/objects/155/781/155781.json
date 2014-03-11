@@ -1,0 +1,132 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/156132"
+            },
+            {
+                "href": "http://scrapi.org/object/155779"
+            },
+            {
+                "href": "http://scrapi.org/object/155784"
+            },
+            {
+                "href": "http://scrapi.org/object/156134"
+            },
+            {
+                "href": "http://scrapi.org/object/157073"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R129_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140307130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R130_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140310130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=waa",
+                "rel": "Anatolia and the Caucasus, 1600\u20131800 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=nc",
+                "rel": "Central and North Asia, 1600\u20131800 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=eue",
+                "rel": "Eastern Europe and Scandinavia, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/155781"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/155781"
+        }
+    },
+    "accession number": "2009.300.1103",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. Edward S. Harkness in memory of her mother, Elizabeth Greenman Stillman, 1931",
+    "culture": "Russian",
+    "date": "fourth quarter 18th century",
+    "department": "Costume Institute",
+    "description": "This object is from the collection of Natalia de Shabelsky (1841-1905), a Russian noblewoman compelled to preserve what she perceived as the vanishing folk art traditions of her native country. Traveling extensively throughout Great Russia, she collected many fine examples of textile art of the wealthy peasant class. From the 1870s until moving to France in 1902, Shabelsky amassed a large collection of intricately embroidered hand-woven household textiles and opulent festival garments with rich decoration and elaborate motifs. The Brooklyn Museum holdings include many fine examples including the majority of the garments. Portions of Shabelsky's collection are also housed at the Museum of Fine Arts, Boston, the Cleveland Art Museum, and the Russian Museum of Ethnography in St. Petersburg.Peter the Great's (1672-1725) attempts to Westernize Russia were partially manifested in changes to the traditional costume of the court. Though they were not required by law to adhere to the reformations, the peasant class commonly adopted aspects of Western styles blended with folk dress. This headdress in particular is an excellent example of the melding of cultures found in Russian history. The shape of this headdress is nearly identical to a French style from Alsace illustrated in Auguste Racinet's \"The Complete History of Costume\". This type of crossover is characteristic of the evolution of Russian dress. Married women were required to cover their hair entirely lest they be considered immodest, therefore headdresses, or kokoshniks were often accompanied by a venchik, a forehead covering made of fabric or metal.",
+    "dimensions": "11 1/2 x 20 in. (29.2 x 50.8 cm)",
+    "id": 155781,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/31.471_31.465_front_CP4.jpg",
+    "medium": "silk, mother-of-pearl, metal, glass, cotton, paper",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/31.471_31.465_front_CP4.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/31.471_31.465_back_CP4.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/31.465_front bw.JPG",
+        "http://images.metmuseum.org/CRDImages/ci/original/31.465 bw.JPG",
+        "http://images.metmuseum.org/CRDImages/ci/original/31.465a-b bw.JPG",
+        "http://images.metmuseum.org/CRDImages/ci/original/31.465_back bw.JPG"
+    ],
+    "title": "Headdress",
+    "what": [
+        "Metal",
+        "Costume",
+        "Silk",
+        "Glass",
+        "Cotton",
+        "Pearl",
+        "Headdresses"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Asia",
+        "Russia"
+    ]
+}

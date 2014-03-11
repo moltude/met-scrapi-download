@@ -1,0 +1,131 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/5345"
+            },
+            {
+                "href": "http://scrapi.org/object/7377"
+            },
+            {
+                "href": "http://scrapi.org/object/7789"
+            },
+            {
+                "href": "http://scrapi.org/object/2683"
+            },
+            {
+                "href": "http://scrapi.org/object/6693"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 18, 2013",
+                "href": "/exhibitions/listings/2013/american-west",
+                "rel": "The American West in Bronze, 1850\u20131925"
+            },
+            {
+                "date": "February 24, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R096_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140224120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "February 25, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R097_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140225120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "February 25, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R073_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140225134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "February 26, 2014",
+                "href": "/events/programs/talks/gallery-talks/light-in-american-art-hudson-river-school?eid=A003_%7b86B27E91-724D-4796-8075-F3123974AE65%7d_20131016163855",
+                "rel": "Light in American Art: Hudson River School to Abstract Expressionism"
+            },
+            {
+                "date": "February 26, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R098_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140226120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "February 26, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R074_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140226134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "February 27, 2014",
+                "href": "/events/programs/talks/gallery-talks/the-american-west-in-bronze?eid=A001_%7bF8FF67EB-DE74-4A7A-B860-AAB9F09B0E26%7d_20131024112254",
+                "rel": "Exhibition Tour\u2014The American West in Bronze, 1850\u20131925"
+            },
+            {
+                "date": "February 27, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R099_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140227120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "February 27, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R075_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140227134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "March 1, 2014",
+                "href": "/events/programs/tours/american-art-weekend?eid=A180_%7b501B6EDB-D4CC-4402-98B8-688E06337497%7d_20131127140947",
+                "rel": "American Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=na",
+                "rel": "The United States, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/2354"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/2354"
+        }
+    },
+    "accession number": "52.170a, b",
+    "credit line": "Morris K. Jesup Fund, 1952",
+    "culture": "American",
+    "date": "1735\u201340",
+    "department": "American Decorative Arts",
+    "dimensions": [
+        "Overall 10 3/8 x 10 1/16 in. (26.4 x 25.6 cm); 41 oz. 14 dwt. (1296.9 g)",
+        "Foot Diam. 4 5/8 in. (11.7 cm)",
+        "Lip Diam. 5 15/16 in. (15.1 cm)",
+        "Body H. 6 3/4 in. (17.1 cm); 31 oz. 3 dwt. (968.7 g)",
+        "Cover 4 3/16 x 6 1/8 in. (10.6 x 15.6 cm); 10 oz. 11 dwt. (328.2 g)"
+    ],
+    "gallery-id": 750,
+    "id": 2354,
+    "image": "http://images.metmuseum.org/CRDImages/ad/original/DP107453.jpg",
+    "medium": "Silver",
+    "provenance": [
+        "James Graham and Sons, New York, until 1952"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ad/original/DP107453.jpg",
+        "http://images.metmuseum.org/CRDImages/ad/original/DP107454.jpg",
+        "http://images.metmuseum.org/CRDImages/ad/original/DP107455.jpg",
+        "http://images.metmuseum.org/CRDImages/ad/original/DP107456.jpg",
+        "http://images.metmuseum.org/CRDImages/ad/original/DP107457.jpg",
+        "http://images.metmuseum.org/CRDImages/ad/original/DP107458.jpg"
+    ],
+    "title": "Two-Handled Cup and Cover",
+    "what": [
+        "Metal",
+        "Silver",
+        "Drinking vessels",
+        "Cups"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "North and Central America",
+        "United States",
+        "Massachusetts",
+        "Boston"
+    ],
+    "who": "Jacob Hurd"
+}

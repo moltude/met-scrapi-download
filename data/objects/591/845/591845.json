@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/591825"
+            },
+            {
+                "href": "http://scrapi.org/object/591830"
+            },
+            {
+                "href": "http://scrapi.org/object/591840"
+            },
+            {
+                "href": "http://scrapi.org/object/591829"
+            },
+            {
+                "href": "http://scrapi.org/object/591836"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=eus",
+                "rel": "Southern Europe, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/591845"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/591845"
+        }
+    },
+    "accession number": "226 B641",
+    "credit line": "Presented by Mr. S.P. Avery",
+    "culture": "Presso Pietro Paolo Montignani-Mirabili",
+    "date": "1806",
+    "department": "The Libraries",
+    "description": "Filippo Bonanni, a librarian and bibliographer, was named head librarian at the Collegio Romano in 1676. He was also chief archivist and cataloguer of the Museum Kircherianum in Rome, which displayed musical curiosities and antiquities. Bonnani's \"Gabinetto armonico\" was first printed in 1722 and has been issued in numerous editions through the twentieth century. Although there are errors in nomenclature and inaccuracies in the representation of certain instruments, the \"Gabinetto armonico\" remains an important reference on both European and non-Western instruments. Bonanni also describes Michele Todini's musical inventions, yet his engraving of an elaborate harpsichord differs in detail from the same instrument depicted in Kircher's \"Phonurgia nova\" (221.1 K63).Illustrated: vol. 1, pl. 96, a view of the room known as the Galleria Aromonica, in the Verospi Palace in Rome, showing a keyboard instrument designed by Michele Todini",
+    "dimensions": "2 vols.",
+    "id": 591845,
+    "image": "http://images.metmuseum.org/CRDImages/li/original/li226 B641.R.jpg",
+    "medium": "Printed books, engraved plates",
+    "title": "Descrizione degli' istromenti armonici d'ogni genere . . .",
+    "what": [
+        "Engraving",
+        "Books",
+        "Printing",
+        "Plates"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "Italy",
+        "Rome"
+    ],
+    "who": "Filippo Buonanni"
+}

@@ -1,0 +1,154 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/24967"
+            },
+            {
+                "href": "http://scrapi.org/object/24968"
+            },
+            {
+                "href": "http://scrapi.org/object/24969"
+            },
+            {
+                "href": "http://scrapi.org/object/24971"
+            },
+            {
+                "href": "http://scrapi.org/object/24973"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From October 2, 2012",
+                "href": "/exhibitions/listings/2012/arms-and-armor",
+                "rel": "Bashford Dean and the Creation of the Arms and Armor Department"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A083_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113541",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A074_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112917",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A084_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113556",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A093_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113923",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A075_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112932",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A094_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113938",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 5, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A085_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113610",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161351",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A076_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112951",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 19, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161305",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/aslv/hd_aslv.htm",
+                "rel": "Nineteenth\u2013Century American Silver"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/dect/hd_dect.htm",
+                "rel": "Techniques of Decoration on Arms and Armor"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=na",
+                "rel": "The United States and Canada, 1800\u20131900 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/24972"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/24972"
+        }
+    },
+    "accession number": "2013.903",
+    "credit line": "Purchase, Arthur Ochs Sulzberger Gift, 2013",
+    "culture": "American",
+    "date": "ca. 1890\u201393",
+    "department": "Arms and Armor",
+    "description": "The flamboyant Art Nouveau grips recall French or Russian enameled silver. The revolver was shown by Smith and Wesson at the World's Columbian Exposition in Chicago in 1893.",
+    "dimensions": "L. 9 1/16 in. (23 cm); barrel L. 4 in. (10.16 cm); Cal. .38 in. (9.7 mm); Wt. 1 lb. 6 oz. (628 g); case 10 5/8 x 6 1/2 x 2 1/16 in. (27 x 16.5 x 5.2 cm); Wt. of case 1 lb. 9 oz. (699 g)",
+    "gallery-id": 372,
+    "id": 24972,
+    "image": "http://images.metmuseum.org/CRDImages/aa/original/DP315155.jpg",
+    "medium": "Steel, silver, enamel, wood, leather, copper alloy, gold",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/aa/original/DP315155.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP315165.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP315164.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP315168.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP315166.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP315163.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP315167.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP315169.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP318679.jpg"
+    ],
+    "title": "Smith and Wesson .38 Caliber Safety Third Model Double-Action Revolver, serial no. 83097, with Case",
+    "what": [
+        "Metal",
+        "Copper alloy",
+        "Silver",
+        "Gold",
+        "Arms",
+        "Iron and iron alloy",
+        "Copper",
+        "Leather",
+        "Iron alloy",
+        "Steel",
+        "Enamels",
+        "Cases",
+        "Firearms",
+        "Small arms",
+        "Handguns",
+        "Pistols",
+        "Revolvers"
+    ],
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": [
+        "Tiffany & Co.",
+        "Smith & Wesson"
+    ]
+}

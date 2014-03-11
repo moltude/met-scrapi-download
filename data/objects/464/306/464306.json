@@ -1,0 +1,145 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/464239"
+            },
+            {
+                "href": "http://scrapi.org/object/472562"
+            },
+            {
+                "href": "http://scrapi.org/object/464237"
+            },
+            {
+                "href": "http://scrapi.org/object/464514"
+            },
+            {
+                "href": "http://scrapi.org/object/464515"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 25, 2014",
+                "href": "/exhibitions/listings/2014/canterbury-stained-glass",
+                "rel": "Radiant Light"
+            },
+            {
+                "date": "From August 6, 2013",
+                "href": "/exhibitions/listings/2013/design-motifs-in-byzantine-art",
+                "rel": "Design Motifs in Byzantine Art"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/ancestors-of-christ?eid=A001_%7b64F28017-6AB0-4B00-864F-E5676EE07585%7d_20140113142350",
+                "rel": "The Ancestors of Christ: Stained Glass Windows from Canterbury Cathedral"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/ancestors-of-christ?eid=A002_%7b64F28017-6AB0-4B00-864F-E5676EE07585%7d_20140113142402",
+                "rel": "The Ancestors of Christ: Stained Glass Windows from Canterbury Cathedral"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R008_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140309150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R009_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140310150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R105_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140311104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R010_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140311150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R106_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140312104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R011_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140312150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R107_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140313104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=07\u00aeion=eusb",
+                "rel": "Balkan Peninsula, 1000\u20131400 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/464306"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/464306"
+        }
+    },
+    "accession number": "17.190.33",
+    "credit line": "Gift of J. Pierpont Morgan, 1917",
+    "culture": "Spanish",
+    "date": "before 1085",
+    "department": "Medieval Art",
+    "description": "Byzantine ivories were highly prized in western Europe, where they survived in church treasuries or were incorporated into deluxe book bindings. The ivory from the panel on the left originally formed the center of a Byzantine three-paneled icon. It may have been one of the many gifts to the Monastery of Santa Cruz de la Ser\u00f3s, which was founded by Queen Felicia (d. 1085), wife of Sancho V Ram\u00edrez (r. 1076\u201394), king of Aragon and Navarre. The sumptuous cover also contains a sapphire seal, located to the right of Saint John.  The other cover is inscribed with Felicia's name, below the ivory crucifix, inscribed in Arabic with four of the ninety-nine \"Beautiful Names\" of God.",
+    "dimensions": [
+        "Overall 10 1/4 x 7 1/2 x 1 1/4 in. (26.1 x 19 x 3.1 cm)",
+        "Ivory Corpus 2 7/8 x 2 11/16 x 9/16 in. (7.3 x 6.8 x 1.5 cm)"
+    ],
+    "gallery-id": 304,
+    "id": 464306,
+    "image": "http://images.metmuseum.org/CRDImages/md/original/sf17-190-33s1.jpg",
+    "medium": "Silver-gilt with pseudo-filigree, glass & stone cabochons, cloisonn\u00e9 enamel, Ivory with traces of gilding on pine support",
+    "provenance": [
+        "J. Pierpont Morgan, London and New York",
+        "Charles Stein(?), Paris",
+        "Sir Sir Thomas Gibson Carmichael, 12th Baronet of Castle Craig, Castle Craig, N.B., Scotland"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/md/original/sf17-190-33s1.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/sf17-190-33d1.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/sf17-190-33d3.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/sf17-190-33s2.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/sf17-190-33s3.jpg"
+    ],
+    "title": "Book Cover (?) with Ivory Figures",
+    "what": [
+        "Metal",
+        "Glass",
+        "Silver",
+        "Wood",
+        "Gilt",
+        "Stone",
+        "Bone",
+        "Ivory",
+        "Enamels",
+        "Plaques",
+        "Softwood",
+        "Pine",
+        "Cloisonn\u00e9",
+        "Cabochons",
+        "Filigree"
+    ],
+    "when": "A.D. 1000-1400",
+    "where": [
+        "Asia",
+        "Turkey",
+        "Marmara",
+        "Istanbul"
+    ]
+}

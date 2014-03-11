@@ -1,0 +1,155 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/285444"
+            },
+            {
+                "href": "http://scrapi.org/object/284452"
+            },
+            {
+                "href": "http://scrapi.org/object/284453"
+            },
+            {
+                "href": "http://scrapi.org/object/294434"
+            },
+            {
+                "href": "http://scrapi.org/object/296287"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/aimp/hd_aimp.htm",
+                "rel": "American Impressionism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/cmon/hd_cmon.htm",
+                "rel": "Claude Monet (1840\u20131926)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/dgsp/hd_dgsp.htm",
+                "rel": "Edgar Degas (1834\u20131917): Painting and Drawing"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/mane/hd_mane.htm",
+                "rel": "\u00c9douard Manet (1832\u20131883)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/imml/hd_imml.htm",
+                "rel": "Impressionism: Art and Modernity"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/sara/hd_sara.htm",
+                "rel": "The Salon and The Royal Academy"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/dgsb/hd_dgsb.htm",
+                "rel": "Edgar Degas (1834\u20131917): Bronze Sculpture"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/jpon/hd_jpon.htm",
+                "rel": "Japonisme"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/lith/hd_lith.htm",
+                "rel": "Lithography in the Nineteenth Century"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/cast/hd_cast.htm",
+                "rel": "Mary Stevenson Cassatt (1844\u20131926)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/mont/hd_mont.htm",
+                "rel": "The Lure of Montmartre, 1880\u20131900"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/prnt2/hd_prnt2.htm",
+                "rel": "The Print in the Nineteenth Century"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwf",
+                "rel": "France, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/263608"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/263608"
+        }
+    },
+    "accession number": "1983.1092",
+    "credit line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1983",
+    "date": "1895",
+    "department": "Photographs",
+    "description": "Degas set up his camera and posed with Marie Fontaine and Paul Poujaud, a lawyer, connoisseur, and friend of many painters and musicians of the time. Years later Poujaud recalled that the photograph was made in the home of composer Ernest Chausson and his wife, Madame Fontaine's sister, and that Degas posed the group and gave the sign for someone else to close the shutter at the right moment. The slouching pose and staging of friends in a hushed, ambiguous narrative recall Degas's painting Sulking of two decades earlier, which can be seen nearby in the Museum's European Paintings Galleries.",
+    "dimensions": "29.4 x 40.5 cm. (11  9/16  x 15  15/16  in.)",
+    "id": 263608,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DT1653.jpg",
+    "medium": "Gelatin silver print",
+    "provenance": [
+        "Paul Poujaud (though an attestation of Fran\u00e7ois Val\u00e9ry at Bievres, May 25, 1983, states that it was given by Degas to paul Val\u00e9ry)",
+        "Paul Val\u00e9ry",
+        "Fran\u00e7ois Val\u00e9ry",
+        "[Alhis Matheos, Basel]"
+    ],
+    "title": "Paul Poujaud, Mme. Arthur Fontaine, and Degas",
+    "what": [
+        "Photographs",
+        "Gelatin silver prints"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Edgar Degas"
+}

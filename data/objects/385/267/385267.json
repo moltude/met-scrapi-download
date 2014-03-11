@@ -1,0 +1,99 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/335004"
+            },
+            {
+                "href": "http://scrapi.org/object/352288"
+            },
+            {
+                "href": "http://scrapi.org/object/380381"
+            },
+            {
+                "href": "http://scrapi.org/object/380382"
+            },
+            {
+                "href": "http://scrapi.org/object/335994"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=euwc",
+                "rel": "Central Europe (including Germany), 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/385267"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/385267"
+        }
+    },
+    "accession number": "2009.335",
+    "credit line": "Edward Pearce Casey and Ian Woodner Family Collection Funds, 2009",
+    "date": "1564",
+    "department": "Drawings and Prints",
+    "dimensions": "sheet 12 3/16 x 8 7/16 in. (30.9 x 21.5 cm)",
+    "id": 385267,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP808610.jpg",
+    "medium": "Pen and black ink. Framing line in pen and black ink.",
+    "provenance": [
+        "Wilhelm Adam Thierry (German, 1761\u20131823), Meiningen",
+        "later to his his descendants",
+        "art market, Coburg",
+        "Ernst Friedrich Redslob (German, born 1851), Weimar, acquired in 1910",
+        "Gilhofer & RanschburgJune 28, 1934, lot 5",
+        "Hollstein und Puppel, BerlinFebruary 27-28, 1933, lot 574",
+        "Private Collection, Berlin, 1940",
+        "Dr. Hugo von Ziegler (1890\u20131966)",
+        "Sotheby's, New York, 28 January 2009, lot 9",
+        "Vendor: Katrin Bellinger Kunsthandel , Munich"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP808610.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP220643.jpg"
+    ],
+    "title": "Three Scenes from the Life of the Prophet Daniel",
+    "what": [
+        "Ink",
+        "Drawings"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Switzerland"
+    ],
+    "who": "Jost Amman"
+}

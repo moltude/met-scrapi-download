@@ -1,0 +1,148 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/50231"
+            },
+            {
+                "href": "http://scrapi.org/object/52098"
+            },
+            {
+                "href": "http://scrapi.org/object/44705"
+            },
+            {
+                "href": "http://scrapi.org/object/39597"
+            },
+            {
+                "href": "http://scrapi.org/object/39598"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 8, 2014",
+                "href": "/exhibitions/listings/2014/tibet-and-india",
+                "rel": "Tibet and India"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/chinese-carving",
+                "rel": "Colors of the Universe"
+            },
+            {
+                "date": "From July 19, 2013",
+                "href": "/exhibitions/listings/2013/chinese-snuff-bottles",
+                "rel": "Small Delights"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/ink-art",
+                "rel": "Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "From February 1, 2014",
+                "href": "/exhibitions/listings/2014/edo-period-painting",
+                "rel": "The Flowering of Edo Period Painting"
+            },
+            {
+                "date": "From April 14, 2014",
+                "href": "/exhibitions/listings/2014/lost-kingdoms",
+                "rel": "Lost Kingdoms"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/talks/gallery-talks/chinese-buddhist-sculpture?eid=A001_%7b539805A7-4AAC-4214-A063-93083E921332%7d_20140123142801",
+                "rel": "Chinese Buddhist Sculpture"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R104_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140310111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R104_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140310131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R105_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140311111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R105_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140311120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R105_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140311131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/talks/gallery-talks/gallery-conv-culture-and-politics?eid=A001_%7b33996DD5-3C4F-473B-BCAE-533DF0BF66F1%7d_20140205160349",
+                "rel": "Gallery Conversation\u2014Culture and Politics in Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=A093_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20131018142432",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R106_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140312120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R106_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140312131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/tang/hd_tang.htm",
+                "rel": "Tang Dynasty (618\u2013906)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=06\u00aeion=eac",
+                "rel": "China, 500\u20131000 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/39595"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/39595"
+        }
+    },
+    "accession number": "1996.103.1",
+    "credit line": "Purchase, Joseph Pulitzer Bequest, 1996",
+    "culture": "China",
+    "date": "late 8th\u2013early 9th century",
+    "department": "Asian Art",
+    "description": "An arrangement of floral medallions interspersed with quatrefoil motifs was one of the dominant textile patterns of the High Tang period (roughly the first half of the eighth century). A textile with a similar large floral medallion has been preserved as part of the Sh\u014ds\u014d-in collection from the mid-eighth-century imperial repository in Nara, Japan. However, an aspect of this work's weave structure\u2014namely, that it is bound in weft-faced twill on both the face and the reverse\u2014is more commonly seen in textiles of the tenth century and later.",
+    "dimensions": [
+        "Overall 24 x 28 in. (61 x 71.1 cm)",
+        "Mount (with plexi cover) 28 3/4 x 32 1/2 in. (73 x 82.6 cm)"
+    ],
+    "id": 39595,
+    "image": "http://images.metmuseum.org/CRDImages/as/original/DT4009.jpg",
+    "medium": "Woven silk weft-faced compound twill",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/as/original/DT4009.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DT4011.jpg"
+    ],
+    "title": "Textile with Floral Medallion",
+    "what": [
+        "Silk",
+        "Textiles",
+        "Woven",
+        "Twill"
+    ],
+    "when": "A.D. 500-1000",
+    "where": [
+        "Asia",
+        "China"
+    ]
+}

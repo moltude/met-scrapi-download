@@ -1,0 +1,123 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/312891"
+            },
+            {
+                "href": "http://scrapi.org/object/318291"
+            },
+            {
+                "href": "http://scrapi.org/object/318296"
+            },
+            {
+                "href": "http://scrapi.org/object/318292"
+            },
+            {
+                "href": "http://scrapi.org/object/317754"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From September 16, 2013",
+                "href": "/exhibitions/listings/2013/feathered-walls",
+                "rel": "Feathered Walls"
+            },
+            {
+                "date": "From October 8, 2013",
+                "href": "/exhibitions/listings/2013/nelson-rockefeller",
+                "rel": "The Nelson A. Rockefeller Vision"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R105_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140311130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R106_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140312130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R107_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140313130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 18, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/shaping-the-african-art-canon?eid=A001_%7b447041C4-D9E7-43A9-AE5F-85BAEB6E7196%7d_20140214113010",
+                "rel": "Shaping the African Art Canon: From the Museum to the Classroom"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/talks/the-observant-eye/shared-memory-sculptural-ancestral-objects-from-oceania?eid=A001_%7b94768B86-339F-4726-A3BC-8F798C423768%7d_20140123143856",
+                "rel": "Shared Memory: Sculptural Ancestral Objects from Oceania"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=A116_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140210093151",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/talks/gallery-talks/ancient-american-sculpture?eid=A002_%7b7A6AA394-9359-47C1-87B4-65B0894C01AB%7d_20140123114700",
+                "rel": "Ancient American Sculpture"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R117_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140401130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R118_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140402130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=07\u00aeion=san",
+                "rel": "Northern Andes, 1000\u20131400 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=sann",
+                "rel": "Northern Andes, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/309759"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/309759"
+        }
+    },
+    "accession number": "1970.246.6",
+    "credit line": "Gift of Dr. and Mrs. Howard Russell Hartman, 1970",
+    "culture": "Quimbaya",
+    "date": "10th\u201316th century",
+    "department": "Arts of Africa, Oceania and the Americas",
+    "description": "This striking vessel is a stirrup bottle with a face at the top of the spouts, a relatively uncommon form in Colombia. However, examples have been found among funerary offerings in the middle Cauca River area. The joined spouts on these bottles invariably form a human head with modeled features that are similar to those of the region's full-figure vessels. The bottle opens on the top of the head like full-figure examples. The ears and nose are pierced to hold ornaments. The thick spouts and globular chamber bear characteristic geometric resist designs in black on white and red. In tombs, full-figure vessels are said to be placed in rows flanking the body of the deceased or positioned at the head. It is possible that these two-spouts-with-head bottles were used in the same fashion.",
+    "dimensions": "H. 8 7/8 x W. 5 in. (22.5 x 12.7 cm)",
+    "id": 309759,
+    "image": "http://images.metmuseum.org/CRDImages/ao/original/DP108296.jpg",
+    "medium": "Ceramic",
+    "provenance": [
+        "Dr. and Mrs. Howard Russell Hartman, until 1970"
+    ],
+    "title": "Face Neck Bottle",
+    "what": [
+        "Ceramics",
+        "Vessels",
+        "Bottles"
+    ],
+    "where": [
+        "South America",
+        "Colombia"
+    ],
+    "who": "Quimbaya"
+}

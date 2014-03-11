@@ -1,0 +1,116 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/591541"
+            },
+            {
+                "href": "http://scrapi.org/object/590388"
+            },
+            {
+                "href": "http://scrapi.org/object/558026"
+            },
+            {
+                "href": "http://scrapi.org/object/560954"
+            },
+            {
+                "href": "http://scrapi.org/object/557266"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/teen-programs/saturday-sketching/saturday-sketching-egyptian-art?eid=A001_%7b8698F79D-A7E0-44F1-99CF-57C8A2E2471A%7d_20131211143556",
+                "rel": "Saturday Sketching\u2014Egyptian Art (Ages 11\u201318)"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A151_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113641",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R130_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140310140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=03\u00aeion=afe",
+                "rel": "Egypt, 2000\u20131000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/557220"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/557220"
+        }
+    },
+    "accession number": "11.151.642a\u2013w",
+    "credit line": "Rogers Fund, 1911",
+    "date": "ca. 1802\u20131450 B.C.",
+    "department": "Egyptian Art",
+    "dimensions": "a) l. 5.5 cm (2 3/16 in); b) l. 5.7 cm (2 1/4 in); c) l. 4.9 cm (1 15/16 in); d) l. 4 cm (1 9/16 in); e) l. 3.5 cm (1 3/8 in); f) not measured; g) l. 2.8 cm (1 1/8 in); h) l. 4 cm (1 9/16 in); i) not measured; j) l. 2.8 cm (1 1/8 in); k) l. 2.4 cm (15/16 in);  l) l. 2.7 cm (1 1/16 in); m) l. 3 cm (1 3/16 in); n) l. 3.1 cm (1 1/4 in); o) l. 2.7 cm (1 1/16 in); p) l. 2 cm (13/16 in);    q) l. 2.2 cm (7/8 in); r) l. 2 cm (13/16 in); u) 2.8 cm (1 1/8 in);  v) l. 1.8 cm (11/16 in);  w) l. 1cm (3/8 in); x) l. 1.5 cm (9/16 in)",
+    "id": 557220,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/11.151.642a-w-emf_145952.jpg",
+    "medium": "Amethyst",
+    "provenance": [
+        "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art. Acquired by the Museum in the division of finds."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/eg/original/11.151.642a-w-emf_145952.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/11.151.642a-w-emf_143505.jpg"
+    ],
+    "title": "Raw amethyst",
+    "what": [
+        "Fragments",
+        "Amethyst"
+    ],
+    "when": "2000-1000 B.C.",
+    "where": [
+        "Africa",
+        "Egypt",
+        "Mersa Matr\u00fbh",
+        "Al Lisht"
+    ]
+}

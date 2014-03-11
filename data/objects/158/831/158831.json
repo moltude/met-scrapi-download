@@ -1,0 +1,111 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/157332"
+            },
+            {
+                "href": "http://scrapi.org/object/175524"
+            },
+            {
+                "href": "http://scrapi.org/object/84017"
+            },
+            {
+                "href": "http://scrapi.org/object/88356"
+            },
+            {
+                "href": "http://scrapi.org/object/157587"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R150_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140407130000",
+                "rel": "Fashion in Art"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/158831"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/158831"
+        }
+    },
+    "accession number": "2009.300.384a\u2013d",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mr. and Mrs. Bernard S. Reis, 1965",
+    "culture": "European, Eastern",
+    "date": "1934",
+    "department": "Costume Institute",
+    "description": "This ensemble, comprised of dress, vest, apron, and belt, is unusual in its completeness and variety of elements. The components display a remarkable breadth of textile techniques, treatments, and materials. The ensemble is identified as being from Yugoslavia (the \"land of south Slavs\"), a name that was formally adopted in 1929 for the post-World War I Balkan region known as the Kingdom of Serbs, Croats, and Slovenes. The governance and make-up of the country known as Yugoslavia, at the crossroads of a politically sensitive region, changed repeatedly during the 20th century. Temporarily dissolved during World War II, the name was abolished in 2003 in favor of the State Union of Serbia and Montenegro; the state itself ceased to exist by 2006. In 2008, Sarajevo is known as the capital of Bosnia and Herzegovina.",
+    "dimensions": "Length at CB (a) 51 in. (129.5 cm)",
+    "id": 158831,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/65.240a-d_front_CP4.jpg",
+    "medium": "cotton, wool, metal, metal, glass",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/65.240a-d_front_CP4.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/65.240a-d_detail_CP4.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/65.240a-d_back_CP4.jpg"
+    ],
+    "title": "Ensemble",
+    "what": [
+        "Metal",
+        "Glass",
+        "Cotton",
+        "Wool",
+        "Ensembles"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe"
+    ]
+}

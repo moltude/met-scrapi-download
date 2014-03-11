@@ -1,0 +1,99 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/285417"
+            },
+            {
+                "href": "http://scrapi.org/object/285416"
+            },
+            {
+                "href": "http://scrapi.org/object/285418"
+            },
+            {
+                "href": "http://scrapi.org/object/282684"
+            },
+            {
+                "href": "http://scrapi.org/object/282685"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/pcgn/hd_pcgn.htm",
+                "rel": "The Pictures Generation"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/285415"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/285415"
+        }
+    },
+    "accession number": "2004.246",
+    "credit line": "Purchase, Pamela and Arthur Sanders Gift and Kenneth P. Siegel Gift, 2004",
+    "date": "1978",
+    "department": "Photographs",
+    "description": "Shortly after graduating from art school in the early 1970s, Simmons was living on a commune in the Catskills and painting houses for extra money. It was in the attic of a toy store in Liberty, New York, in 1972 that she discovered a vintage dollhouse of the kind that she had played with while growing up in the Ozzie-and-Harriet world of the 1950s. During the heyday of the feminist movement, however, such toys for girls were viewed suspiciously as agents of persuasive indoctrination. Simmons nevertheless also understood their complex allure. Located at the intersection between personal and collective memory, these dollhouses represented for an entire generation a set of untenable illusions that, while fading, nonetheless stubbornly clung to the unconscious.This is one of the artist's first images using her miniature dream home as a subject, and was produced using a do-it-yourself, mail-order \"Cibachrome Discovery Kit\" that yielded fittingly small prints. Their blatant artifice and brash coloring represented a significant shift in photographic practice away from the reigning standards of traditional art photography and the documentary style. They also commented ironically on the earnest, craft-oriented creations of her elders-so-called Pattern and Decoration artists such as Faith Ringgold and Judy Chicago.",
+    "dimensions": "Image 7.6 x 12.7 cm (3 x 5 in.)",
+    "id": 285415,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP108253.jpg",
+    "medium": "Silver dye bleach print",
+    "provenance": [
+        "the artist",
+        "[Metro Pictures, New York]",
+        "[Skarstedt Fine Art, New York]"
+    ],
+    "title": "Purple Woman/Kitchen/Second View",
+    "what": [
+        "Photographs",
+        "Silver-dye bleach prints"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "Laurie Simmons"
+}

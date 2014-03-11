@@ -1,0 +1,99 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/285696"
+            },
+            {
+                "href": "http://scrapi.org/object/283241"
+            },
+            {
+                "href": "http://scrapi.org/object/287811"
+            },
+            {
+                "href": "http://scrapi.org/object/287812"
+            },
+            {
+                "href": "http://scrapi.org/object/287813"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwb",
+                "rel": "Great Britain and Ireland, 1800\u20131900 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwb",
+                "rel": "Great Britain and Ireland, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/287806"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/287806"
+        }
+    },
+    "accession number": "2005.100.950",
+    "credit line": "Gilman Collection, Purchase, Mrs. Walter Annenberg and The Annenberg Foundation Gift, 2005",
+    "date": "ca. 1900",
+    "department": "Photographs",
+    "description": "The American dancer Loie Fuller (1862-1928) conquered Paris on her opening night at the Folies-Berg\u00e8re on November 5, 1892. Manipulating with bamboo sticks an immense skirt made of over a hundred yards of translucent, iridescent silk, the dancer evoked organic forms --butterflies, flowers, and flames--in perpetual metamorphosis through a play of colored lights. Loie Fuller's innovative lighting effects, some of which she patented, transformed her dances into enthralling syntheses of movement, color, and music, in which the dancer herself all but vanished. Artists and writers of the 1890s praised her art as an aesthetic breakthrough, and the Symbolist poet St\u00e9phane Mallarm\u00e9, who saw her perform in 1893, wrote in his essay on her that her dance was \"the theatrical form of poetry par excellence.\"  Immensely popular, she had her own theater at the 1900 Exposition Universelle in Paris, promoted other women dancers including Isadora Duncan, directed experimental movies, and stopped performing only in 1925.      Loie Fuller's whirling, undulating silhouette, which embodied the fluid lines of Art Nouveau, inspired many images, from the portraits of Toulouse-Lautrec and the posters of Jules Ch\u00e9ret and Alphonse Mucha to the sculptures of Pierre Roche and Th\u00e9odore Rivi\u00e8re, as well as the photographs of Harry C. Ellis and Eug\u00e8ne Druet. The three pictures shown here depict movements from such dances as \"Dance of the Lily\" and \"Dance of Flame.\" These images do not pretend to evoke the otherworldly effect of the performance, which took place on a darkened stage in front of a complex set of mirrors and whose magic was entirely dependent on lighting. Here, the strange shapes, reminiscent of chalices and butterflies, take form, incongruously, in the middle of an urban park, through the efforts of a short, stout figure. Arrested in crude natural light, they still retain, however, their spellbinding energy. Part of a group of thirteen photographs complemented by six others in the Mus\u00e9e d'Orsay, Paris, these images belonged to the sculptor Th\u00e9odore Rivi\u00e8re (1857-1912), and were previously thought to have been made by him. They have now been reattributed to Samuel Joshua Beckett, a photographer working in London.",
+    "dimensions": "10.3 x 13.3 cm (4 x 5 1/4 in.), irregularly trimmed",
+    "id": 287806,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP267677.jpg",
+    "medium": "Gelatin silver print",
+    "provenance": [
+        "Theodore Rivi\u00e8re",
+        "[...]",
+        "[Galerie Texbraun, Paris]",
+        "Gilman Paper Company Collection, New York, Feb. 1, 1985"
+    ],
+    "title": "[Loie Fuller Dancing]",
+    "what": [
+        "Photographs",
+        "Gelatin silver prints"
+    ],
+    "where": [
+        "Europe",
+        "United Kingdom"
+    ],
+    "who": "Samuel Joshua Beckett"
+}

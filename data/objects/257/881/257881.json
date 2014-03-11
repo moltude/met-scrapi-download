@@ -1,0 +1,117 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/249366"
+            },
+            {
+                "href": "http://scrapi.org/object/249368"
+            },
+            {
+                "href": "http://scrapi.org/object/249396"
+            },
+            {
+                "href": "http://scrapi.org/object/249412"
+            },
+            {
+                "href": "http://scrapi.org/object/249483"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R104_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140310123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R105_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140311123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R106_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140313123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R027_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140313130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R107_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140314123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/conversations-with-curators-and-conservators/terracotta-column-krater?eid=A001_%7b1CC4797D-7295-4614-9ACD-19C00BA693F4%7d_20140204162630",
+                "rel": "Conversation with a Curator\u2014Terracotta Column-Krater"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A144_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142257",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A145_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142312",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R116_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140331123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=05\u00aeion=eust",
+                "rel": "Italian Peninsula, 1\u2013500A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/257881"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/257881"
+        }
+    },
+    "accession number": "2012.479.8",
+    "credit line": "Gift of Ren\u00e9e E. and Robert A. Belfer, 2012",
+    "culture": "Roman",
+    "date": "3rd century A.D.",
+    "department": "Greek and Roman Art",
+    "description": "Greenish colorless; colorless, opaque yellow, and translucent turquoise green trails.Everted rim, folded over and in; neck funnel-shaped at top, then cylindrical with constriction on inside at base; squat piriform body; integral base ring; kick in bottom with traces of pontil scar.Three separate trails pressed on to body with notched upper surfaces; one colorless shaped like a serpent with a horned head and long spiral tail, similar trail in opaque yellow, and between these two a longer turquoise trail with similar head, humped body, and spiral tail passing below the yellow trail to form another panel on the other side of the colorless trail.Intact, except for internal cracks and one minor loss on yellow trail; pitting and iridescent weathering; black streaky inclusion in head of turquoise trail.The distinctive blue and yellow colors of the snake-thread trails mark this small flask out as a product of the late Roman glass factories at Cologne on the Rhine in Germany. The dropper-flask shape, however, is paralleled by numerous examples decorated with colorless trails, found principally in the Roman east.",
+    "dimensions": [
+        "Diameter 3 1/8 x 2 3/16 x 1 15/16 in. (8 x 5.6 x 4.9 cm)",
+        "Height 4 1/8 in. (10.5 cm)"
+    ],
+    "gallery-id": 169,
+    "id": 257881,
+    "image": "http://images.metmuseum.org/CRDImages/gr/original/DP281260.jpg",
+    "medium": "Glass; blown and trailed",
+    "provenance": [
+        "Collection of Sleiman Aboutaam, circa 1980\u2019s",
+        "with Phoenix Ancient Art, New York and Geneva, until 1993.  Purchased by Ren\u00e9e E. and Robert A. Belfer from Phoenix Ancient Art, New York, on December 13, 1993.  Given by Ren\u00e9e E. and Robert A. Belfer to The Metropolitan Museum of Art in 2012.The work has been on loan to, and on display at, The Metropolitan Museum of Art since April 2007."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/gr/original/DP281260.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP286323.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP286324.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP286325.jpg"
+    ],
+    "title": "Glass snake-thread dropper flask",
+    "what": [
+        "Glass",
+        "Flasks"
+    ],
+    "when": "A.D. 1-500",
+    "where": [
+        "Roman Empire"
+    ]
+}

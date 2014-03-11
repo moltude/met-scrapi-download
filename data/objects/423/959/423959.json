@@ -1,0 +1,80 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/424158"
+            },
+            {
+                "href": "http://scrapi.org/object/424750"
+            },
+            {
+                "href": "http://scrapi.org/object/423869"
+            },
+            {
+                "href": "http://scrapi.org/object/423896"
+            },
+            {
+                "href": "http://scrapi.org/object/423897"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/423959"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/423959"
+        }
+    },
+    "accession number": "64.503.64",
+    "credit line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1964",
+    "date": "1910-1929 ca.",
+    "department": "Drawings and Prints",
+    "description": "Repetitive Pattern with Fruit Trees Growing in a Crescent-Shape Before a Statue, from a group of 158 textile designs from an unidentified French designer. The designs include brightly colored patterns and single motifs in late Art Nouveau and Art Deco styles. Most designs have been made on tracing paper and show signs of transfer. Some include instructions for execution, written in French.",
+    "dimensions": "Sheet 9 1/8 \u00d7 12 11/16 in. (23.1 \u00d7 32.3 cm)",
+    "id": 423959,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP829982.jpg",
+    "medium": "charcoal, gouache and gold paint",
+    "provenance": [
+        "Vendor: George Ulrich"
+    ],
+    "title": "Repetitive Pattern with Fruit Trees Growing in a Crescent-Shape Before a Statue",
+    "what": [
+        "Drawings",
+        "Watercolors",
+        "Gouache",
+        "Charcoal"
+    ],
+    "when": "A.D. 1900-present",
+    "who": "Anonymous, French,"
+}

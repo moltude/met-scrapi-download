@@ -1,0 +1,121 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/447398"
+            },
+            {
+                "href": "http://scrapi.org/object/452850"
+            },
+            {
+                "href": "http://scrapi.org/object/444621"
+            },
+            {
+                "href": "http://scrapi.org/object/456956"
+            },
+            {
+                "href": "http://scrapi.org/object/447396"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world-french?eid=R025_%7b85906EA1-CA66-4610-A52C-39562E1A4C40%7d_20140303133000",
+                "rel": "Arts du monde Islamique (Arts of the Islamic World in French)"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R125_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140303141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R126_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140304141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R127_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140305141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R128_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140306141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R129_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140307141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A249_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114331",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A250_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114353",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world-french?eid=R026_%7b85906EA1-CA66-4610-A52C-39562E1A4C40%7d_20140310133000",
+                "rel": "Arts du monde Islamique (Arts of the Islamic World in French)"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R130_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140310141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=wai",
+                "rel": "Iran (Persia), 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/452948"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/452948"
+        }
+    },
+    "accession number": "1979.460.2a, b",
+    "credit line": "Gift of Irma B. Wilkinson, 1979",
+    "culture": "Islamic",
+    "date": "dated A.H. 1295/ A.D. 1878",
+    "department": "Islamic Art",
+    "description": "The exquisitely painted mirror case has a tan ground covered with a graceful gold grapevine scroll over which the main design has been painted in delicate shades of black. The artist, Fathallah Shirazi, has signed his name and given the date (1295/1878) on one side of the case. The inscription on the other side alludes to the patron but does not give his name. Fathallah was court painter to Nasir al-Din Shah (r. 1848\u201396), and was highly regarded for his lacquerwork, which is known primarily from a number of penboxes. These most often have a black ground onto which oval scrolls and swags of roses are painted in gold. On this mirror case, however, a variety of sleek birds and robust butterflies are scattered among branches bearing a dazzling array of sumptuous blossoms and bursting buds. This early work of the painter would appear to be the only known example in this particular style.",
+    "dimensions": "2 1/2 x 6 1/16 x 3 1/2 in. (6.4 x 15.4 x 8.9 cm)",
+    "gallery-id": 462,
+    "id": 452948,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/DP107270.jpg",
+    "medium": "Papier-mach\u00e9; painted, gilded, and lacquered",
+    "provenance": [
+        "Irma B. Wilkinson, Sharon, CT (until 1979)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/DP107270.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP155258.jpg"
+    ],
+    "title": "Lacquer Mirror Case",
+    "what": [
+        "Paper",
+        "Gilt",
+        "Painting",
+        "Cases",
+        "Lacquer",
+        "Mirrors"
+    ],
+    "where": [
+        "Asia",
+        "Iran"
+    ],
+    "who": "Fathallah Shirazi"
+}

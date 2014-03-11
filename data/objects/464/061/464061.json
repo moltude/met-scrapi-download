@@ -1,0 +1,137 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/464031"
+            },
+            {
+                "href": "http://scrapi.org/object/464032"
+            },
+            {
+                "href": "http://scrapi.org/object/464910"
+            },
+            {
+                "href": "http://scrapi.org/object/464843"
+            },
+            {
+                "href": "http://scrapi.org/object/464828"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 25, 2014",
+                "href": "/exhibitions/listings/2014/canterbury-stained-glass",
+                "rel": "Radiant Light"
+            },
+            {
+                "date": "From August 6, 2013",
+                "href": "/exhibitions/listings/2013/design-motifs-in-byzantine-art",
+                "rel": "Design Motifs in Byzantine Art"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/ancestors-of-christ?eid=A001_%7b64F28017-6AB0-4B00-864F-E5676EE07585%7d_20140113142350",
+                "rel": "The Ancestors of Christ: Stained Glass Windows from Canterbury Cathedral"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/ancestors-of-christ?eid=A002_%7b64F28017-6AB0-4B00-864F-E5676EE07585%7d_20140113142402",
+                "rel": "The Ancestors of Christ: Stained Glass Windows from Canterbury Cathedral"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R008_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140309150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R009_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140310150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R105_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140311104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R010_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140311150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R106_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140312104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R011_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140312150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R107_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140313104500",
+                "rel": "Masterpieces of the Middle Ages"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/464061"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/464061"
+        }
+    },
+    "accession number": "17.190.1656",
+    "credit line": "Gift of J. Pierpont Morgan, 1917",
+    "culture": "Byzantine",
+    "date": "ca. 7th century",
+    "department": "Medieval Art",
+    "description": "The intricately worked pendants are separated by hexagonal spacers.Opus interrasile was a technique used by goldsmiths to make elegant jewelry from the 200s through the 600s. Designs were traced onto sheets of gold; the background was punched with holes of various sizes to highlight the pattern; and fine details were then worked on the surface. The patterns formed by piercing the metal ground encouraged the play of light and shadow across an object's surface.",
+    "dimensions": [
+        "Overall 21 5/8 x 1 15/16 x 3/8 in. (55 x 4.9 x 0.9 cm)",
+        "chain 21 5/8 in. (55 cm)",
+        "hexagonal shaped beads 1 7/16 x 3/8 in. (3.6 x 0.9 cm)",
+        "medallions 1 15/16 x 1 1/2 x 1/4 in. (4.9 x 3.8 x 0.7 cm)",
+        "petal shaped pendants 1 7/8 x 1 x 1/4 in. (4.7 x 2.6 x 0.7 cm)"
+    ],
+    "gallery-id": 301,
+    "id": 464061,
+    "image": "http://images.metmuseum.org/CRDImages/md/original/DP241637.jpg",
+    "medium": "Pendants gold - sheet; scribed, engraved, chased, punched; wire - beaded; granulation.  Tubes: gold - sheet; wire - beaded.  Chain: gold - strip (half round).",
+    "provenance": [
+        "[ Amedeo Canessa, Paris (sold 1911)]",
+        "J. Pierpont Morgan, London and New York (1911\u20131913)",
+        "Estate of J. Pierpont Morgan, New York (1913\u20131917)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/md/original/DP241637.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/dp30692.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/sf17-190-1656s2.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/sf17-190-1656d5.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/sf17-190-1656d2.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/sf17-190-1656d3.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/sf17-190-1656d4.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/sf17-190-1656d1.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/sf17-190-1656d6b.jpg"
+    ],
+    "title": "Gold Necklace with Pendants",
+    "what": [
+        "Metal",
+        "Costume",
+        "Engraving",
+        "Metalwork",
+        "Gold",
+        "Jewelry",
+        "Pendants",
+        "Necklaces",
+        "Pipes",
+        "Chains",
+        "Beading"
+    ],
+    "when": "A.D. 500-1000"
+}

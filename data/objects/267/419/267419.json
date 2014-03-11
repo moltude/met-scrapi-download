@@ -1,0 +1,104 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/284634"
+            },
+            {
+                "href": "http://scrapi.org/object/267361"
+            },
+            {
+                "href": "http://scrapi.org/object/285143"
+            },
+            {
+                "href": "http://scrapi.org/object/267340"
+            },
+            {
+                "href": "http://scrapi.org/object/484482"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/phdu/hd_phdu.htm",
+                "rel": "Photography in D\u00fcsseldorf"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/phef/hd_phef.htm",
+                "rel": "Photography in the Expanded Field: Painting, Performance, and the Neo\u2013Avant\u2013Garde"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwcm",
+                "rel": "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/267419"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/267419"
+        }
+    },
+    "accession number": "1996.68",
+    "credit line": "Purchase, The Horace W. Goldsmith Foundation Gift, through Joyce and Robert Menschel, 1996",
+    "date": "1969",
+    "department": "Photographs",
+    "description": "This seascape is made from two negatives printed on a single sheet and seamed at the horizon. A century after the French photographer Gustave Le Gray used the same technique to overcome a technical limitation and achieve a glorious, sun-spangled, realistic seascape, Richter employed it with a radically different aim, to subtly demonstrate that all images, even photographs, are made-up.     Although the horizonseam in Richter's work is almost imperceptible, the image is vaguely unsettling.  Gradually we recognize that the leaden sea and cloudy sky, while poetically compatible, are not actually congruent, because the clouds have been printed upsidedown.  With this simple yet unnerving inversion, Richter emphasizes both the fabricated nature of reproductions and the complacency of our usual perspective on the world.",
+    "dimensions": "41.5 x 39.5 cm. (16  5/16  x 15  9/16  in.)",
+    "id": 267419,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/MM90462.jpg",
+    "medium": "Lithograph",
+    "provenance": [
+        "Luhring Augustine"
+    ],
+    "title": "Seest\u00fcck I",
+    "what": [
+        "Prints",
+        "Photographs",
+        "Planographic prints",
+        "Lithographs"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "Germany"
+    ],
+    "who": "Gerhard Richter"
+}

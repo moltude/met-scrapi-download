@@ -1,0 +1,120 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/459427"
+            },
+            {
+                "href": "http://scrapi.org/object/459429"
+            },
+            {
+                "href": "http://scrapi.org/object/461011"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R125_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140303134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R126_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140304134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R127_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140305134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R128_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140306134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R129_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140307134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R130_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140310134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R131_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140311134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R132_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140312134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R133_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140313134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R134_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140314134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=eustc",
+                "rel": "Florence and Central Italy, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/461043"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/461043"
+        }
+    },
+    "accession number": "1975.1.2489",
+    "credit line": "Robert Lehman Collection, 1975, 1975.1.2489",
+    "date": "ca. 1510\u201315",
+    "department": "Robert Lehman Collection",
+    "description": "This miniature, signed on the bottom of the Virgin\u2019s marble throne, is the only known illumination by Francesco Morone, son of the Veronese painter Domenico Morone. Like his father, in whose workshop he may have been trained, Francesco is known primarily as a painter of altarpieces and frescoes. Although executed on parchment, this work was not part of a manuscript but conceived as an independent devotional object. It is essentially a reduced version of the painted altarpieces produced by the artist for the principal churches in Verona and the surrounding region. In the background, a white-clad Olivetan monk is led to a walled complex by Saint Cecilia, wearing a green mantle, who is also shown standing in the position of honor to the Virgin\u2019s right, wearing a crown of roses. The image may have been produced for a wealthy patron or a canon of the monastic school dedicated to the Virgin and Saint Cecilia that was attached to the important Olivetan Monastery of Santa Maria in Organo in Verona, for which Francesco executed several commissions.",
+    "dimensions": "7 15/16 x 6 1/16 in. (20.2 x 15.4cm)",
+    "id": 461043,
+    "image": "http://images.metmuseum.org/CRDImages/rl/original/DT3623.jpg",
+    "medium": "Tempera on parchment; Underdrawing in sepia ink",
+    "provenance": [
+        "William Young Ottley, London (Ottley sale, Sotheby's, London, May 11-12, 1838, lot 230 [to Adamson])",
+        "Charles L. Cleveland, Chappaqua, New York",
+        "Miriam (Mrs. Charles L.) Cleveland, Chappaqua, New York.  Acquired by Robert Lehman from Miriam Cleveland after 1942 or 1943."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/rl/original/DT3623.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/sf-rlc-1975-1-2489.JPG"
+    ],
+    "title": "Virgin and Child Enthroned between Saints Cecilia and Catherine of Alexandria",
+    "what": [
+        "Ink",
+        "Drawings",
+        "Paintings",
+        "Manuscripts",
+        "Tempera",
+        "Parchment",
+        "Underdrawings",
+        "Illuminations",
+        "Sepia"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Italy",
+        "Verona"
+    ],
+    "who": "Francesco Morone"
+}

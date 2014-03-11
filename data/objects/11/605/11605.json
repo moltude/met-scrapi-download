@@ -1,0 +1,123 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/11602"
+            },
+            {
+                "href": "http://scrapi.org/object/11604"
+            },
+            {
+                "href": "http://scrapi.org/object/15119"
+            },
+            {
+                "href": "http://scrapi.org/object/13499"
+            },
+            {
+                "href": "http://scrapi.org/object/13758"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 18, 2013",
+                "href": "/exhibitions/listings/2013/american-west",
+                "rel": "The American West in Bronze, 1850\u20131925"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/american-art-weekend?eid=A185_%7b501B6EDB-D4CC-4402-98B8-688E06337497%7d_20131127141222",
+                "rel": "American Art"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/monday-at-the-met-spring-2014?eid=R001_%7bBB2BF277-3666-435E-8B95-12CDE21533EA%7d_20140303100000",
+                "rel": "Monday at the Met with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R100_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140303120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R101_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140304120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R076_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140304134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R102_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140305120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R077_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140305134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R103_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140306120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R078_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140306134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/k12-educator-programs/the-american-west?eid=A001_%7b59F3CABA-5299-48C0-8465-1CF2F278D0C3%7d_20131122143623",
+                "rel": "The American West"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/bwst/hd_bwst.htm",
+                "rel": "Students of Benjamin West (1738\u20131820)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=na",
+                "rel": "The United States and Canada, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/11605"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/11605"
+        }
+    },
+    "accession number": "45.62.1",
+    "credit line": "Bequest of Herbert L. Pratt, 1945",
+    "date": "ca. 1836\u201337",
+    "department": "American Paintings and Sculpture",
+    "description": "The full-length portrait of Susan Walker Morse (1819\u20131885), the eldest daughter of the artist, was painted during the crucial years of the invention of Morse's telegraph (ca. 1835\u201337). The painting shows  the girl at about the age of seventeen, sitting with a sketchbook in her lap and pencil in hand with her eyes raised in contemplation.  Although traditionally described as a Muse, the figure is more likely a personification of the art of drawing or design. Morse drew on the full extent of his European training, taking from the works of Rubens and Veronese in what was to be an ambitious farewell to his career as an artist. Stymied by a lack of financial success, he abandoned painting for science and inventing. This painting was first exhibited at the National Academy of Design in 1837, where it won enthusiastic praise. Susan married Edward Lind in 1839 and moved to his sugar plantation in Puerto Rico, returning often to New York to spend extended periods with her father, who had been left a widower when Susan was just six. She gradually grew less and less happy with her husband and plantation life. Lind died in 1882; in 1885, Susan set out to return to New York permanently but tragically was lost at sea.",
+    "dimensions": "73 3/4 x 57 5/8 in. (187.3 x 146.4 cm)",
+    "gallery-id": 756,
+    "id": 11605,
+    "image": "http://images.metmuseum.org/CRDImages/ap/original/DT69.jpg",
+    "medium": "Oil on canvas",
+    "provenance": [
+        "The artist, New York, 1837\u2013died 1872",
+        "his second wife, Mrs. Samuel F. B. (Sarah Griswold) Morse, Poughkeepsie, New York, died 1902",
+        "his  granddaughter, Susan Lind Morse (Mrs. George Kellogg) Perry, died 1910",
+        "George K. Perry, 1910\u2013ca. 1917",
+        "Herbert Lee Pratt, Glen Cove, New  York, ca. 1917\u201345"
+    ],
+    "title": "Susan Walker Morse (The Muse)",
+    "what": [
+        "Paintings",
+        "Canvas",
+        "Oil paintings"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "Samuel F. . Morse"
+}

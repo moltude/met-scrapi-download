@@ -1,0 +1,97 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/384499"
+            },
+            {
+                "href": "http://scrapi.org/object/412654"
+            },
+            {
+                "href": "http://scrapi.org/object/422512"
+            },
+            {
+                "href": "http://scrapi.org/object/352208"
+            },
+            {
+                "href": "http://scrapi.org/object/384500"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwb",
+                "rel": "Great Britain and Ireland, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/384502"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/384502"
+        }
+    },
+    "accession number": "1973.630.11",
+    "credit line": "Gift of Herman H. Lowenstein, 1973",
+    "date": "1883",
+    "department": "Drawings and Prints",
+    "description": "A young Roman woman offers her baby a doll, after bathing it, while a bowl and sponge rest nearby. They sit on a ledge, looking out into a garden filled with poppies, with a central fountain adorned with an image of Silenus carrying the baby Dionysus. Based on a painting of 1882, opus CCXXXV, location unknown.",
+    "dimensions": [
+        "chine coll\u00e9 sheet 16 3/4 x 11 1/4 in. (42.5 x 28.5 cm)",
+        "mounting sheet 18 11/16 x 13 11/16 in. (47.5 x 34.8 cm)"
+    ],
+    "id": 384502,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP833336.jpg",
+    "medium": "Engraving on chine coll\u00e9",
+    "provenance": [
+        "Donor: Herman H. Lowenstein"
+    ],
+    "title": "Childish Affections",
+    "what": [
+        "Prints",
+        "Engraving",
+        "Chine coll\u00e9"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "United Kingdom",
+        "Scottish"
+    ],
+    "who": [
+        "Sir Lawrence Alma-Tadema",
+        "Knoedler  Co.",
+        "British  Foreign Artists Association",
+        "Charles Oliver Murray"
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/24693"
+            },
+            {
+                "href": "http://scrapi.org/object/22283"
+            },
+            {
+                "href": "http://scrapi.org/object/24700"
+            },
+            {
+                "href": "http://scrapi.org/object/626019"
+            },
+            {
+                "href": "http://scrapi.org/object/32832"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From October 2, 2012",
+                "href": "/exhibitions/listings/2012/arms-and-armor",
+                "rel": "Bashford Dean and the Creation of the Arms and Armor Department"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A074_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112917",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A084_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113556",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A093_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113923",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A075_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112932",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A094_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113938",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 5, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A085_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113610",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161351",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A076_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112951",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 19, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161305",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 26, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A086_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113630",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=eustn",
+                "rel": "Venice and Northern Italy, 1400\u20131600 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=eustn",
+                "rel": "Venice and Northern Italy, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/22281"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/22281"
+        }
+    },
+    "accession number": "14.25.748",
+    "credit line": "Gift of William H. Riggs, 1913",
+    "culture": "Italian, possibly Bologna",
+    "date": "ca. 1600",
+    "department": "Arms and Armor",
+    "description": "The subject of the painting is unknown. It may represent a contemporary battle with the participants rendered in Classical dress or a famous battle from antiquity.",
+    "dimensions": "Diameter, 24 1/4 in. (61.6 cm)",
+    "gallery-id": 374,
+    "id": 22281,
+    "image": "http://images.metmuseum.org/CRDImages/aa/original/23373.jpg",
+    "medium": "Wood, leather, gesso, bole, paint, gold",
+    "provenance": [
+        "Ex. coll.: Ambrogio Uboldo, Milan",
+        "Fr\u00e9d\u00e9ric Spitzer, Paris",
+        "William Henry Riggs, Paris"
+    ],
+    "title": "Shield",
+    "what": [
+        "Metal",
+        "Costume",
+        "Clay",
+        "Gold",
+        "Leather",
+        "Armor",
+        "Shields",
+        "Gesso",
+        "Bole"
+    ],
+    "where": [
+        "Europe",
+        "Italy",
+        "Bologna"
+    ]
+}

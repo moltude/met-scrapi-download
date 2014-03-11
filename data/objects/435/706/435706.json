@@ -1,0 +1,132 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/435705"
+            },
+            {
+                "href": "http://scrapi.org/object/459436"
+            },
+            {
+                "href": "http://scrapi.org/object/440393"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/piero-della-francesca",
+                "rel": "Piero della Francesca"
+            },
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "From April 22, 2014",
+                "href": "/exhibitions/listings/2014/goya",
+                "rel": "Goya and the Altamira Family"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/talks/gallery-talks/piero-della-francesca?eid=A001_%7bE50FD455-5FC1-41D0-9391-C456264363EF%7d_20140206160624",
+                "rel": "Exhibition Tour\u2014Piero della Francesca: Personal Encounters"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=A257_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20131127123002",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/monday-at-the-met-spring-2014?eid=R001_%7bBB2BF277-3666-435E-8B95-12CDE21533EA%7d_20140303100000",
+                "rel": "Monday at the Met with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R100_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140303123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R101_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140304123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R102_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140305123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R026_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140306140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R103_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140307123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/talks/the-observant-eye/stepping-out-of-the-frame?eid=A001_%7b438572AD-6B0F-4DA2-94FB-49B8931634C1%7d_20140123142901",
+                "rel": "Stepping Out of the Frame: Three-Dimensionality in the New Galleries for European Paintings"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/saturday-seminar-spring-2014?eid=R001_%7bE063A39F-FC40-4ECC-B690-C4C13F70B2A0%7d_20140308103000",
+                "rel": "Saturday Seminar with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/veve/hd_veve.htm",
+                "rel": "Sixteenth\u2013Century Painting in Venice and the Veneto"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/435706"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/435706"
+        }
+    },
+    "accession number": "1995.536",
+    "credit line": "Gift of Mr. and Mrs. Edwin L. Weisl Jr., in memory of Sir John Pope-Hennessy, 1995",
+    "department": "European Paintings",
+    "dimensions": "32 1/2 x 50 in. (82.6 x 127 cm)",
+    "gallery-id": 607,
+    "id": 435706,
+    "image": "http://images.metmuseum.org/CRDImages/ep/original/DT11627.jpg",
+    "medium": "Oil on wood",
+    "provenance": [
+        "marchese Girolamo Manfrin, Venice (until d. 1801)",
+        "his son, marchese Pietro Manfrin, Venice (1801\u2013d. 1833)",
+        "his sister, marchesa Giulia Angela Giovanna Manfrin, Venice (1833\u2013d. 1849)",
+        "her children, marchese Antonio Plattis, Padua, and marchesa Bortolina Plattis-Sardegna (from 1849)",
+        "Alexander Barker, London (?until 1871)",
+        "William Ward, 1st Earl of Dudley, London (possibly by 1868, definitely by 1871\u2013d. 1885; his estate, 1885\u201392; his estate sale, Christie's, London, June 25, 1892, no. 73, as by Palma Vecchio, for \u00a3682.10.0 to Agnew)",
+        "[Agnew, London, 1892]",
+        "Sir Robert James Loyd-Lindsay, Baron Wantage, Lockinge House, Wantage, Berkshire (1892\u2013d. 1901)",
+        "his widow, Harriet Sarah, Lady Wantage, Lockinge House (1901\u2013d. 1920; cat., 1905, no. 173, as by Palma Vecchio)",
+        "her cousin, Arthur Thomas Loyd, Lockinge House (1920\u2013d. 1944; cat., 1928, no. 173, as possibly by Bernardino Licinio; his estate sale, Sotheby's, London, November 28, 1945, no. 95, as by Palma Vecchio)",
+        "Paul Hatvany (until 1956; sale, Sotheby's, London, July 4, 1956, no. 36, as by Palma Vecchio, for \u00a3900 to Patch)",
+        "private collection (until 1984; sale, Christie's, New York, January 18, 1984, no. 136, as by Bonifazio Veronese, for $28,600 to Weisl)",
+        "Mr. and Mrs. Edwin L. Weisl Jr., New York (1984\u201395)"
+    ],
+    "title": "Madonna and Child with Saints",
+    "what": [
+        "Paintings",
+        "Oil paint"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Bonifacio de' Pitati (Bonifacio Veronese)"
+}

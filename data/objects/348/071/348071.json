@@ -1,0 +1,141 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/334654"
+            },
+            {
+                "href": "http://scrapi.org/object/334653"
+            },
+            {
+                "href": "http://scrapi.org/object/337844"
+            },
+            {
+                "href": "http://scrapi.org/object/342945"
+            },
+            {
+                "href": "http://scrapi.org/object/347964"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/anat/hd_anat.htm",
+                "rel": "Anatomy in the Renaissance"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/coup/hd_coup.htm",
+                "rel": "Couples in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/tapb/hd_tapb.htm",
+                "rel": "European Tapestry Production and Patronage, 1600\u20131800"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/isca/hd_isca.htm",
+                "rel": "Islamic Carpets in European Paintings"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/rvd_p/hd_rvd_p.htm",
+                "rel": "Peter Paul Rubens (1577\u20131640) and Anthony van Dyck (1599\u20131641): Paintings"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/rvd_d/hd_rvd_d.htm",
+                "rel": "Peter Paul Rubens (1577\u20131640) and Anthony van Dyck (1599\u20131641): Works on Paper"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/carr/hd_carr.htm",
+                "rel": "Annibale Carracci (1560\u20131609)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/port/hd_port.htm",
+                "rel": "Portraiture in Renaissance and Baroque Europe"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/vela/hd_vela.htm",
+                "rel": "Vel\u00e1zquez (1599\u20131660)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=euwl",
+                "rel": "Low Countries, 1400\u20131600 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwl",
+                "rel": "Low Countries, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/348071"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/348071"
+        }
+    },
+    "accession number": "1972.118.287",
+    "credit line": "Bequest of Walter C. Baker, 1971",
+    "date": "n.d.",
+    "department": "Drawings and Prints",
+    "dimensions": "16 1/8 x 10 7/16 in. (40.9 x 26.5 cm)",
+    "id": 348071,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP802645.jpg",
+    "medium": "Black chalk, heightened with white",
+    "provenance": [
+        "Joseph Daniel B\u00f6hm (Vienna)",
+        "his sale, Vienna, December 4, 1865p.98, no.1415",
+        "Emile Wauters (Belgian, Brussels 1846\u20131933 Paris)",
+        "F. Muller & Cie (Amsterdam), June 15\u201316, 1926, lot 170",
+        "Ruth Pruyn Field",
+        "Wildenstein & Co., Inc. (New York)",
+        "Donor: Walter C. Baker"
+    ],
+    "title": "Half-Figure of a Nude Man Facing Left, Head of a Satyr",
+    "what": [
+        "Drawings",
+        "Chalk"
+    ],
+    "where": [
+        "Europe",
+        "Flanders"
+    ],
+    "who": "Peter Paul Rubens"
+}

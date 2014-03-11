@@ -1,0 +1,97 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/421663"
+            },
+            {
+                "href": "http://scrapi.org/object/341084"
+            },
+            {
+                "href": "http://scrapi.org/object/341086"
+            },
+            {
+                "href": "http://scrapi.org/object/363010"
+            },
+            {
+                "href": "http://scrapi.org/object/334320"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwb",
+                "rel": "Great Britain and Ireland, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/373905"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/373905"
+        }
+    },
+    "accession number": "2007.39",
+    "credit line": "Fletcher Fund, 2007",
+    "date": "1803",
+    "department": "Drawings and Prints",
+    "dimensions": "sheet 11 15/16 x 8 1/4 in. (30.3 x 21 cm)",
+    "id": 373905,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP801052.jpg",
+    "medium": "Watercolor and graphite with scratching out",
+    "provenance": [
+        "Adolph Paul Opp\u00e9 (London, 1878\u20131957)",
+        "Sir William Gervase Beckett , 1st  Baronet (British, 1866\u20131937)",
+        "George Lake (20th century)",
+        "Thomas Agnew & Sons, Ltd. (London), in 1934, purchased by the following",
+        "Clem Gibson (British, Buenos Aires, 1936\u20132004), sold by his estate at the following",
+        "Christie's, London, June 5, 2006, lot 35",
+        "Vendor: Katrin Bellinger Kunsthandel , Munich"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP801052.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP142930.jpg"
+    ],
+    "title": "Rievaulx Abbey, Yorkshire",
+    "what": [
+        "Drawings",
+        "Watercolors",
+        "Graphite"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "United Kingdom"
+    ],
+    "who": "John Sell Cotman"
+}

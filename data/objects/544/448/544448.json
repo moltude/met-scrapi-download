@@ -1,0 +1,118 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/544446"
+            },
+            {
+                "href": "http://scrapi.org/object/544447"
+            },
+            {
+                "href": "http://scrapi.org/object/544449"
+            },
+            {
+                "href": "http://scrapi.org/object/546756"
+            },
+            {
+                "href": "http://scrapi.org/object/544476"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R129_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140307140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/teen-programs/saturday-sketching/saturday-sketching-egyptian-art?eid=A001_%7b8698F79D-A7E0-44F1-99CF-57C8A2E2471A%7d_20131211143556",
+                "rel": "Saturday Sketching\u2014Egyptian Art (Ages 11\u201318)"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A151_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113641",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R130_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140310140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=03\u00aeion=afe",
+                "rel": "Egypt, 2000\u20131000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/544448"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/544448"
+        }
+    },
+    "accession number": "30.3.1",
+    "credit line": "Rogers Fund, 1930",
+    "date": "ca. 1473\u20131458 B.C.",
+    "department": "Egyptian Art",
+    "description": "In her temple at Deir el-Bahri there were at least ten over-life-sized kneeling statues of Hatshepsut. She is shown as a male king wearing a kilt, a false beard, and either the white crown of Upper Egypt, or the nemes headcloth. In her hands she holds round offering vessels and the inscription on the base of each statue identifies the offering she makes to Amun. These huge statues flanked the processional way along which the god's image was carried toward the temple's main sanctuary. They were probably placed in the temple's second court. This statue represents Hatshepsut wearing the white crown of Upper Egypt (the south), so it was probably located on the southern side of the processional way. On the base, Hatshepsut is said to be offering fresh plants to Amun. On the back pillar, she is identified by her Horus name, Wosretkau, which is written in a rectangular device called a serekh. One also finds fragments of her throne name, Maatkare, and her personal name, Hatshepsut, both of which are written in cartouches.In 1930, the Museum's Egyptian Expedition found the body fragments of this statue buried in an area called the \"Hatshepsut Hole.\"   Some eighty years earlier, the head had been found and taken to Berlin by Egyptologist Richard Lepsius.  The pieces of the statue were reunited in an exchange organized by Herbert Winlock, director of the Museum's excavations at Thebes.  This and other exchanges were made possible by the generosity of the Egyptian Antiquities Service, which ceded many fragmentary statues to the Metropolitan Museum in the division of finds.",
+    "dimensions": [
+        "H. 295.9 cm (116 1/2 in); w. of base 81.3 cm (32 in); d. of base 145.4 cm (57 1/4 in)",
+        "shipping weight in 2006, 3175.2 kg. (7000 lbs)"
+    ],
+    "gallery-id": 115,
+    "id": 544448,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/21V_CAT092R3.jpg",
+    "medium": "Granite",
+    "provenance": [
+        "Head: Discovered at Deir el-Bahri by Karl Richard Lepsius and taken to Berlin in 1845 (Berlin Museum, no. 2279), acquired by the Metropolitan Museum in 1930 by exchange. Body: excavated by the Metropolitan Museum in 1927-28. Acquired in the division of finds, 1930."
+    ],
+    "title": "Large Kneeling Statue of Hatshepsut",
+    "what": [
+        "Sculpture",
+        "Statues",
+        "Granite"
+    ],
+    "when": "2000-1000 B.C.",
+    "where": [
+        "Africa",
+        "Egypt",
+        "Upper Egypt",
+        "Thebes"
+    ]
+}

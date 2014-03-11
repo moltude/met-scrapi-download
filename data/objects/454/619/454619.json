@@ -1,0 +1,134 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/445961"
+            },
+            {
+                "href": "http://scrapi.org/object/445976"
+            },
+            {
+                "href": "http://scrapi.org/object/445280"
+            },
+            {
+                "href": "http://scrapi.org/object/455048"
+            },
+            {
+                "href": "http://scrapi.org/object/453334"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A249_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114331",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A250_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114353",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world-french?eid=R026_%7b85906EA1-CA66-4610-A52C-39562E1A4C40%7d_20140310133000",
+                "rel": "Arts du monde Islamique (Arts of the Islamic World in French)"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R130_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140310141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/mugh_2/hd_mugh_2.htm",
+                "rel": "The Art of the Mughals after 1600"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=ssa",
+                "rel": "South Asia, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/454619"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/454619"
+        }
+    },
+    "accession number": "2003.430",
+    "credit line": "Louis V. Bell Fund, 2003",
+    "culture": "Islamic",
+    "date": "ca. 1705\u201320",
+    "department": "Islamic Art",
+    "description": "The emperor Aurangzeb (r. 1656\u20131707) and his royal hunting party are shown here in one of the final grand imperial images of the Mughal era. Preparations for the chase are in progress, as evident from the row of hunters in the foreground and others who lead deer as bait or carry leafy screens for camouflage. Bhavanidas, painter of this scene, worked first at the Mughal court and then later moved to the Rajput court of Kishangarh, where he became its preeminent artist.",
+    "dimensions": [
+        "H. 22 7/8 in. (58.1 cm)",
+        "W. 15 1/8 in. (38.4 cm)"
+    ],
+    "id": 454619,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/DP116022.jpg",
+    "medium": "Opaque watercolor and gold on paper",
+    "provenance": [
+        "Ardeshir family, Mumbai, India, and London, England",
+        "[ Terence McInerney, until 2003",
+        "sold to MMA]"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/DP116022.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/tr235.2003.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/tr235.2003closeup.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/2003.430.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/Jorrit 4_1r1_89J.jpg"
+    ],
+    "title": "The Emperor Aurangzeb Carried on a Palanquin",
+    "what": [
+        "Metal",
+        "Paper",
+        "Gold",
+        "Watercolors",
+        "Manuscripts",
+        "Codices"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Asia",
+        "India"
+    ],
+    "who": "Bhavanidas"
+}

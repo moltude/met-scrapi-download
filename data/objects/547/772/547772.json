@@ -1,0 +1,130 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/558303"
+            },
+            {
+                "href": "http://scrapi.org/object/547903"
+            },
+            {
+                "href": "http://scrapi.org/object/544451"
+            },
+            {
+                "href": "http://scrapi.org/object/558264"
+            },
+            {
+                "href": "http://scrapi.org/object/546112"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A151_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113641",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R130_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140310140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A145_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113221",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=03\u00aeion=afe",
+                "rel": "Egypt, 2000\u20131000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/547772"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/547772"
+        }
+    },
+    "accession number": "1995.21",
+    "credit line": "Purchase, Edith Perry Chapman Fund and Malcolm Hewitt Wiener Foundation Inc. Gift, 1995",
+    "date": "ca. 1479\u20131425 B.C.",
+    "department": "Egyptian Art",
+    "description": "Beautifully poised, this small bronze king offers wine or milk to a god. The fluid, athletic modeling of his body and details of his costume indicate a date in mid\u2013Dynasty 18. In fact, the statuette represents the great king Tuthmosis III, as is revealed by traces of his prenomen (or throne name), Menkheperre, on the belt buckle.This figure is the earliest known New Kingdom royal bronze statuette and, with a few Late Middle Kingdom copper and copper-alloy precursors, it initiates the tradition of bronze statuary in Egypt. It is a \"black\" bronze, darkened to heighten the luster of its precious metal inlays. The left eye rim and the nipples retain their original gold inlay. The body of the statuette was solid cast, with separately cast arms (one is missing) fitted onto dowels.Kneeling bronze kings dating to the New Kingdom are rare. They are found in greater numbers in the Third Intermediate and Late Periods. Such figurines are frequently represented on the great processional barks of the gods, expressing the respectful yet dignified role of the king\u2014himself a god\u2014in ensuring the continuing worship of the gods.",
+    "dimensions": "h. 13.1 cm (5 1/8 in) [16.2 cm (6 3/8 in) with tang]; w. 6.0 cm (2 3/8 in); d. 7.6 cm (3 in)",
+    "gallery-id": 118,
+    "id": 547772,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/DT537.jpg",
+    "medium": "Black bronze, gold inlay",
+    "provenance": [
+        "British Rail Pension Fund Collection from 1979",
+        "acquired by the Museum in 1995. Published BMMA fall 1995 and repeatedly, continuously exhibited."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/eg/original/DT537.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/1995.21_front.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/1995.21_lp.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/1995.21_back.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/1995.21_rp.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/260010.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/260013.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/260011.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/260012.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/260014.jpg"
+    ],
+    "title": "Ritual Statuette of Thutmose III",
+    "what": [
+        "Metal",
+        "Sculpture",
+        "Copper alloy",
+        "Gold",
+        "Bronze",
+        "Statues",
+        "Figurines"
+    ],
+    "when": "2000-1000 B.C.",
+    "where": [
+        "Africa",
+        "Egypt"
+    ]
+}

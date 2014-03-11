@@ -1,0 +1,147 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/50700"
+            },
+            {
+                "href": "http://scrapi.org/object/52085"
+            },
+            {
+                "href": "http://scrapi.org/object/57434"
+            },
+            {
+                "href": "http://scrapi.org/object/51075"
+            },
+            {
+                "href": "http://scrapi.org/object/52595"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 8, 2014",
+                "href": "/exhibitions/listings/2014/tibet-and-india",
+                "rel": "Tibet and India"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/chinese-carving",
+                "rel": "Colors of the Universe"
+            },
+            {
+                "date": "From July 19, 2013",
+                "href": "/exhibitions/listings/2013/chinese-snuff-bottles",
+                "rel": "Small Delights"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/ink-art",
+                "rel": "Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "From February 1, 2014",
+                "href": "/exhibitions/listings/2014/edo-period-painting",
+                "rel": "The Flowering of Edo Period Painting"
+            },
+            {
+                "date": "From April 14, 2014",
+                "href": "/exhibitions/listings/2014/lost-kingdoms",
+                "rel": "Lost Kingdoms"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/talks/gallery-talks/viewing-japanese-art-through-the-eyes?eid=A002_%7b571216BC-D5E9-4F1A-8F13-0049B30D5F0F%7d_20140124100414",
+                "rel": "Viewing Japanese Art through the Eyes of PixCell-Deer#24"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/talks/gallery-talks/chinese-buddhist-sculpture?eid=A001_%7b539805A7-4AAC-4214-A063-93083E921332%7d_20140123142801",
+                "rel": "Chinese Buddhist Sculpture"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R104_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140310111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R104_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140310131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R105_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140311111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R105_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140311120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R105_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140311131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/talks/gallery-talks/gallery-conv-culture-and-politics?eid=A001_%7b33996DD5-3C4F-473B-BCAE-533DF0BF66F1%7d_20140205160349",
+                "rel": "Gallery Conversation\u2014Culture and Politics in Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=A093_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20131018142432",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R106_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140312120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=07\u00aeion=nc",
+                "rel": "Central and North Asia, 1000\u20131400 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=07\u00aeion=eac",
+                "rel": "China, 1000\u20131400 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/50211"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/50211"
+        }
+    },
+    "accession number": "26.292.70",
+    "credit line": "Gift of Mrs. Samuel T. Peters, 1926",
+    "culture": "China",
+    "date": "14th century",
+    "department": "Asian Art",
+    "description": "One of many glaze effects re-created both in Japan and in the West, \u201coil-spot\u201d decoration is created by applying an iron-rich slip to a ceramic body and then covering the slip with an iron-rich glaze. During firing, the glaze melts and separates and the iron bubbles to the surface to create the dramatic design.",
+    "dimensions": "H. 13 3/4 in. (34.9 cm); Diam. 7 1/2 in. (19.1 cm)",
+    "gallery-id": 202,
+    "id": 50211,
+    "image": "http://images.metmuseum.org/CRDImages/as/original/103531.jpg",
+    "medium": "Stoneware with iron glaze (Jizhou ware)",
+    "title": "Bottle with \u201cOil-Spot\u201d Glaze\r\n\r\n",
+    "what": [
+        "Metal",
+        "Ceramics",
+        "Vessels",
+        "Pottery",
+        "Iron and iron alloy",
+        "Glaze",
+        "Iron",
+        "Bottles",
+        "Stoneware"
+    ],
+    "when": "A.D. 1000-1400",
+    "where": [
+        "Asia",
+        "China"
+    ]
+}

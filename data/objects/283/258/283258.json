@@ -1,0 +1,93 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/276278"
+            },
+            {
+                "href": "http://scrapi.org/object/276276"
+            },
+            {
+                "href": "http://scrapi.org/object/276277"
+            },
+            {
+                "href": "http://scrapi.org/object/286413"
+            },
+            {
+                "href": "http://scrapi.org/object/286430"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/283258"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/283258"
+        }
+    },
+    "accession number": "2005.100.126",
+    "credit line": "Gilman Collection, Gift of The Howard Gilman Foundation, 2005",
+    "date": "1908",
+    "department": "Photographs",
+    "description": "From the first year of Reconstruction to the early 1940s, lynching was the primary means of maintaining white supremacy in the American South. Considered by the federal government a normal condition of post-Civil War race relations, lynching was used not only as a specific act of summary \"justice\" but also as a symbol to further intimidate and degrade blacks. The magnitude of recorded mob violence between 1880 and 1940 almost defies description, involving more than five thousand men, women, and children in ritualized murder, often before an invited public. Two-thirds of the victims were African-American men.     Kentucky was the site of some of the most vicious racial violence, perhaps because of its unique position as a slave-holding state that had remained loyal to the Union. The state was never \"reconstructed,\" and thus former Confederates were easily able to preserve the racist society that had characterized the antebellum period, with little or no interference by the government.     This photograph is brutal testament to racial terrorism in America. The facts of the case are drawn from a small article that appeared in the \"New York Times\" on August 2, 1908, the same day the photograph was made by a local journalist. On the previous night, one hundred white men had entered the Russellville, Kentucky, jail and demanded that four black sharecroppers who had been detained for \"disturbing the peace\" be turned over to them. The men were accused by the mob of expressing sympathy for a fellow sharecropper who, in self-defense, had killed the white farmer for whom he worked. The jailer complied, and Virgil, Robert, and Thomas Jones and Joseph Riley were taken to a cedar tree and summarily lynched. The text of the note pinned to one of the bodies was also inscribed on the verso of the photograph: \"Let this be a warning to you niggers to let white people alone or you will go the same way.\"",
+    "dimensions": "Image 11.8 x 9.1 cm (4 5/8 x 3 9/16 in.)",
+    "id": 283258,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP283445.jpg",
+    "medium": "Gelatin silver print",
+    "provenance": [
+        "[Paul Katz, North Bennington, Vermont]",
+        "Gilman Paper Company Collection, New York, November 22, 1985"
+    ],
+    "title": "[Lynching, Russellville, Kentucky]",
+    "what": [
+        "Photographs",
+        "Gelatin silver prints"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "Minor . Wade"
+}

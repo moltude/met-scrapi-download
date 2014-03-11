@@ -1,0 +1,94 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/296307"
+            },
+            {
+                "href": "http://scrapi.org/object/285566"
+            },
+            {
+                "href": "http://scrapi.org/object/266889"
+            },
+            {
+                "href": "http://scrapi.org/object/266890"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/296306"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/296306"
+        }
+    },
+    "accession number": "2011.313",
+    "credit line": "Purchase, Vital Projects Fund Inc. Gift, through Joyce and Robert Menschel, 2011",
+    "date": "2001",
+    "department": "Photographs",
+    "description": "In Davenport\u2019s series The Apartments, images of bland white-brick buildings in New York City are punctuated by incidents of terrorism and radical protest: a missile heads menacingly toward a windowed facade; a masked sniper takes aim; clouds of billowing smoke rise from an unknown source. The artist staged and photographed each incident in her studio, taking as her points of reference news images of events such as the 1970 Kent State massacre and the attack at the 1972 Munich Olympic Games as well as documentation of performance art from the same period. The final photographs are digital composites that explore the relationship between avant-garde art and political violence, evoking a sense of disillusionment with the revolutionary ideologies of the 1960s and 1970s.The inaugural exhibition of The Apartments opened at the Nicole Klagsbrun Gallery in New York on September 6, 2001. Five days later, the terrorist attacks at the World Trade Center irrevocably altered the way Davenport\u2019s images would be seen. Today, the series stands as a testament to the complex collision of truth and fiction in photography and the unpredictable effects of historical circumstances on the meaning of works of art.",
+    "dimensions": [
+        "Image 81.3 x 111.5 cm (32 x 43 7/8 in.)",
+        "Sheet 94.7 x 125.5 cm (37 5/16 x 49 7/16 in.)",
+        "Frame 97.1 x 127.7 cm (38 1/4 x 50 1/4 in.)"
+    ],
+    "id": 296306,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/2011-313_Davenport_bombardment_repro.jpg",
+    "medium": "Chromogenic print",
+    "provenance": [
+        "the artist",
+        "[Nicole Klagsbrun Gallery, New York, 2003\u201311]"
+    ],
+    "title": "Bombardment",
+    "what": [
+        "Photographs",
+        "Chromogenic prints"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "Canada"
+    ],
+    "who": "Nancy Davenport"
+}

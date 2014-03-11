@@ -1,0 +1,132 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/94578"
+            },
+            {
+                "href": "http://scrapi.org/object/89719"
+            },
+            {
+                "href": "http://scrapi.org/object/92181"
+            },
+            {
+                "href": "http://scrapi.org/object/92190"
+            },
+            {
+                "href": "http://scrapi.org/object/92200"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R130_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140310130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwcm",
+                "rel": "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/127156"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/127156"
+        }
+    },
+    "accession number": "C.I.54.71a\u2013j",
+    "credit line": "Gift of Mrs. E. H. Liesem, 1954",
+    "culture": "German",
+    "date": "1900\u20131954",
+    "department": "Costume Institute",
+    "dimensions": [
+        "(a) Length at CB 18 in. (45.7 cm)",
+        "(b) Length at CB 38 in. (96.5 cm)",
+        "(c) Length at CB 41 in. (104.1 cm)",
+        "(d) Length at CB 15 in. (38.1 cm)",
+        "(e) Overall 37 x 35 in. (94 x 88.9 cm)",
+        "(f) Height 7 in. (17.8 cm)",
+        "(g, h) Length 11 1/2 in. (29.2 cm)",
+        "(i, j) Length 29 in. (73.7 cm)"
+    ],
+    "id": 127156,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/CI54.71abe_F.jpg",
+    "medium": "wool, cotton, silk, leather",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/CI54.71abe_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI54.71abe_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI54.71b\u2013e_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI54.71b\u2013e_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI54.71c_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI54.71f_S.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI54.71f_Tp.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI54.71gh_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI54.71gh_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI54.71ij.jpg"
+    ],
+    "title": "Ensemble",
+    "what": [
+        "Silk",
+        "Cotton",
+        "Wool",
+        "Leather",
+        "Ensembles"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "Germany"
+    ]
+}

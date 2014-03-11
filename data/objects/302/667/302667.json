@@ -1,0 +1,104 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/302674"
+            },
+            {
+                "href": "http://scrapi.org/object/302676"
+            },
+            {
+                "href": "http://scrapi.org/object/302672"
+            },
+            {
+                "href": "http://scrapi.org/object/302670"
+            },
+            {
+                "href": "http://scrapi.org/object/302671"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=na",
+                "rel": "The United States and Canada, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/302667"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/302667"
+        }
+    },
+    "accession number": "2005.100.1174.4",
+    "credit line": "Gilman Collection, Museum Purchase, 2005",
+    "date": "April 1861",
+    "department": "Photographs",
+    "description": "In January 1861, prior to the outbreak of war, James Randolph Hamilton began the construction of the ironclad floating battery to be used by the Confederate government to attack Fort Sumter and other Federal positions or naval vessels in Charleston, South Carolina. Built in clear view of the Union forces stationed at Sumter, the floating battery was one hundred feet long, twenty-five-feet wide, and sheathed in two layers of iron plate. It flies the first Confederate flag. Towed into the harbor close to Fort Sumter, Hamilton\u2019s Battery fired on the fort intermittently for thirty-four hours beginning on the morning of April 12. It survived the intense counterattack sustaining little damage; by 1863, however, its protective skin had been stripped off and reused by the Confederacy for the construction of navigable ironclad ships. Southern troops would occupy Fort Sumter until February 17, 1865, when Union General William Tecumseh Sherman\u2019s forces cut off supplies to Charleston and the city itself was evacuated.",
+    "dimensions": "Image 5.3 \u00d7 8.3 cm (2 1/16 \u00d7 3 1/4 in.)",
+    "id": 302667,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP266515.jpg",
+    "medium": "Albumen silver print from glass negative",
+    "provenance": [
+        "Paul Katz, 10/24/84",
+        "Gilman Paper Company Collection"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ph/original/DP266515.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP266516.jpg"
+    ],
+    "title": "Hamilton's Floating Battery Moored at the End of Sullivan's Island the Night Before They Opened Fire upon Fort Sumter",
+    "what": [
+        "Photographs",
+        "Albumen silver prints",
+        "Card photographs",
+        "Maps",
+        "Cartes-de-visite"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": [
+        "Edward Anthony",
+        "Alma A. Pelot",
+        "Jesse H. Bolles"
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/174559"
+            },
+            {
+                "href": "http://scrapi.org/object/157396"
+            },
+            {
+                "href": "http://scrapi.org/object/174740"
+            },
+            {
+                "href": "http://scrapi.org/object/175422"
+            },
+            {
+                "href": "http://scrapi.org/object/155708"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R130_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140310130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/158950"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/158950"
+        }
+    },
+    "accession number": "2009.300.420",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. William Randolph Hearst, Jr., 1966",
+    "culture": "American",
+    "date": "1958",
+    "department": "Costume Institute",
+    "description": "Marguery Bolhagen was a fashion designer throughout the third quarter of the 20th century.  Many of her garments create a fitted structural silhouette which is suggestive of Charles James, who she worked for prior to opening her own stores in Washington D. C. and New York.Created from a finely woven Japanese obi provided by Mrs. William Randolph Hearst, Jr., this dress is indicative of the close designer and client relationship between Marguery Bolhagen and Hearst.   The obi is used in a long unbroken line with little interference from seams.  This treatment allows the obi to be the focal point of an otherwise basic dress.  The obi was originally given to Mrs. Hearst from Prince Takamatsu (1905-1987) and his wife, Princess Takamatsu Kikuko (1911-2004) who were heirs to the Arisugawa-no-miya branch of the Japanese Imperial family.  Mrs. Hearst regularly traveled with her husband to meet with foreign dignitaries, who undoubtedly were charmed by her intelligent demeanor.Austine Hearst was the third wife of William Randolph Hearst, Jr. (1908-1993), son of William Randolph Hearst (1863-1951), turn of the century newspaper mogul.  She spent the war years hosting a radio show and writing a newspaper column about young society, which was picked up for national syndication after the war.  She married Hearst in 1948, after a seven year marriage to Igor Cassini (1915-2002), brother of the fashion designer Oleg Cassini (1913-2006).  She continued as a columnist until after her children were born in the early 1950s.  The Hearsts were invited to parties at the White House, Truman Capote's infamous 1966 Black and White Ball and interviews with foreign dignitaries, to name a few.  She was continuously on the International Best Dressed List throughout the 1950s and was inducted into the Best Dressed List International Hall of Fame in 1959.  She first became a donor to the Brooklyn Museum in 1953 at the request of friend and designer, Charles James.  Her first donation was comprised of James muslins and dresses.  Thereafter, she regularly donated garments by famous designers such as Christian Dior, Madame Alix Gr\u00e8s and Arnold Scaasi, among others.",
+    "dimensions": "Length at CB 60 in. (152.4 cm)",
+    "id": 158950,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/66.212.2_CP3.jpg",
+    "medium": "silk, metal",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/66.212.2_CP3.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/66.212.2 (c003).JPG",
+        "http://images.metmuseum.org/CRDImages/ci/original/66.212.2 bw.JPG"
+    ],
+    "title": "Evening dress",
+    "what": [
+        "Metal",
+        "Costume",
+        "Silk",
+        "Dresses",
+        "Evening dresses"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "Marguery Bolhagen"
+}

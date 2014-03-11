@@ -1,0 +1,137 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/446994"
+            },
+            {
+                "href": "http://scrapi.org/object/444536"
+            },
+            {
+                "href": "http://scrapi.org/object/451952"
+            },
+            {
+                "href": "http://scrapi.org/object/450408"
+            },
+            {
+                "href": "http://scrapi.org/object/444523"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A249_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114331",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A250_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114353",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world-french?eid=R026_%7b85906EA1-CA66-4610-A52C-39562E1A4C40%7d_20140310133000",
+                "rel": "Arts du monde Islamique (Arts of the Islamic World in French)"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R130_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140310141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/isbk/hd_isbk.htm",
+                "rel": "The Arts of the Book in the Islamic World, 1600\u20131800"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=07\u00aeion=wai",
+                "rel": "Iran, 1000\u20131400 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/443174"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/443174"
+        }
+    },
+    "accession number": "89.2.194",
+    "credit line": "Gift of Joseph W. Drexel, 1889",
+    "culture": "Islamic",
+    "date": "13th century",
+    "department": "Islamic Art",
+    "description": "Muslim metalworkers produced large numbers of pen boxes, many of which were richly decorated with inlays of gold, silver, and copper. A typical medieval Islamic calligrapher's pen box is an elongated rectangular object with rounded corners, about ten inches long, three inches wide, and two inches tall. In its simple construction, it is composed of a main body and a lid with two hinges along one of the long sides and a clasp on the opposite side. The interior includes a receptacle to hold the inkwell in one corner while the remaining space is reserved for a variety of reed pens and penknives. The present pen box shows a typical overall silver-inlaid decoration combining calligraphic, vegetal, and figural designs both on the exterior and the interior surfaces. It is, however, unique in that the main field on the lid is occupied by three roundels depicting the Moon flanked by the planets Jupiter and Venus in the zodiacal signs of Pisces and Libra, respectively. The box therefore also had an astrological significance, being most likely associated with the owner's birth, whereas the moon took on a talismanic relevance, since its image symbolically protected the entire object.",
+    "dimensions": [
+        "Box closed",
+        "H. 2 1/2 in. (6.4 cm)",
+        "W. 8 7/8 in. (22.5 cm)",
+        "D. 1 11/16 in. (4.3 cm)",
+        "Wt, 13.3 oz. (377.1 g)",
+        "Box opened",
+        "H. 4 7/8 in. (12.4 cm)",
+        "W. 8 7/8 in. (22.5 cm)",
+        "D. 1 3/16 in. (3 cm)"
+    ],
+    "id": 443174,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/DP13.jpg",
+    "medium": "Brass; inlaid with silver and gold",
+    "provenance": [
+        "Joseph W. Drexel, New York (until d. 1888)",
+        "his widow, Lucy Wharton Drexel(1888\u201389; gifted to Museum in Joseph Drexel's name)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/DP13.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP14.jpg"
+    ],
+    "title": "Pen Box",
+    "what": [
+        "Metal",
+        "Copper alloy",
+        "Silver",
+        "Gold",
+        "Brass",
+        "Boxes",
+        "Pen"
+    ],
+    "when": "A.D. 1000-1400",
+    "where": [
+        "Asia",
+        "Iran"
+    ]
+}

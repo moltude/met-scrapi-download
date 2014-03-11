@@ -1,0 +1,155 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/490006"
+            },
+            {
+                "href": "http://scrapi.org/object/484838"
+            },
+            {
+                "href": "http://scrapi.org/object/490008"
+            },
+            {
+                "href": "http://scrapi.org/object/493757"
+            },
+            {
+                "href": "http://scrapi.org/object/490001"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From November 20, 2013",
+                "href": "/exhibitions/listings/2013/jewels-by-jar",
+                "rel": "Jewels by JAR"
+            },
+            {
+                "date": "From November 5, 2013",
+                "href": "/exhibitions/listings/2013/carlo-scarpa",
+                "rel": "Venetian Glass by Carlo Scarpa"
+            },
+            {
+                "date": "From February 24, 2014",
+                "href": "/exhibitions/listings/2014/lucas-samaras",
+                "rel": "Lucas Samaras"
+            },
+            {
+                "date": "From December 17, 2013",
+                "href": "/exhibitions/listings/2013/metropolitan-vanities",
+                "rel": "Metropolitan Vanities"
+            },
+            {
+                "date": "From October 22, 2013",
+                "href": "/exhibitions/listings/2013/william-kentridge",
+                "rel": "William Kentridge"
+            },
+            {
+                "date": "From April 29, 2014",
+                "href": "/exhibitions/listings/2014/dan-graham",
+                "rel": "The Roof Garden Commission: Dan Graham"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R100_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140303144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/modern-art-french?eid=R026_%7b96311A2D-1D25-45BE-83E2-2054BC16D70B%7d_20140304133000",
+                "rel": "Art Moderne et Contemporain (Modern and Contemporary Art in French)"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R101_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140304144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R102_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140305144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R026_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140306140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R103_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140306144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/collecting-and-intepreting-at-the-met?eid=A001_%7b6A0B3958-68AC-4F22-BB73-D898FB894401%7d_20140127111701",
+                "rel": "Fellows Colloquium\u2014Collecting and Interpreting at the Met"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/talks/gallery-talks/metropolitan-vanities?eid=A001_%7bF51ADF90-5C6F-45EF-822C-6AE4940219F6%7d_20140206160301",
+                "rel": "Exhibition Tour\u2014Metropolitan Vanities: The History of the Dressing Table"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/college/jewels?eid=A001_%7bB2CEEB36-09E2-43E1-B6FD-1CA91686BA29%7d_20140219113337",
+                "rel": "Jewels by JAR Workshop"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R104_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140310144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/scpa/hd_scpa.htm",
+                "rel": "School of Paris"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/surr/hd_surr.htm",
+                "rel": "Surrealism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/post/hd_post.htm",
+                "rel": "The Postwar Print Renaissance in America"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=eusi",
+                "rel": "Iberian Peninsula, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/490007"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/490007"
+        }
+    },
+    "accession number": "1999.363.53",
+    "credit line": "Jacques and Natasha Gelman Collection, 1998",
+    "date": "1941",
+    "department": "Modern and Contemporary Art",
+    "description": "In 1919, Joan Mir\u00f3 left his native country of Spain for France, where, along with fellow Spaniard Salvador Dal\u00ed, he became one of the pioneers of Surrealism.  Inspired by the movement's engagement with psychology and poetic play with form, Mir\u00f3 developed a dreamlike style based on whimsical allusions to reality and lyrical, fancifully colored compositions.  In May 1940, after the invading German troops disturbed Mir\u00f3's quiet life in Varengeville, a village on the northern coast of France, he returned to Spain.  In June he settled in the town of Palma de Mallorca, where he was to remain until the summer of 1941.  In Palma, Mir\u00f3 resumed work on his Constellations series, which he had abandoned when he left Varengeville.  \"Toward the Rainbow\" is the fifteenth in a series of twenty-three gouaches on paper that were produced over twenty-one months from January 1940 to September 1941.  Characteristic of the works begun at the end of his stay in France and those painted in Spain, the entire sheet of paper is covered with hourglass shapes and a multitude of forms suggesting stars, eyes, circles, triangles, and crescents that are linked by thin black lines to evoke a fantastical wrought-iron screen or perhaps a magical constellation in the cosmos.  Each picture took about a month to complete.\tMuch has been written about these Constellations, and Mir\u00f3 often referred to them himself.  Their consistent strength, vivid colors, gaeity, and poetry provide a striking contrast with the dark period in which they were created.  In fact, these gouaches seem to represent the artist's escape from the terrors of World War II.  Looking back on the period in 1948, Mir\u00f3 told an interviewer that in France in 1939 \"a new stage in my work began which had its source in music and nature.  It was about the time that the war broke out.  I felt a deep desire to escape.  I closed myself within myself purposely.  The night, music, and the stars began to play a major role in suggesting my paintings.\"",
+    "dimensions": [
+        "18 x 15in. (45.7 x 38.1cm)",
+        "35 7/8 x 25 1/4 x 1 1/4 in. (91.1 x 64.1 x 3.2 cm) (Frame)"
+    ],
+    "id": 490007,
+    "image": "http://images.metmuseum.org/CRDImages/ma/original/DP225967.jpg",
+    "medium": "Gouache and oil wash on paper",
+    "title": "Constellation: Toward the Rainbow",
+    "what": [
+        "Drawings",
+        "Paper",
+        "Paintings",
+        "Oil paintings",
+        "Gouaches"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "Spain"
+    ],
+    "who": "Joan Mir\u00f3"
+}

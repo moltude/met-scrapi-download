@@ -1,0 +1,127 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/317904"
+            },
+            {
+                "href": "http://scrapi.org/object/317608"
+            },
+            {
+                "href": "http://scrapi.org/object/319553"
+            },
+            {
+                "href": "http://scrapi.org/object/319554"
+            },
+            {
+                "href": "http://scrapi.org/object/314584"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From September 16, 2013",
+                "href": "/exhibitions/listings/2013/feathered-walls",
+                "rel": "Feathered Walls"
+            },
+            {
+                "date": "From October 8, 2013",
+                "href": "/exhibitions/listings/2013/nelson-rockefeller",
+                "rel": "The Nelson A. Rockefeller Vision"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R105_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140311130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R106_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140312130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R107_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140313130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 18, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/shaping-the-african-art-canon?eid=A001_%7b447041C4-D9E7-43A9-AE5F-85BAEB6E7196%7d_20140214113010",
+                "rel": "Shaping the African Art Canon: From the Museum to the Classroom"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/talks/the-observant-eye/shared-memory-sculptural-ancestral-objects-from-oceania?eid=A001_%7b94768B86-339F-4726-A3BC-8F798C423768%7d_20140123143856",
+                "rel": "Shared Memory: Sculptural Ancestral Objects from Oceania"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=A116_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140210093151",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/talks/gallery-talks/ancient-american-sculpture?eid=A002_%7b7A6AA394-9359-47C1-87B4-65B0894C01AB%7d_20140123114700",
+                "rel": "Ancient American Sculpture"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R117_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140401130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R118_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140402130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=sfc",
+                "rel": "Central Africa, 1800\u20131900 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=sfc",
+                "rel": "Central Africa, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/319555"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/319555"
+        }
+    },
+    "accession number": "2011.11.11",
+    "credit line": "Gift of James J. Ross, 2011",
+    "culture": "Mangbetu peoples",
+    "date": "19th\u201320th century",
+    "department": "Arts of Africa, Oceania and the Americas",
+    "description": "The art of the northern savanna is associated with the sumptuous royal courts of the Mangbetu peoples.  At its height during the second half of the nineteenth century, Mangbetu aristocrats surrounded themselves with a wide variety of finely crafted boxes, jars, stools, pipes, musical instruments and weapons.  This distinctive tradition of anthropomorphic sculpture developed around 1900.  Although such forms predate the colonial presence, European patrons greatly increased the demand for them.  Pipes adorned with such elaborately carved tobacco bowls were the prerogative of the Mangbetu ruling aristocracy. This pipe bowl representing a woman, whose body entirely frames the tobacco bowl, was certainly inspired by European examples.",
+    "dimensions": "H. 5 in. x W. 3 in.",
+    "gallery-id": 352,
+    "id": 319555,
+    "image": "http://images.metmuseum.org/CRDImages/ao/original/DP156749.jpg",
+    "medium": "Wood",
+    "provenance": [
+        "Reportedly collected in the Uele territory by a Belgian colonial administrator from Li\u00e8ge, Belgium, 1930s",
+        "Jacques R. Van Overstraeten, Brussels, Belgium, until 2001",
+        "[Guy Van Rijn, Brussels, as agent, 2001]",
+        "James J. Ross, New York, 2001\u20132011"
+    ],
+    "title": "Pipe Bowl: Seated Figure",
+    "what": [
+        "Wood",
+        "Bowls",
+        "Pipes"
+    ],
+    "where": [
+        "Africa",
+        "Democratic Republic of the Congo"
+    ],
+    "who": "Mangbetu"
+}

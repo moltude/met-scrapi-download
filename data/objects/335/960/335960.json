@@ -1,0 +1,94 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/343098"
+            },
+            {
+                "href": "http://scrapi.org/object/343102"
+            },
+            {
+                "href": "http://scrapi.org/object/343103"
+            },
+            {
+                "href": "http://scrapi.org/object/343104"
+            },
+            {
+                "href": "http://scrapi.org/object/343095"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwf",
+                "rel": "France, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/335960"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/335960"
+        }
+    },
+    "accession number": "1981.1047",
+    "credit line": "Edward Pearce Casey Fund, 1981",
+    "date": "ca. 1690-1710",
+    "department": "Drawings and Prints",
+    "description": "Gilles-Marie Oppenord was the son of the cabinet maker Jean-Alexandre Oppenord who, during the latter part of his career, worked at the Louvre in the service of the French king as \u2018\u00c9beniste du Roi\u2019. After his first training, Gilles-Marie spent seven years in Italy where he studied the Baroque monuments built by his contemporaries and the great masters of previous generations. Collecting thoughts and inspiration on paper would prove to be a life-long exercise for him. Although not many of his executed buildings and interiors survive today, many drawings can be attributed to his hand. On this sheet he seems to have specifically collected architectural elements with a supporting function. Although the arrangement of the motifs on the sheet seems somewhat chaotic, the drawing has a very strong overall appeal. The publisher Gabriel Huquier (French, Orl\u00e9ans 1695\u20131772 Paris) must have recognized this appeal since he adopted the lay-out of this sheet (or left it unaltered) in several print series in the published \u2018Oeuvre\u2019 containing Oppenord\u2019s designs for ornament and the interior.",
+    "dimensions": "Sheet 11 7/8 \u00d7 7 3/4 in. (30.1 \u00d7 19.7 cm)",
+    "id": 335960,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP807891.jpg",
+    "medium": "Pen and black and dark brown ink, brush and dark brown and gray wash, over traces of graphite underdrawing",
+    "provenance": [
+        "Vendor: Alain Moatti, Paris (French)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP807891.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/1981.1047.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP807892.jpg"
+    ],
+    "title": "Brackets, Caryatids and other Architectural Details (recto and verso)",
+    "what": [
+        "Ink",
+        "Drawings",
+        "Graphite",
+        "Underdrawings"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Gilles-Marie Oppenord"
+}

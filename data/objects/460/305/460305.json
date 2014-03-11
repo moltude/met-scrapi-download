@@ -1,0 +1,116 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/460632"
+            },
+            {
+                "href": "http://scrapi.org/object/460306"
+            },
+            {
+                "href": "http://scrapi.org/object/460493"
+            },
+            {
+                "href": "http://scrapi.org/object/461475"
+            },
+            {
+                "href": "http://scrapi.org/object/461334"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R131_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140311134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R132_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140312134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R133_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140313134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R134_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140314134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A109_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131126111651",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A115_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131127144444",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A110_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131126111706",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R145_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140331134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/talks/gallery-talks/european-sculpture-in-the-robert-lehman-collection?eid=A001_%7b835B4316-D69F-4E38-A76F-839A55CF6946%7d_20140123112008",
+                "rel": "European Sculpture in the Robert Lehman Collection"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R146_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140401134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/460305"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/460305"
+        }
+    },
+    "accession number": "1975.1.2017",
+    "credit line": "Robert Lehman Collection, 1975",
+    "date": "ca. 1400 (rebuilt, 20th century)",
+    "department": "Robert Lehman Collection",
+    "description": "The two cabinets have been installed into the wall of a gallery in the Robert Lehman Collection at The Metro politan Museum of Art in much the same way they appeared in the Lehman residence at 7 West Fifty-fourth Street in New York. They are key pieces, as they demonstrate that the collector prioritized the decoration of his house over any concern to preserve historical furniture. Both cabinets were altered to fit the spaces flanking the fireplace in the so-called \u201cvaulted room.\u201d No evidence has been found as to how 1975.1.2017 originally appeared; however, 1975.1.2018 was frequently published as an Umbrian credenza of about 1400 and was considerably famous in connoisseur circles. Therefore it is astonishing that this icon of early Italian woodwork was refashioned for the Lehman home. There are hardly any publications dating before the middle of the last century that do not illustrate this piece in its former state as an outstanding document of Italian Gothic furniture.(1) Catalogue entry from: Wolfram Koeppe. The Robert Lehman Collection. Decorative Arts, Vol. XV. Wolfram Koeppe, et al. New York: The Metropolitan Museum of Art in association with Princeton University Press, 2012, pp. 216-17.NOTES:1. See, for example, Odom, William M. A History of Italian Furniture from the Fourteenth to the Early Nineteenth Centuries. 2 vols. Garden City, N.Y., 1918 \u2013 19, vol. 1, pp. 39 \u2013 40 and fig. 23; Hunter, George Leland. Italian Furniture and Interiors. 2 vols. 2nd ed. New York, 1920, vol. 2, pl. 179. See also Ferrazza, Roberta. Palazzo Davanzati e le collezioni di Elia Volpi. Florence, 1994, ill. no. 193.",
+    "dimensions": "H. 92.7 cm, W. 56.3 cm, D. 33.3 cm",
+    "id": 460305,
+    "image": "http://images.metmuseum.org/CRDImages/rl/original/SLP2017.jpg",
+    "medium": "Walnut, iron.",
+    "provenance": [
+        "Not established."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/rl/original/SLP2017.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/sf-rlc-1975-1-2017_01.jpg"
+    ],
+    "title": "Cabinet (installed with 1975.1.2018)",
+    "what": [
+        "Metal",
+        "Wood",
+        "Furniture",
+        "Iron and iron alloy",
+        "Iron",
+        "Woodwork",
+        "Walnut",
+        "Case furniture",
+        "Cabinets"
+    ],
+    "who": [
+        "Unknown Italian",
+        "American (United States)"
+    ]
+}

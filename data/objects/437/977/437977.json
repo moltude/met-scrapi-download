@@ -1,0 +1,136 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/338774"
+            },
+            {
+                "href": "http://scrapi.org/object/338775"
+            },
+            {
+                "href": "http://scrapi.org/object/338790"
+            },
+            {
+                "href": "http://scrapi.org/object/338791"
+            },
+            {
+                "href": "http://scrapi.org/object/338792"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/piero-della-francesca",
+                "rel": "Piero della Francesca"
+            },
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "From April 22, 2014",
+                "href": "/exhibitions/listings/2014/goya",
+                "rel": "Goya and the Altamira Family"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/talks/gallery-talks/piero-della-francesca?eid=A001_%7bE50FD455-5FC1-41D0-9391-C456264363EF%7d_20140206160624",
+                "rel": "Exhibition Tour\u2014Piero della Francesca: Personal Encounters"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=A257_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20131127123002",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/monday-at-the-met-spring-2014?eid=R001_%7bBB2BF277-3666-435E-8B95-12CDE21533EA%7d_20140303100000",
+                "rel": "Monday at the Met with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R100_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140303123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R101_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140304123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R102_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140305123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R026_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140306140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R103_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140307123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/talks/the-observant-eye/stepping-out-of-the-frame?eid=A001_%7b438572AD-6B0F-4DA2-94FB-49B8931634C1%7d_20140123142901",
+                "rel": "Stepping Out of the Frame: Three-Dimensionality in the New Galleries for European Paintings"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/saturday-seminar-spring-2014?eid=R001_%7bE063A39F-FC40-4ECC-B690-C4C13F70B2A0%7d_20140308103000",
+                "rel": "Saturday Seminar with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/437977"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/437977"
+        }
+    },
+    "accession number": "1996.9",
+    "credit line": "Wrightsman Fund, 1996",
+    "date": "1680",
+    "department": "European Paintings",
+    "dimensions": "16 3/4 x 21 3/8 in. (42.5 x 54.3 cm)",
+    "gallery-id": 623,
+    "id": 437977,
+    "image": "http://images.metmuseum.org/CRDImages/ep/original/DT3970.jpg",
+    "medium": "Oil on copper",
+    "provenance": [
+        "[Francesco Ruvinetti, until about 1709",
+        "sold by or through him with its pendant for 80 luigi to Senate of Bologna]",
+        "Senate of Bologna (1709; given to Clement XI)",
+        "Pope Clement XI (Giovanni Francesco Albani), Rome (from 1709)",
+        "private collection, Genoa (second half of the 18th century)",
+        "?Henry R. Willett, Brighton (before d. 1905)",
+        "Canon Robert Wadnan, Saint Joseph's Presbytery, Bridgewater, England (until d. 1914; sale, Puttick & Simpson, London, October 16, 1914, no. 74, as Flemish School, to Grace)",
+        "Lionell P. Grace, London (1914\u2013probably until d. 1919)",
+        "?sale, Sotheby's, London, as by Albani, to Pope-Hennessy",
+        "Sir John Wyndham Pope-Hennessy, London, later New York, later Florence (by 1961\u2013d. 1994)",
+        "Michael Mallon, Florence (1994\u201396; sale, \"The Collections of the late Sir John Wyndham Pope-Hennessy,\" Christie\u2019s, New York, January 10, 1996, no. 103, for $112,500 to Agnew)",
+        "[Agnew, New York, 1996",
+        "sold to MMA]"
+    ],
+    "title": "The Last Communion of Saint Mary of Egypt",
+    "what": [
+        "Metal",
+        "Paintings",
+        "Copper",
+        "Oil paint"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Marcantonio Franceschini"
+}

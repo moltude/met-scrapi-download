@@ -1,0 +1,128 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/558345"
+            },
+            {
+                "href": "http://scrapi.org/object/546195"
+            },
+            {
+                "href": "http://scrapi.org/object/557962"
+            },
+            {
+                "href": "http://scrapi.org/object/558346"
+            },
+            {
+                "href": "http://scrapi.org/object/564544"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A145_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113221",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/talks/gallery-talks/egyptian-sculpture?eid=A002_%7b09B70F74-B68F-4731-A787-D861CCC990BA%7d_20140123144040",
+                "rel": "Egyptian Sculpture"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/cleopatra-welcome-and-introduction?eid=A001_%7bCE6C92F7-59C2-4721-A363-E48BE5CF7EBF%7d_20140226151517",
+                "rel": "Welcome and Introduction"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=04\u00aeion=afe",
+                "rel": "Egypt, 1000 B.C.\u20131 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/547689"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/547689"
+        }
+    },
+    "accession number": "2003.154",
+    "credit line": "Purchase, Anne and John V. Hansen Egyptian Purchase Fund, and Magda Saleh and Jack Josephson Gift, 2003",
+    "date": "380\u2013246 B.C.",
+    "department": "Egyptian Art",
+    "description": "The fluid pose and chest-beating gesture of this extraordinary figure evoke a stately performance. Egyptian relief representations depict such figures as part of a troupe of similarly genuflecting divine beings with falcon and jackal heads. This troupe is usually seen attending the sunrise or the birth and coronation of a king; three-dimensional figures of the same type were set around the processional shrines of certain gods, doubtlessly to accompany the epiphany of the deity during a procession.It is not easy to explain the presence among the animal-headed divinities of the human-headed figure wearing\u2014as seen here\u2014the regalia of a pharaoh. Some scholars interpret the figure as the representation of an actual king. Others understand it as a mythical being that introduces royal aspects into the otherworldly ritual. Whatever its exact meaning, this masterpiece of wood carving was certainly part of a temple's equipment. Its ritual character was further emphasized by a covering of lead sheet, now vanished.",
+    "dimensions": "h. 21 cm (8 1/4 in); w. 14.3 cm (5 5/8 in); d. 11 cm (4 5/16 in)",
+    "gallery-id": 128,
+    "id": 547689,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/DT1016.jpg",
+    "medium": "Wood, formerly clad with lead sheet",
+    "provenance": [
+        "Peytel Collection, Paris, by 1922",
+        "exhibited \"Centenaire de Champollion,\" Louvre, Paris, 1922",
+        "Behague Collection, Paris",
+        "exhibited Egypte-France, Paris, 1949",
+        "Josephson Collection, New York from 1987",
+        "acquired by the Museum, donation and purchase, 2003. Frequently published."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/eg/original/DT1016.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/48D_661iir1.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/R48D_661Ir1.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/DT9220.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/2003.154.JPG"
+    ],
+    "title": "Ritual Figure",
+    "what": [
+        "Metal",
+        "Sculpture",
+        "Wood",
+        "Statues",
+        "Figurines",
+        "Lead"
+    ],
+    "when": "1000 B.C.-A.D. 1",
+    "where": [
+        "Africa",
+        "Egypt"
+    ]
+}

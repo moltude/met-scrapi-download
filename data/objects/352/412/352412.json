@@ -1,0 +1,92 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/341646"
+            },
+            {
+                "href": "http://scrapi.org/object/427410"
+            },
+            {
+                "href": "http://scrapi.org/object/341618"
+            },
+            {
+                "href": "http://scrapi.org/object/341669"
+            },
+            {
+                "href": "http://scrapi.org/object/459498"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/352412"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/352412"
+        }
+    },
+    "accession number": "2002.96",
+    "credit line": "Ian Woodner Family Collection Fund, 2002",
+    "date": "1579",
+    "department": "Drawings and Prints",
+    "dimensions": "sheet 8 11/16 x 13 3/4 in. (22 x 35 cm)",
+    "id": 352412,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP812808.jpg",
+    "medium": "Pen and brown ink, over red chalk and black chalk, brush and brown wash, highlighted with white gouache",
+    "provenance": [
+        "H\u00f4tel Drouot, Paris, December 19, 2001lot 186",
+        "Katrin Bellinger Kunsthandel, Munich",
+        "Vendor: Katrin Bellinger Kunsthandel , Munich"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP812808.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DR484.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP123332.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP812332.jpg"
+    ],
+    "title": "Study for Spring",
+    "what": [
+        "Ink",
+        "Drawings",
+        "Watercolors",
+        "Chalk",
+        "Gouache"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Federico Zuccaro (Zuccari)"
+}

@@ -1,0 +1,117 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/155668"
+            },
+            {
+                "href": "http://scrapi.org/object/155933"
+            },
+            {
+                "href": "http://scrapi.org/object/156667"
+            },
+            {
+                "href": "http://scrapi.org/object/157126"
+            },
+            {
+                "href": "http://scrapi.org/object/157258"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R129_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140307130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R130_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140310130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=na",
+                "rel": "The United States and Canada, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/159376"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/159376"
+        }
+    },
+    "accession number": "2009.300.805a, b",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Edna F. Corse, 1955",
+    "culture": "American",
+    "date": "1885",
+    "department": "Costume Institute",
+    "description": "The passementerie on this elegant dress is clearly influenced by the Arts and Crafts design aesthetic which was extremely popular 1880 and 1910.  This is an excellent example of how a movement which is mostly based in architecture and interior design crept into clothing, showing the proponents' desire to live the style in its entirety.The bustle silhouette, although primarily associated with the second half of the 19th century, originated in earlier fashions as a simple bump at the back of the dress, such as with late 17th-early 18th century mantuas and late 18th- early 19th century Empire dresses.  The full-blown bustle silhouette had its first Victorian appearance in the late 1860s, which started as fullness in skirts moving to the back of the dress.  This fullness was drawn up in ties for walking that created a fashionable puff.  This trendsetting puff expanded and was then built up with supports from a variety of different things such as horsehair, metal hoops and down.  Styles of this period were often taken from historical inspiration and covered in various types of trim and lace.  Accessories were petite and allowed for the focus on the large elaborate gowns.  Around 1874, the style altered and the skirts began to hug the thighs in the front while the bustle at the back was reduced to a natural flow from the waist to the train.  This period was marked by darker colors, asymmetrical drapery, oversize accessories and elongated forms created by full-length coats.  Near the beginning of the 1880s the trends altered once again to include the bustle, this time it would reach its maximum potential with some skirts having the appearance of a full shelf at the back.  The dense textiles preferred were covered in trimming, beadwork, puffs and bows to visually elevate them further.  The feminine silhouette continued like this through 1889 before the skirts began to reduce and make way for the S-curve silhouette.",
+    "dimensions": [
+        "Length at CB (a) 22 1/2 in. (57.2 cm)",
+        "Length at CB (b) 56 in. (142.2 cm)"
+    ],
+    "id": 159376,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/55.217a-b_front_CP4.jpg",
+    "medium": "silk",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/55.217a-b_front_CP4.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/55.217a-b_side_CP4.jpg"
+    ],
+    "title": "Afternoon dress",
+    "what": [
+        "Costume",
+        "Silk",
+        "Dresses"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "North and Central America",
+        "United States"
+    ]
+}

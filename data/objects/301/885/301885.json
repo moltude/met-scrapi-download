@@ -1,0 +1,129 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/267425"
+            },
+            {
+                "href": "http://scrapi.org/object/283124"
+            },
+            {
+                "href": "http://scrapi.org/object/286028"
+            },
+            {
+                "href": "http://scrapi.org/object/285471"
+            },
+            {
+                "href": "http://scrapi.org/object/283107"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/gray/hd_gray.htm",
+                "rel": "Gustave Le Gray (1820\u20131884)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/lrro/hd_lrro.htm",
+                "rel": "Louis\u2013R\u00e9my Robert (1810\u20131882)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/heli/hd_heli.htm",
+                "rel": "Mission H\u00e9liographique, 1851"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/nadr/hd_nadr.htm",
+                "rel": "Nadar (1820\u20131910)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/frph/hd_frph.htm",
+                "rel": "The Rise of Paper Photography in 1850s France"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwf",
+                "rel": "France, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/301885"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/301885"
+        }
+    },
+    "accession number": "2013.159.39",
+    "credit line": "Bequest of Maurice B. Sendak, 2013",
+    "date": "1856\u201357",
+    "department": "Photographs",
+    "description": "Le Gray\u2019s majestic marine views created an international sensation when they were first exhibited in London and Paris. At a time when camera exposures often lasted for several seconds, viewers were amazed by Le Gray\u2019s ability to freeze the motion of breaking waves, and the perfectly backlit clouds drifting above reinforced the feeling of spontaneity. That the clouds and waves were printed from two separate negatives remained the artist\u2019s secret during his lifetime. Although Le Gray never publicly acknowledged his method, he did leave some inadvertent clues in the pictures themselves. Here, the same dramatic cloud formation floats above two different beaches\u2014one in Normandy, the other two along France\u2019s Mediterranean coast.",
+    "dimensions": [
+        "Mount 12 11/16 in. \u00d7 16 15/16 in. (32.3 \u00d7 43 cm)",
+        "Image 12 5/8 in. \u00d7 16 in. (32 \u00d7 40.7 cm)"
+    ],
+    "id": 301885,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/Sendak_LeGray_300446_CloudStudy.jpg",
+    "medium": "Albumen silver print from glass negatives",
+    "provenance": [
+        "[...]",
+        "(Dominic Winter, UK, November 6, 2002, lot 134)",
+        "[Hans P. Kraus Jr. Fine Photographs, New York, sold to Sendak on February 26, 2003]",
+        "Maurice Sendak"
+    ],
+    "title": "\u00c9tude de nuages",
+    "what": [
+        "Prints",
+        "Photographs",
+        "Glass",
+        "Negatives",
+        "Albumen silver prints",
+        "Albumen",
+        "Photographic processes",
+        "Glass negative"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Gustave Le Gray"
+}

@@ -1,0 +1,123 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/246546"
+            },
+            {
+                "href": "http://scrapi.org/object/253640"
+            },
+            {
+                "href": "http://scrapi.org/object/251055"
+            },
+            {
+                "href": "http://scrapi.org/object/248148"
+            },
+            {
+                "href": "http://scrapi.org/object/248464"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R103_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140307123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A146_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142808",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R104_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140310123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R105_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140311123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R106_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140313123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R027_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140313130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R107_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140314123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/conversations-with-curators-and-conservators/terracotta-column-krater?eid=A001_%7b1CC4797D-7295-4614-9ACD-19C00BA693F4%7d_20140204162630",
+                "rel": "Conversation with a Curator\u2014Terracotta Column-Krater"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A144_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142257",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=04\u00aeion=eust",
+                "rel": "Italian Peninsula, 1000 B.C.\u20131 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/252527"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/252527"
+        }
+    },
+    "accession number": "26.60.63",
+    "credit line": "Fletcher Fund, 1926",
+    "culture": "Praenestine",
+    "date": "ca. 400\u2013350 B.C.",
+    "department": "Greek and Roman Art",
+    "description": "From PraenestePerseus with the Graiai, the sisters of the GorgonsInscribed (retrograde): Pherse (Perseus), Menarea (Minerva), Enie (Enyo), Pemphetru (Pephredo)",
+    "dimensions": "length  9 11/16 in. (24.6 cm.); diameter  6 3/16 in. (15.7 cm.)",
+    "gallery-id": 170,
+    "id": 252527,
+    "image": "http://images.metmuseum.org/CRDImages/gr/original/DP254644.jpg",
+    "medium": "Bronze",
+    "provenance": [
+        "Excavated in Palestrina by Frattini (Kekul\u00e9 1973, p. 124)1872, excavated by Frattini in Palestrina",
+        "[with Francesco Martinetti]",
+        "by 1876 and until 1884, collection of Alessandro Castellani",
+        "1884, purchased by Fr\u00e9d\u00e9ric Spitzer at the Castellani sale at H\u00f4tel Drouot, Paris",
+        "1884-1893, collection of Fr\u00e9d\u00e9ric Spitzer, Paris",
+        "until 1905, collection of T. Schiff",
+        "until 1926, collection of Andr\u00e9 Peytel, Paris",
+        "acquired in 1926, purchased from Andr\u00e9 Peytel."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/gr/original/DP254644.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/GR58.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP254626.jpg"
+    ],
+    "title": "Bronze mirror",
+    "what": [
+        "Metal",
+        "Copper alloy",
+        "Bronze",
+        "Mirrors"
+    ],
+    "when": "1000 B.C.-A.D. 1",
+    "where": [
+        "Europe",
+        "Italy",
+        "Palestrina"
+    ]
+}

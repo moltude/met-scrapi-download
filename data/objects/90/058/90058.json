@@ -1,0 +1,142 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/90060"
+            },
+            {
+                "href": "http://scrapi.org/object/90052"
+            },
+            {
+                "href": "http://scrapi.org/object/97870"
+            },
+            {
+                "href": "http://scrapi.org/object/104901"
+            },
+            {
+                "href": "http://scrapi.org/object/79688"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R130_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140310130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/bale/hd_bale.htm",
+                "rel": "Cristobal Balenciaga (1895\u20131972)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/haut/hd_haut.htm",
+                "rel": "Haute Couture"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/god5/hd_god5.htm",
+                "rel": "The Greek Key and Divine Attributes in Modern Dress"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/20sil/hd_20sil.htm",
+                "rel": "Twentieth\u2013Century Silhouette and Support"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/90058"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/90058"
+        }
+    },
+    "accession number": "1989.333.22a\u2013d",
+    "credit line": "Gift of Anne H. Bass, 1989",
+    "culture": "French",
+    "date": "spring/summer 1985",
+    "department": "Costume Institute",
+    "dimensions": [
+        "Length at CB (a) 31 in. (78.7 cm)",
+        "Length at Side Seam (b) 23 1/2 in. (59.7 cm)",
+        "Length at CB (c) 9 1/8 in. (23.2 cm)",
+        "Length (d) 17 1/2 in. (44.5 cm)"
+    ],
+    "id": 90058,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/1989.333.22a\u2013d_F.jpg",
+    "medium": "Silk, plastic, glass, metal",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/1989.333.22a\u2013d_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1989.333.22b\u2013d_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1989.333.22a_label.jpg"
+    ],
+    "title": "Ensemble",
+    "what": [
+        "Metal",
+        "Silk",
+        "Glass",
+        "Ensembles",
+        "Plastic"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Emanuel Ungaro"
+}

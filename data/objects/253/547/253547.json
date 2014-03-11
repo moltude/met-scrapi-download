@@ -1,0 +1,105 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/249344"
+            },
+            {
+                "href": "http://scrapi.org/object/249345"
+            },
+            {
+                "href": "http://scrapi.org/object/249404"
+            },
+            {
+                "href": "http://scrapi.org/object/249532"
+            },
+            {
+                "href": "http://scrapi.org/object/256711"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R105_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140311123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R106_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140313123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R027_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140313130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R107_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140314123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/conversations-with-curators-and-conservators/terracotta-column-krater?eid=A001_%7b1CC4797D-7295-4614-9ACD-19C00BA693F4%7d_20140204162630",
+                "rel": "Conversation with a Curator\u2014Terracotta Column-Krater"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A144_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142257",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A145_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142312",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R116_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140331123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R117_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140401123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=05\u00aeion=eust",
+                "rel": "Italian Peninsula, 1\u2013500A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/253547"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/253547"
+        }
+    },
+    "accession number": "37.128.6",
+    "credit line": "Bequest of George D. Pratt, 1935",
+    "culture": "Roman, Syrian",
+    "date": "5th\u20136th century A.D. or later",
+    "department": "Greek and Roman Art",
+    "description": "Translucent blue green; handle and trails in translucent cobalt blue.Trefoil rim with rounded lip; broad, flaring mouth; cylindrical neck with concave side; squat, globular body; kick in bottom with central pontil mark; slender rod handle applied as a large oval pad over trail on upper body, drawn up and outwards, then folded into a projecting loop as a thumb rest above rim, and dropped onto back of rim, with another flattened, smaller thumb rest above.One thick trail around lip; another fine trail wound round underside of mouth in a spiral; a third trail applied to side of body and wound round five or six times, forming a band of thicker and thinner lines, then pinched together to form an oval or \"spectacle\" pattern.Intact; a few pinprick and one large bubble, with some black impurities; small patches of encrustation and weathering.",
+    "dimensions": "H. 4 3/16 in. (10.7 cm)",
+    "gallery-id": 171,
+    "id": 253547,
+    "image": "http://images.metmuseum.org/CRDImages/gr/original/DP117561.jpg",
+    "medium": "Glass; blown, trailed, and tooled",
+    "title": "Glass jug with trefoil rim",
+    "what": [
+        "Vessels",
+        "Glass",
+        "Jugs",
+        "Trefoils"
+    ],
+    "where": [
+        "Roman Empire"
+    ]
+}

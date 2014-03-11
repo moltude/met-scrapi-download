@@ -1,0 +1,128 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/474426"
+            },
+            {
+                "href": "http://scrapi.org/object/474427"
+            },
+            {
+                "href": "http://scrapi.org/object/474429"
+            },
+            {
+                "href": "http://scrapi.org/object/474430"
+            },
+            {
+                "href": "http://scrapi.org/object/474431"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 25, 2014",
+                "href": "/exhibitions/listings/2014/canterbury-stained-glass",
+                "rel": "Radiant Light"
+            },
+            {
+                "date": "From August 6, 2013",
+                "href": "/exhibitions/listings/2013/design-motifs-in-byzantine-art",
+                "rel": "Design Motifs in Byzantine Art"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/ancestors-of-christ?eid=A001_%7b64F28017-6AB0-4B00-864F-E5676EE07585%7d_20140113142350",
+                "rel": "The Ancestors of Christ: Stained Glass Windows from Canterbury Cathedral"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/ancestors-of-christ?eid=A002_%7b64F28017-6AB0-4B00-864F-E5676EE07585%7d_20140113142402",
+                "rel": "The Ancestors of Christ: Stained Glass Windows from Canterbury Cathedral"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R008_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140309150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R009_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140310150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R105_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140311104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R010_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140311150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R106_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140312104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R011_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140312150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R107_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140313104500",
+                "rel": "Masterpieces of the Middle Ages"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/474428"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/474428"
+        }
+    },
+    "accession number": "37.52.3",
+    "credit line": "The Cloisters Collection, 1937",
+    "culture": "German",
+    "date": "1440\u201346",
+    "department": "The Cloisters",
+    "dimensions": "Each window 12 ft. 4 1/2 in. x 28 1/4 in. (337.2 x 71.8 cm)",
+    "gallery-id": 16,
+    "id": 474428,
+    "image": "http://images.metmuseum.org/CRDImages/cl/original/DT12117cropped3.jpg",
+    "medium": "Pot-metal glass, white glass, vitreous paint, silver stain",
+    "provenance": [
+        "Count Hermann P\u00fcckler , Muskau (from 1818)",
+        "[ Fr\u00e9d\u00e9ric Spitzer d. 1890 , Paris (from at least 1875-1893)]",
+        "[ Jacques Seligmann , Paris and New York (from at least 1933-1937)]"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/cl/original/DT12117cropped3.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/h1_37.52.1-6.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/DP103003.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/DP103005.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/DP103007.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/DP103009.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/DP103011.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/DP103013.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/DP103001.jpg"
+    ],
+    "title": "The Virgin Mary and Five Standing Saints above Predella Panels",
+    "what": [
+        "Metal",
+        "Glass",
+        "Silver",
+        "Panels",
+        "Stained glass"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Rhine Valley"
+    ]
+}

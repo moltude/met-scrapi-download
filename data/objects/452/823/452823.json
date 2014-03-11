@@ -1,0 +1,140 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/450518"
+            },
+            {
+                "href": "http://scrapi.org/object/450971"
+            },
+            {
+                "href": "http://scrapi.org/object/451098"
+            },
+            {
+                "href": "http://scrapi.org/object/451102"
+            },
+            {
+                "href": "http://scrapi.org/object/451101"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A250_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114353",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world-french?eid=R026_%7b85906EA1-CA66-4610-A52C-39562E1A4C40%7d_20140310133000",
+                "rel": "Arts du monde Islamique (Arts of the Islamic World in French)"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R130_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140310141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A232_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134244",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=waa",
+                "rel": "Anatolia and the Caucasus, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/452823"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/452823"
+        }
+    },
+    "accession number": "1976.312",
+    "credit line": "Fletcher Fund, 1976",
+    "culture": "Islamic",
+    "date": "dated A.H. 1235/ A.D. 1819\u201320",
+    "department": "Islamic Art",
+    "description": "Inscribed with the names of God, the Prophet Muhammad and the first four leaders of the Muslim community, and bordered by Qur'anic verses, this silk sanjak (shield-shaped banner) displays an image of a two-bladed sword with a dragon-headed hilt.  Referred to as Dhu'l Fiqar and associated with military victory, this sword is said to have belonged to 'Ali, the cousin and son-in-law of the Prophet. While Ottoman banners similar to this one were used as military insignia from the 15th century onward, this example bears an early 19th century date, and may have been borne instead by the faithful during pilgrimage to Mecca.",
+    "dimensions": [
+        "Textile L. 115 3/4 in. (294 cm)",
+        "W. 85 1/2 in. (217.2 cm)"
+    ],
+    "id": 452823,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/DP107282.jpg",
+    "medium": "Silk, metal wrapped thread; lampas, brocaded",
+    "provenance": [
+        "Private collection, France (at least since before 1939)",
+        "[ Ahuan Islamic Art, until 1976",
+        "sold to MMA]"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/DP107282.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP157638.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP157639.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP157640.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP157641.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP157642.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP157643.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP157644.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP157645.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP157646.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP157647.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP157648.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP157649.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP157650.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP157651.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP157652.jpg"
+    ],
+    "title": "Banner",
+    "what": [
+        "Metal",
+        "Silk",
+        "Textiles",
+        "Woven",
+        "Banners",
+        "Lampas"
+    ],
+    "where": [
+        "Asia",
+        "Turkey",
+        "Marmara",
+        "Istanbul"
+    ]
+}

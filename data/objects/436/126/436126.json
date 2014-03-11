@@ -1,0 +1,157 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/336789"
+            },
+            {
+                "href": "http://scrapi.org/object/333807"
+            },
+            {
+                "href": "http://scrapi.org/object/344210"
+            },
+            {
+                "href": "http://scrapi.org/object/436151"
+            },
+            {
+                "href": "http://scrapi.org/object/436124"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/piero-della-francesca",
+                "rel": "Piero della Francesca"
+            },
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "From April 22, 2014",
+                "href": "/exhibitions/listings/2014/goya",
+                "rel": "Goya and the Altamira Family"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/talks/gallery-talks/piero-della-francesca?eid=A002_%7bE50FD455-5FC1-41D0-9391-C456264363EF%7d_20140206160641",
+                "rel": "Exhibition Tour\u2014Piero della Francesca: Personal Encounters"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/monuments-men?eid=A001_%7b494A84BE-8369-4A52-BA2A-DDF2B46C9D37%7d_20140124121143",
+                "rel": "Monuments Men: Fact and Fiction"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/monday-at-the-met-spring-2014?eid=R002_%7bBB2BF277-3666-435E-8B95-12CDE21533EA%7d_20140310100000",
+                "rel": "Monday at the Met with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R104_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140310123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R105_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140311123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R106_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140312123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R027_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140313140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/painters-and-paintings?eid=A001_%7b9706CFE2-7062-4475-BC2D-7FD5AFF14712%7d_20140129160910",
+                "rel": "Fellows Colloquium\u2014Painters and Paintings"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R107_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140314123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/saturday-seminar-spring-2014?eid=R002_%7bE063A39F-FC40-4ECC-B690-C4C13F70B2A0%7d_20140315103000",
+                "rel": "Saturday Seminar with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/dgsp/hd_dgsp.htm",
+                "rel": "Edgar Degas (1834\u20131917): Painting and Drawing"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/sara/hd_sara.htm",
+                "rel": "The Salon and The Royal Academy"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwf",
+                "rel": "France, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/436126"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/436126"
+        }
+    },
+    "accession number": "29.100.38",
+    "credit line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+    "date": "1882",
+    "department": "European Paintings",
+    "dimensions": "30 x 34 in. (76.2 x 86.4 cm)",
+    "gallery-id": 816,
+    "id": 436126,
+    "image": "http://images.metmuseum.org/CRDImages/ep/original/DT1046.jpg",
+    "medium": "Pastel on pale gray wove paper (industrial wrapping paper), laid down on silk bolting",
+    "provenance": [
+        "the artist, Paris (1882; sold on July 15\u201316, for Fr 2,000 to Durand-Ruel)",
+        "[Durand-Ruel, Paris, 1882",
+        "stock no. 2508",
+        "sold on October 10\u201312, for Fr 3,500 or 4,000 to Angello]",
+        "Mme Angello, Paris (1882\u2013at least 1886)",
+        "[Alexander Reid, Glasgow and London, by 1891\u201392",
+        "sold in January 1892, for \u00a3800 to Arthur]",
+        "Thomas Glen Arthur, Glasgow (from 1892)",
+        "[Martin et Camentron, Paris, by 1894\u201395",
+        "deposited with Durand-Ruel, Paris, March 13\u201319, 1895 (deposit no. 8637)",
+        "sold on May 28, 1895, for Fr 15,000 to Durand-Ruel]",
+        "[Durand-Ruel, Paris, 1895\u201399",
+        "stock no. 3317",
+        "sold on January 12, 1899, for Fr 50,000 to Durand-Ruel, New York]",
+        "[Durand-Ruel, New York, 1899",
+        "stock no. 2097",
+        "sold on January 24 to Havemeyer]",
+        "Mr. and Mrs. H. O. Havemeyer, New York (1899\u2013his d. 1907)",
+        "Mrs. H. O. (Louisine W.) Havemeyer, New York (1907\u2013d. 1929; cat., 1931, p. 127, ill. p. 126)"
+    ],
+    "title": "At the Milliner's",
+    "what": [
+        "Drawings",
+        "Paper",
+        "Wove paper",
+        "Pastels"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Edgar Degas"
+}

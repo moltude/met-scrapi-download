@@ -1,0 +1,97 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/299409"
+            },
+            {
+                "href": "http://scrapi.org/object/299411"
+            },
+            {
+                "href": "http://scrapi.org/object/307109"
+            },
+            {
+                "href": "http://scrapi.org/object/292077"
+            },
+            {
+                "href": "http://scrapi.org/object/283719"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwb",
+                "rel": "Great Britain and Ireland, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/302463"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/302463"
+        }
+    },
+    "accession number": "2012.344",
+    "credit line": "Purchase, Vital Projects Fund Inc. Gift, through Joyce and Robert Menschel, 2012",
+    "date": "2009, printed 2012",
+    "department": "Photographs",
+    "description": "Working collaboratively since 1990, Anderson and Low are best known for their elegant portraits of athletes, military cadets, and circus performers. For their most recent project, Manga Dreams, they worked with teenagers and young adults on a series of portraits inspired by the extravagantly stylized figures of Japanese manga and anime. Together, the artists and models developed fictional identities based on archetypal characters\u2014warrior, princess, gangster, street punk\u2014and portrayed them by means of elaborate costumes, hairstyles, makeup, and digital image manipulation. The final photographs, as in this portrait of a young warrior crouching in a flat, cartoonish landscape, are exuberant cross-cultural hybrids of fantasy and reality.",
+    "dimensions": [
+        "Image 154.9 x 101.6 cm (61 x 40 in.)",
+        "Sheet 165.1 x 111.8 cm (65 x 44 in.)",
+        "Frame 168.4 x 115.3 cm (66 5/16 x 45 3/8 in.)"
+    ],
+    "id": 302463,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/Anderson&Low_Low.1.2012.jpg",
+    "medium": "Inkjet print",
+    "provenance": [
+        "Anderson & Low"
+    ],
+    "title": "Untitled (Kit the Swordsman)",
+    "what": [
+        "Prints",
+        "Photographs",
+        "Inkjet prints"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "United Kingdom"
+    ],
+    "who": "Anderson & Low"
+}

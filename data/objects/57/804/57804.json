@@ -1,0 +1,204 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/78760"
+            },
+            {
+                "href": "http://scrapi.org/object/78765"
+            },
+            {
+                "href": "http://scrapi.org/object/78768"
+            },
+            {
+                "href": "http://scrapi.org/object/78771"
+            },
+            {
+                "href": "http://scrapi.org/object/78772"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 8, 2014",
+                "href": "/exhibitions/listings/2014/tibet-and-india",
+                "rel": "Tibet and India"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/chinese-carving",
+                "rel": "Colors of the Universe"
+            },
+            {
+                "date": "From July 19, 2013",
+                "href": "/exhibitions/listings/2013/chinese-snuff-bottles",
+                "rel": "Small Delights"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/ink-art",
+                "rel": "Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "From February 1, 2014",
+                "href": "/exhibitions/listings/2014/edo-period-painting",
+                "rel": "The Flowering of Edo Period Painting"
+            },
+            {
+                "date": "From April 14, 2014",
+                "href": "/exhibitions/listings/2014/lost-kingdoms",
+                "rel": "Lost Kingdoms"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R104_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140310111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R104_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140310131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R105_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140311111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R105_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140311120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R105_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140311131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/talks/gallery-talks/gallery-conv-culture-and-politics?eid=A001_%7b33996DD5-3C4F-473B-BCAE-533DF0BF66F1%7d_20140205160349",
+                "rel": "Gallery Conversation\u2014Culture and Politics in Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=A093_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20131018142432",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R106_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140312120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R106_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140312131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R107_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140313120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/edop/hd_edop.htm",
+                "rel": "Art of the Edo Period (1615\u20131868)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/plea/hd_plea.htm",
+                "rel": "Art of the Pleasure Quarters and the Ukiyo\u2013e Style"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/jpon/hd_jpon.htm",
+                "rel": "Japonisme"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/ukiy/hd_ukiy.htm",
+                "rel": "Woodblock Prints in the Ukiyo\u2013e Style"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=eaj",
+                "rel": "Japan, 1600\u20131800 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=eaj",
+                "rel": "Japan, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/57804"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/57804"
+        }
+    },
+    "accession number": "JIB111",
+    "credit line": "The Howard Mansfield Collection, Gift of Howard Mansfield, 1936",
+    "culture": "Japan",
+    "department": "Asian Art",
+    "description": "The series Hokusai manga had fifteen volumes. The first volume was published in 1814 and the tenth, which was supposed to be the final volume, in 1819. The series was so popular that the publishers added several more books, finally ending with volume 15 in 1878, long after Hokusai's death in1849. These drawings demonstrate Hokusai's remarkable ability to capture the essence of the body in motion. His signature reads Hokusai aratame Katsushika Taito (\"Hokusai changed to Katsushika Taito\").",
+    "dimensions": [
+        "Overall (each volume) 8 15/16 x 6 1/4 x 1/2 in. (22.7 x 15.8 x 1.3 cm)",
+        "Image 7 x 4 7/8 in. (17.8 x 12.4 cm)"
+    ],
+    "id": 57804,
+    "image": "http://images.metmuseum.org/CRDImages/as/original/JIB111_d1.jpg",
+    "medium": "Eleven volumes of Woodblock printed books; ink and color on paper",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/as/original/JIB111_d1.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/JIB111_d1_MM41106.JPG",
+        "http://images.metmuseum.org/CRDImages/as/original/JIB111_d2_MM41107.JPG",
+        "http://images.metmuseum.org/CRDImages/as/original/JIB111_d3_MM41059.JPG",
+        "http://images.metmuseum.org/CRDImages/as/original/JIB111_d4_MM41108.JPG",
+        "http://images.metmuseum.org/CRDImages/as/original/JIB111_d5_MM41110.JPG",
+        "http://images.metmuseum.org/CRDImages/as/original/JIB111_d6_MM41111.JPG",
+        "http://images.metmuseum.org/CRDImages/as/original/JIB111_d7_MM41113.JPG",
+        "http://images.metmuseum.org/CRDImages/as/original/JIB111_d8_MM41112.JPG",
+        "http://images.metmuseum.org/CRDImages/as/original/JIB111_d9_MM41114.JPG",
+        "http://images.metmuseum.org/CRDImages/as/original/JIB111_d10_MM42630.JPG",
+        "http://images.metmuseum.org/CRDImages/as/original/JIB111_d11_MM54016.JPG",
+        "http://images.metmuseum.org/CRDImages/as/original/JIB111_d12_MM56785.JPG",
+        "http://images.metmuseum.org/CRDImages/as/original/JIB111_d13_MM57284.JPG",
+        "http://images.metmuseum.org/CRDImages/as/original/JIB111_d14_MM59777.JPG",
+        "http://images.metmuseum.org/CRDImages/as/original/JIB111_d15_MM65999.JPG",
+        "http://images.metmuseum.org/CRDImages/as/original/JIB111_d16_MM74040.JPG",
+        "http://images.metmuseum.org/CRDImages/as/original/JIB111_d17_MM74041.JPG",
+        "http://images.metmuseum.org/CRDImages/as/original/JIB111_d18_MM74042.JPG",
+        "http://images.metmuseum.org/CRDImages/as/original/JIB111_d19_MM74043.JPG",
+        "http://images.metmuseum.org/CRDImages/as/original/JIB111_d20_MM74044.JPG",
+        "http://images.metmuseum.org/CRDImages/as/original/JIB111_d21_MM74045.JPG",
+        "http://images.metmuseum.org/CRDImages/as/original/JIB111_d22_MM74046.JPG",
+        "http://images.metmuseum.org/CRDImages/as/original/JIB111_d23_MM74047.JPG",
+        "http://images.metmuseum.org/CRDImages/as/original/JIB111_d24_MM74048.JPG",
+        "http://images.metmuseum.org/CRDImages/as/original/JIB111_d25_MM74049.JPG",
+        "http://images.metmuseum.org/CRDImages/as/original/JIB111_d26_MM74050.JPG",
+        "http://images.metmuseum.org/CRDImages/as/original/JIB111_d27_MM74051.JPG",
+        "http://images.metmuseum.org/CRDImages/as/original/JIB111_d28_MM74052.JPG",
+        "http://images.metmuseum.org/CRDImages/as/original/JIB111_d29_MM74053.JPG",
+        "http://images.metmuseum.org/CRDImages/as/original/JIB111_d30_MM74054.JPG",
+        "http://images.metmuseum.org/CRDImages/as/original/JIB111_d31_MM74055.JPG",
+        "http://images.metmuseum.org/CRDImages/as/original/JIB111_d32_MM74056.JPG",
+        "http://images.metmuseum.org/CRDImages/as/original/JIB111_d33_MM74057.JPG",
+        "http://images.metmuseum.org/CRDImages/as/original/JIB111_d34_MM74058.JPG",
+        "http://images.metmuseum.org/CRDImages/as/original/JIB111_d35_MM74059.JPG",
+        "http://images.metmuseum.org/CRDImages/as/original/JIB111_d36_MM74064.JPG"
+    ],
+    "title": "Random Sketches by Hokusai, Volumes 1 to 11",
+    "what": [
+        "Ink",
+        "Paper",
+        "Books",
+        "Printing blocks",
+        "Wood blocks",
+        "Printing"
+    ],
+    "where": [
+        "Asia",
+        "Japan"
+    ],
+    "who": "Katsushika Hokusai"
+}

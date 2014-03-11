@@ -1,0 +1,127 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/335327"
+            },
+            {
+                "href": "http://scrapi.org/object/334781"
+            },
+            {
+                "href": "http://scrapi.org/object/334816"
+            },
+            {
+                "href": "http://scrapi.org/object/334817"
+            },
+            {
+                "href": "http://scrapi.org/object/334818"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R129_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140307134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R130_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140310134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R131_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140311134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R132_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140312134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R133_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140313134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R134_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140314134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A109_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131126111651",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A115_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131127144444",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A110_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131126111706",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R145_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140331134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/durr/hd_durr.htm",
+                "rel": "Albrecht D\u00fcrer (1471\u20131528)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=euwc",
+                "rel": "Central Europe (including Germany), 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/459211"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/459211"
+        }
+    },
+    "accession number": "1975.1.859",
+    "credit line": "Robert Lehman Collection, 1975",
+    "date": "1522",
+    "department": "Robert Lehman Collection",
+    "description": "A supremely gifted and versatile German artist of the Renaissance period, Albrecht D\u00fcrer was a brilliant painter, draftsman, and printmaker. This head in three-quarter profile is probably one of a group of drawings made by D\u00fcrer in 1521-22 in preparation for a large \"sacra conversazione\", a multifigured composition in a unified space with the Virgin and Child surrounded by saints. The present drawing may have been a study for the head of Saint Catherine.D\u00fcrer may have learned the technique of drawing on a colored ground while in Italy in 1494-95, where drawing on prepared paper was commonplace by the second half of the fifteenth century. The technique eliminates the white of the paper and incorporates the color of the ground into the subject as an additional value. It makes the shadows appear darker, the highlights whiter, and the image more three-dimensional-steps that are ideal for translating the figure into color and into painted form. Durer took up the technique again later in his career during his stay in the Netherlands in 1520-21. Almost entirely filling the page, the \"Head of a Young Woman\", typical for these late studies, achieves a remarkable tangibility and clarity despite the relative economy of line.",
+    "dimensions": "7 7/8 x 5 15/16 in.  (20 x 15.1 cm)",
+    "id": 459211,
+    "image": "http://images.metmuseum.org/CRDImages/rl/original/DP809594.jpg",
+    "medium": "Black chalk highlighted with white chalk (abraded) on green prepared paper.",
+    "provenance": [
+        "A.F. Andr\u00e9ossy (?)",
+        "Sir Thomas Lawrence, London, England (?)",
+        "W. Coningham (Lugt 476 on the recto)",
+        "art market, Paris",
+        "Philip Hofer, Cambridge, Massachusetts.  Acquired by Robert Lehman from Hofer in March 1948."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/rl/original/DP809594.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/h2_1975_1_859.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/sf-rlc-1975-1-859.jpg"
+    ],
+    "title": "Head of a Young Woman",
+    "what": [
+        "Drawings",
+        "Paper",
+        "Chalk"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Germany"
+    ],
+    "who": "Albrecht D\u00fcrer"
+}

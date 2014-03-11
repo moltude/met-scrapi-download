@@ -1,0 +1,149 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/206500"
+            },
+            {
+                "href": "http://scrapi.org/object/206502"
+            },
+            {
+                "href": "http://scrapi.org/object/227588"
+            },
+            {
+                "href": "http://scrapi.org/object/229460"
+            },
+            {
+                "href": "http://scrapi.org/object/206403"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 3, 2014",
+                "href": "/exhibitions/listings/2014/william-morris",
+                "rel": "William Morris"
+            },
+            {
+                "date": "From November 22, 2011",
+                "href": "/exhibitions/listings/2011/faberge",
+                "rel": "Faberg\u00e9 from the Matilda Geddings Gray Foundation Collection"
+            },
+            {
+                "date": "From February 4, 2014",
+                "href": "/exhibitions/listings/2014/french-ceramics",
+                "rel": "Making Pottery Art"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/carpeaux",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "From January 22, 2014",
+                "href": "/exhibitions/listings/2014/antonio-canova",
+                "rel": "Antonio Canova"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining-family-individual?eid=R002_%7b2F11F3B2-6834-484B-AE0F-5066D7E783B5%7d_20140308100000",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining-family-individual?eid=A002_%7b2F11F3B2-6834-484B-AE0F-5066D7E783B5%7d_20140107114234",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R104_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140310131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/membership-events/evening-receptions/carpeaux-supporting-reception?eid=A001_%7b60301F85-6473-4C1C-8DAB-5D8B2E9406EE%7d_20140107151713",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R105_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140311131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/membership-events/evening-receptions/carpeaux-sustaining-reception?eid=A001_%7bB97F7097-C940-4FDB-8982-A3EC61BD9084%7d_20140107152519",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/world-enlightened?eid=R002_%7bEC37AED7-F558-4A27-A806-094491540250%7d_20140312101500",
+                "rel": "Cultural Discoveries\u2014Wednesdays with Olivier Bernier: Europe in the Eighteenth Century, A World Enlightened"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/talks/gallery-talks/the-passions-of-jean-baptiste-carpeaux?eid=A003_%7b7437318B-B35F-4C96-BAA4-FF8EDD85D6CA%7d_20140206123059",
+                "rel": "Exhibition Tour\u2014The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R106_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140313131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R107_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140314131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwf",
+                "rel": "France, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/202228"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/202228"
+        }
+    },
+    "accession number": "58.75.129",
+    "credit line": "Gift of Samuel H. Kress Foundation, 1958",
+    "culture": "French, Paris",
+    "date": "1668\u201385",
+    "department": "European Sculpture and Decorative Arts",
+    "description": "In his A New Description of Paris, of 1687, Germain Brice (1652\u20131727) mentioned work in progress on \u201ca great Footcloath in the manner of Turky-work, . . . in a place built on purpose at the end of the Cours de la Reine, commonly called the Savonnerie, which is to be the full length of the great Gallery of the Louvre, but is not yet finisht.\u201d Brice referred here to a set of ninety-three carpets, of different but related designs, that was being created for the Grande Galerie of the Palais du Louvre in Paris. The Savonnerie manufactory, which received a monopoly from Louis XIII in 1627 to make knotted-pile rugs in the manner of the Levant, experienced its most creative period under Louis XIV, when the workshops were placed under the direction of the king\u2019s First Painter, Charles Le Brun. The project to cover with carpets the entire floor of the long gallery at the Louvre, measuring more than 480 yards in length, was the most ambitious commission the Savonnerie ever received. The work space was expanded and extra-wide looms were created to accommodate this monumental task. Contrary to tradition, the size of the looms was based on the length of the carpets (which in turn was determined by the width of the long gallery ). The individual designs of the series most likely reflected in some degree the decoration of the ceiling and walls of the gallery.Set against a black ground with scrolling acanthus leaves in the corners, the main motifs of the Museum\u2019s splendid carpet, number thirty-eight of the series, are full of references to the monarchy. The sunflower, symbol of the Sun King, is flanked by the French royal arms and by Louis XIV\u2019s crowned monogram of interlaced Ls.A number of the carpets for the Grande Galerie have compartments at either narrow end showing simulated bas-reliefs in grisaille representing different aspects and virtues of good government. Here the personifications of fame, blowing a trumpet, and fortitude, with a lion and a column, are depicted. Although all the carpets of the original commission but one were woven between 1670 and 1689, Louis XIV appears to have lost interest in the interior decoration of the Louvre, and thus in this monumental project, when he focused his attention on Versailles instead, moving his court there in 1682. When Horace Walpole visited the Louvre in August 1771 the palace was in a derelict state. \u201cSaw the great gallery of Le Brun with battles of Alexander, all the ornaments, ceiling, shutters and even locks and bolts designed by Le Brun, but so abominably neglected that it rains in.\u201d Perhaps it was not such a bad thing after all that the series of Savonnerie carpets appears never to have been laid out in the Grande Galerie as originally intended.",
+    "dimensions": "Overall 358 x 181 in. (909.3 x 459.7 cm) [confirmed 5/19/2006]",
+    "gallery-id": 526,
+    "id": 202228,
+    "image": "http://images.metmuseum.org/CRDImages/es/original/DP212204.jpg",
+    "medium": "Knotted and cut wool pile, woven with about 90 knots per square inch",
+    "provenance": [
+        "[ Bourdillon, Raimond, and Co.",
+        "one of 44 purchased in 1797]",
+        "Possibly Dukes of Marlborough",
+        "The Samuel H. Kress Foundation (until 1958; to MMA)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/es/original/DP212204.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP155158.jpg"
+    ],
+    "title": "Carpet with Fame and Fortitude",
+    "what": [
+        "Textiles",
+        "Woven",
+        "Wool",
+        "Rugs",
+        "Carpets"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "France",
+        "Paris"
+    ],
+    "who": [
+        "Charles Le Brun",
+        "Savonnerie Manufactory",
+        "Louis Le Vau"
+    ]
+}

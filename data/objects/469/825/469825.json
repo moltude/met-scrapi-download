@@ -1,0 +1,117 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/469826"
+            },
+            {
+                "href": "http://scrapi.org/object/469827"
+            },
+            {
+                "href": "http://scrapi.org/object/468939"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 25, 2014",
+                "href": "/exhibitions/listings/2014/canterbury-stained-glass",
+                "rel": "Radiant Light"
+            },
+            {
+                "date": "From August 6, 2013",
+                "href": "/exhibitions/listings/2013/design-motifs-in-byzantine-art",
+                "rel": "Design Motifs in Byzantine Art"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/fire-in-medieval-material-culture?eid=A001_%7b2C78BD24-A40E-4EBE-9EF3-5D3150141D52%7d_20140113122213",
+                "rel": "Fire in Medieval Material Culture"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/teen-programs/art-explore/art-explore-medieval-life?eid=A001_%7b4D072AAD-56E3-463E-B4E7-7A438177C278%7d_20131206154555",
+                "rel": "Art Explore\u2014Medieval Life (Ages 11\u201314)"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/events-at-the-cloisters/family-programs-at-the-cloisters/family-workshops-at-the-cloisters/strike-a-pose?eid=A002_%7bC02F326A-E7EB-4BAE-BA6D-6DB770407BD0%7d_20140113155026",
+                "rel": "Strike a Pose"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/fire-in-medieval-material-culture?eid=A002_%7b2C78BD24-A40E-4EBE-9EF3-5D3150141D52%7d_20140113122225",
+                "rel": "Fire in Medieval Material Culture"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R002_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140302150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/welcome-canterbury?eid=A001_%7b53CBD56A-844E-442F-8444-9EF0B22E78BF%7d_20140210170835",
+                "rel": "Welcome and Introduction"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/canterbury-pilgrims?eid=A001_%7b64D05114-6E96-4769-B2D4-EC56F6BFB232%7d_20140210171509",
+                "rel": "Canterbury Pilgrims"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/age-old-splendor?eid=A001_%7b5BD2D112-6561-4BF9-94B6-31F203659DF6%7d_20140210172052",
+                "rel": "Age-Old Splendor\u2014Splendor's Old Age: Preserving Canterbury Cathedral's Medieval Stained Glass"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/reading-from-canterbury?eid=A001_%7b0E6241AC-6A4B-4E28-B4D9-7B95001379DA%7d_20140210172925",
+                "rel": "A Reading from The Canterbury Tales"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R003_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140303150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=eusi",
+                "rel": "Iberian Peninsula, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/469825"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/469825"
+        }
+    },
+    "accession number": "X.430.1",
+    "credit line": "Museum Accession",
+    "culture": "Spanish",
+    "date": "1446\u201382",
+    "department": "Medieval Art",
+    "description": "The exhibited volume is one of three with the complete Spanish translation from the Latin of Saint Augustine's City of God (De Civitate Dei). Written in the early fifth century after the sack of Rome by the Visigoths, Augustine, bishop of Hippo in north Africa, expanded the concept of the Church as a spiritual, heavenly City of God as opposed to the material, earthly City of Man. Even in times of upheaval, man should fix his eyes on the heavenly Jerusalem rather than earthly, political matters for, in the end, empires would fall and God alone would triumph. While the thesis is framed by this conflict of the material and the spiritual, throughout the twenty-two chapters, Augustine digresses into discussions of the flaws of pagan religions, the turpitude of the Romans, the original sin, the natures of the Cities of God and Man, and many other related themes upon which he wished to expound. In this manuscript copy of the City of God, the text of each chapter or book begins with a major decorated initial, is enriched with abundant marginalia throughout, and ends with a brief exposition or interpretation of the preceding text. The punched and tooled bindings appear to be contemporary with the manuscript.",
+    "dimensions": "15 1/2 x 11 3/8 x 3 1/21 in.  (39.4 x 28.9 x 8.9 cm)",
+    "gallery-id": 20,
+    "id": 469825,
+    "image": "http://images.metmuseum.org/CRDImages/md/original/DT202842.jpg",
+    "medium": "Tempera and gold on parchment, tooled leather binding",
+    "title": "Spanish Translation of Saint Augustine's \"City of God\"",
+    "what": [
+        "Metal",
+        "Gold",
+        "Paintings",
+        "Leather",
+        "Manuscripts",
+        "Tempera",
+        "Parchment",
+        "Illuminations",
+        "Bindings"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Spain"
+    ],
+    "who": "Cano de Aranda"
+}

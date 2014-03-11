@@ -1,0 +1,105 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/248666"
+            },
+            {
+                "href": "http://scrapi.org/object/249343"
+            },
+            {
+                "href": "http://scrapi.org/object/249344"
+            },
+            {
+                "href": "http://scrapi.org/object/249345"
+            },
+            {
+                "href": "http://scrapi.org/object/249347"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A146_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142808",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R104_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140310123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R105_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140311123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R106_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140313123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R027_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140313130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R107_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140314123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/conversations-with-curators-and-conservators/terracotta-column-krater?eid=A001_%7b1CC4797D-7295-4614-9ACD-19C00BA693F4%7d_20140204162630",
+                "rel": "Conversation with a Curator\u2014Terracotta Column-Krater"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A144_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142257",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A145_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142312",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=05\u00aeion=eust",
+                "rel": "Italian Peninsula, 1\u2013500A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/250734"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/250734"
+        }
+    },
+    "accession number": "19.102",
+    "credit line": "Gift of Robert H. Van Court, 1919",
+    "culture": "Roman",
+    "date": "2nd\u20133rd century A.D.",
+    "department": "Greek and Roman Art",
+    "description": "Translucent pale purple, with handle in deep purple.Uneven trefoil rim with plain rounded lip; cylindrical neck, expanding downwards; pushed-in shoulder, above shallow, uneven collar; spherical body; projecting rounded edge to base with concave bottom; no pontil mark; strap handle applied in thick pad with crimp projecting outwards to top of body and extending over collar and shoulder, drawn up and out, then curved in, and trailed onto underside of rim, with two crimps above. Body blown into a four-part mold of three vertical sections, extending to bottom of collar, joined to a shallow, disk-shaped base section.On body, sunken relief design of nine interlocking circles with a dot at the center of each circle, bordered above and below by a double row of smaller dots; on bottom, two raised circles, the outer one faint and thinner, around a small central knob.Intact, except for cracks and small hole in upper part of body; few bubbles; dulling and iridescence on exterior, soli encrustation and black, enamel-like weathering on interior.",
+    "dimensions": "H. 4 7/8 in. (12.4 cm)",
+    "gallery-id": 171,
+    "id": 250734,
+    "image": "http://images.metmuseum.org/CRDImages/gr/original/DP107001.jpg",
+    "medium": "Glass; blown in a four-part mold",
+    "title": "Glass jug decorated with intersecting circles",
+    "what": [
+        "Vessels",
+        "Glass",
+        "Jugs"
+    ],
+    "when": "A.D. 1-500",
+    "where": [
+        "Roman Empire"
+    ]
+}

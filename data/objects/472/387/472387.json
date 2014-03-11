@@ -1,0 +1,134 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/478807"
+            },
+            {
+                "href": "http://scrapi.org/object/478808"
+            },
+            {
+                "href": "http://scrapi.org/object/470314"
+            },
+            {
+                "href": "http://scrapi.org/object/472190"
+            },
+            {
+                "href": "http://scrapi.org/object/470790"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 25, 2014",
+                "href": "/exhibitions/listings/2014/canterbury-stained-glass",
+                "rel": "Radiant Light"
+            },
+            {
+                "date": "From August 6, 2013",
+                "href": "/exhibitions/listings/2013/design-motifs-in-byzantine-art",
+                "rel": "Design Motifs in Byzantine Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R105_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140311104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R010_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140311150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R106_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140312104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R011_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140312150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R107_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140313104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R012_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140313150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R108_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140314104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R013_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140314150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/dresssing-the-part?eid=A001_%7b9C4AFFB5-1623-45E3-BE4C-5DFE582A20E6%7d_20140113143427",
+                "rel": "Dressing the Part: Medieval Costumes for Biblical Prophets and Ancestors"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=07\u00aeion=eusi",
+                "rel": "Iberian Peninsula, 1000\u20131400 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=07\u00aeion=eusi",
+                "rel": "Iberian Peninsula, 1000\u20131400 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/472387"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/472387"
+        }
+    },
+    "accession number": "28.95a\u2013xx",
+    "credit line": "The Cloisters Collection,1928",
+    "culture": "Catalan",
+    "date": "ca. 1300\u20131350",
+    "department": "The Cloisters",
+    "description": "This elaborate structure, supported by three stone lions, is the sepulchral monument traditionally associated with Ermengol VII, count of Urgell.  The various styles and disparate dimensions of the individual parts of the tomb suggest that it was assembled from elements originally intended for several different monuments.  The effigy itself shows the count resting his head on two tasseled cushions, with his eyes closed and his hands crossed above a sheathed sword. A group of mourners, now damaged, is carved into the same slab, just behind the effigy.  Below is a carved panel showing Christ in Majesty, at center, accompanied by the Twelve Apostles, all standing under traceried arches.  A separate relief above the effigy shows a funeral rite, with three celebrants, at center, standing beneath pointed arches.  At the top, on a much smaller rectangular panel, are angels transporting a soul to heaven.",
+    "dimensions": "Overall 89 x 79 1/2 x 35 in. (226.1 x 201.9 x 88.9 cm)",
+    "gallery-id": 9,
+    "id": 472387,
+    "image": "http://images.metmuseum.org/CRDImages/cl/original/DP102894.jpg",
+    "medium": "Limestone, traces of paint",
+    "provenance": [
+        "[ Georges J. Demotte 1877\u20131923 , Paris and New York (sold 1928)]",
+        "George Blumenthal , Paris and New York (in 1928 for John. D. Rockefeller  Jr.)",
+        "John D. Rockefeller Jr. , New York (1928)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/cl/original/DP102894.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/28.95.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/cdi28-95l.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/cdi28-95m.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/cdi28-95m-xx.jpg"
+    ],
+    "title": "Sepulchral Monument of Ermengol VII, Count of Urgell",
+    "what": [
+        "Sculpture",
+        "Stone",
+        "Limestone"
+    ],
+    "when": "A.D. 1000-1400",
+    "where": [
+        "Europe",
+        "Spain",
+        "Catalonia"
+    ]
+}

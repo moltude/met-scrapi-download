@@ -1,0 +1,119 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/475121"
+            },
+            {
+                "href": "http://scrapi.org/object/479348"
+            },
+            {
+                "href": "http://scrapi.org/object/479674"
+            },
+            {
+                "href": "http://scrapi.org/object/478747"
+            },
+            {
+                "href": "http://scrapi.org/object/474934"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 25, 2014",
+                "href": "/exhibitions/listings/2014/canterbury-stained-glass",
+                "rel": "Radiant Light"
+            },
+            {
+                "date": "From August 6, 2013",
+                "href": "/exhibitions/listings/2013/design-motifs-in-byzantine-art",
+                "rel": "Design Motifs in Byzantine Art"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R008_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140309150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R009_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140310150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R105_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140311104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R010_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140311150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R106_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140312104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R011_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140312150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R107_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140313104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R012_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140313150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R108_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140314104500",
+                "rel": "Masterpieces of the Middle Ages"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/474201"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/474201"
+        }
+    },
+    "accession number": "31.8.28a, b",
+    "credit line": "Rogers Fund, 1931",
+    "culture": "Coptic",
+    "date": "4th-7th century",
+    "department": "Medieval Art",
+    "description": "This well-made pair of palm-leaf sandals for an infant is similar in style (with a thong emerging between the big and second toes and an ankle strap) to forty-one single sandals and two pairs found at Kellis (modern Ismant al-Kharab) in Dakhla Oasis, though the Museum\u2019s pair has pointed rather than square toes. Palm footwear was traditional in Egypt, and palm-leaf soles, such as those seen here, are frequently seen on children\u2019s and smaller-sized adult sandals.",
+    "dimensions": [
+        "Overall 1 5/8 x 2 1/16 x 5 3/8in. (4.2 x 5.3 x 13.6cm)",
+        "a 1 5/8 x 2 1/16 x 5 3/8in. (4.2 x 5.3 x 13.6cm)",
+        "b 1 9/16 x 2 1/16 x 5 3/16in. (4 x 5.3 x 13.2cm)"
+    ],
+    "id": 474201,
+    "image": "http://images.metmuseum.org/CRDImages/md/original/tem31-8-28abs2.jpg",
+    "medium": "Palm leaf with the inner sole made of strips, the lower sole in basket weave, and the straps plaited",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/md/original/tem31-8-28abs2.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/tem31-8-28abs1.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/tem31-8-28abs3.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/tem31-8-28a.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/tem31-8-28b.jpg"
+    ],
+    "title": "Pair of Sandals",
+    "what": [
+        "Costume",
+        "Footwear",
+        "Palm leaf",
+        "Baskets",
+        "Sandals",
+        "Strops"
+    ]
+}

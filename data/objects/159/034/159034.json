@@ -1,0 +1,111 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/81118"
+            },
+            {
+                "href": "http://scrapi.org/object/95295"
+            },
+            {
+                "href": "http://scrapi.org/object/81768"
+            },
+            {
+                "href": "http://scrapi.org/object/110075"
+            },
+            {
+                "href": "http://scrapi.org/object/110076"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R150_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140407130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/159034"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/159034"
+        }
+    },
+    "accession number": "2009.300.497",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. William Rand, 1971",
+    "culture": "French",
+    "date": "ca. 1966",
+    "department": "Costume Institute",
+    "description": "After mastering the art of tailoring while working as an assistant designer to Balenciaga, Courr\u00e8ges opened his own house in 1961, specializing in haute couture that befitted the youth quake movement.  Restraint in women's dress was thrown aside in the 1960s, as miniskirts dominated fashion and exposed the leg.  Courr\u00e8ges embraced this new freedom and incorporated clean, geometric lines into his designs to exhibit youth.  Greatly influenced by the future, he introduced his Space Age collection in 1963.  White was a favorite color, as well as those that were extremely bold and bright.  His minimal designs came to life when worn and it is easy to see his models bounding down the runway in a minidress or pantsuit worn with boots, a bonnet, goggles or both.This A-line minidress is characteristic of the designer's work.  It has been constructed in one of his choice fabrics and choice colors, and the garment is extremely architectural, from the notched neckline to the hem.",
+    "dimensions": "Length at CB 32 in. (81.3 cm)",
+    "id": 159034,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/71.159.10_CP4.jpg",
+    "medium": "wool",
+    "title": "Dress",
+    "what": [
+        "Costume",
+        "Wool",
+        "Dresses"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Andr\u00e9 Courr\u00e8ges"
+}

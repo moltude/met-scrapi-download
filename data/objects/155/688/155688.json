@@ -1,0 +1,128 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/159510"
+            },
+            {
+                "href": "http://scrapi.org/object/80914"
+            },
+            {
+                "href": "http://scrapi.org/object/86683"
+            },
+            {
+                "href": "http://scrapi.org/object/108562"
+            },
+            {
+                "href": "http://scrapi.org/object/174434"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R150_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140407130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/155688"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/155688"
+        }
+    },
+    "accession number": "2009.300.1019a\u2013m",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Robert E. Blum, 1985",
+    "culture": "American",
+    "date": "1947",
+    "department": "Costume Institute",
+    "description": "This set of evening coordinates is unusual in its completeness. Made by Brooks Brothers, a well-known high-quality American menswear maker, it features an unusual piqu\u00e9 pattern on vest. The mock-front and real center-back-button closure of the shirts makes for cleaner, smoother look.",
+    "dimensions": [
+        "Length at CB (a) 43 in. (109.2 cm)",
+        "Length at CB (b) 45 in. (114.3 cm)",
+        "Length at CB (c) 21 1/2 in. (54.6 cm)",
+        "Length at CB (d) 34 in. (86.4 cm)",
+        "Length at CB (e) 34 in. (86.4 cm)",
+        "(m) 6 1/2 x 12 in. (16.5 x 30.5 cm)"
+    ],
+    "id": 155688,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/85.144.2a-d_g_h_k-m_CP4.jpg",
+    "medium": "wool, cotton, leather, silk",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/85.144.2a-d_g_h_k-m_CP4.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/85.144.2e_f_i_j_CP2.jpg"
+    ],
+    "title": "Evening suit",
+    "what": [
+        "Costume",
+        "Silk",
+        "Cotton",
+        "Wool",
+        "Leather",
+        "Suits"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": [
+        "Brooks Brothers",
+        "Lee"
+    ]
+}

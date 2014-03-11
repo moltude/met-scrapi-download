@@ -1,0 +1,88 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/335760"
+            },
+            {
+                "href": "http://scrapi.org/object/339165"
+            },
+            {
+                "href": "http://scrapi.org/object/334869"
+            },
+            {
+                "href": "http://scrapi.org/object/334870"
+            },
+            {
+                "href": "http://scrapi.org/object/334874"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/334871"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/334871"
+        }
+    },
+    "accession number": "1996.70",
+    "credit line": "Purchase, Harry G. Sperling Fund, James A. and Maria R. Warth Gift, in memory of Anne and Peter Warth, and Bequest of Clifford A. Furst, by exchange, 1996.",
+    "date": "16th century",
+    "department": "Drawings and Prints",
+    "dimensions": "7 7/16 x 5 5/16 in.  (18.9 x 13.5 cm)",
+    "id": 334871,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP803425.jpg",
+    "medium": "Pen and brown ink, brush and brown ink, watercolor and gouache, with touches of gold",
+    "provenance": [
+        "Jacob Theodor Cremer (Dutch, Santpoort 1902\u20131979 New York)",
+        "Mak van Waay",
+        "Sotheby's, AmsterdamNov. 17, 1980, no.34",
+        "Bernard Houthakker (born 1884, Amsterdam)",
+        "Christie's, New YorkJan. 11, 1994, no.111"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP803425.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DR233.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DT3990.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP803426.jpg"
+    ],
+    "title": "Dance of Death",
+    "what": [
+        "Ink",
+        "Drawings",
+        "Watercolors",
+        "Gouache"
+    ],
+    "who": "Anonymous, German, 16th century"
+}

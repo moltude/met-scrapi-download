@@ -1,0 +1,134 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/84177"
+            },
+            {
+                "href": "http://scrapi.org/object/98792"
+            },
+            {
+                "href": "http://scrapi.org/object/98793"
+            },
+            {
+                "href": "http://scrapi.org/object/79212"
+            },
+            {
+                "href": "http://scrapi.org/object/79214"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R129_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140307130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R130_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140310130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/cost/hd_cost.htm",
+                "rel": "Costume in The Metropolitan Museum of Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/coho/hd_coho.htm",
+                "rel": "Dressing for the Cocktail Hour"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/haut/hd_haut.htm",
+                "rel": "Haute Couture"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/orie/hd_orie.htm",
+                "rel": "Orientalism: Visions of the East in Western Dress"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/20sil/hd_20sil.htm",
+                "rel": "Twentieth\u2013Century Silhouette and Support"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/170080"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/170080"
+        }
+    },
+    "accession number": "2009.300.5875",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. Stanley Mortimer, 1976",
+    "culture": "French",
+    "date": "1969",
+    "department": "Costume Institute",
+    "id": 170080,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/76.139.33_CP2.jpg",
+    "medium": "Silk",
+    "title": "Scarf",
+    "what": [
+        "Costume",
+        "Silk",
+        "Scarves"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Yves Saint Laurent"
+}

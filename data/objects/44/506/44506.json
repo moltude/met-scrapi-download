@@ -1,0 +1,153 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/44507"
+            },
+            {
+                "href": "http://scrapi.org/object/44508"
+            },
+            {
+                "href": "http://scrapi.org/object/44509"
+            },
+            {
+                "href": "http://scrapi.org/object/44510"
+            },
+            {
+                "href": "http://scrapi.org/object/48941"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 8, 2014",
+                "href": "/exhibitions/listings/2014/tibet-and-india",
+                "rel": "Tibet and India"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/chinese-carving",
+                "rel": "Colors of the Universe"
+            },
+            {
+                "date": "From July 19, 2013",
+                "href": "/exhibitions/listings/2013/chinese-snuff-bottles",
+                "rel": "Small Delights"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/ink-art",
+                "rel": "Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "From February 1, 2014",
+                "href": "/exhibitions/listings/2014/edo-period-painting",
+                "rel": "The Flowering of Edo Period Painting"
+            },
+            {
+                "date": "From April 14, 2014",
+                "href": "/exhibitions/listings/2014/lost-kingdoms",
+                "rel": "Lost Kingdoms"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/highlights-of-asia?eid=A041_%7b93924202-8616-42E2-8DA1-39A4591F1426%7d_20140122180137",
+                "rel": "Highlights of Asia"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R100_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140303111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R100_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140303131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R101_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140304111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R101_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140304120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R101_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140304131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/talks/gallery-talks/the-flowering-of-edo-period-painting-spring?eid=A001_%7bB9065A06-A3F9-4CAB-8F49-ED3038F1E7A2%7d_20140205171419",
+                "rel": "Exhibition Tour\u2014The Flowering of Edo Period Painting: Japanese Masterworks from the Feinberg Collection"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=A092_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20131018142423",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R102_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140305120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R102_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140305131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=07\u00aeion=nc",
+                "rel": "Central and North Asia, 1000\u20131400 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=07\u00aeion=eac",
+                "rel": "China, 1000\u20131400 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/44506"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/44506"
+        }
+    },
+    "accession number": "30.76.290",
+    "credit line": "Rogers Fund, 1929",
+    "culture": "China",
+    "date": "before 1195",
+    "department": "Asian Art",
+    "description": "This is one from a set of scrolls (30.76.290\u2013.294) illustrating the theme of the Ten Kings of Hell, which developed during the second half of the Tang dynasty (618\u2013907). The theme transforms the Indian Buddhist view of judgment after death into a typically Chinese bureaucratic process. Before being permitted to transmigrate into the next life, a soul is tried by a different king each week for seven weeks; it is sent to the eighth king on the hundredth day, to the ninth after a year, and to the tenth the third year after death. Here, each scroll shows a king-assisted by a scribe and other officials-examining and passing sentence on the souls of the dead; in the foreground demons punish the wicked.Most extant Song and Yuan dynasty Buddhist paintings were preserved in Japan; many had been taken there from Ningbo, Zhejiang Province, an important port city for Japanese merchants and pilgrims. Inscriptions on the present paintings state that they were made in the studio of Jin Chushi, a Buddhist layman in Mingzhou, the name for Ningbo before it was changed to Qingyuanfu in 1195; the paintings, therefore, must date prior to that year. Stylistically, they are extremely close to The Five Hundred Luohans in the Zen Buddhist temple Daitokuji, Kyoto, which were also made in Ningbo and are dated 1178. The vivid drawing and the intense colors of these works are typical of the best Buddhist narrative paintings of the period.",
+    "dimensions": [
+        "Image 51 x 19 1/2 in. (129.5 x 49.5 cm)",
+        "Overall with mounting 80 \u00d7 25 3/8 in. (203.2 \u00d7 64.5 cm)",
+        "Overall with knobs 80 x 27 1/2 in. (203.2 x 69.9 cm)"
+    ],
+    "id": 44506,
+    "image": "http://images.metmuseum.org/CRDImages/as/original/DP217409.jpg",
+    "medium": "One of five of a set of ten hanging scrolls; ink and color on silk",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/as/original/DP217409.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP217402.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP217410.jpg"
+    ],
+    "title": "Ten Kings of Hell",
+    "what": [
+        "Silk",
+        "Ink",
+        "Paintings",
+        "Scroll paintings",
+        "Scrolls",
+        "Hanging scrolls"
+    ],
+    "when": "A.D. 1000-1400",
+    "where": [
+        "Asia",
+        "China"
+    ],
+    "who": "Jin Chushi"
+}

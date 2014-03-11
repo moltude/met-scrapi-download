@@ -1,0 +1,157 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/483366"
+            },
+            {
+                "href": "http://scrapi.org/object/483355"
+            },
+            {
+                "href": "http://scrapi.org/object/482391"
+            },
+            {
+                "href": "http://scrapi.org/object/480740"
+            },
+            {
+                "href": "http://scrapi.org/object/490021"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From November 20, 2013",
+                "href": "/exhibitions/listings/2013/jewels-by-jar",
+                "rel": "Jewels by JAR"
+            },
+            {
+                "date": "From November 5, 2013",
+                "href": "/exhibitions/listings/2013/carlo-scarpa",
+                "rel": "Venetian Glass by Carlo Scarpa"
+            },
+            {
+                "date": "From February 24, 2014",
+                "href": "/exhibitions/listings/2014/lucas-samaras",
+                "rel": "Lucas Samaras"
+            },
+            {
+                "date": "From December 17, 2013",
+                "href": "/exhibitions/listings/2013/metropolitan-vanities",
+                "rel": "Metropolitan Vanities"
+            },
+            {
+                "date": "From October 22, 2013",
+                "href": "/exhibitions/listings/2013/william-kentridge",
+                "rel": "William Kentridge"
+            },
+            {
+                "date": "From April 29, 2014",
+                "href": "/exhibitions/listings/2014/dan-graham",
+                "rel": "The Roof Garden Commission: Dan Graham"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R100_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140303144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/modern-art-french?eid=R026_%7b96311A2D-1D25-45BE-83E2-2054BC16D70B%7d_20140304133000",
+                "rel": "Art Moderne et Contemporain (Modern and Contemporary Art in French)"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R101_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140304144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R102_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140305144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R026_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140306140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R103_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140306144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/collecting-and-intepreting-at-the-met?eid=A001_%7b6A0B3958-68AC-4F22-BB73-D898FB894401%7d_20140127111701",
+                "rel": "Fellows Colloquium\u2014Collecting and Interpreting at the Met"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/talks/gallery-talks/metropolitan-vanities?eid=A001_%7bF51ADF90-5C6F-45EF-822C-6AE4940219F6%7d_20140206160301",
+                "rel": "Exhibition Tour\u2014Metropolitan Vanities: The History of the Dressing Table"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/college/jewels?eid=A001_%7bB2CEEB36-09E2-43E1-B6FD-1CA91686BA29%7d_20140219113337",
+                "rel": "Jewels by JAR Workshop"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R104_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140310144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/pica/hd_pica.htm",
+                "rel": "Pablo Picasso (1881\u20131973)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/symb/hd_symb.htm",
+                "rel": "Symbolism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=eusi",
+                "rel": "Iberian Peninsula, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/488596"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/488596"
+        }
+    },
+    "accession number": "50.188",
+    "credit line": "Purchase, Mr. and Mrs. Ira Haupt Gift, 1950",
+    "date": "1903",
+    "department": "Modern and Contemporary Art",
+    "description": "This striking painting is one of Picasso's most moving pictures from his Blue Period, so named for the blue coloration that permeated his work at the time (autumn 1901-mid-1904). Frequently he depicted solitary figures set against almost empty backgrounds, the blue palette imparting a mood of melancholy and desolation to images that suggest unhappiness and dejection, poverty, despondency, and despair. Most prevalent among his subjects were the old, the destitute, the blind, the homeless, and the otherwise underprivileged outcasts of society.The Blind Man's Meal, painted in Barcelona in the autumn of 1903, summarizes the stylistic characteristics of Picasso's Blue Period: rigorous drawing, simple hieratic compositions and forms, and of course, a blue tonality. The composition presents a forlorn figure seated at a frugal repast. In a letter, preserved in the Barnes Collection in Philadelphia, Pennsylvania, Picasso gives a very precise description of the composition: \"I am painting a blind man at the table. He holds some bread in his left hand and gropes with his right hand for a jug of wine.\" An empty bowl and a white napkin complete the still life on the table. The man's slightly contorted figure, long thin El Greco-like hands, unadorned surroundings, and his blindness make his disenfranchised condition all the more poignant. The highlights on his face and neck, hands, bread, and napkin put the figure in relief against the austere background.The painting is not merely a portrait of a blind man; it is also Picasso's commentary on human suffering in general. The meager meal of bread and wine invites references to the figure of Christ and the principal dogma of Catholic faith, whereby bread and wine represent Christ's body and blood, sacramental associations that Picasso as a Spaniard would have known. Additionally, the work elicits affinities to Picasso's own situation at the time, when, impoverished and depressed, he closely identified with the unfortunates of society.",
+    "dimensions": [
+        "37 1/2 x 37 1/4in. (95.3 x 94.6cm)",
+        "47 1/2 x 47 3/8 x 2 3/4 in. (120.7 x 120.3 x 7 cm) (Frame)"
+    ],
+    "gallery-id": 830,
+    "id": 488596,
+    "image": "http://images.metmuseum.org/CRDImages/ma/original/DP220030.jpg",
+    "medium": "Oil on canvas",
+    "provenance": [
+        "[Galerie Vollard, Paris, by 1906/7\u20131912, stock no. 5456",
+        "probably purchased from the artist",
+        "sold on December 11, 1912, for 3,000 francs and shipped on January 10, 1913, to Moderne Galerie]",
+        "[Moderne Galerie (Heinrich Thannhauser), Munich, 1912\u201313, stock no. 3272",
+        "sold in February 1913 to Koenig]",
+        "Hertha Koenig and her brother, Helge Siegfried Koenig, Munich (1913\u201350; consigned by November 16, 1949, until November 1950 to Justin K. Thannhauser, New York; sold in November 1950, through Thannhauser, for $38,500 to MMA [purchased with funds given by Mr. and Mrs. Ira Haupt])"
+    ],
+    "title": "The Blind Man's Meal",
+    "what": [
+        "Paintings",
+        "Canvas",
+        "Oil paintings"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "Spain"
+    ],
+    "who": "Pablo Picasso"
+}

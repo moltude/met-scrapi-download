@@ -1,0 +1,123 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/451862"
+            },
+            {
+                "href": "http://scrapi.org/object/452003"
+            },
+            {
+                "href": "http://scrapi.org/object/451753"
+            },
+            {
+                "href": "http://scrapi.org/object/451041"
+            },
+            {
+                "href": "http://scrapi.org/object/451387"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A249_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114331",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A250_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114353",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world-french?eid=R026_%7b85906EA1-CA66-4610-A52C-39562E1A4C40%7d_20140310133000",
+                "rel": "Arts du monde Islamique (Arts of the Islamic World in French)"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R130_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140310141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=07\u00aeion=wai",
+                "rel": "Iran, 1000\u20131400 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/451388"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/451388"
+        }
+    },
+    "accession number": "57.36.13",
+    "credit line": "Purchase, Rogers Fund, and Gift of The Schiff Foundation, 1957",
+    "culture": "Islamic",
+    "date": "12th\u201313th century",
+    "department": "Islamic Art",
+    "description": "Some of the mina'i ceramics illustrate stories from the Persian epic, the Shahnama, predating its earliest surviving illustrated manuscripts by nearly a century. This bowl depicts the episode of Prince Bahram Gur hunting with Azada, his favorite concubine. Azada challenges Bahram Gur to a hunting feat, but when he succeeds, she pities the slain gazelles and reproaches him. In anger, he tramples her under his camel\u2019s feet. The painter has conflated two different moments into one scene.",
+    "dimensions": "3 13/16 x 8 1/2 in. (9.7 x 21.6 cm)",
+    "gallery-id": 453,
+    "id": 451388,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/sf57-36-13c.jpg",
+    "medium": "Stonepaste; polychrome inglaze and overglaze painted on opaque monochrome glaze (mina'i)",
+    "provenance": [
+        "M. Parish-Watson, New York",
+        "his son, John M. Schiff, New York (by 1940\u201357; sold and gifted to MMA)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/sf57-36-13c.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DT214806.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/sf57-36-13b.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/sf57-36-13a.jpg"
+    ],
+    "title": "Bahram Gur and Azada",
+    "what": [
+        "Ceramics",
+        "Painting",
+        "Glaze",
+        "Bowls",
+        "Overglazing"
+    ],
+    "when": "A.D. 1000-1400",
+    "where": [
+        "Asia",
+        "Iran"
+    ]
+}

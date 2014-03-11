@@ -1,0 +1,113 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/255683"
+            },
+            {
+                "href": "http://scrapi.org/object/255829"
+            },
+            {
+                "href": "http://scrapi.org/object/255962"
+            },
+            {
+                "href": "http://scrapi.org/object/256185"
+            },
+            {
+                "href": "http://scrapi.org/object/243842"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A146_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142808",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R104_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140310123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R105_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140311123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R106_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140313123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R027_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140313130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R107_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140314123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/conversations-with-curators-and-conservators/terracotta-column-krater?eid=A001_%7b1CC4797D-7295-4614-9ACD-19C00BA693F4%7d_20140204162630",
+                "rel": "Conversation with a Curator\u2014Terracotta Column-Krater"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A144_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142257",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A145_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142312",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=04\u00aeion=eusb",
+                "rel": "Ancient Greece, 1000 B.C.\u20131 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/255122"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/255122"
+        }
+    },
+    "accession number": "62.11.1",
+    "credit line": "Rogers Fund, 1962",
+    "culture": "Greek",
+    "date": "4th\u20133rd century B.C.",
+    "department": "Greek and Roman Art",
+    "description": "Inscribed on the base sketchily in Greek, \"Pausi[  ],\" and more deeply engraved in Punic (Carthaginian) characters, an indication of weightThis libation bowl, decorated with bees, acorns, and beechnuts, is worked in repouss\u00e9. Phialai decorated with acorns were being made by the late sixth century B.C. and must have been traditional. Acorns could also be seen on the phialai held by the caryatids of the Erechtheum on the Akropolis in Athens, as we learn from Roman copies found in Hadrian's villa at Tivoli.",
+    "dimensions": "H. 1 7/16 in. (3.6 cm); diameter  9 1/4 in. (23.5 cm)",
+    "gallery-id": 163,
+    "id": 255122,
+    "image": "http://images.metmuseum.org/CRDImages/gr/original/DP118068.jpg",
+    "medium": "Gold",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/gr/original/DP118068.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP118069.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP123536.jpg"
+    ],
+    "title": "Gold phiale (libation bowl)",
+    "what": [
+        "Metal",
+        "Vessels",
+        "Silver",
+        "Gold",
+        "Phialae"
+    ],
+    "when": "1000 B.C.-A.D. 1",
+    "where": [
+        "Europe",
+        "Greece"
+    ]
+}

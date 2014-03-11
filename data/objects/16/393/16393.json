@@ -1,0 +1,155 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/16392"
+            },
+            {
+                "href": "http://scrapi.org/object/17068"
+            },
+            {
+                "href": "http://scrapi.org/object/16394"
+            },
+            {
+                "href": "http://scrapi.org/object/17067"
+            },
+            {
+                "href": "http://scrapi.org/object/16758"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 18, 2013",
+                "href": "/exhibitions/listings/2013/american-west",
+                "rel": "The American West in Bronze, 1850\u20131925"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/american-art-weekend?eid=A185_%7b501B6EDB-D4CC-4402-98B8-688E06337497%7d_20131127141222",
+                "rel": "American Art"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/monday-at-the-met-spring-2014?eid=R001_%7bBB2BF277-3666-435E-8B95-12CDE21533EA%7d_20140303100000",
+                "rel": "Monday at the Met with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R100_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140303120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R101_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140304120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R076_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140304134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R102_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140305120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R077_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140305134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R103_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140306120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R078_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140306134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/k12-educator-programs/the-american-west?eid=A001_%7b59F3CABA-5299-48C0-8465-1CF2F278D0C3%7d_20131122143623",
+                "rel": "The American West"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/amer/hd_amer.htm",
+                "rel": "America Comes of Age: 1876\u20131900"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/artn/hd_artn.htm",
+                "rel": "Art Nouveau"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/tiff/hd_tiff.htm",
+                "rel": "Louis Comfort Tiffany (1848\u20131933)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/ajew/hd_ajew.htm",
+                "rel": "Nineteenth\u2013Century American Jewelry"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/acam/hd_acam.htm",
+                "rel": "The Arts and Crafts Movement in America"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/16393"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/16393"
+        }
+    },
+    "accession number": "67.654.12",
+    "credit line": "Purchase, Walter Hoving and Julia T. Weld Gifts and Dodge Fund, 1967",
+    "culture": "American",
+    "date": "ca. 1915",
+    "department": "American Decorative Arts",
+    "dimensions": [
+        "Overall 32 5/8 x 25 7/16 in. (82.9 x 64.6 cm)",
+        "Design 25 1/16 x 23 3/4 in. (63.7 x 60.3 cm)"
+    ],
+    "id": 16393,
+    "image": "http://images.metmuseum.org/CRDImages/ad/original/ADA34.jpg",
+    "medium": "Watercolor, gouache, aluminum paint and bronze powder metallic ink on artist board with original shaped window mat",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ad/original/ADA34.jpg",
+        "http://images.metmuseum.org/CRDImages/ad/original/ADA3301.jpg"
+    ],
+    "title": "Design for ceiling of Hershey Theater, Hershey Pennsylvania",
+    "what": [
+        "Metal",
+        "Ink",
+        "Drawings",
+        "Copper alloy",
+        "Paintings",
+        "Bronze",
+        "Watercolors",
+        "Gouaches",
+        "Aluminum",
+        "Windows",
+        "Mats",
+        "Aluminum paint"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States",
+        "New York"
+    ],
+    "who": [
+        "Louis Comfort Tiffany",
+        "Tiffany Studios"
+    ]
+}

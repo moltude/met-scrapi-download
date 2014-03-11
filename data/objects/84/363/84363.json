@@ -1,0 +1,123 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/83878"
+            },
+            {
+                "href": "http://scrapi.org/object/84062"
+            },
+            {
+                "href": "http://scrapi.org/object/86894"
+            },
+            {
+                "href": "http://scrapi.org/object/86979"
+            },
+            {
+                "href": "http://scrapi.org/object/87006"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R150_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140407130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwf",
+                "rel": "France, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/84363"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/84363"
+        }
+    },
+    "accession number": "32.35.3",
+    "credit line": "Rogers Fund, 1932",
+    "culture": "French",
+    "date": "1725\u201350",
+    "department": "Costume Institute",
+    "dimensions": "Length 26 in. (66 cm)",
+    "id": 84363,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/32.35.3_F.jpg",
+    "medium": "silk, metal thread",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/32.35.3_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/32.35.3_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/TSR32.35.3_d1.JPG",
+        "http://images.metmuseum.org/CRDImages/ci/original/TSR32.35.3_d2.JPG",
+        "http://images.metmuseum.org/CRDImages/ci/original/TSR32.35.3_d3.JPG",
+        "http://images.metmuseum.org/CRDImages/ci/original/TSR32.35.3_d4.JPG",
+        "http://images.metmuseum.org/CRDImages/ci/original/TSR32.35.3_d5.JPG",
+        "http://images.metmuseum.org/CRDImages/ci/original/TSR32.35.3_d6.JPG",
+        "http://images.metmuseum.org/CRDImages/ci/original/TSR32.35.3_d7.JPG",
+        "http://images.metmuseum.org/CRDImages/ci/original/253085.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/253086.jpg"
+    ],
+    "title": "Dress",
+    "what": [
+        "Metal",
+        "Costume",
+        "Silk",
+        "Dresses"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "France"
+    ]
+}

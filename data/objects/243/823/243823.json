@@ -1,0 +1,124 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/243822"
+            },
+            {
+                "href": "http://scrapi.org/object/243819"
+            },
+            {
+                "href": "http://scrapi.org/object/243820"
+            },
+            {
+                "href": "http://scrapi.org/object/243821"
+            },
+            {
+                "href": "http://scrapi.org/object/243824"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A146_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142808",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R104_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140310123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R105_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140311123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R106_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140313123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R027_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140313130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R107_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140314123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/conversations-with-curators-and-conservators/terracotta-column-krater?eid=A001_%7b1CC4797D-7295-4614-9ACD-19C00BA693F4%7d_20140204162630",
+                "rel": "Conversation with a Curator\u2014Terracotta Column-Krater"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A144_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142257",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A145_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142312",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/cesn/hd_cesn.htm",
+                "rel": "The Cesnola Collection at The Metropolitan Museum of Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=04\u00aeion=wae",
+                "rel": "The Eastern Mediterranean, 1000 B.C.\u20131 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/243823"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/243823"
+        }
+    },
+    "accession number": "74.51.4554",
+    "credit line": "The Cesnola Collection, Purchased by subscription, 1874\u201376",
+    "culture": "Cypriot",
+    "date": "ca. 725\u2013675 B.C.",
+    "department": "Greek and Roman Art",
+    "description": "The central tondo shows a winged deity of Assyrian type felling a rampant lion with a sword. The surrounding frieze presents a variety of animal and narrative motifs, including two specifically Egyptian subjects: a sphinx wearing the Egyptian double crown and a lion treading over a dead man, symbolizing the pharaoh dominating his enemies. The broad outer band features a variety of combats. Of greatest importance, however, are two inscriptions. At the top, above an Assyrianizing figure killing a lion, a Cypriot syllabic inscription reads, \"I am [the bowl] of Akestor, king of Paphos.\" It was partly obliterated and replaced by \"I am [the bowl] of Timokretes,\" presumably the next owner. The bowl is exceptionally significant for its excellent condition, high quality, and amalgam of Egyptian, Assyrian, and Phoenician features.",
+    "dimensions": [
+        "H. 1 1/4 in. (3.1 cm)",
+        "diameter  6 5/8 in. (16.8 cm)"
+    ],
+    "gallery-id": 174,
+    "id": 243823,
+    "image": "http://images.metmuseum.org/CRDImages/gr/original/DT256.jpg",
+    "medium": "Gilt silver",
+    "provenance": [
+        "Said to be from Kourion, Cyprus (Cesnola 1877, p. 329).Until 1874, Cesnola Collection, excavated by General Cesnola in Kourion, Cyprus",
+        "acquired 1874, purchased from General Luigi Palma di Cesnola."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/gr/original/DT256.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/gr74.51.4554.R.jpg"
+    ],
+    "title": "Silver-gilt bowl",
+    "what": [
+        "Metal",
+        "Silver",
+        "Gold",
+        "Gilt",
+        "Bowls"
+    ],
+    "when": "1000 B.C.-A.D. 1",
+    "where": [
+        "Asia",
+        "Cyprus"
+    ]
+}

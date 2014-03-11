@@ -1,0 +1,127 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/544211"
+            },
+            {
+                "href": "http://scrapi.org/object/544213"
+            },
+            {
+                "href": "http://scrapi.org/object/577298"
+            },
+            {
+                "href": "http://scrapi.org/object/544214"
+            },
+            {
+                "href": "http://scrapi.org/object/544126"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/teen-programs/saturday-sketching/saturday-sketching-egyptian-art?eid=A001_%7b8698F79D-A7E0-44F1-99CF-57C8A2E2471A%7d_20131211143556",
+                "rel": "Saturday Sketching\u2014Egyptian Art (Ages 11\u201318)"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A151_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113641",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R130_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140310140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=03\u00aeion=afe",
+                "rel": "Egypt, 2000\u20131000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/544212"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/544212"
+        }
+    },
+    "accession number": "20.3.3",
+    "credit line": "Rogers Fund and Edward S. Harkness Gift, 1920",
+    "date": "ca. 1981\u20131975 B.C.",
+    "department": "Egyptian Art",
+    "description": "Many outings of Egyptian nobles culminated in a picnic. On the menu for Meketre's boat trip were roasted fowl, dried beef, bread, beer, and some kind of soup. Meat and bread were carried on another model of a tender, now in Cairo. Here, the beer is prepared and the soup cooked. A blackened trough may have contained burning coal for roasting the fowl. A man tends a stove on which soup simmers. On either side, a woman grinds grain. Brewers inside the cabin are shaping bread loaves, then working them through sieves into large vats. One brewer stands in another vat, where he tramples the dates that provide the sugar for the fermentation of the beer. The oars of this boat are fixed to the sides; to avoid damaging the oars while the boats were transported and deposited in the model chamber, all oars of Meketre's boats were secured in this manner.",
+    "dimensions": "l. with rudder 147 cm (57 7/8 in); w. with oars 73 cm (28 3/4 in); h. 40 cm (15 3/4 in)",
+    "gallery-id": 105,
+    "id": 544212,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/20.3.3_EGDP011936.jpg",
+    "medium": "Wood, paint, plaster, linen twine and cloth",
+    "provenance": [
+        "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art, 1920. Acquired by the Museum in the division of finds, 1920."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/eg/original/20.3.3_EGDP011936.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/20.3.3_EGDP011937.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/20.3.3_EGDP011939.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/20.3.3_EGDP011940.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/20.3.3_EGDP011938.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/EG168.jpg"
+    ],
+    "title": "Kitchen Tender being Rowed",
+    "what": [
+        "Wood",
+        "Linen",
+        "Cloth",
+        "Plaster",
+        "Cord",
+        "Boats",
+        "Twine"
+    ],
+    "when": "2000-1000 B.C.",
+    "where": [
+        "Africa",
+        "Egypt",
+        "Upper Egypt",
+        "Thebes"
+    ]
+}

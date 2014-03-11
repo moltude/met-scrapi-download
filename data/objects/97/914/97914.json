@@ -1,0 +1,126 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/80418"
+            },
+            {
+                "href": "http://scrapi.org/object/83045"
+            },
+            {
+                "href": "http://scrapi.org/object/94564"
+            },
+            {
+                "href": "http://scrapi.org/object/81454"
+            },
+            {
+                "href": "http://scrapi.org/object/157555"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R150_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140407130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/97914"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/97914"
+        }
+    },
+    "accession number": "C.I.63.46.3a\u2013d",
+    "credit line": "Gift of Mrs. Charles Wrightsman, 1963",
+    "culture": "French",
+    "date": "fall/winter 1962\u201363",
+    "department": "Costume Institute",
+    "dimensions": [
+        "Length at CF (a) 49 in. (124.5 cm)",
+        "Length (b) 74 in. (188 cm)",
+        "Length (c, d) 8 1/4 in. (21 cm)"
+    ],
+    "id": 97914,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/CI63.46.3_label.jpg",
+    "medium": "silk, metallic threads",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/CI63.46.3_label.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI63.46.3cd_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI63.46.3cd_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI63.46.3cd_Tp.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI63.46.3d_d1.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/CI63.46.3c_d1.jpg"
+    ],
+    "title": "Evening ensemble",
+    "what": [
+        "Silk",
+        "Ensembles"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": [
+        "House of Dior",
+        "Roger Vivier",
+        "Hubert de Givenchy",
+        "House of Givenchy"
+    ]
+}

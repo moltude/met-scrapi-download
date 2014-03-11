@@ -1,0 +1,146 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/70652"
+            },
+            {
+                "href": "http://scrapi.org/object/70644"
+            },
+            {
+                "href": "http://scrapi.org/object/65230"
+            },
+            {
+                "href": "http://scrapi.org/object/44529"
+            },
+            {
+                "href": "http://scrapi.org/object/44945"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 8, 2014",
+                "href": "/exhibitions/listings/2014/tibet-and-india",
+                "rel": "Tibet and India"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/chinese-carving",
+                "rel": "Colors of the Universe"
+            },
+            {
+                "date": "From July 19, 2013",
+                "href": "/exhibitions/listings/2013/chinese-snuff-bottles",
+                "rel": "Small Delights"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/ink-art",
+                "rel": "Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "From February 1, 2014",
+                "href": "/exhibitions/listings/2014/edo-period-painting",
+                "rel": "The Flowering of Edo Period Painting"
+            },
+            {
+                "date": "From April 14, 2014",
+                "href": "/exhibitions/listings/2014/lost-kingdoms",
+                "rel": "Lost Kingdoms"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R105_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140311111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R105_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140311120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R105_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140311131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/talks/gallery-talks/gallery-conv-culture-and-politics?eid=A001_%7b33996DD5-3C4F-473B-BCAE-533DF0BF66F1%7d_20140205160349",
+                "rel": "Gallery Conversation\u2014Culture and Politics in Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=A093_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20131018142432",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R106_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140312120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R106_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140312131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R107_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140313120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/programs-for-visitors-with-disabilities/visitors-who-are-blind-or-partially-sighted/picture-this-workshop-asian-art?eid=A001_%7b9CE222FD-E83F-4619-ADE7-7E4A30CBB471%7d_20140206171620",
+                "rel": "Picture This! Workshop\u2014Asian Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R107_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140314111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=eaj",
+                "rel": "Japan, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/53902"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/53902"
+        }
+    },
+    "accession number": "1999.247.1",
+    "credit line": "Gift of John B. Elliott through the Mercer Trust, 1999",
+    "culture": "Japan (Ainu)",
+    "date": "19th century",
+    "department": "Asian Art",
+    "description": "The native people of Northern Japan are called the Ainu and historically have been culturally distinct from the Japanese--in language, religion, and artistic traditions. Among the most renowned of their works of art are wood carvings and textiles. The Ainu's distinctive attush cloth is made from the inner bark of the elm tree or from linden or nettle plants. Men were responsible for collecting the bark, but, as with all Ainu costume, the design, weaving, sewing, and decorating were done by women for their own families. This attush robe has uniformly wide sleeves, a trait that shows a similarity to and probable influence of the Japanese kimono; by contrast, the sleeves of the cotton robe also shown here taper from the armpit to the wrist.",
+    "dimensions": "H. including neckband  47 1/2 in. (120.7 cm); W. 51 3/8 in. (130.5 cm)",
+    "id": 53902,
+    "image": "http://images.metmuseum.org/CRDImages/as/original/1999_247_1_F.jpg",
+    "medium": "appliqu\u00e9d and embroidered elm fiber",
+    "provenance": [
+        "John B. Elliott , Princeton, NJ (until d. 1997)",
+        "The Mercer Trust , 1997\u20131999"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/as/original/1999_247_1_F.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/1999_247_1_B.jpg"
+    ],
+    "title": "Robe",
+    "what": [
+        "Costume",
+        "Needlework",
+        "Wood",
+        "Embroidery",
+        "Robes",
+        "Elm"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Asia",
+        "Japan"
+    ]
+}

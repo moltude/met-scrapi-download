@@ -1,0 +1,122 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/310496"
+            },
+            {
+                "href": "http://scrapi.org/object/310494"
+            },
+            {
+                "href": "http://scrapi.org/object/314690"
+            },
+            {
+                "href": "http://scrapi.org/object/314687"
+            },
+            {
+                "href": "http://scrapi.org/object/314688"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From September 16, 2013",
+                "href": "/exhibitions/listings/2013/feathered-walls",
+                "rel": "Feathered Walls"
+            },
+            {
+                "date": "From October 8, 2013",
+                "href": "/exhibitions/listings/2013/nelson-rockefeller",
+                "rel": "The Nelson A. Rockefeller Vision"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R105_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140311130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R106_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140312130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R107_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140313130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 18, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/shaping-the-african-art-canon?eid=A001_%7b447041C4-D9E7-43A9-AE5F-85BAEB6E7196%7d_20140214113010",
+                "rel": "Shaping the African Art Canon: From the Museum to the Classroom"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/talks/the-observant-eye/shared-memory-sculptural-ancestral-objects-from-oceania?eid=A001_%7b94768B86-339F-4726-A3BC-8F798C423768%7d_20140123143856",
+                "rel": "Shared Memory: Sculptural Ancestral Objects from Oceania"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=A116_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140210093151",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/talks/gallery-talks/ancient-american-sculpture?eid=A002_%7b7A6AA394-9359-47C1-87B4-65B0894C01AB%7d_20140123114700",
+                "rel": "Ancient American Sculpture"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R117_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140401130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R118_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140402130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=04\u00aeion=sac",
+                "rel": "Central and Southern Andes, 1000 B.C.\u20131 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/309518"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/309518"
+        }
+    },
+    "accession number": "67.239.16",
+    "credit line": "Harris Brisbane Dick and Fletcher Funds, 1967",
+    "culture": "Cupisnique",
+    "date": "12th\u20135th century BCE",
+    "department": "Arts of Africa, Oceania and the Americas",
+    "description": "Cupisnique potters depicted a broad range of animals on their ceramic vessels, usually those that figured prominently in their mythology. Deer, widely distributed on both American continents, were an important food source and a favorite in myth and art. On this burnished blackware vessel, a small, naturalistically rendered deer is being carried on the broad shoulders of a heavy, seated man. The man's head, covered with a conical cap, leans forward with his load. His hands hold the front and hind legs of the animal. His face bears incised geometric designs, perhaps representing facial paint, tattoos, or scarification practiced in ancient times. The image of a man carrying a deer\u2014perhaps a hunter carrying his booty\u2014is an enduring one, known from many depictions on ceramics made in later times. It is possible that the figure depicts a mythical character recognizable to members of coastal societies over many centuries.",
+    "dimensions": "H. 10 x W. 5 11/16 x D. 5 1/16 in. (25.4 x 14.4 x 12.9 cm)",
+    "gallery-id": 357,
+    "id": 309518,
+    "image": "http://images.metmuseum.org/CRDImages/ao/original/DT258907.jpg",
+    "medium": "Ceramic",
+    "provenance": [
+        "[John Wise Ltd., New York,  until 1967]"
+    ],
+    "title": "Stirrup Spout Bottle: Figure Carrying Deer",
+    "what": [
+        "Ceramics",
+        "Vessels",
+        "Bottles"
+    ],
+    "where": [
+        "South America",
+        "Peru"
+    ],
+    "who": [
+        "Early horizon",
+        "Cupisnique"
+    ]
+}

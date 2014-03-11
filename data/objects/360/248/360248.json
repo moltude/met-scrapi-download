@@ -1,0 +1,118 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/337057"
+            },
+            {
+                "href": "http://scrapi.org/object/342641"
+            },
+            {
+                "href": "http://scrapi.org/object/342642"
+            },
+            {
+                "href": "http://scrapi.org/object/342607"
+            },
+            {
+                "href": "http://scrapi.org/object/387834"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/chri/hd_chri.htm",
+                "rel": "Painting the Life of Christ in Medieval and Renaissance Italy"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/poet/hd_poet.htm",
+                "rel": "Poets in Italian Mythological Prints"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/mypr/hd_mypr.htm",
+                "rel": "Poets, Lovers, and Heroes in Italian Mythological Prints"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/birt/hd_birt.htm",
+                "rel": "The Birth and Infancy of Christ in Italian Painting"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/clan/hd_clan.htm",
+                "rel": "The Rediscovery of Classical Antiquity"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/wivf/hd_wivf.htm",
+                "rel": "Woodcut Book Illustration in Renaissance Italy: Venice in the 1490s"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/anat/hd_anat.htm",
+                "rel": "Anatomy in the Renaissance"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/bota/hd_bota.htm",
+                "rel": "Botanical Imagery in European Painting"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/360248"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/360248"
+        }
+    },
+    "accession number": "18.12",
+    "credit line": "Rogers Fund, 1918",
+    "date": "ca. 1485\u201388",
+    "department": "Drawings and Prints",
+    "dimensions": "plate 10 7/8 x 16 7/8 in. (27.6 x 42.9 cm) slightly irregular",
+    "id": 360248,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP821758.jpg",
+    "medium": "Engraving",
+    "title": "The Battle of the Sea Gods (Left portion of a  frieze)",
+    "what": [
+        "Prints",
+        "Engraving"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Andrea Mantegna"
+}

@@ -1,0 +1,102 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/249007"
+            },
+            {
+                "href": "http://scrapi.org/object/256696"
+            },
+            {
+                "href": "http://scrapi.org/object/256729"
+            },
+            {
+                "href": "http://scrapi.org/object/256741"
+            },
+            {
+                "href": "http://scrapi.org/object/239725"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R104_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140310123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R105_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140311123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R106_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140313123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R027_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140313130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R107_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140314123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/conversations-with-curators-and-conservators/terracotta-column-krater?eid=A001_%7b1CC4797D-7295-4614-9ACD-19C00BA693F4%7d_20140204162630",
+                "rel": "Conversation with a Curator\u2014Terracotta Column-Krater"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A144_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142257",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A145_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142312",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R116_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140331123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/252988"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/252988"
+        }
+    },
+    "accession number": "29.100.73",
+    "credit line": "H.O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+    "culture": "Roman, Syrian",
+    "date": "6th\u2013early 7th century A.D.",
+    "department": "Greek and Roman Art",
+    "description": "Translucent blue green with same color handle and trail.Rounded rim, folded out, over, and in, and smoothed into outer edge of flaring mouth; cylindrical neck expanding downwards; horizontal shoulder with rounded edges; hexagonal body with sides tapering downwards; kick in bottom, with small central pontil mark; thick rod handle attached in a large pad to shoulder, drawn up and out in a curve, then trailed on to edge of rim and underside of mouth.On neck, trail applied as a pad and wound once round vertically; on body, three different designs, each repeated twice: 1) three large lozenges arranged vertically, each with a central circular boss, and three half-lozenges to either side; 2) staggered rows of diamond-shaped knobs; 3) palm frond with twelve leaves to either side; on bottom, six-petaled rosette.Complete, but internal crack in neck and part of trail broken off and now unattached; pinprick bubbles; dulling, pitting, and brilliant iridescent weathering.",
+    "dimensions": "H. 7 3/8 in. (18.7 cm)",
+    "id": 252988,
+    "image": "http://images.metmuseum.org/CRDImages/gr/original/DP265538.jpg",
+    "medium": "Glass; mold-blown and trailed",
+    "provenance": [
+        "Said to be from near Nazareth, Israel"
+    ],
+    "title": "Glass hexagonal jug",
+    "what": [
+        "Vessels",
+        "Glass",
+        "Jugs"
+    ],
+    "when": "A.D. 500-1000",
+    "where": [
+        "Roman Empire"
+    ]
+}

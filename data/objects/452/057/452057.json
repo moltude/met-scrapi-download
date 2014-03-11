@@ -1,0 +1,138 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/446835"
+            },
+            {
+                "href": "http://scrapi.org/object/448669"
+            },
+            {
+                "href": "http://scrapi.org/object/453670"
+            },
+            {
+                "href": "http://scrapi.org/object/446678"
+            },
+            {
+                "href": "http://scrapi.org/object/447030"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A232_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134244",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A237_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134557",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/programs-for-visitors-with-disabilities/visitors-who-are-deaf/beauty-and-innovation?eid=A001_%7b77D8F57E-5FC9-4578-8A95-30A43C89CFDD%7d_20140210164006",
+                "rel": "Met Signs Tours in ASL\u2014Beauty and Innovation: Understanding Islamic Art"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A251_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114408",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/figs/hd_figs.htm",
+                "rel": "Figural Representation in Islamic Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/orna/hd_orna.htm",
+                "rel": "The Nature of Islamic Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=06\u00aeion=wae",
+                "rel": "The Eastern Mediterranean, 500\u20131000 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/452057"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/452057"
+        }
+    },
+    "accession number": "69.153",
+    "credit line": "Gift of Mrs. Charles S. Payson, 1969",
+    "culture": "Islamic",
+    "date": "late 7th\u20138th century",
+    "department": "Islamic Art",
+    "description": "During Roman and early Islamic times, animal\u2011shaped vessels were made using an intricate decorated double or quadruple glass tube. Decorated with trailed glass threads, the tubes are carried on the backs of domestic animals and the trailed threads appear to imitate protective cages. Such vessels were probably used as containers for kohl or perfume.",
+    "dimensions": [
+        "H. 4 3/8 in. (11.1 cm)",
+        "Gr. L. 3 1/4 in. (8.3 cm)",
+        "Gr. Diam. 1 7/8 in. (4.7 cm)"
+    ],
+    "gallery-id": 451,
+    "id": 452057,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/DP216063.jpg",
+    "medium": "Glass, amber-colored; blown, applied decoration",
+    "provenance": [
+        "Mrs. Charles S. Payson, New York (until 1969)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/DP216063.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/ISL70.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DT5109.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/h1_69.153.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP216062.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/sf69-153a.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/ISL167.jpg"
+    ],
+    "title": "Animal Flask",
+    "what": [
+        "Glass",
+        "Flasks",
+        "Resin",
+        "Amber"
+    ],
+    "when": "A.D. 500-1000",
+    "where": [
+        "Asia",
+        "Syria"
+    ]
+}

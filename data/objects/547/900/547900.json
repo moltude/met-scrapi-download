@@ -1,0 +1,128 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/544168"
+            },
+            {
+                "href": "http://scrapi.org/object/547636"
+            },
+            {
+                "href": "http://scrapi.org/object/548690"
+            },
+            {
+                "href": "http://scrapi.org/object/544160"
+            },
+            {
+                "href": "http://scrapi.org/object/558330"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/teen-programs/saturday-sketching/saturday-sketching-egyptian-art?eid=A001_%7b8698F79D-A7E0-44F1-99CF-57C8A2E2471A%7d_20131211143556",
+                "rel": "Saturday Sketching\u2014Egyptian Art (Ages 11\u201318)"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A151_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113641",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R130_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140310140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=04\u00aeion=afe",
+                "rel": "Egypt, 1000 B.C.\u20131 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/547900"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/547900"
+        }
+    },
+    "accession number": "49.121.1",
+    "credit line": "Harris Brisbane Dick Fund, 1949",
+    "date": "332\u2013222 B.C.",
+    "department": "Egyptian Art",
+    "description": "Depictions of Egyptian pharaohs presenting broad collars and other items of jewelry to deities are often found on temple walls. In the New Kingdom, these representations feature collars that tend to be nearly circular and, sometimes, to have a counterweight hanging from the back. Similar scenes in Ptolemaic temples tend to show semicircular collars that have long strings or chains at the back, but no counterweight, an arrangement that resembles this collar. The collar does not lie flat but slopes in way suggesting it was meant to lie across the chest of a divine statuette; however, the long chains and lack of counterweight would make such a fit very awkward. The possibility exists that the collar was a ritual offering and was not meant for wearing.Moving from the outermost to the innermost bands,the six strands of the necklace comprise: 1) turquoisedrop beads alternating with lapis triangles; 2) hanging lapis and turquoise lotuses with goldstepms that alternate with gold buds, interstices filled with carnelian; 3) turquoise rosettes with gold centers separated by bands of lapis; 4) hanging lapis and turquoise papyrus flowers with gold stems alternating with round gold shapes (mandrakes?), spaces filled with carnelian; 5)  turquoise triangles alternating with turquoise and lapis petal-shaped forms, the pattern suggesting hanging floral forms; 6) hanging turquoise lilies separated by long gold leaves.Block borders of lapis and turquoise with gold finish the top, and hinged to them are lotus flower terminals with lapis and turquoise inlays.",
+    "dimensions": "h. 8.6 cm (1/2 in); w. 10.3 cm (4 1/16 in)",
+    "gallery-id": 128,
+    "id": 547900,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/DP139141.jpg",
+    "medium": "gold, carnelian, turquoise, lapis lazuli",
+    "provenance": [
+        "Loaned to the Museum by Mrs. Joseph McKee Cook, 1920 (S.L. 804). Loan continued by her daughter Mrs. Goddard DuBois. Purchased from her son, 1949."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/eg/original/DP139141.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/49.121.1_front.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/49.121.1_back.jpg"
+    ],
+    "title": "Miniature broad collar",
+    "what": [
+        "Metal",
+        "Costume",
+        "Gold",
+        "Paintings",
+        "Jewelry",
+        "Chalcedony",
+        "Necklaces",
+        "Carnelian",
+        "Miniatures",
+        "Collars",
+        "Turquoise",
+        "Lapis lazuli",
+        "Broad collars"
+    ],
+    "when": "1000 B.C.-A.D. 1",
+    "where": [
+        "Africa",
+        "Egypt"
+    ]
+}

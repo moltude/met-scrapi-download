@@ -1,0 +1,121 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/317847"
+            },
+            {
+                "href": "http://scrapi.org/object/317848"
+            },
+            {
+                "href": "http://scrapi.org/object/317849"
+            },
+            {
+                "href": "http://scrapi.org/object/317851"
+            },
+            {
+                "href": "http://scrapi.org/object/317852"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From September 16, 2013",
+                "href": "/exhibitions/listings/2013/feathered-walls",
+                "rel": "Feathered Walls"
+            },
+            {
+                "date": "From October 8, 2013",
+                "href": "/exhibitions/listings/2013/nelson-rockefeller",
+                "rel": "The Nelson A. Rockefeller Vision"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=A115_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140210093011",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/talks/gallery-talks/ancient-american-sculpture?eid=A001_%7b7A6AA394-9359-47C1-87B4-65B0894C01AB%7d_20140123114645",
+                "rel": "Ancient American Sculpture"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R105_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140311130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R106_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140312130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R107_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140313130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 18, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/shaping-the-african-art-canon?eid=A001_%7b447041C4-D9E7-43A9-AE5F-85BAEB6E7196%7d_20140214113010",
+                "rel": "Shaping the African Art Canon: From the Museum to the Classroom"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/talks/the-observant-eye/shared-memory-sculptural-ancestral-objects-from-oceania?eid=A001_%7b94768B86-339F-4726-A3BC-8F798C423768%7d_20140123143856",
+                "rel": "Shared Memory: Sculptural Ancestral Objects from Oceania"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=A116_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140210093151",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/talks/gallery-talks/ancient-american-sculpture?eid=A002_%7b7A6AA394-9359-47C1-87B4-65B0894C01AB%7d_20140123114700",
+                "rel": "Ancient American Sculpture"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=sfw",
+                "rel": "Western and Central Sudan, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/317853"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/317853"
+        }
+    },
+    "accession number": "1997.444.7",
+    "credit line": "Gift of Thomas G.B. Wheelock, 1997",
+    "culture": "Bwa peoples",
+    "date": "20th century",
+    "department": "Arts of Africa, Oceania and the Americas",
+    "description": "Bwa plank masks are conceived to embody supernatural forces that act on behalf of the families that commission and use them. In this example bold linear designs are juxtaposed with sculptural elements that extend the flat planes of the composition. These elements include a hook form projecting between the interstice of the rectangular and circular fields and three figural representations that stand at the summit. The patterns and iconography that enhance individual works are carefully described to the artist by clan elders. These graphic elements are not merely drawn upon for their aesthetic qualities but are symbols associated with oral histories taught to young initiates and inscribed upon their bodies. In Bwa culture certain socially marginal personages, such as foreigners, dwarfs, or lepers, are perceived to facilitate contact with the spirit world. Their representation in masquerades may be discerned through the overall performance rather than the mask's iconographic features. Contextual information for this work was documented by Christopher Roy in the village of Boni in 1983.   Wood masks are linked to all important events in Bwa village life. They appear at events ranging from initiations of young men and women to commemorative funerary ceremonies. The creation of new masks occurs during the dry season and is the occasion for an annual celebration at which they are inaugurated with festivities. Performances are organized by individual clans that compete with one another to give the most elaborate and innovative displays.",
+    "dimensions": "H. 34 3/4 in. (88.3 cm)",
+    "id": 317853,
+    "image": "http://images.metmuseum.org/CRDImages/ao/original/DT4238.jpg",
+    "medium": "Wood, pigment",
+    "provenance": [
+        "[Gilbert Ouedraogo, Burkina Faso, until 1996]",
+        "Thomas G.B. Wheelock, New York, 1996\u20131997"
+    ],
+    "title": "Leper Mask",
+    "what": [
+        "Costume",
+        "Sculpture",
+        "Wood",
+        "Masks",
+        "Ceremonial masks"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Africa",
+        "Burkina Faso"
+    ]
+}

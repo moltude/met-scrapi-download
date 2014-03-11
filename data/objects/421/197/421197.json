@@ -1,0 +1,83 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/421189"
+            },
+            {
+                "href": "http://scrapi.org/object/421191"
+            },
+            {
+                "href": "http://scrapi.org/object/421192"
+            },
+            {
+                "href": "http://scrapi.org/object/421193"
+            },
+            {
+                "href": "http://scrapi.org/object/421194"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/421197"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/421197"
+        }
+    },
+    "accession number": "Burdick 242, T7-6.10",
+    "credit line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+    "date": "1913",
+    "department": "Drawings and Prints",
+    "description": "Extra large cards from the series \"Hamilton King Girls\" (T7), issued between 1902 and 1913 to promote Turkish Trophies and Helmar Cigarettes. The series was issued in 6 separate types: T7-1 includes sketches of women; T7-2 includes women originally drawn by Hamilton King; T7-3 depicts \"Bathing Girls\"; T7-4 represents women in period gowns; T7-5 cards picture \"Flag Girls of the Nations\"; and T7-6 are \"Sports Girls\". All cards in this set are from T7-6, issued in 1913, representing women playing sports.",
+    "dimensions": "Sheet 8 x 6 in. (20.3 x 15.2 cm)",
+    "id": 421197,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP827493.jpg",
+    "medium": "Commercial color lithograph",
+    "provenance": [
+        "Donor: Jefferson R. Burdick (American, 1900\u20131963)"
+    ],
+    "title": "Light Opera Girl, from the series \"Hamilton King Girls\" (T7, Type 6), issued by Turkish Trophies Cigarettes",
+    "what": [
+        "Prints",
+        "Planographic prints",
+        "Lithographs",
+        "Color lithographs"
+    ],
+    "when": "A.D. 1900-present",
+    "who": [
+        "Turkish Trophies Cigarettes",
+        "Hamilton King"
+    ]
+}

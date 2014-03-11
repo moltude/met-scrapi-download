@@ -1,0 +1,98 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/264866"
+            },
+            {
+                "href": "http://scrapi.org/object/265001"
+            },
+            {
+                "href": "http://scrapi.org/object/283854"
+            },
+            {
+                "href": "http://scrapi.org/object/283855"
+            },
+            {
+                "href": "http://scrapi.org/object/283845"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/phcw/hd_phcw.htm",
+                "rel": "Photography and the Civil War, 1861\u20131865"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=na",
+                "rel": "The United States and Canada, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/283193"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/283193"
+        }
+    },
+    "accession number": "2005.100.91",
+    "credit line": "Gilman Collection, Purchase, The Horace W. Goldsmith Foundation Gift, through Joyce and Robert Menschel, 2005",
+    "date": "1863",
+    "department": "Photographs",
+    "description": "Better known for his later views commissioned by the Union Pacific Railroad, A. J. Russell, a captain in the 141st New York Infantry Volunteers, was one of the few Civil War photographers who was also a soldier. As a photographer-engineer for the U.S. Military Railroad Con struction Corps, Russell's duty was to make a historical record of both the technical accomplishments of General Herman Haupt's engineers and the battlefields and camp sites in Virginia. This view of a slave pen in Alexandria guarded, ironically, by Union officers shows Russell at his most insightful; the pen had been converted by the Union Army into a prison for captured Confederate soldiers.     Between 1830 and 1836, at the height of the American cotton market, the District of Columbia, which at that time included Alexandria, Virginia, was considered the seat of the slave trade. The most infamous and successful firm in the capital was Franklin & Armfield, whose slave pen is shown here under a later owner's name. Three to four hundred slaves were regularly kept on the premises in large, heavily locked cells for sale to Southern plantation owners. According to a note by Alexander Gardner, who published a similar view, \"Before the war, a child three years old, would sell in Alexandria, for about fifty dollars, and an able-bodied man at from one thousand to eighteen hundred dollars. A woman would bring from five hundred to fifteen hundred dollars, according to her age and personal attractions.\"      Late in the 1830s Franklin and Armfield, already millionaires from the profits they had made, sold out to George Kephart, one of their former agents. Although slavery was outlawed in the District in 1850, it flourished across the Potomac in Alexandria. In 1859, Kephart joined William Birch, J. C. Cook, and C. M. Price and conducted business under the name of Price, Birch & Co. The partnership was dissolved in 1859, but Kephart continued operating his slave pen until Union troops seized the city in the spring of 1861.",
+    "dimensions": "Image 25.6 x 36.5 cm (10 1/16 x 14 3/8 in.)",
+    "id": 283193,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP274833.jpg",
+    "medium": "Albumen silver print from glass negative",
+    "provenance": [
+        "[Janet Lehr]",
+        "Gilman Paper Company Collection, New York, April 2, 1986"
+    ],
+    "title": "Slave Pen, Alexandria, Virginia",
+    "what": [
+        "Photographs",
+        "Albumen silver prints"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "Andrew Joseph Russell"
+}

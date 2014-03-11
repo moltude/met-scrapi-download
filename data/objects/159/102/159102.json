@@ -1,0 +1,122 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/158314"
+            },
+            {
+                "href": "http://scrapi.org/object/106792"
+            },
+            {
+                "href": "http://scrapi.org/object/157330"
+            },
+            {
+                "href": "http://scrapi.org/object/159189"
+            },
+            {
+                "href": "http://scrapi.org/object/157991"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R130_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140310130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwb",
+                "rel": "Great Britain and Ireland, 1800\u20131900 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwb",
+                "rel": "Great Britain and Ireland, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/159102"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/159102"
+        }
+    },
+    "accession number": "2009.300.558",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Designated Purchase Fund, 1986",
+    "culture": "British",
+    "date": "1898\u20131901",
+    "department": "Costume Institute",
+    "description": "A woman wore a teagown to receive guests in her own home in the late 19th and early 20th centuries. These garments were far less formal and structured that typical day or evening wear, and as a result, sometimes show more creative or unusual inspirations, such as historic or non-Western forms of dress. This example is a beautifully made and decorated teagown, which shows the influence of both Japanese embroidered kimonos and 18th century robes \u00e0 la fran\u00e7aise. Interior padding intended to provide warmth and the deliberate choice of a magenta lining which picks up the purple details in the lily motifs are both signs of superior design and workmanship. Furthermore, the asymmetry of the embroidery is in keeping with the Art Nouveau aesthetic. While the maker is no longer known, the smocking of the bodice clearly relates to the distinctive Liberty & Company fashions in vogue during this period, and the store might easily have been the source for this unparalleled example.",
+    "dimensions": "Length at CB 59 in. (149.9 cm)",
+    "id": 159102,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/86.14_front_CP4.jpg",
+    "medium": "silk",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/86.14_front_CP4.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/86.14_back_CP4.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/86.14_detail_CP4.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/86.14_threequarters bw.JPG"
+    ],
+    "title": "Tea gown",
+    "what": [
+        "Costume",
+        "Silk",
+        "Dresses",
+        "Gowns",
+        "Tea gowns"
+    ],
+    "where": [
+        "Europe",
+        "United Kingdom"
+    ]
+}

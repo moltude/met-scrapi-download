@@ -1,0 +1,250 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/456371"
+            },
+            {
+                "href": "http://scrapi.org/object/456372"
+            },
+            {
+                "href": "http://scrapi.org/object/456373"
+            },
+            {
+                "href": "http://scrapi.org/object/456374"
+            },
+            {
+                "href": "http://scrapi.org/object/456353"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A249_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114331",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A250_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114353",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world-french?eid=R026_%7b85906EA1-CA66-4610-A52C-39562E1A4C40%7d_20140310133000",
+                "rel": "Arts du monde Islamique (Arts of the Islamic World in French)"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R130_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140310141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=eusi",
+                "rel": "Iberian Peninsula, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/456352"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/456352"
+        }
+    },
+    "accession number": "56.234.35.2",
+    "credit line": "Gift of The Hearst Foundation, 1956",
+    "culture": "Mudejar",
+    "date": "16th century",
+    "department": "Islamic Art",
+    "description": "The ceiling covering gallery 459 is a testament to the resilience and persistence of traditional Islamic design in Andalusia after the Christian Reconquista. This so-called mud\u00e9jar style was especially prevalent in the Aragon and Castile-Le\u00f3n regions of Spain, where many Christian churches incorporate similar ceilings. The ceiling is comprised of thirty carved, painted, and gilded pinewood panels. The ceiling originally was designed for a smaller space; it was later expanded, explaining its somewhat uneven geometric pattern. In addition to the Islamic-inspired star pattern, a whimsical frieze of gilded running animals, flying birds and swirling vine scrolls decorates the cornice.",
+    "dimensions": [
+        "Side 1 99 in. (251.5 cm)",
+        "Side 2 168 in. (426.7 cm)",
+        "Side 3 192 in. (487.7 cm)",
+        "Side 4 146 in. (370.8 cm)"
+    ],
+    "gallery-id": 459,
+    "id": 456352,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/DP104686.jpg",
+    "medium": "Wood; carved, painted, and gilded",
+    "provenance": [
+        "[ Arthur Byne, Madrid, until 1930",
+        "sold to Hearst]",
+        "William Randolph Hearst, San Simeon, CA (1930\u2013d. 1951; The Hearst Foundation, 1951\u201356;gifted to MMA)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/DP104686.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/sf56-234-35-20a.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP104687.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP104688.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP104689.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP104690.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP104691.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP104692.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP104693.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP104694.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP104695.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP104696.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP104697.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP104698.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP104699.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP104700.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP104701.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP104703.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107640.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107641.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107642.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107643.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107644.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107645.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107646.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107647.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107648.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107649.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107650.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107651.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107652.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107653.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107654.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107655.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107656.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107657.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107658.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107659.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107660.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107661.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107662.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107663.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107664.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107665.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107666.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107667.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107668.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107669.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107670.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107671.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107915.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107916.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107917.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107918.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107919.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107920.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107921.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107922.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107923.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107924.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107925.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107926.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107927.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107928.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107929.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107930.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107931.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107932.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107933.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107934.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107935.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107936.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107937.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107938.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107939.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP108005.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP108006.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP108007.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP108008.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP108009.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP108010.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP108011.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP108013.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP108014.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP108015.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP108016.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP108017.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP108018.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP108019.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP108020.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP112042.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107672.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107673.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107674.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107904.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107905.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107906.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107907.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107908.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107909.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107910.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107911.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107912.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107913.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP107914.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP112043.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP112044.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP112045.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP112046.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP112047.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP112048.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP112049.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP112050.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP112051.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP112052.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP112053.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP112054.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP112055.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP112056.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP112057.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP112058.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP112543.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP112544.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP112545.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP112546.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP112547.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP112548.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP112549.jpg"
+    ],
+    "title": "Ceiling",
+    "what": [
+        "Gilt",
+        "Painting"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Spain"
+    ]
+}

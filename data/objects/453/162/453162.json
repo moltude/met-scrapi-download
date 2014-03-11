@@ -1,0 +1,123 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/453158"
+            },
+            {
+                "href": "http://scrapi.org/object/443098"
+            },
+            {
+                "href": "http://scrapi.org/object/444624"
+            },
+            {
+                "href": "http://scrapi.org/object/444625"
+            },
+            {
+                "href": "http://scrapi.org/object/457742"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A232_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134244",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A237_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134557",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/programs-for-visitors-with-disabilities/visitors-who-are-deaf/beauty-and-innovation?eid=A001_%7b77D8F57E-5FC9-4578-8A95-30A43C89CFDD%7d_20140210164006",
+                "rel": "Met Signs Tours in ASL\u2014Beauty and Innovation: Understanding Islamic Art"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A251_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114408",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=wai",
+                "rel": "Iran, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/453162"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/453162"
+        }
+    },
+    "accession number": "1982.75",
+    "credit line": "Gift of Nasser D. Khalili, in honor of his son, Daniel Jonathan Khalili, 1982",
+    "culture": "Islamic",
+    "date": "17th century",
+    "department": "Islamic Art",
+    "description": "Finials such as this example likely came from the tops of standards ('alams) carried in Shi'i processions to commemorate the martyrdom of Husain, the grandson of the Prophet Muhammad, at the battle of Karbala. The 'alams signify the battle standards carried by Husain and his band of supporters. These finials are datable to the seventeenth century, a period in which the Shi'i religious orthodoxy was particularly pronounced in Iran.",
+    "dimensions": [
+        "H. (with brackets) 7 3/4 in. (19.7 cm)",
+        "H. (w/o brackets) 7 3/8 in. (18.7 cm)",
+        "Gr. W. 4 5/8 in. (11.8 cm)",
+        "W. (at bottom) 4 7/8 in. (12.4 cm)"
+    ],
+    "gallery-id": 462,
+    "id": 453162,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/sf1982-75a.jpg",
+    "medium": "Steel; inlaid with gold on front and silver foil overlay on reverse",
+    "provenance": [
+        "Nasser D. Khalili, London (until 1982)"
+    ],
+    "title": "Finial with Arabic Inscription\"Ya, Da'im\" (\"Oh, Everlasting!\")",
+    "what": [
+        "Metal",
+        "Silver",
+        "Gold",
+        "Iron and iron alloy",
+        "Iron alloy",
+        "Steel",
+        "Finials"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Asia",
+        "Iran"
+    ]
+}

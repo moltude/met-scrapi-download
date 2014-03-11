@@ -1,0 +1,84 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/341506"
+            },
+            {
+                "href": "http://scrapi.org/object/341507"
+            },
+            {
+                "href": "http://scrapi.org/object/371442"
+            },
+            {
+                "href": "http://scrapi.org/object/371450"
+            },
+            {
+                "href": "http://scrapi.org/object/396203"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/341505"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/341505"
+        }
+    },
+    "accession number": "1986.1180.437",
+    "credit line": "Bequest of Grace M. Pugh, 1985",
+    "date": "ca. 1636",
+    "department": "Drawings and Prints",
+    "dimensions": "8 15/16 x 12 3/8 in.  (22.7 x 31.4 cm)",
+    "id": 341505,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP815146.jpg",
+    "medium": "Etching and Drypoint",
+    "provenance": [
+        "Donor: Estate of Grace M. Pugh"
+    ],
+    "title": "Rape of Europa",
+    "what": [
+        "Prints",
+        "Etching",
+        "Intaglio prints",
+        "Engravings",
+        "Drypoints"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Simone Cantarini"
+}

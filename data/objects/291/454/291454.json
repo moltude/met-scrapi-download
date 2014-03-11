@@ -1,0 +1,94 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/284666"
+            },
+            {
+                "href": "http://scrapi.org/object/291455"
+            },
+            {
+                "href": "http://scrapi.org/object/291453"
+            },
+            {
+                "href": "http://scrapi.org/object/291450"
+            },
+            {
+                "href": "http://scrapi.org/object/291451"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/291454"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/291454"
+        }
+    },
+    "accession number": "2009.351",
+    "credit line": "Purchase, Alfred Stieglitz Society Gifts, 2009",
+    "date": "1963",
+    "department": "Photographs",
+    "description": "Photojournalism has provided an important lens for social reflection in struggles for equality around the world. Traveling with Martin Luther King Jr. to the March on Washington, Freed made some of the most iconic images of the Civil Rights era but was also drawn to moments of quiet camaraderie. The images in his book Black in White America (1968) register his skill in capturing fleeting yet suggestive expressions and gestures. Freed\u2019s photograph of a small group of Nation of Islam members\u2014individuals as carefully composed as his portrait\u2014embodies the compassion with which his imagery pressed Americans to face the country\u2019s legacy of injustice.",
+    "dimensions": "Image 25.9 x 34.3 cm (10 3/16 x 13 1/2 in.)",
+    "id": 291454,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/Freed2009.351.jpg",
+    "medium": "Gelatin silver print",
+    "provenance": [
+        "The artist",
+        "Estate of Leonard Freed",
+        "[Bruce Silverstein Gallery]"
+    ],
+    "title": "New York",
+    "what": [
+        "Photographs",
+        "Gelatin silver prints"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "Leonard Freed"
+}

@@ -1,0 +1,117 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/544284"
+            },
+            {
+                "href": "http://scrapi.org/object/544286"
+            },
+            {
+                "href": "http://scrapi.org/object/544324"
+            },
+            {
+                "href": "http://scrapi.org/object/546292"
+            },
+            {
+                "href": "http://scrapi.org/object/546297"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A145_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113221",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/talks/gallery-talks/egyptian-sculpture?eid=A002_%7b09B70F74-B68F-4731-A787-D861CCC990BA%7d_20140123144040",
+                "rel": "Egyptian Sculpture"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/cleopatra-welcome-and-introduction?eid=A001_%7bCE6C92F7-59C2-4721-A363-E48BE5CF7EBF%7d_20140226151517",
+                "rel": "Welcome and Introduction"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=03\u00aeion=afe",
+                "rel": "Egypt, 2000\u20131000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/546288"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/546288"
+        }
+    },
+    "accession number": "12.183.15a\u2013g",
+    "credit line": "Gift of J. Pierpont Morgan, 1912",
+    "date": "ca. 1981\u20131802 B.C.",
+    "department": "Egyptian Art",
+    "description": "One of the complete burial groups excavated at Meir belonged to the Steward Hapiankhtifi.  When the mummy was unwrapped in the Museum numerous objects were discovered: a model dagger and sheath, two mirrors, a bat amulet and jewelry. A ceremonial flail, an emblem of Osiris with whom the deceased wanted to be identified, was found broken and scattered throughout the  coffin.  The flail has  a wooden handle tipped with gold leaf at either end and three pendants.  The long end pendants are connected to the handle by three long cylindrical blue faience beads with two carnelian and one green faience bead toward the handle and two carnelian and two green faience beads toward the pendants.",
+    "dimensions": "20 7/8 in. (53 cm)",
+    "gallery-id": 112,
+    "id": 546288,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/12.183.15a-g_0001_2.jpg",
+    "medium": "Wood, carnelian, faience, gold leaf",
+    "title": "Ceremonial Flail of Hapiankhtifi",
+    "what": [
+        "Metal",
+        "Gold",
+        "Faience",
+        "Wood",
+        "Chalcedony",
+        "Carnelian",
+        "Gold leaf",
+        "Scepters"
+    ],
+    "when": "2000-1000 B.C.",
+    "where": [
+        "Africa",
+        "Egypt",
+        "Upper Egypt",
+        "M\u012br"
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/247510"
+            },
+            {
+                "href": "http://scrapi.org/object/247868"
+            },
+            {
+                "href": "http://scrapi.org/object/248674"
+            },
+            {
+                "href": "http://scrapi.org/object/249095"
+            },
+            {
+                "href": "http://scrapi.org/object/249096"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R104_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140310123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R105_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140311123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R106_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140313123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R027_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140313130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R107_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140314123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/conversations-with-curators-and-conservators/terracotta-column-krater?eid=A001_%7b1CC4797D-7295-4614-9ACD-19C00BA693F4%7d_20140204162630",
+                "rel": "Conversation with a Curator\u2014Terracotta Column-Krater"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A144_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142257",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A145_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142312",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R116_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140331123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/grdr/hd_grdr.htm",
+                "rel": "Ancient Greek Dress"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=04\u00aeion=eust",
+                "rel": "Italian Peninsula, 1000 B.C.\u20131 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/249222"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/249222"
+        }
+    },
+    "accession number": "17.190.2066",
+    "credit line": "Gift of J. Pierpont Morgan, 1917",
+    "culture": "Etruscan",
+    "date": "late 6th century B.C.",
+    "department": "Greek and Roman Art",
+    "description": "This statue, perhaps the best-known Etruscan figural bronze in the Museum's collection, was produced at one of the major bronze working centers, probably Vulci or Chiusi. The artist was clearly inspired by archaic Greek korai, votive statues of young women, a connection especially noticeable in the typical frontal pose with right hand extended and left hand holding the garment. However, the sculptor was not especially concerned about the accurate depiction of costume. The Greek himation (cloak), for example, is misrepresented. The folds so prominently visible from the front are absent on the back of the statue, perhaps an indication that the artist was looking at a two-dimensional source such as a relief sculpture or vase painting rather than a sculpture in the round. In any case, he clearly was more interested in rich surface embellishment than in realistic rendering of drapery and produced a wealth of engraved details in the hair, jewelry, sewn seams, decorated hems, and drapery folds. The pointed shoes (calcei repandi), here elaborately rendered with meticulously detailed laces and floral ornament, are distinctively Etruscan. The figure's left foot is a modern restoration.",
+    "dimensions": "H. 11 9/16 in. (29.4 cm)",
+    "gallery-id": 170,
+    "id": 249222,
+    "image": "http://images.metmuseum.org/CRDImages/gr/original/DP119631.jpg",
+    "medium": "Bronze",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/gr/original/DP119631.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP120332.jpg"
+    ],
+    "title": "Bronze statuette of a young woman",
+    "what": [
+        "Metal",
+        "Sculpture",
+        "Copper alloy",
+        "Bronze",
+        "Statues"
+    ],
+    "when": "1000 B.C.-A.D. 1",
+    "where": [
+        "Europe",
+        "Italy"
+    ]
+}

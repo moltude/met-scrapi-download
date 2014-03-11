@@ -1,0 +1,144 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/4789"
+            },
+            {
+                "href": "http://scrapi.org/object/4790"
+            },
+            {
+                "href": "http://scrapi.org/object/4791"
+            },
+            {
+                "href": "http://scrapi.org/object/7891"
+            },
+            {
+                "href": "http://scrapi.org/object/7892"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 18, 2013",
+                "href": "/exhibitions/listings/2013/american-west",
+                "rel": "The American West in Bronze, 1850\u20131925"
+            },
+            {
+                "date": "February 25, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R097_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140225120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "February 25, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R073_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140225134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "February 26, 2014",
+                "href": "/events/programs/talks/gallery-talks/light-in-american-art-hudson-river-school?eid=A003_%7b86B27E91-724D-4796-8075-F3123974AE65%7d_20131016163855",
+                "rel": "Light in American Art: Hudson River School to Abstract Expressionism"
+            },
+            {
+                "date": "February 26, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R098_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140226120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "February 26, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R074_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140226134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "February 27, 2014",
+                "href": "/events/programs/talks/gallery-talks/the-american-west-in-bronze?eid=A001_%7bF8FF67EB-DE74-4A7A-B860-AAB9F09B0E26%7d_20131024112254",
+                "rel": "Exhibition Tour\u2014The American West in Bronze, 1850\u20131925"
+            },
+            {
+                "date": "February 27, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R099_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140227120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "February 27, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R075_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140227134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "March 1, 2014",
+                "href": "/events/programs/tours/american-art-weekend?eid=A180_%7b501B6EDB-D4CC-4402-98B8-688E06337497%7d_20131127140947",
+                "rel": "American Art"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/american-art-weekend?eid=A185_%7b501B6EDB-D4CC-4402-98B8-688E06337497%7d_20131127141222",
+                "rel": "American Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/amer/hd_amer.htm",
+                "rel": "America Comes of Age: 1876\u20131900"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/artn/hd_artn.htm",
+                "rel": "Art Nouveau"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/dsgn1/hd_dsgn1.htm",
+                "rel": "Design, 1900\u201325"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/flwt/hd_flwt.htm",
+                "rel": "Frank Lloyd Wright (1867\u20131959)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/acam/hd_acam.htm",
+                "rel": "The Arts and Crafts Movement in America"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/4788"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/4788"
+        }
+    },
+    "accession number": "1972.60.21",
+    "credit line": "Purchase, Emily Crane Chadbourne Bequest, 1972",
+    "culture": "American",
+    "date": "1912\u201315",
+    "department": "American Decorative Arts",
+    "dimensions": "32 x 7 x 11 in. (81.3 x 17.8 x 27.9 cm)",
+    "gallery-id": 745,
+    "id": 4788,
+    "image": "http://images.metmuseum.org/CRDImages/ad/original/199172.jpg",
+    "medium": "White oak, glass",
+    "provenance": [
+        "Francis W. Little, Peoria, Illinois and Wayzata, Minnesota",
+        "their daughter and son-in-law, Mr. and Mrs. Raymond V. Stevenson, Wayzata, Minnesota, until 1972"
+    ],
+    "title": "Light Fixture",
+    "what": [
+        "Glass",
+        "Wood",
+        "Furniture",
+        "Lighting devices",
+        "Oak",
+        "Lighting fixtures"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States",
+        "Midwest"
+    ],
+    "who": "Frank Lloyd Wright"
+}

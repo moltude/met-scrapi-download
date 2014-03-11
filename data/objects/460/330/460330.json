@@ -1,0 +1,109 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/461668"
+            },
+            {
+                "href": "http://scrapi.org/object/460395"
+            },
+            {
+                "href": "http://scrapi.org/object/461673"
+            },
+            {
+                "href": "http://scrapi.org/object/459100"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R125_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140303134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R126_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140304134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R127_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140305134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R128_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140306134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R129_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140307134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R130_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140310134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R131_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140311134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R132_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140312134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R133_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140313134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R134_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140314134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/460330"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/460330"
+        }
+    },
+    "accession number": "1975.1.2392",
+    "credit line": "Robert Lehman Collection, 1975",
+    "department": "Robert Lehman Collection",
+    "dimensions": "21 1/4 x 25 5/8 in. (54 x 65.1 cm)",
+    "id": 460330,
+    "image": "http://images.metmuseum.org/CRDImages/rl/original/2392-1.jpg",
+    "medium": "Oil and papier coll\u00e9, on wood",
+    "provenance": [
+        "Possibly acquired from the Galerie Andr\u00e9 Weil, Paris, by Robert Lehman, New York, late 1950s/early 1960s."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/rl/original/2392-1.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/SLP2392.jpg"
+    ],
+    "title": "Guitar (\"Le Pauvre Laboureur\")",
+    "what": [
+        "Paper",
+        "Paintings",
+        "Oil paintings",
+        "Collages",
+        "Papiers coll\u00e9s"
+    ],
+    "when": "1000 B.C.-A.D. 1",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Roger Bezombes"
+}

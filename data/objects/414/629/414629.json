@@ -1,0 +1,76 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/356141"
+            },
+            {
+                "href": "http://scrapi.org/object/341514"
+            },
+            {
+                "href": "http://scrapi.org/object/365179"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/414629"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/414629"
+        }
+    },
+    "accession number": "45.82.2",
+    "credit line": "Harris Brisbane Dick Fund, 1945",
+    "date": "1656-1667 ca.",
+    "department": "Drawings and Prints",
+    "description": "Floor plans, aerial view and frontal view of the arcade in front of Saint Peter's Basilica in Rome. The aerial view shows that it concerns an earlier, not executed, stage of the plans in which the square would almost have been closed off completely by a third part of the arcade on the far side of the square. The scale of the images has been indicated below. Explanation of the different designs and measurements are given on the left and right. In the middle, on two banners held up by angels, the reason for the erection of the arcade is explain in Latin and Italian.",
+    "dimensions": "Sheet 21 5/16 x 33 3/16 in. (54.2 x 84.3 cm)",
+    "id": 414629,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP273761.jpg",
+    "medium": "Engraving",
+    "title": "Portici della piazza di S. Pietro di Roma. Plate 44 from the Album 'Basilica di S. Pietro in Vaticano'",
+    "what": [
+        "Prints",
+        "Engraving"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": [
+        "Gian Lorenzo Bernini",
+        "Giovanni Battista Bonacina"
+    ]
+}

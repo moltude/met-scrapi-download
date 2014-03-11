@@ -1,0 +1,120 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/447385"
+            },
+            {
+                "href": "http://scrapi.org/object/445244"
+            },
+            {
+                "href": "http://scrapi.org/object/450994"
+            },
+            {
+                "href": "http://scrapi.org/object/448922"
+            },
+            {
+                "href": "http://scrapi.org/object/451647"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A232_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134244",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A237_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134557",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/programs-for-visitors-with-disabilities/visitors-who-are-deaf/beauty-and-innovation?eid=A001_%7b77D8F57E-5FC9-4578-8A95-30A43C89CFDD%7d_20140210164006",
+                "rel": "Met Signs Tours in ASL\u2014Beauty and Innovation: Understanding Islamic Art"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A251_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114408",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=nc",
+                "rel": "Central and North Asia, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/447384"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/447384"
+        }
+    },
+    "accession number": "21.114.3",
+    "credit line": "Gift of Lily S. Place, 1921",
+    "culture": "Islamic",
+    "date": "early 19th century",
+    "department": "Islamic Art",
+    "description": "Suzani, literally meaning \"of needle\" in Persian, refers to some of the most attractive products of Turkestan's traditional culture. Produced by the women in what is today Uzbekistan and Tajikistan, suzanis were meant to decorate the interiors of homes and therefore are found mostly in settled communities rather than tribal societies. They formed an important part of a bride's dowry, and as such were testament to a family's status. The shared task was begun by a professional draftswoman (kalamkesh) drawing the design on four to six loosely joined strips of homespun cotton. The lengths were then separated and embroidered by the bride's kinswomen. Once finished, the strips were sewn together, a procedure that accounts for the frequent irregularities along the seams, and color differences in adjoining strips. The present suzani exemplifies the characteristics often associated with Bukhara suzanis. Typically, the rosettes and palmettes are strongly articulated in the border while the field's stems and scrolls are remarkably delicate. The finely worked chain stitching, combined with the rich and sensitive use of color, conjure up the charm of a fine Bukhara piece.",
+    "dimensions": "63.75 in. high 95.00 in. wide (161.9 cm high 241.3 cm wide)",
+    "id": 447384,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/DP107287.jpg",
+    "medium": "Silk, linen",
+    "provenance": [
+        "Lily S. Place, Cairo (until 1921; gifted to MMA)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/DP107287.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/48355.jpg"
+    ],
+    "title": "Cover",
+    "what": [
+        "Silk",
+        "Textiles",
+        "Needlework",
+        "Linen",
+        "Embroidery"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Asia",
+        "Uzbekistan",
+        "Bukhara"
+    ]
+}

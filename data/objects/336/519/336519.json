@@ -1,0 +1,95 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/370475"
+            },
+            {
+                "href": "http://scrapi.org/object/369952"
+            },
+            {
+                "href": "http://scrapi.org/object/369953"
+            },
+            {
+                "href": "http://scrapi.org/object/369954"
+            },
+            {
+                "href": "http://scrapi.org/object/369955"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/pica/hd_pica.htm",
+                "rel": "Pablo Picasso (1881\u20131973)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=eusi",
+                "rel": "Iberian Peninsula, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/336519"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/336519"
+        }
+    },
+    "accession number": "1986.1224.1",
+    "credit line": "Gift of Mr. and Mrs. E. Powis Jones, 1986",
+    "date": "1937",
+    "department": "Drawings and Prints",
+    "description": "Picasso made these two prints beginning January 8, 1937.  Each is subdivided into three rows of three scenes that together form an eighteen-scene narrative.  The prints were intended as propaganda against the regime of Generalissimo Franco; they were produced on postcards and sold for the benefit of the Spanish Republican Government.  Since Picasso worked on the images from left to right, the etched versions (printed in reverse) read from right to left.  In the second plate, starting at upper right, the Fascist general Franco is depicted as a monstrous grinning figure, devouring the innards of his own horse, which he has just killed; the next two scenes show the results of battle; and in the next two, Franco is in combat with an angry bull, representing Spain.  The last four scenes were added on June 7; six weeks after the Basque town of Guernica was leveled by bombs.  Three of the last four scenes of this print relate to his studies for the mural Guernica, now in Madrid.",
+    "dimensions": [
+        "plate 12 7/16 x 16 9/16 in. (31.6 x 42.1 cm)",
+        "sheet 15 3/16 x 22 1/2 in. (38.6 x 57.2 cm)"
+    ],
+    "id": 336519,
+    "medium": "Aquatint",
+    "provenance": [
+        "Donor: Mr. and Mrs. E. Powis Jones"
+    ],
+    "title": "Dream and Lie of Franco II",
+    "what": [
+        "Prints",
+        "Etching",
+        "Aquatint"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "Spain"
+    ],
+    "who": "Pablo Picasso"
+}

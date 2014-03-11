@@ -1,0 +1,118 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/288235"
+            },
+            {
+                "href": "http://scrapi.org/object/288293"
+            },
+            {
+                "href": "http://scrapi.org/object/288230"
+            },
+            {
+                "href": "http://scrapi.org/object/288224"
+            },
+            {
+                "href": "http://scrapi.org/object/288226"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwb",
+                "rel": "Great Britain and Ireland, 1800\u20131900 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwb",
+                "rel": "Great Britain and Ireland, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/288237"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/288237"
+        }
+    },
+    "accession number": "1982.1182.813\u2013.820",
+    "credit line": "Gift of Weston J. Naef, in memory of Kathleen W. Naef and Weston J. Naef Sr., 1982",
+    "date": "1850s\u20131910s",
+    "department": "Photographs",
+    "dimensions": "Mounts approximately 8.4 x 17.1 cm (3 5/16 x 6 3/4 in.) to 8.5 x 17.8 cm (3 3/8 x 7 in.)",
+    "id": 288237,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP73049.jpg",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ph/original/DP73049.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP73050.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP73051.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP73052.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP73053.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP73054.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP73055.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP73056.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP73057.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP73058.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP73059.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP73060.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP73061.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP73062.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP73063.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP73064.jpg"
+    ],
+    "title": "[Group of 8 Early Stereograph Views of British Monuments, Memorials, and Tombs]",
+    "what": [
+        "Photographs",
+        "Stereographs"
+    ],
+    "where": [
+        "Europe",
+        "United Kingdom",
+        "Scottish"
+    ],
+    "who": [
+        "Unknown, British",
+        "Sir Walter Scott",
+        "Stereoscopic Gems",
+        "Taylor",
+        "Samuel Johnson",
+        "Earl Richard Beauchamp",
+        "Lennie"
+    ]
+}

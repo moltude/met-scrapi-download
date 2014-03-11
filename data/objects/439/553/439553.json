@@ -1,0 +1,157 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/436205"
+            },
+            {
+                "href": "http://scrapi.org/object/338613"
+            },
+            {
+                "href": "http://scrapi.org/object/336073"
+            },
+            {
+                "href": "http://scrapi.org/object/369747"
+            },
+            {
+                "href": "http://scrapi.org/object/377230"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/piero-della-francesca",
+                "rel": "Piero della Francesca"
+            },
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "From April 22, 2014",
+                "href": "/exhibitions/listings/2014/goya",
+                "rel": "Goya and the Altamira Family"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/talks/gallery-talks/piero-della-francesca?eid=A001_%7bE50FD455-5FC1-41D0-9391-C456264363EF%7d_20140206160624",
+                "rel": "Exhibition Tour\u2014Piero della Francesca: Personal Encounters"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=A257_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20131127123002",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/monday-at-the-met-spring-2014?eid=R001_%7bBB2BF277-3666-435E-8B95-12CDE21533EA%7d_20140303100000",
+                "rel": "Monday at the Met with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R100_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140303123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R101_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140304123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R102_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140305123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R026_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140306140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R103_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140307123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/talks/the-observant-eye/stepping-out-of-the-frame?eid=A001_%7b438572AD-6B0F-4DA2-94FB-49B8931634C1%7d_20140123142901",
+                "rel": "Stepping Out of the Frame: Three-Dimensionality in the New Galleries for European Paintings"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/saturday-seminar-spring-2014?eid=R001_%7bE063A39F-FC40-4ECC-B690-C4C13F70B2A0%7d_20140308103000",
+                "rel": "Saturday Seminar with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/carr/hd_carr.htm",
+                "rel": "Annibale Carracci (1560\u20131609)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/baro/hd_baro.htm",
+                "rel": "Baroque Rome"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/domn/hd_domn.htm",
+                "rel": "Domenichino (Domenico Zampieri) (1581\u20131641)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/pass/hd_pass.htm",
+                "rel": "The Crucifixion and Passion of Christ in Italian Painting"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/439553"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/439553"
+        }
+    },
+    "accession number": "2008.72",
+    "credit line": "Purchase, Walter and Leonore Annenberg Acquisitions Endowment Fund, European Paintings Funds and funds from various donors; Mr. and Mrs. Mark Fisch and The Reed Foundation Gifts; Gwynne Andrews Fund; Elaine Rosenberg Gift; The Edward Joseph Gallagher III Memorial Collection, Edward J. Gallagher Jr. Bequest; Marquand Fund; Museum Purchase Fund; Peter Tcherepnine Gift; The Camille M. Lownds Fund; Stephenson Family Foundation Gift; Ruth and Victoria Blumka Fund; Earl Kiely Bequest; and The Morse G. Dial Foundation, 2005 CINOA Prize and Diane Carol Brandt Gifts, 2008",
+    "date": "1603",
+    "department": "European Paintings",
+    "dimensions": "20 7/8 x 14 3/4 in. (53 x 37.5 cm)",
+    "gallery-id": 623,
+    "id": 439553,
+    "image": "http://images.metmuseum.org/CRDImages/ep/original/DP159526.jpg",
+    "medium": "Oil on copper",
+    "provenance": [
+        "George Aufrere, London (by 1775\u2013d. 1801)",
+        "his widow, Mrs. George (Arabella Bate) Aufrere, London (1801\u2013d. 1804)",
+        "her son-in-law, Charles Anderson-Pelham, 1st Baron Yarborough, London (1804\u2013d. 1823)",
+        "Charles Anderson-Pelham, 1st Earl of Yarborough, London (1823\u2013d. 1846)",
+        "Earls of Yarborough, London (1846\u201375)",
+        "Charles Alfred Worsley Anderson-Pelham, 4th Earl of Yarborough, London (1875\u20131929; sale, Christie's, London, July 12, 1929, no. 18, as by Annibale Carracci, for \u00a373.10 to Turner)",
+        "[Percy Moore Turner, London, from 1929]",
+        "[Colnaghi, London",
+        "sold to Pelham]",
+        "Marcus Herbert Pelham, 6th Earl of Yarborough, Brocklesby Hall, Habrough, Lincolnshire (until d. 1966)",
+        "John Edward Pelham, 7th Earl of Yarborough, Brocklesby Hall (1966\u2013d. 1991)",
+        "Charles John Pelham, 8th Earl of Yarborough, Brocklesby Hall (1991\u20132007; sale, Christie's, London, July 5, 2007, no. 40, to Naumann)",
+        "[Otto Naumann, New York, 2007\u20138",
+        "sold to MMA]"
+    ],
+    "title": "The Lamentation",
+    "what": [
+        "Metal",
+        "Paintings",
+        "Copper",
+        "Oil paint"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Domenichino (Domenico Zampieri)"
+}

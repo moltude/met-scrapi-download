@@ -1,0 +1,97 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/340025"
+            },
+            {
+                "href": "http://scrapi.org/object/335044"
+            },
+            {
+                "href": "http://scrapi.org/object/335116"
+            },
+            {
+                "href": "http://scrapi.org/object/335185"
+            },
+            {
+                "href": "http://scrapi.org/object/335885"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=euwl",
+                "rel": "Low Countries, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/347666"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/347666"
+        }
+    },
+    "accession number": "1995.44",
+    "credit line": "Edward Pearce Casey Fund, 1995",
+    "date": "1555",
+    "department": "Drawings and Prints",
+    "dimensions": "circular sheet 26.7 cm diameter.",
+    "id": 347666,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP801455.jpg",
+    "medium": "Pen and brown ink, brush and blue wash, touches of white heightening, extremely faint traces of preliminary drawing in black chalk. Framing lines in pen and brown in",
+    "provenance": [
+        "James Hazard, London and Brussels (British, 1748\u20131787), and his sale, Amsterdam, April 15, 1789 and following days, second part, part of lot 792",
+        "T. Sas, Brussels,  April 15, 1789 and following days, part of lot 792",
+        "Stauff, Cologne, March 31 until April 5, 1913, lot 997",
+        "Kornfeld and Klipstein (Bern), June 8, 1977, lot 92",
+        "Sotheby's, Amsterdam, November 17, 1993, lot 7713,000 NLG to Bob Haboldt and Otto Nauman",
+        "Otto Naumann, Ltd.",
+        "Vendor: Otto Naumann, Ltd."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP801455.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/260387.jpg"
+    ],
+    "title": "St. George and the Sorcerer of Dacian",
+    "what": [
+        "Ink",
+        "Drawings",
+        "Chalk"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Netherlands"
+    ],
+    "who": "Lambert van Noort"
+}

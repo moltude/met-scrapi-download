@@ -1,0 +1,147 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/471327"
+            },
+            {
+                "href": "http://scrapi.org/object/471240"
+            },
+            {
+                "href": "http://scrapi.org/object/470260"
+            },
+            {
+                "href": "http://scrapi.org/object/470261"
+            },
+            {
+                "href": "http://scrapi.org/object/466240"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 25, 2014",
+                "href": "/exhibitions/listings/2014/canterbury-stained-glass",
+                "rel": "Radiant Light"
+            },
+            {
+                "date": "From August 6, 2013",
+                "href": "/exhibitions/listings/2013/design-motifs-in-byzantine-art",
+                "rel": "Design Motifs in Byzantine Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R105_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140311104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R010_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140311150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R106_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140312104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R011_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140312150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R107_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140313104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R012_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140313150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R108_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140314104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R013_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140314150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/events-at-the-cloisters/gallery-talks/dresssing-the-part?eid=A001_%7b9C4AFFB5-1623-45E3-BE4C-5DFE582A20E6%7d_20140113143427",
+                "rel": "Dressing the Part: Medieval Costumes for Biblical Prophets and Ancestors"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=euwl",
+                "rel": "Low Countries, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/468427"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/468427"
+        }
+    },
+    "accession number": "53.207",
+    "credit line": "The Cloisters Collection, 1953",
+    "culture": "Netherlandish",
+    "date": "first half 16th century or later",
+    "department": "The Cloisters",
+    "dimensions": "Overall 22 3/4 x 8 7/16 x 2 5/8 in. (57.8 x 21.5 x 6.6 cm)",
+    "id": 468427,
+    "image": "http://images.metmuseum.org/CRDImages/cl/original/sf53-207s1.jpg",
+    "medium": "Oak, leather, polychromy, gilding",
+    "provenance": [
+        "Dugu\u00e9 , Paris (until 1851)",
+        "his sale, H\u00f4tel des Ventes , Paris (March 7, 1851, no. 13)",
+        "Hollingworth Magniac , Colworth, Bedfordshire (from 1851?-sold 1892)",
+        "his sale, Christie, Manson and Woods , London (July 2\u20134, 1892, no. 427)",
+        "Dr. Albert Figdor , Vienna (until d. 1927)",
+        "his posthumous sale, Paul Cassirer at Hotel Esplanade, Berlin (Sept. 29-30, 1930, vol. IV, no.176)",
+        "Dr. Fritz Mannheimer , Amsterdam (sold 1953?)",
+        "[ Rosenberg & Stiebel , New York (sold 1953)]"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/cl/original/sf53-207s1.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/sf53-207s3.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/sf53-207s4a.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/sf53-207s2b.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/sf53-207d4.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/sf53-207d3.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/sf53-207d2.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/sf53-207d1.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/sf53-207d5.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/sf53-207d7.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/sf53-207d8.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/sf53-207d6.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/sf53-207d12.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/sf53-207d11.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/sf53-207d10.jpg",
+        "http://images.metmuseum.org/CRDImages/cl/original/sf53-207d9.jpg"
+    ],
+    "title": "Bellows with the Flight into Egypt",
+    "what": [
+        "Wood",
+        "Gilt",
+        "Furniture",
+        "Leather",
+        "Woodwork",
+        "Oak",
+        "Polychromy",
+        "Bellows"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Netherlands"
+    ]
+}

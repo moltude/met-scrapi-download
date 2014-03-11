@@ -1,0 +1,130 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/447297"
+            },
+            {
+                "href": "http://scrapi.org/object/447298"
+            },
+            {
+                "href": "http://scrapi.org/object/447300"
+            },
+            {
+                "href": "http://scrapi.org/object/447301"
+            },
+            {
+                "href": "http://scrapi.org/object/447302"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A250_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114353",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world-french?eid=R026_%7b85906EA1-CA66-4610-A52C-39562E1A4C40%7d_20140310133000",
+                "rel": "Arts du monde Islamique (Arts of the Islamic World in French)"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R130_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140310141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A232_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134244",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=ssa",
+                "rel": "South Asia, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/447299"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/447299"
+        }
+    },
+    "accession number": "20.120.240",
+    "credit line": "The Grinnell Collection, Bequest of William Milne Grinnell, 1920",
+    "culture": "Islamic",
+    "date": "mid-15th century",
+    "department": "Islamic Art",
+    "description": "When he came of age, Zal promised his son, the hero Rustam, the pick of the wild horses that roamed Zabulistan and Kabulistan. Rustam chose a horse that was notoriously difficult to catch; for three years, it had resisted the attempts of the warriors who tried to tame him. Rustam, however, was able to capture the horse with his lasso and climb on its back.",
+    "dimensions": "7.25 in. high 7.62 in. wide (18.4 cm high 19.4 cm wide)",
+    "gallery-id": 463,
+    "id": 447299,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/DP215839.jpg",
+    "medium": [
+        "Main support Ink, opaque watercolor, gold on paper",
+        "Margins Ink and gold on dyed paper"
+    ],
+    "provenance": [
+        "William Milne Grinnell, New York (until d. 1920; bequeathed to MMA)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/DP215839.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/sf20-120-240.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/47055.jpg"
+    ],
+    "title": "\"Rustam Captures Rakhsh\", Folio from a Shahnama (Book of Kings)",
+    "what": [
+        "Metal",
+        "Ink",
+        "Paper",
+        "Gold",
+        "Watercolors",
+        "Manuscripts",
+        "Codices",
+        "Folios",
+        "Illuminated manuscripts",
+        "Dyeing"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Asia",
+        "India"
+    ],
+    "who": "Abu'l Qasim Firdausi"
+}

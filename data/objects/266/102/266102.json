@@ -1,0 +1,97 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/266096"
+            },
+            {
+                "href": "http://scrapi.org/object/266097"
+            },
+            {
+                "href": "http://scrapi.org/object/266098"
+            },
+            {
+                "href": "http://scrapi.org/object/266099"
+            },
+            {
+                "href": "http://scrapi.org/object/266100"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/phev/hd_phev.htm",
+                "rel": "Photography and Everyday Life in America, 1945\u201360"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/266102"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/266102"
+        }
+    },
+    "accession number": "1989.1038.2",
+    "credit line": "Purchase, Joyce and Robert Menschel Gift, 1989",
+    "date": "1954",
+    "department": "Photographs",
+    "description": "After serving in the army during World War II, William Klein moved to Paris in 1949 and briefly studied painting with Fernard L\u00e9ger.  His first photographs were made in 1954 on a visit to New York and were published two years later in a book entitled: \"Life Is Good and Good for You in New York: Trance Witness Revels.\"  The verve of these pictures, made with a hand-held camera under diverse lighting conditions, won him a contract with \"Vogue,\" where his radically casual style pioneered a new philosophy of fashion photography.  Klein's book antedated Robert Frank's influential volume \"The Americans\" and reflected the vision of a native returning home, while Frank's photographs recorded the fascinated but detached point of view of a newcomer to the country.  Stylistic parallels, however, abound between the two, particularly in their rapid-fire asymmetrical images of life in public spaces.Klein's photographs of society events replaced the prevailing conception of elegance with renderings that emphasize the moment rather than the individual.  What is lost in precise description is redeemed in the broad patterning and spontaneity of the captured instant; Klein's photographs are brilliant transcriptions of a passing time.  They convince the viewer that the meaning of life is carried in these ephemeral moments, described within the intimate scope of a turning head or a lifting arm.  The loss of definition in the images results in vivid forms that come dangerously close to incoherence and confusion.  In Klein's understanding, \"It's not necessary to make order out of chaos.  Chaos itself is interesting.\"",
+    "dimensions": "37.5 x 27.9 cm (14 3/4 x 11 in.)",
+    "id": 266102,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/ph1989.1038.2.R.jpg",
+    "medium": "Gelatin silver print",
+    "provenance": [
+        "Artist"
+    ],
+    "title": "New York",
+    "what": [
+        "Photographs",
+        "Gelatin silver prints"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "William Klein"
+}

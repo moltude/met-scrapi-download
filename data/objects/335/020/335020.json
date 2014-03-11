@@ -1,0 +1,98 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/335021"
+            },
+            {
+                "href": "http://scrapi.org/object/377269"
+            },
+            {
+                "href": "http://scrapi.org/object/187155"
+            },
+            {
+                "href": "http://scrapi.org/object/199868"
+            },
+            {
+                "href": "http://scrapi.org/object/199867"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=euwc",
+                "rel": "Central Europe (including Germany), 1400\u20131600 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwc",
+                "rel": "Central Europe (including Germany), 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/335020"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/335020"
+        }
+    },
+    "accession number": "1995.298",
+    "credit line": "Purchase, Anne and Jean Bonna Gift, 1995",
+    "date": "late 16th\u2013early 17th century",
+    "department": "Drawings and Prints",
+    "description": "The drawing shows Hercules standing at the center choosing between Virtue and Vice, who are shown personified on either side.  In the background, small figures are shown heading towards Heaven (behind Virtue) and Hell (behind Vice).",
+    "dimensions": "Overall 7 5/16 x 5 13/16 in. (18.5 x 14.8 cm)",
+    "id": 335020,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP803054.jpg",
+    "medium": "Pen and black ink and gray wash; framing lines in brown ink",
+    "provenance": [
+        "Sotheby's, New York sale, January 12, 1994, lot 37",
+        "Vendor: Katrin Bellinger Kunsthandel , Munich"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP803054.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/261460.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP803055.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP818732.jpg"
+    ],
+    "title": "Study for a Stained Glass Window",
+    "what": [
+        "Ink",
+        "Drawings"
+    ],
+    "where": [
+        "Europe",
+        "Switzerland"
+    ],
+    "who": "Christoph Murer"
+}

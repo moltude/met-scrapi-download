@@ -1,0 +1,129 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/556604"
+            },
+            {
+                "href": "http://scrapi.org/object/556603"
+            },
+            {
+                "href": "http://scrapi.org/object/587005"
+            },
+            {
+                "href": "http://scrapi.org/object/587006"
+            },
+            {
+                "href": "http://scrapi.org/object/587007"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A145_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113221",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/talks/gallery-talks/egyptian-sculpture?eid=A002_%7b09B70F74-B68F-4731-A787-D861CCC990BA%7d_20140123144040",
+                "rel": "Egyptian Sculpture"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/cleopatra-welcome-and-introduction?eid=A001_%7bCE6C92F7-59C2-4721-A363-E48BE5CF7EBF%7d_20140226151517",
+                "rel": "Welcome and Introduction"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=03\u00aeion=afe",
+                "rel": "Egypt, 2000\u20131000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/552200"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/552200"
+        }
+    },
+    "accession number": "13.180.18a\u2013l",
+    "credit line": "Rogers Fund and Edward S. Harkness Gift, 1913",
+    "date": "ca. 1850\u20131550 B.C.",
+    "department": "Egyptian Art",
+    "description": "These remains, possibly of a bracelet, were found with other pieces of jewelry in the plundered chamber reached by a shaft in the portico of a rock-cut tomb in the Asasif section of the Theban necropolis.  Among the finds were parts of a rectangular wooden coffin with green hieroglyphs on a yellow background as well as a few remains of one or more model wooden boat(s), three scarabs (13.180.8- .10), two anhydrite toilet vessels (13.180.19a- .c, .20) and the group of jewelry items (13.180.1- .18a- .l) striking for the extensive use of silver.  Dates that can be ascertained by stylistic comparisons to some of the objects range from the late Middle Kingdom (ca. 1850-1700 B. C.) to the late Second Intermediate Period (ca. 1580-1550 B. C.).  A number of clay pots (28.3.239- .241 now in the Oriental Institute Museum, Chicago) from the area of the tomb but not with certainty identified as found inside the shaft and chamber from which the jewelry was obtained date to the late Second Intermediate Period.",
+    "dimensions": [
+        "of each a-g, i, l: L. 3 x W. 1 x Th. 0.4 cm (1 3/16 x 3/8 x 3/16 in.)",
+        "of h L. 1.5 x W. 1 x Th. 0.4 cm (9/16 x 3/8 x 3/16 in.)",
+        "of each j and k: L. 3 x W. 0.6 x Th. 0.4 cm (1 3/16 x 1/4 x 3/16 in.)"
+    ],
+    "gallery-id": 109,
+    "id": 552200,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/13.180.18a-l-gcs.jpg",
+    "medium": "Silver rich in gold (electrum), plaster",
+    "provenance": [
+        "Museum excavations, 1912-13. Acquired by the Museum in the division of finds, 1913."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/eg/original/13.180.18a-l-gcs.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/13.180.18a-l-ac.jpg"
+    ],
+    "title": "Twelve Bracelet Spacers",
+    "what": [
+        "Metal",
+        "Costume",
+        "Silver",
+        "Gold",
+        "Jewelry",
+        "Bracelets",
+        "Plaster",
+        "Gold alloy",
+        "Electrum"
+    ],
+    "when": "2000-1000 B.C.",
+    "where": [
+        "Africa",
+        "Egypt",
+        "Upper Egypt",
+        "Thebes"
+    ]
+}

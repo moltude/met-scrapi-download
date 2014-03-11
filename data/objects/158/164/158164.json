@@ -1,0 +1,119 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/158163"
+            },
+            {
+                "href": "http://scrapi.org/object/99657"
+            },
+            {
+                "href": "http://scrapi.org/object/156650"
+            },
+            {
+                "href": "http://scrapi.org/object/158225"
+            },
+            {
+                "href": "http://scrapi.org/object/156655"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R130_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140310130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/158164"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/158164"
+        }
+    },
+    "accession number": "2009.300.3248",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. V. D. Crisp, 1963",
+    "culture": "French",
+    "date": "1924",
+    "department": "Costume Institute",
+    "description": "The French couture house Myrbor was opened in July 1922 by Marie Cuttoli, a French statesman's wife, on 17 rue Vignon in Paris. Only in operation until 1936, the house employed prominent European and Russian artists including Picasso and Matisse to create designs for the interior decorations and clothing which the house produced. Both Eastern European \u00e9migr\u00e9s who worked as set designers with Leon Bakst, Natalia Goncharova, a Russian Futurist artist, and Sarah Lipska, of Polish origins, were among the house's coterie of artists. These two women executed designs for embroideries and, in Goncharova's case, garments, which extant fashion sketches document.  Lipska's work is represented in the Brooklyn Museum collection in the form of embroidery samples. Both women's designs for Myrbor are characterized by abstract motifs and Cubist-inspired patterns which were fashioned in embroidery and appliqu\u00e9s applied in a distinctive open whip stitch. The effect of vibrantly colored leaves, accented with subtly shimmering lam\u00e9 slivers as the leave's veins, falling across the stark black ground on this dress is arresting and effective. The unusual placement of the embroidery around the skirt is artistic and evidence of the involvement of artists in Myrbor's embroidery and garment designs. The shirred triangular skirt panels are an additional artistic touch. Garments by Myrbor are rare, and they represent an important moment in fashion history. Another variant of this same motif applied on rust tulle is in the Brooklyn Museum collection on an embroidery sample by Sarah Lipska (see 2009.300.1890).",
+    "dimensions": "Length at CB 54 in. (137.2 cm)",
+    "id": 158164,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/63.121.8_front_CP3.jpg",
+    "medium": "silk, metal",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/63.121.8_front_CP3.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/63.121.8_back_CP3.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/63.121.8_detail_CP3.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/63.121.8 bw.JPG"
+    ],
+    "title": "Evening dress",
+    "what": [
+        "Metal",
+        "Costume",
+        "Silk",
+        "Dresses",
+        "Evening dresses"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Myrbor"
+}

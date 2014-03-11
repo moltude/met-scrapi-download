@@ -1,0 +1,133 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/435860"
+            },
+            {
+                "href": "http://scrapi.org/object/437275"
+            },
+            {
+                "href": "http://scrapi.org/object/436918"
+            },
+            {
+                "href": "http://scrapi.org/object/437342"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/piero-della-francesca",
+                "rel": "Piero della Francesca"
+            },
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "From April 22, 2014",
+                "href": "/exhibitions/listings/2014/goya",
+                "rel": "Goya and the Altamira Family"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/talks/gallery-talks/piero-della-francesca?eid=A001_%7bE50FD455-5FC1-41D0-9391-C456264363EF%7d_20140206160624",
+                "rel": "Exhibition Tour\u2014Piero della Francesca: Personal Encounters"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=A257_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20131127123002",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/monday-at-the-met-spring-2014?eid=R001_%7bBB2BF277-3666-435E-8B95-12CDE21533EA%7d_20140303100000",
+                "rel": "Monday at the Met with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R100_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140303123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R101_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140304123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R102_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140305123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R026_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140306140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R103_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140307123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/talks/the-observant-eye/stepping-out-of-the-frame?eid=A001_%7b438572AD-6B0F-4DA2-94FB-49B8931634C1%7d_20140123142901",
+                "rel": "Stepping Out of the Frame: Three-Dimensionality in the New Galleries for European Paintings"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/saturday-seminar-spring-2014?eid=R001_%7bE063A39F-FC40-4ECC-B690-C4C13F70B2A0%7d_20140308103000",
+                "rel": "Saturday Seminar with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/435859"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/435859"
+        }
+    },
+    "accession number": "69.123",
+    "credit line": "Purchase, Mrs. Charles S. Payson Gift, Gwynne Andrews Fund, special funds, and other gifts and bequests, 1969",
+    "date": "probably after 1520",
+    "department": "European Paintings",
+    "dimensions": "49 1/2 x 81 3/4 in. (125.7 x 207.6 cm)",
+    "gallery-id": 607,
+    "id": 435859,
+    "image": "http://images.metmuseum.org/CRDImages/ep/original/DT7237.jpg",
+    "medium": "Oil on canvas",
+    "provenance": [
+        "Giustiniani de' Vescovi, Venice (until about 1790; as by Giovanni Bellini; sold for 50 zecchini to Sasso)",
+        "[Giovanni Maria Sasso, Venice, about 1790\u201391",
+        "as by Giovanni Bellini",
+        "sold to Hume]",
+        "Sir Abraham Hume, Baronet, London (1791\u2013d. 1838; cat., 1824, no. 1, as by Giovanni Bellini)",
+        "his grandson, John Hume Cust, later Home-Cust, still later Egerton, Viscount Alford (1838\u2013d. 1851)",
+        "his son, John William Spencer Brownlow Egerton, later Egerton-Cust, 3rd Baron Brownlow and 2nd Earl Brownlow, Ashridge, Berkhamsted, Hertfordshire (1851\u2013d. 1867)",
+        "his brother, Adelbert Wellington Brownlow Cust, 4th Baron Brownlow and 3rd Earl Brownlow, Ashridge (1867\u2013d. 1921; his estate, 1921\u201323; his estate sale, Christie's, London, May 4, 1923, no. 11, as by Giovanni Bellini, for \u00a34,410 to Mason, bought in)",
+        "his cousin, Adelbert Salusbury Cockayne Cust, 5th Baron Brownlow, London (from 1923)",
+        "[conte Alessandro Contini Bonacossi, Florence, by 1941\u2013d. 1955]",
+        "conte Alessandro Augusto Contini Bonacossi, Florence (1955\u201369; sold to Marchig)",
+        "[Jean Marchig, Geneva, 1969",
+        "as attributed to Vincenzo Catena",
+        "sold to MMA]"
+    ],
+    "title": "The Adoration of the Shepherds",
+    "what": [
+        "Paintings",
+        "Canvas",
+        "Oil paint"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Catena (Vincenzo di Biagio)"
+}

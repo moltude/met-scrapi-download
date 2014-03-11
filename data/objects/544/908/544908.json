@@ -1,0 +1,117 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/547703"
+            },
+            {
+                "href": "http://scrapi.org/object/553200"
+            },
+            {
+                "href": "http://scrapi.org/object/544512"
+            },
+            {
+                "href": "http://scrapi.org/object/546223"
+            },
+            {
+                "href": "http://scrapi.org/object/551266"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/teen-programs/saturday-sketching/saturday-sketching-egyptian-art?eid=A001_%7b8698F79D-A7E0-44F1-99CF-57C8A2E2471A%7d_20131211143556",
+                "rel": "Saturday Sketching\u2014Egyptian Art (Ages 11\u201318)"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A151_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113641",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R130_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140310140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=04\u00aeion=afe",
+                "rel": "Egypt, 1000 B.C.\u20131 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/544908"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/544908"
+        }
+    },
+    "accession number": "1989.281.94",
+    "credit line": "Gift of Norbert Schimmel Trust, 1989",
+    "date": "525\u2013404 B.C.",
+    "department": "Egyptian Art",
+    "description": "This squat human form with leonine features is commonly identified as the god Bes, but several other minor Egyptian gods were also represented by this image. These were protective deities, so they appear frequently as apotropaic figures in the decoration of furniture and personal belongings. Here, the god stands holding the cap of a kohl container, which has a small round hole in the top for insertion of an applicator. The container, which is now missing, was detachable so that it could be refilled easily.",
+    "dimensions": "h. 9.2 cm (3 5/8 in); w. 4.4 cm (1 3/4 in); d. 3.9 cm (1 9/16 in)",
+    "id": 544908,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/DP112565.jpg",
+    "medium": "Faience",
+    "provenance": [
+        "Collection of Norbert Schimmel, by 1974",
+        "previously Omar Sultan Pasha Collection (d. 1929 or before). Donated to the Museum by the Norbert Schimmel Trust, 1989. Published in the MMA Bulletin, Spring 1992."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/eg/original/DP112565.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/DT6215.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/DT6216.jpg"
+    ],
+    "title": "Cosmetic Container in the Form of a Bes-image",
+    "what": [
+        "Faience",
+        "Cosmetics"
+    ],
+    "when": "1000 B.C.-A.D. 1",
+    "where": [
+        "Africa",
+        "Egypt"
+    ]
+}

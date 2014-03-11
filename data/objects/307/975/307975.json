@@ -1,0 +1,129 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/312932"
+            },
+            {
+                "href": "http://scrapi.org/object/307950"
+            },
+            {
+                "href": "http://scrapi.org/object/307952"
+            },
+            {
+                "href": "http://scrapi.org/object/312805"
+            },
+            {
+                "href": "http://scrapi.org/object/312613"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From September 16, 2013",
+                "href": "/exhibitions/listings/2013/feathered-walls",
+                "rel": "Feathered Walls"
+            },
+            {
+                "date": "From October 8, 2013",
+                "href": "/exhibitions/listings/2013/nelson-rockefeller",
+                "rel": "The Nelson A. Rockefeller Vision"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=A115_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140210093011",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/talks/gallery-talks/ancient-american-sculpture?eid=A001_%7b7A6AA394-9359-47C1-87B4-65B0894C01AB%7d_20140123114645",
+                "rel": "Ancient American Sculpture"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R105_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140311130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R106_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140312130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R107_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140313130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 18, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/shaping-the-african-art-canon?eid=A001_%7b447041C4-D9E7-43A9-AE5F-85BAEB6E7196%7d_20140214113010",
+                "rel": "Shaping the African Art Canon: From the Museum to the Classroom"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/talks/the-observant-eye/shared-memory-sculptural-ancestral-objects-from-oceania?eid=A001_%7b94768B86-339F-4726-A3BC-8F798C423768%7d_20140123143856",
+                "rel": "Shared Memory: Sculptural Ancestral Objects from Oceania"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=A116_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140210093151",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/talks/gallery-talks/ancient-american-sculpture?eid=A002_%7b7A6AA394-9359-47C1-87B4-65B0894C01AB%7d_20140123114700",
+                "rel": "Ancient American Sculpture"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=06\u00aeion=sac",
+                "rel": "Central and Southern Andes, 500\u20131000 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/307975"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/307975"
+        }
+    },
+    "accession number": "29.146.23",
+    "credit line": "Gift of George D. Pratt, 1929",
+    "culture": "Nasca-Wari",
+    "date": "800-850",
+    "department": "Arts of Africa, Oceania and the Americas",
+    "description": "The primary items of clothing for men in ancient Peru were tunics, with or without sleeves. They had a vertical slit opening at the top for the neck. Considerable effort and time were invested in making elaborate tunics since, in addition to being practical, among many groups they were statements of ethnic affiliation, social status, and religious beliefs. Peruvian tunics display a great deal of variety in weaving technique and patterning and a wide range of colors. This example, made in the slit-tapestry technique, with identical halves joined at the center and along the sides, is bold in color and very unusual in design. Its main pattern consists of two yet-to-be-identified, probably reptilian creatures with spotted zigzag bodies facing each other at the center line of the tunic. Their large heads have bicolored eyes, bared teeth, whiskers or barbels, and ears or fins. The tunic is currently said to be \"Nasca-Wari\" style. While the shape and weaving technique are Nasca characteristics, the rendering of the eyes in two halves is indicative of the Wari style. This suggests that the tunic was woven in the Nasca area at a time when this region was under the influence of the Wari state.",
+    "dimensions": [
+        "Overall 21 1/2 in. (54.61 cm)",
+        "Other 43 1/4 in. (109.86 cm)"
+    ],
+    "id": 307975,
+    "image": "http://images.metmuseum.org/CRDImages/ao/original/DT829.jpg",
+    "medium": "Camelid hair",
+    "provenance": [
+        "George D. Pratt, New York, until 1929"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ao/original/DT829.jpg",
+        "http://images.metmuseum.org/CRDImages/ao/original/29.146.23.jpg"
+    ],
+    "title": "Tunic with Confronting Mythical Serpents",
+    "what": [
+        "Costume",
+        "Textiles",
+        "Woven",
+        "Hair",
+        "Camelidae",
+        "Tunics"
+    ],
+    "when": "A.D. 500-1000",
+    "where": [
+        "South America",
+        "Peru"
+    ],
+    "who": "Nazca"
+}

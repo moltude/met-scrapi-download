@@ -1,0 +1,129 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/440356"
+            },
+            {
+                "href": "http://scrapi.org/object/355406"
+            },
+            {
+                "href": "http://scrapi.org/object/355390"
+            },
+            {
+                "href": "http://scrapi.org/object/355401"
+            },
+            {
+                "href": "http://scrapi.org/object/363843"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/piero-della-francesca",
+                "rel": "Piero della Francesca"
+            },
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "From April 22, 2014",
+                "href": "/exhibitions/listings/2014/goya",
+                "rel": "Goya and the Altamira Family"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/saturday-seminar-spring-2014?eid=R001_%7bE063A39F-FC40-4ECC-B690-C4C13F70B2A0%7d_20140308103000",
+                "rel": "Saturday Seminar with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=A261_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20131127123052",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/talks/gallery-talks/piero-della-francesca?eid=A002_%7bE50FD455-5FC1-41D0-9391-C456264363EF%7d_20140206160641",
+                "rel": "Exhibition Tour\u2014Piero della Francesca: Personal Encounters"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/monuments-men?eid=A001_%7b494A84BE-8369-4A52-BA2A-DDF2B46C9D37%7d_20140124121143",
+                "rel": "Monuments Men: Fact and Fiction"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/monday-at-the-met-spring-2014?eid=R002_%7bBB2BF277-3666-435E-8B95-12CDE21533EA%7d_20140310100000",
+                "rel": "Monday at the Met with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R104_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140310123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R105_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140311123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R106_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140312123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R027_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140313140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/painters-and-paintings?eid=A001_%7b9706CFE2-7062-4475-BC2D-7FD5AFF14712%7d_20140129160910",
+                "rel": "Fellows Colloquium\u2014Painters and Paintings"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwb",
+                "rel": "Great Britain and Ireland, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/436859"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/436859"
+        }
+    },
+    "accession number": "61.233",
+    "credit line": "Rogers Fund, 1961",
+    "date": "1847",
+    "department": "European Paintings",
+    "dimensions": "12 1/4 x 19 in. (31.1 x 48.3 cm)",
+    "gallery-id": 808,
+    "id": 436859,
+    "image": "http://images.metmuseum.org/CRDImages/ep/original/DP169645.jpg",
+    "medium": "Oil on board",
+    "provenance": [
+        "Miss Kirkpatrick Caldecott, Sussex (until 1961; sold to Agnew)",
+        "[Agnew, London, 1961",
+        "sold to MMA]"
+    ],
+    "title": "Catania and Mount Etna",
+    "what": [
+        "Drawings",
+        "Oil paint"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "United Kingdom"
+    ],
+    "who": "Edward Lear"
+}

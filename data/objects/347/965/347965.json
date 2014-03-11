@@ -1,0 +1,104 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/334653"
+            },
+            {
+                "href": "http://scrapi.org/object/337844"
+            },
+            {
+                "href": "http://scrapi.org/object/348025"
+            },
+            {
+                "href": "http://scrapi.org/object/348057"
+            },
+            {
+                "href": "http://scrapi.org/object/348059"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/rvd_d/hd_rvd_d.htm",
+                "rel": "Peter Paul Rubens (1577\u20131640) and Anthony van Dyck (1599\u20131641): Works on Paper"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=euwl",
+                "rel": "Low Countries, 1400\u20131600 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwl",
+                "rel": "Low Countries, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/347965"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/347965"
+        }
+    },
+    "accession number": "52.214.3",
+    "credit line": "Gift of Mr. and Mrs. Janos Scholz, 1952",
+    "date": "n.d.",
+    "department": "Drawings and Prints",
+    "dimensions": "sheet 8 7/16 x 5 9/16 in. (21.4 x 14.2 cm)",
+    "id": 347965,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP802378.jpg",
+    "medium": "Pen, brush and brown ink on pale tan paper; reverse, black chalk and brown ink.",
+    "provenance": [
+        "J\u00e1nos Scholz"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP802378.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/269689.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DT200202.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP802379.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP802380.jpg"
+    ],
+    "title": "Presentation in the Temple",
+    "what": [
+        "Ink",
+        "Drawings",
+        "Paper",
+        "Chalk"
+    ],
+    "where": [
+        "Europe",
+        "Flanders"
+    ],
+    "who": "Peter Paul Rubens"
+}

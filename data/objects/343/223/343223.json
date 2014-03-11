@@ -1,0 +1,94 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/335007"
+            },
+            {
+                "href": "http://scrapi.org/object/373893"
+            },
+            {
+                "href": "http://scrapi.org/object/335005"
+            },
+            {
+                "href": "http://scrapi.org/object/404066"
+            },
+            {
+                "href": "http://scrapi.org/object/417514"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwc",
+                "rel": "Central Europe (including Germany), 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/343223"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/343223"
+        }
+    },
+    "accession number": "2000.517a, b",
+    "credit line": "Anonymous Gift, 2000",
+    "date": "1764\u20131770",
+    "department": "Drawings and Prints",
+    "dimensions": "14 7/8 x 6 5/8 in. (36.7 x 16.9cm)",
+    "id": 343223,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP804311.jpg",
+    "medium": "Pen and brown ink over graphite on paper; verso, pen and brown ink; framing lines in graphite",
+    "provenance": [
+        "Herman Shickman Gallery, New York as of 1980"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP804311.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DR331.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DR332.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP804312.jpg"
+    ],
+    "title": "Study for the Prophet Jeremiah (recto); Studies of a Horse Seen from Below and of a Man Seated on a Chair, Probably a Self-Portrait and an Off-Print in Brown Ink of a Nude Female Abdomen and Legs (verso)",
+    "what": [
+        "Ink",
+        "Drawings",
+        "Paper",
+        "Graphite"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "Switzerland"
+    ],
+    "who": "Henry Fuseli"
+}

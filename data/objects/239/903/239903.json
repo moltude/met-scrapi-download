@@ -1,0 +1,107 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/249366"
+            },
+            {
+                "href": "http://scrapi.org/object/249368"
+            },
+            {
+                "href": "http://scrapi.org/object/249396"
+            },
+            {
+                "href": "http://scrapi.org/object/249412"
+            },
+            {
+                "href": "http://scrapi.org/object/249483"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R105_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140311123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R106_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140313123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R027_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140313130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R107_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140314123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/conversations-with-curators-and-conservators/terracotta-column-krater?eid=A001_%7b1CC4797D-7295-4614-9ACD-19C00BA693F4%7d_20140204162630",
+                "rel": "Conversation with a Curator\u2014Terracotta Column-Krater"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A144_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142257",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A145_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142312",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R116_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140331123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R117_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140401123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=05\u00aeion=eust",
+                "rel": "Italian Peninsula, 1\u2013500A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/239903"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/239903"
+        }
+    },
+    "accession number": "74.51.318",
+    "credit line": "The Cesnola Collection, Purchased by subscription, 1874\u201376",
+    "culture": "Roman, Cypriot",
+    "date": "early 3rd century A.D.",
+    "department": "Greek and Roman Art",
+    "description": "Translucent light purple.Flaring mouth; cylindrical neck, expanding downwards; globular body with prominent seam running from neck down sides; flat bottom.Blown in a two-part negative mold to produce relief decoration on body of two heads back to back with similar features: hair arranged around the face as evenly spaced knobs in three regular tiers, prominent arched browline, almond-shaped eyes with recessed pupils, narrow nose with flaring nostrils, small mouth with straight lips slightly parted, and fat cheeks.Complete, but rim missing and with one hole in side of body; pinprick and elongated bubbles, and black impurities in top of neck; slight weathering and soli encrustation on exterior, thick encrustation on parts of interior.",
+    "dimensions": "H. 8.08 cm.",
+    "gallery-id": 176,
+    "id": 239903,
+    "image": "http://images.metmuseum.org/CRDImages/gr/original/DP233495.jpg",
+    "medium": "Glass; mold-blown",
+    "provenance": [
+        "From Cyprus"
+    ],
+    "title": "Glass double head-shaped flask",
+    "what": [
+        "Glass",
+        "Flasks"
+    ],
+    "when": "A.D. 1-500",
+    "where": [
+        "Roman Empire"
+    ]
+}

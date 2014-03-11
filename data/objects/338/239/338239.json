@@ -1,0 +1,94 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/338240"
+            },
+            {
+                "href": "http://scrapi.org/object/338233"
+            },
+            {
+                "href": "http://scrapi.org/object/335598"
+            },
+            {
+                "href": "http://scrapi.org/object/459215"
+            },
+            {
+                "href": "http://scrapi.org/object/460067"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=eus",
+                "rel": "Southern Europe, 1800\u20131900 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=eust",
+                "rel": "Italian Peninsula, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/338239"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/338239"
+        }
+    },
+    "accession number": "33.40.62",
+    "credit line": "Bequest of Edward G. Kennedy, 1932",
+    "date": "1842\u20131931",
+    "department": "Drawings and Prints",
+    "dimensions": "14-3/16 x 12-7/8 in.  (36.0 x 32.7 cm)",
+    "id": 338239,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP808032.jpg",
+    "medium": "Black graphite",
+    "provenance": [
+        "Edward Guthrie Kennedy"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP808032.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/33.40.62.jpg"
+    ],
+    "title": "Portrait of Edward G. Kennedy (1849-1932)",
+    "what": [
+        "Drawings",
+        "Graphite"
+    ],
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Giovanni Boldini"
+}

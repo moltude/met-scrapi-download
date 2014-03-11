@@ -1,0 +1,115 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/543883"
+            },
+            {
+                "href": "http://scrapi.org/object/543886"
+            },
+            {
+                "href": "http://scrapi.org/object/543890"
+            },
+            {
+                "href": "http://scrapi.org/object/543891"
+            },
+            {
+                "href": "http://scrapi.org/object/543892"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R130_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140310140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A145_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113221",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/talks/gallery-talks/egyptian-sculpture?eid=A002_%7b09B70F74-B68F-4731-A787-D861CCC990BA%7d_20140123144040",
+                "rel": "Egyptian Sculpture"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=02\u00aeion=afe",
+                "rel": "Egypt, 8000\u20132000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/543884"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/543884"
+        }
+    },
+    "accession number": "08.200.56",
+    "credit line": "Rogers Fund, 1908",
+    "date": "ca. 2353\u20132152 B.C.",
+    "department": "Egyptian Art",
+    "description": "This large fragment preserves part of a colossal representation of an unidentified goddess who was certainly taking part in a ritual involving the king. The eye was originally filled with inlays of black and white stone that must have given the face a startlingly lifelike appearance.  Awe-inspiring compositions of large figures, showing the king interacting with gods, dominated the walls of pyramid complexes of the later Fifth and Sixth Dynasties.",
+    "dimensions": "h. 42 cm (16 9/16 in); w. 51 cm (20 1/16 in)",
+    "gallery-id": 103,
+    "id": 543884,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/DT259172.jpg",
+    "medium": "Limestone, paint",
+    "provenance": [
+        "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art. Acquired by the Museum in the division of finds."
+    ],
+    "title": "Relief fragment with the head of a goddess",
+    "what": [
+        "Sculpture",
+        "Limestone",
+        "Reliefs"
+    ],
+    "when": "8000-2000 B.C.",
+    "where": [
+        "Africa",
+        "Egypt",
+        "Mersa Matr\u00fbh",
+        "Al Lisht"
+    ]
+}

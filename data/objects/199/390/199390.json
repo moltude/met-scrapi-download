@@ -1,0 +1,173 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/221995"
+            },
+            {
+                "href": "http://scrapi.org/object/222198"
+            },
+            {
+                "href": "http://scrapi.org/object/221585"
+            },
+            {
+                "href": "http://scrapi.org/object/221591"
+            },
+            {
+                "href": "http://scrapi.org/object/186427"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 3, 2014",
+                "href": "/exhibitions/listings/2014/william-morris",
+                "rel": "William Morris"
+            },
+            {
+                "date": "From November 22, 2011",
+                "href": "/exhibitions/listings/2011/faberge",
+                "rel": "Faberg\u00e9 from the Matilda Geddings Gray Foundation Collection"
+            },
+            {
+                "date": "From February 4, 2014",
+                "href": "/exhibitions/listings/2014/french-ceramics",
+                "rel": "Making Pottery Art"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/carpeaux",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "From January 22, 2014",
+                "href": "/exhibitions/listings/2014/antonio-canova",
+                "rel": "Antonio Canova"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R100_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140303131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining?eid=A001_%7b7C69242D-2B76-4B1B-B2B8-0F004589560B%7d_20140107112846",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R101_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140304131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining-family-individual?eid=R001_%7b2F11F3B2-6834-484B-AE0F-5066D7E783B5%7d_20140305100000",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/world-enlightened?eid=R001_%7bEC37AED7-F558-4A27-A806-094491540250%7d_20140305101500",
+                "rel": "Cultural Discoveries\u2014Wednesdays with Olivier Bernier: Europe in the Eighteenth Century, A World Enlightened"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining-family-individual?eid=R002_%7b2F11F3B2-6834-484B-AE0F-5066D7E783B5%7d_20140306100000",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R102_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140306131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining-family-individual?eid=R001_%7b2F11F3B2-6834-484B-AE0F-5066D7E783B5%7d_20140307100000",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/collecting-and-intepreting-at-the-met?eid=A001_%7b6A0B3958-68AC-4F22-BB73-D898FB894401%7d_20140127111701",
+                "rel": "Fellows Colloquium\u2014Collecting and Interpreting at the Met"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R103_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140307131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwf",
+                "rel": "France, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/199390"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/199390"
+        }
+    },
+    "accession number": "43.158.1",
+    "credit line": "Gift of Mrs. Herbert N. Straus, 1943",
+    "culture": "French (Bordeaux)",
+    "date": "ca. 1785, with later additions",
+    "department": "European Sculpture and Decorative Arts",
+    "dimensions": "158 1/2 x 208 1/2 x 217-3/4 in.  (402.6 x 529.6 x 553.1 cm)",
+    "gallery-id": 547,
+    "id": 199390,
+    "image": "http://images.metmuseum.org/CRDImages/es/original/ES5696.jpg",
+    "medium": "Pine, painted and carved",
+    "provenance": [
+        "Joseph Dufour (1782/84\u20131787; sold to des Rasins)",
+        "Jean Paul Andr\u00e9 des Rasins, marquis de Saint Marc (1787\u2013d. 1818)",
+        "Catherine de S\u00e9gur (until d. 1847)",
+        "Marie de Saint-Marc (Mme. de Larose) (until 1861; sold to Hospices de Bordeaux)",
+        "Hospices Civils de Bordeaux",
+        "M. Albert Habib (until 1931; sold to Straus)",
+        "Mrs. Herbert N. Straus (1931\u201343; to MMA)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/es/original/ES5696.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/ES8194.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/ES8195.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/ES8196.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/ES8201.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/ES8202.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/ES8210.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/ES5756.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/ES5695.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/ES5694.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/ES8197.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/ES8198.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/ES8199.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/ES8200.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/ES8212.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/ES8213.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/ES8214.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/ES8315.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP214930.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP214931.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP214932.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP214933.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP158813.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DLSvh1_0297.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DSwkny_met_089.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/ES8314.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/ES8316.jpg"
+    ],
+    "title": "Room from a hotel in the Cours d'Albret, Bordeaux",
+    "what": [
+        "Wood",
+        "Painting",
+        "Woodwork",
+        "Softwood",
+        "Pine"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "France",
+        "Aquitaine",
+        "Bordeaux"
+    ],
+    "who": "Barth\u00e9lemy Cabirol"
+}

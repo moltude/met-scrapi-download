@@ -1,0 +1,149 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/334636"
+            },
+            {
+                "href": "http://scrapi.org/object/486240"
+            },
+            {
+                "href": "http://scrapi.org/object/486257"
+            },
+            {
+                "href": "http://scrapi.org/object/486390"
+            },
+            {
+                "href": "http://scrapi.org/object/482257"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 24, 2014",
+                "href": "/exhibitions/listings/2014/lucas-samaras",
+                "rel": "Lucas Samaras"
+            },
+            {
+                "date": "From December 17, 2013",
+                "href": "/exhibitions/listings/2013/metropolitan-vanities",
+                "rel": "Metropolitan Vanities"
+            },
+            {
+                "date": "From October 22, 2013",
+                "href": "/exhibitions/listings/2013/william-kentridge",
+                "rel": "William Kentridge"
+            },
+            {
+                "date": "From April 29, 2014",
+                "href": "/exhibitions/listings/2014/dan-graham",
+                "rel": "The Roof Garden Commission: Dan Graham"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/modern-art-french?eid=R027_%7b96311A2D-1D25-45BE-83E2-2054BC16D70B%7d_20140311133000",
+                "rel": "Art Moderne et Contemporain (Modern and Contemporary Art in French)"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R105_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140311144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R106_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140312144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R027_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140313140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=R107_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20140313144500",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/modern-and-contemporary-art?eid=A076_%7b68A8403D-C732-40A8-AD37-CA46A524C12E%7d_20131126112236",
+                "rel": "Modern and Contemporary Art"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/faces?eid=A002_%7b8EAA5A8F-1DA9-4AC7-8199-BDE367AC2FB1%7d_20140124163826",
+                "rel": "Faces! Drawing in the Galleries for Adults"
+            },
+            {
+                "date": "March 18, 2014",
+                "href": "/events/programs/tours/modern-art-french?eid=R028_%7b96311A2D-1D25-45BE-83E2-2054BC16D70B%7d_20140318133000",
+                "rel": "Art Moderne et Contemporain (Modern and Contemporary Art in French)"
+            },
+            {
+                "date": "March 20, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R028_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140320140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/artn/hd_artn.htm",
+                "rel": "Art Nouveau"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/dsgn1/hd_dsgn1.htm",
+                "rel": "Design, 1900\u201325"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwb",
+                "rel": "Great Britain and Ireland, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/486345"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/486345"
+        }
+    },
+    "accession number": "1994.120",
+    "credit line": "Purchase, Lila Acheson Wallace Gift, 1994",
+    "date": "1904",
+    "department": "Modern and Contemporary Art",
+    "description": "While a young architectural apprentice, Charles Rennie Mackintosh, the son of a Glasgow policeman, attended evening classes at the Glasgow School of Art, where he met Herbert MacNair, Frances Macdonald, and her sister Margaret Macdonald (who would later become Mackintosh's wife).  Together they formed \"The Four,\" producing watercolors, poster designs, and small decorative objects that were published in \"The Studio.\"  In 1889 Mackintosh was hired as a draftsman at the architectural firm of Honeyman and Keppie, where he would remain until 1914.  It was there that he developed a unique design idiom based on the forms and materials of traditional Scottish architecture.  Mackintosh undertook all aspects of a design commission, providing every element, from an architectural setting to small decorative objects and textiles.  His best-known commissions include a building for the Glasgow School of Art (built in two phases, 1897\u201399 and 1907\u201309) and Hill House (1902\u201304), the Walter Blackie residence in the Glasgow suburb of Helensburgh.Perhaps frustrated by a lack of success at Honeyman and Keppie, Mackintosh left Glasgow in 1914, and by 1920 he had completely abandoned his architectural career.  He increasingly turned to watercolor, a medium he continued to explore until his death.Mackintosh designed this washstand as part of the furnishings for the Blue Bedroom in Hous'hill, an eighteenth-century residence in a suburb of Glasgow he remodeled for Kate Cranston (Mrs. Cochrane) and her husband.  Miss Cranston, one of Mackintosh's most important clients, was the proprietress of a group of highly successful tearooms in Glasgow, many of which she had Mackintosh design.  With its uncompromising shape and brilliant abstract panel of glass, the washstand shows the architect/designer at the height of his creative powers.",
+    "dimensions": [
+        "H. 63-1/4, W. 51-1/4, D. 20-3/8 in.",
+        "(160.7 x 130.2 x 51.8 cm)"
+    ],
+    "id": 486345,
+    "image": "http://images.metmuseum.org/CRDImages/ma/original/DT1424.jpg",
+    "medium": "Oak, ceramic tile, colored and mirror glass, and lead",
+    "title": "Washstand",
+    "what": [
+        "Metal",
+        "Ceramics",
+        "Clay",
+        "Glass",
+        "Wood",
+        "Furniture",
+        "Tile",
+        "Lead",
+        "Oak",
+        "Mirrors",
+        "Stands",
+        "Washstands",
+        "Ceramic tile"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "United Kingdom",
+        "Scottish"
+    ],
+    "who": "Charles Rennie Mackintosh"
+}

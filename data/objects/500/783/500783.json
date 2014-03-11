@@ -1,0 +1,117 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/504420"
+            },
+            {
+                "href": "http://scrapi.org/object/502407"
+            },
+            {
+                "href": "http://scrapi.org/object/504421"
+            },
+            {
+                "href": "http://scrapi.org/object/505443"
+            },
+            {
+                "href": "http://scrapi.org/object/500775"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/early-guitars",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A001_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115501",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A002_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115523",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A003_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115537",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A004_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115549",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A005_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115601",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A006_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115612",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/musical-instruments-east-and-west?eid=R079_%7bB33A51AA-7250-402C-9FC0-8A302D14AD06%7d_20140311121500",
+                "rel": "Musical Instruments: East and West"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/musical-instruments-east-and-west?eid=R080_%7bB33A51AA-7250-402C-9FC0-8A302D14AD06%7d_20140313121500",
+                "rel": "Musical Instruments: East and West"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/musical-instruments-east-and-west?eid=R081_%7bB33A51AA-7250-402C-9FC0-8A302D14AD06%7d_20140314121500",
+                "rel": "Musical Instruments: East and West"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/family-programs/sunday-studio/string-and-sound?eid=A002_%7b47DD1CB2-ECBA-4009-A975-5F11C7EB2F6A%7d_20131025180255",
+                "rel": "String and Sound: Musical Instruments"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=ssa",
+                "rel": "South Asia and the Himalayan Region, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/500783"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/500783"
+        }
+    },
+    "accession number": "89.4.214",
+    "credit line": "The Crosby Brown Collection of Musical Instruments, 1889",
+    "date": "late 19th century",
+    "department": "Musical Instruments",
+    "dimensions": "Diam. 19.7 cm (7-3/4 in.)",
+    "gallery-id": 681,
+    "id": 500783,
+    "image": "http://images.metmuseum.org/CRDImages/mi/original/midp89.4.214.jpg",
+    "medium": "Skin, iron",
+    "provenance": [
+        "Rev. J.M. Cranklin, Madras (see letter from Rev. Cranklin 1886).  It would appear from the letter that Mrs. Brown purchased 2 such drums for 8 rupees and may have traded one of them away att a later point."
+    ],
+    "title": "Candrapirai",
+    "what": [
+        "Metal",
+        "Iron and iron alloy",
+        "Musical instruments",
+        "Iron",
+        "Frames",
+        "Membranophones",
+        "Drums",
+        "Frame drums"
+    ],
+    "where": [
+        "Asia",
+        "India",
+        "Tamil Nadu"
+    ]
+}

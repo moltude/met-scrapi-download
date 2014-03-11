@@ -1,0 +1,141 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/157015"
+            },
+            {
+                "href": "http://scrapi.org/object/98589"
+            },
+            {
+                "href": "http://scrapi.org/object/108600"
+            },
+            {
+                "href": "http://scrapi.org/object/112795"
+            },
+            {
+                "href": "http://scrapi.org/object/129921"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 7, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R150_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140407130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwb",
+                "rel": "Great Britain and Ireland, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/84675"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/84675"
+        }
+    },
+    "accession number": "1978.472.2a\u2013j",
+    "credit line": "Gift of Mrs. C. Suydam Cutting, 1978",
+    "culture": "British",
+    "date": "ca. 1936",
+    "department": "Costume Institute",
+    "dimensions": [
+        "Length at CB (a) 29 in. (73.7 cm)",
+        "Total Length (b) 60 in. (152.4 cm)",
+        "Length at CB (c) 16 1/2 in. (41.9 cm)",
+        "Total Length (d) diameter) 11 in. (27.9 cm)",
+        "Total Length (e,f) height) 30 in. (76.2 cm)",
+        "Total Length (j) 72 in. (182.9 cm)"
+    ],
+    "id": 84675,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/1978.472.2ac_F.jpg",
+    "medium": [
+        "a) cotton",
+        "b) silk",
+        "c) Linen",
+        "d) silk",
+        "e\u2013h) leather",
+        "i) silk",
+        "j) leather"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ci/original/1978.472.2ac_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1978.472.2ac_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1978.472.2a_F.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1978.472.2b.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1978.472.2d.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1978.472.2d_label.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1978.472.2e\u2013h.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1978.472.2j.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1978.472.2j_d.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/1978.472.2i.jpg"
+    ],
+    "title": "Riding ensemble",
+    "what": [
+        "Costume",
+        "Silk",
+        "Cotton",
+        "Leather",
+        "Ensembles",
+        "Sports clothing",
+        "Riding habits"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Europe",
+        "United Kingdom"
+    ],
+    "who": "James Lock & Co. Ltd"
+}

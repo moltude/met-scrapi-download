@@ -1,0 +1,130 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/503396"
+            },
+            {
+                "href": "http://scrapi.org/object/503219"
+            },
+            {
+                "href": "http://scrapi.org/object/504476"
+            },
+            {
+                "href": "http://scrapi.org/object/503823"
+            },
+            {
+                "href": "http://scrapi.org/object/503372"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/early-guitars",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A001_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203181946",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A002_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203182002",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A004_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203182034",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A006_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203182105",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A005_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20140206152942",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A001_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115501",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A002_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115523",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A003_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115537",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A004_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115549",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A005_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115601",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=euwb",
+                "rel": "Great Britain and Ireland, 1400\u20131600 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwb",
+                "rel": "Great Britain and Ireland, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/503359"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/503359"
+        }
+    },
+    "accession number": "1989.44",
+    "credit line": "Gift of Janos Scholz, in memory of Ernest Schelling, and in honor of the Centennial of The Crosby Brown Collection of Musical Instruments, 1989",
+    "date": "ca. 1600",
+    "department": "Musical Instruments",
+    "dimensions": [
+        "Total L. 119.5 cm (47-1/16 in.); Body L.: 71.5 cm  (28-3/16 in.); Body W.: upper 32 cm (12-1/2 in.), middle 23.4 cm (9-3/16 in.), lower 39 cm (15-1/8 in.); Rib H.: upper  9 cm (3-5/8 in.), middle 23.4 cm (9-3/16 in.), middle 12.6 cm  (4-15/16 in.); Belly W.: at the neck 5.2 cm (2.05 in.)",
+        "lower  39 cm (15.35 in.)\tlower  12.7 cm  (5.0 in.)",
+        "Belly W.         at the neck      5.2 cm     (2.05 in.)"
+    ],
+    "id": 503359,
+    "image": "http://images.metmuseum.org/CRDImages/mi/original/DP164634.jpg",
+    "medium": "Wood",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/mi/original/DP164634.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/248056.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/248046.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/DP164631.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/DP164632.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/DP164633.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/DP164635.jpg"
+    ],
+    "title": "Bass Viola da Gamba",
+    "what": [
+        "Musical instruments",
+        "Chordophones",
+        "Lutes",
+        "Bass",
+        "Violas"
+    ],
+    "where": [
+        "Europe",
+        "United Kingdom",
+        "England",
+        "London"
+    ],
+    "who": "John Rose"
+}

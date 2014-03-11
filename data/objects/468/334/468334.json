@@ -1,0 +1,120 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/464342"
+            },
+            {
+                "href": "http://scrapi.org/object/463365"
+            },
+            {
+                "href": "http://scrapi.org/object/463367"
+            },
+            {
+                "href": "http://scrapi.org/object/468333"
+            },
+            {
+                "href": "http://scrapi.org/object/467588"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 25, 2014",
+                "href": "/exhibitions/listings/2014/canterbury-stained-glass",
+                "rel": "Radiant Light"
+            },
+            {
+                "date": "From August 6, 2013",
+                "href": "/exhibitions/listings/2013/design-motifs-in-byzantine-art",
+                "rel": "Design Motifs in Byzantine Art"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R009_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140310150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R105_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140311104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R010_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140311150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R106_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140312104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R011_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140312150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R107_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140313104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R012_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140313150000",
+                "rel": "Highlights of The Cloisters Collection"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/masterpieces-middle-ages?eid=R108_%7b46EE629F-4B53-4BA5-BD4A-BF1EECA3F100%7d_20140314104500",
+                "rel": "Masterpieces of the Middle Ages"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/events-at-the-cloisters/guided-tours/highlights-of-the-cloisters-collection?eid=R013_%7bC7E7D180-4C41-4DEA-959D-0CB342291C1A%7d_20140314150000",
+                "rel": "Highlights of The Cloisters Collection"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/468334"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/468334"
+        }
+    },
+    "accession number": "50.174.2a",
+    "credit line": "Gift of Arthur S. Fairchild, 1950",
+    "culture": "Italian",
+    "date": "16th century",
+    "department": "Medieval Art",
+    "dimensions": "Overall 5 11/16 x 6 15/16 x 2 1/2 in. (14.5 x 17.6 x 6.3 cm)",
+    "id": 468334,
+    "image": "http://images.metmuseum.org/CRDImages/md/original/sf50-174-2as1.jpg",
+    "medium": "Iron",
+    "provenance": [
+        "[ Giorgio Sangiorgi, Rome (sold to Fairchild in 1930)]",
+        "Arthur S. Fairchild, New York (1930\u20131950)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/md/original/sf50-174-2as1.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/sf50-174-2as2.jpg",
+        "http://images.metmuseum.org/CRDImages/md/original/sf50-174-2as3.jpg"
+    ],
+    "title": "Lock",
+    "what": [
+        "Metal",
+        "Metalwork",
+        "Iron and iron alloy",
+        "Iron",
+        "Locks"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Italy"
+    ]
+}

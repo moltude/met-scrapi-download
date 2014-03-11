@@ -1,0 +1,97 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/338644"
+            },
+            {
+                "href": "http://scrapi.org/object/357127"
+            },
+            {
+                "href": "http://scrapi.org/object/367528"
+            },
+            {
+                "href": "http://scrapi.org/object/367567"
+            },
+            {
+                "href": "http://scrapi.org/object/383859"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwb",
+                "rel": "Great Britain and Ireland, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/339874"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/339874"
+        }
+    },
+    "accession number": "54.90.623",
+    "credit line": "The Edward W. C. Arnold Collection of New York Prints, Maps and Pictures, Bequest of Edward W. C. Arnold, 1954",
+    "date": "1844",
+    "department": "Drawings and Prints",
+    "dimensions": [
+        "image 8 13/16 x 32 5/8 in. (22.4 x 82.9 cm)",
+        "plate 11 3/4 x 35 7/8 in. (29.9 x 91.2 cm)",
+        "sheet 13 9/16 x 37 1/2 in. (34.4 x 95.3 cm)"
+    ],
+    "id": 339874,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/49H_120R4.jpg",
+    "medium": "Hand-colored etching and aquatint",
+    "provenance": [
+        "Donor: Edward W. C. Arnold"
+    ],
+    "title": "Panoramic View of New York Taken from the North River",
+    "what": [
+        "Prints",
+        "Etching",
+        "Aquatint"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "United Kingdom"
+    ],
+    "who": [
+        "Ackermann & Co.",
+        "Robert Havell Jr.",
+        "James Fulton Pringle",
+        "W. Neale",
+        "William A. Colman"
+    ]
+}

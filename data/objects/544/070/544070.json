@@ -1,0 +1,129 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/569161"
+            },
+            {
+                "href": "http://scrapi.org/object/582582"
+            },
+            {
+                "href": "http://scrapi.org/object/582583"
+            },
+            {
+                "href": "http://scrapi.org/object/582586"
+            },
+            {
+                "href": "http://scrapi.org/object/582597"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A151_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113641",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R130_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140310140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A145_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113221",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=04\u00aeion=afe",
+                "rel": "Egypt, 1000 B.C.\u20131 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/544070"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/544070"
+        }
+    },
+    "accession number": "1992.55",
+    "credit line": "Purchase, Rogers and Fletcher Funds and Joseph Pulitzer Bequest, 1992",
+    "date": "525\u2013404 B.C.",
+    "department": "Egyptian Art",
+    "description": "This head of an antelope represents Late Period animal sculpture at its very best.  The well preserved right eye, inlaid with alabaster and agate, gives the animal a truely lifelike quality.The head was probably part of a ceremonial boat of hard stone that stood in a temple sanctuary.  Boats with antelope heads at the prow were sacred to the god Sokar. A Sokar boat can be seen on the inner coffin of Khaisher in Gallery 21.Another fine animal sculpture in the collection, slightly later in date, is the Museum's falcon with Nectanebo II of Dynasty 30 (see 34.2.1).",
+    "dimensions": "h. 9 cm (3 9/16 in); w. 15 cm (5 7/8 in)",
+    "gallery-id": 123,
+    "id": 544070,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/DT6857.jpg",
+    "medium": "Greywacke, travertine (Egyptian alabaster), agate",
+    "provenance": [
+        "Purchased from Peter Sharrer, Ancient Art Inc, New Jersey, 1992.  Before that Charles Ede Limited, London, and before that Mieke Zilverberg Kunsthandel, Amsterdam who acquired the piece from a German private collection.Published in BMMA Fall 1992 and subsequently, continuously exhibited."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/eg/original/DT6857.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/DT6858.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/1992.55_front.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/1992.55_rp.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/1992.55_lp.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/DT6859.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/DT557.jpg"
+    ],
+    "title": "Antelope Head",
+    "what": [
+        "Limestone",
+        "Chalcedony",
+        "Gypsum",
+        "Alabaster",
+        "Travertine",
+        "Agate",
+        "Sandstone",
+        "Graywacke"
+    ],
+    "when": "1000 B.C.-A.D. 1",
+    "where": [
+        "Africa",
+        "Egypt",
+        "Upper Egypt",
+        "Memphis"
+    ]
+}

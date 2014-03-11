@@ -1,0 +1,114 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/335532"
+            },
+            {
+                "href": "http://scrapi.org/object/386334"
+            },
+            {
+                "href": "http://scrapi.org/object/429028"
+            },
+            {
+                "href": "http://scrapi.org/object/335533"
+            },
+            {
+                "href": "http://scrapi.org/object/335534"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/golt/hd_golt.htm",
+                "rel": "Hendrick Goltzius (1558\u20131617)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/nman/hd_nman.htm",
+                "rel": "Northern Mannerism in the Early Sixteenth Century"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=euwl",
+                "rel": "Low Countries, 1400\u20131600 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwl",
+                "rel": "Low Countries, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/371145"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/371145"
+        }
+    },
+    "accession number": "2006.101",
+    "credit line": "Purchase, Harris Brisbane Dick Fund, Frits and Rita Markus Fund, and Charles and Jessie Price Gift, 2006",
+    "date": "late 16th\u2013early 17th century",
+    "department": "Drawings and Prints",
+    "dimensions": "sheet 12 1/2 x 9 3/16 in. (31.8 x 23.3 cm)",
+    "id": 371145,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP801085.jpg",
+    "medium": "Pen and three shades of brown ink with black chalk on laid paper; framing lines in brown ink and graphite",
+    "provenance": [
+        "Aubrey Beese (Cirencester, United Kingdom), purchased from him by Michael Ingram in 1954",
+        "Michael Ingram (British, 1917\u20132005)in 1954",
+        "Sotheby's, London, December 8, 2005, lot 19sale December 8, 2005, lot 19",
+        "Vendor: Katrin Bellinger Kunsthandel , Munich"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP801085.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP131502.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP152106.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP801086.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP801220.jpg"
+    ],
+    "title": "Study of Eleven Heads",
+    "what": [
+        "Ink",
+        "Drawings",
+        "Paper",
+        "Graphite",
+        "Chalk",
+        "Laid paper"
+    ],
+    "where": [
+        "Europe",
+        "Netherlands"
+    ],
+    "who": "Jacques de Gheyn II"
+}

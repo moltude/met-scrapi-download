@@ -1,0 +1,113 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/156850"
+            },
+            {
+                "href": "http://scrapi.org/object/156852"
+            },
+            {
+                "href": "http://scrapi.org/object/170356"
+            },
+            {
+                "href": "http://scrapi.org/object/116942"
+            },
+            {
+                "href": "http://scrapi.org/object/169681"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R130_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140310130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwf",
+                "rel": "France, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/156851"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/156851"
+        }
+    },
+    "accession number": "2009.300.2066",
+    "credit line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of the executors of the estate of Clara M. Blum in memory of Mr. and Mrs. Albert Blum, 1966",
+    "culture": "French",
+    "date": "late 17th century",
+    "department": "Costume Institute",
+    "description": "A new level of card game mania swept Europe during the 17th century. Gambling with cards or \"gaming\" was a favored pastime for both men and women of all ages and classes. Several examples of luxury gaming purses in the Brooklyn Museum collection reflect the fashion for a specific type of bag in which to hold one's coins or counters won in games like \"Put\" or \"La B\u00eate.\" Made of velvet or brocade, the bags are often heavily embroidered with silver and gold metallic threads. This example has a band of embroidered fleur-de-lis motifs, indication of a French origin. Like other fashionable accessories, the bag served more than just a functional purpose. It conveyed a message about the owner's nationalistic sympathies and allowed even the unlucky to appear stylish at the gaming table.",
+    "dimensions": "2 1/4 x 4 1/4 in. (5.7 x 10.8 cm)",
+    "id": 156851,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/66.9.283_CP4.jpg",
+    "medium": "silk, metal, leather, wood",
+    "title": "Gaming purse",
+    "what": [
+        "Metal",
+        "Costume",
+        "Silk",
+        "Leather",
+        "Bags",
+        "Purses"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "France"
+    ]
+}

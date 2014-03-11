@@ -1,0 +1,145 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/193617"
+            },
+            {
+                "href": "http://scrapi.org/object/204503"
+            },
+            {
+                "href": "http://scrapi.org/object/204857"
+            },
+            {
+                "href": "http://scrapi.org/object/236643"
+            },
+            {
+                "href": "http://scrapi.org/object/236660"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 3, 2014",
+                "href": "/exhibitions/listings/2014/william-morris",
+                "rel": "William Morris"
+            },
+            {
+                "date": "From November 22, 2011",
+                "href": "/exhibitions/listings/2011/faberge",
+                "rel": "Faberg\u00e9 from the Matilda Geddings Gray Foundation Collection"
+            },
+            {
+                "date": "From February 4, 2014",
+                "href": "/exhibitions/listings/2014/french-ceramics",
+                "rel": "Making Pottery Art"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/carpeaux",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "From January 22, 2014",
+                "href": "/exhibitions/listings/2014/antonio-canova",
+                "rel": "Antonio Canova"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R103_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140307131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining-family-individual?eid=R002_%7b2F11F3B2-6834-484B-AE0F-5066D7E783B5%7d_20140308100000",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining-family-individual?eid=A002_%7b2F11F3B2-6834-484B-AE0F-5066D7E783B5%7d_20140107114234",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R104_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140310131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/membership-events/evening-receptions/carpeaux-supporting-reception?eid=A001_%7b60301F85-6473-4C1C-8DAB-5D8B2E9406EE%7d_20140107151713",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R105_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140311131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/membership-events/evening-receptions/carpeaux-sustaining-reception?eid=A001_%7bB97F7097-C940-4FDB-8982-A3EC61BD9084%7d_20140107152519",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/world-enlightened?eid=R002_%7bEC37AED7-F558-4A27-A806-094491540250%7d_20140312101500",
+                "rel": "Cultural Discoveries\u2014Wednesdays with Olivier Bernier: Europe in the Eighteenth Century, A World Enlightened"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/talks/gallery-talks/the-passions-of-jean-baptiste-carpeaux?eid=A003_%7b7437318B-B35F-4C96-BAA4-FF8EDD85D6CA%7d_20140206123059",
+                "rel": "Exhibition Tour\u2014The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R106_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140313131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/clan/hd_clan.htm",
+                "rel": "The Rediscovery of Classical Antiquity"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=eustn",
+                "rel": "Venice and Northern Italy, 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/232146"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/232146"
+        }
+    },
+    "accession number": "2006.453",
+    "credit line": "European Sculpture and Decorative Arts Fund, 2006",
+    "culture": "Italian (Padua)",
+    "date": "ca. 1450",
+    "department": "European Sculpture and Decorative Arts",
+    "description": "In myth, the Greek princess Alcmena gave birth simultaneously to sons by different fathers: Hercules, sired by Jupiter, and Iphicles, begotten of Amphitryon. Jupiter's vengeful wife Juno sent serpents to devour the boys in their cradle. Iphicles' cries of fright alerted Hercules, who grabbed the serpents and squeezed them to death. In this sizable fragment of a terracotta relief, Hercules, a hero even in babyhood, is distinguished by his larger torso and his foot grappling with a single snake at the bottom left. Hercules' head, an arm, and most of one leg are missing, but Iphicles is nearly complete.",
+    "dimensions": "confirmed 20 1/4 \u00d7 23 5/16 \u00d7 4 7/8 in., 48.3 lb. (51.4 \u00d7 59.2 \u00d7 12.4 cm, 21.9 kg)",
+    "gallery-id": 503,
+    "id": 232146,
+    "image": "http://images.metmuseum.org/CRDImages/es/original/DP151338.jpg",
+    "medium": "Terracotta",
+    "provenance": [
+        "Jeanne Marchig , Geneva, by 1989",
+        "Patricia Wengraf Ltd. , London",
+        "[ Property of a Lady (presumably Wengraf), Christie's, London , December 15, 1998, lot 100, bought in ]",
+        "[ Kunsthandel Mehringer (around 2000) ]",
+        "[ Daniel Katz Ltd. (by 2005; sold to MMA) ]"
+    ],
+    "title": "Iphicles Saved from a Serpent by his Brother Hercules",
+    "what": [
+        "Sculpture",
+        "Clay",
+        "Terracotta",
+        "Reliefs"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Italy",
+        "Padua"
+    ]
+}

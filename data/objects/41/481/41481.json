@@ -1,0 +1,183 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/49154"
+            },
+            {
+                "href": "http://scrapi.org/object/65075"
+            },
+            {
+                "href": "http://scrapi.org/object/35972"
+            },
+            {
+                "href": "http://scrapi.org/object/35975"
+            },
+            {
+                "href": "http://scrapi.org/object/49152"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 8, 2014",
+                "href": "/exhibitions/listings/2014/tibet-and-india",
+                "rel": "Tibet and India"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/chinese-carving",
+                "rel": "Colors of the Universe"
+            },
+            {
+                "date": "From July 19, 2013",
+                "href": "/exhibitions/listings/2013/chinese-snuff-bottles",
+                "rel": "Small Delights"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/ink-art",
+                "rel": "Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "From February 1, 2014",
+                "href": "/exhibitions/listings/2014/edo-period-painting",
+                "rel": "The Flowering of Edo Period Painting"
+            },
+            {
+                "date": "From April 14, 2014",
+                "href": "/exhibitions/listings/2014/lost-kingdoms",
+                "rel": "Lost Kingdoms"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/highlights-of-asia?eid=A041_%7b93924202-8616-42E2-8DA1-39A4591F1426%7d_20140122180137",
+                "rel": "Highlights of Asia"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R100_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140303111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R100_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140303131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R101_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140304111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R101_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140304120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R101_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140304131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/talks/gallery-talks/the-flowering-of-edo-period-painting-spring?eid=A001_%7bB9065A06-A3F9-4CAB-8F49-ED3038F1E7A2%7d_20140205171419",
+                "rel": "Exhibition Tour\u2014The Flowering of Edo Period Painting: Japanese Masterworks from the Feinberg Collection"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=A092_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20131018142423",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R102_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140305120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R102_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140305131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/qing_1/hd_qing_1.htm",
+                "rel": "The Qing Dynasty (1644\u20131911): Painting"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/qing_2/hd_qing_2.htm",
+                "rel": "The Qing Dynasty (1644\u20131911): The Traditionalists"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/wang/hd_wang.htm",
+                "rel": "Wang Hui (1632\u20131717)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=nc",
+                "rel": "Central and North Asia, 1600\u20131800 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=eac",
+                "rel": "China, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/41481"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/41481"
+        }
+    },
+    "accession number": "1989.141.4a\u2013rr",
+    "credit line": "Purchase, The Dillon Fund Gift, 1989",
+    "culture": "China",
+    "date": "dated 1674 and 1677",
+    "department": "Asian Art",
+    "description": "Wang Hui painted the first ten leaves of this album at the height of his artistic maturity, as he systematically pursued a creative synthesis of earlier styles through thoughtful study and reinterpretation of ancient paintings. Done at the request of his mentor, Wang Shimin, it is a virtuoso performance meant to show the older painter just what he was capable of.Wang Hui blends startling personal touches into established models: large-scale compositions have been condensed and reshaped, brush idioms have been transformed into small-scale brushstrokes of great liveliness and freshness, and vivid colors have been applied in striking combinations.Wang Shimin was so impressed by Wang Hui's performance that he created his own set of album leaves based on those of his pupil. Only two of Wang Shimin's leaves remain. His interpretation of Li Cheng is closely modeled on Wang Hui's painting, but he was unable to duplicate the younger man's evocation of Zhao Mengfu's intricate \"blue-and-green\" style. Instead, Wang Shimin substituted his version of Zhao Mengfu's sketchy landscape manner.",
+    "dimensions": "Ten paintings by Wang Hui (a\u2013j) 8 5/8 x 13 1/4 in. (22 x 33.8 cm); two paintings by Wang Shimin (k, l): 10 x 13 in. (25.4 x 33 cm)",
+    "id": 41481,
+    "image": "http://images.metmuseum.org/CRDImages/as/original/DP154156_CRD.jpg",
+    "medium": "Album of twelve paintings; ink and color on paper",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/as/original/DP154156_CRD.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP163339.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP163340.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP163341.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP163342.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP154152.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP154153.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP154154.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP154155.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP154156.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP154157.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP154158.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP154159.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP154160.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP154161.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP154162.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP154163.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP154164.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP154165.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP154166.jpg"
+    ],
+    "title": "Landscapes after Ancient Masters",
+    "what": [
+        "Ink",
+        "Paper",
+        "Books",
+        "Paintings",
+        "Albums"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Asia",
+        "China"
+    ],
+    "who": [
+        "Wang Hui",
+        "Wang Shimin"
+    ]
+}

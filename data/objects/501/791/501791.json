@@ -1,0 +1,124 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/504882"
+            },
+            {
+                "href": "http://scrapi.org/object/505126"
+            },
+            {
+                "href": "http://scrapi.org/object/201588"
+            },
+            {
+                "href": "http://scrapi.org/object/201589"
+            },
+            {
+                "href": "http://scrapi.org/object/194164"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/early-guitars",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A001_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203181946",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A002_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203182002",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A004_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203182034",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A006_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20131203182105",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars-festival?eid=A005_%7b16113ED2-F072-45BD-872D-AD938B4ADF80%7d_20140206152942",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A001_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115501",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A002_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115523",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A003_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115537",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A004_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115549",
+                "rel": "Early American Guitars"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/family-programs/how-did-they-do-that/early-american-guitars?eid=A005_%7bE6640DC6-1BA4-49D2-9E52-839BB1FFA42F%7d_20131113115601",
+                "rel": "Early American Guitars"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/501791"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/501791"
+        }
+    },
+    "accession number": "89.4.1224",
+    "credit line": "The Crosby Brown Collection of Musical Instruments, 1889",
+    "date": "early 17th century",
+    "department": "Musical Instruments",
+    "dimensions": [
+        "D. 32.5 cm, W. 70.5 cm, H. 170.0 plus stand (73.0) = 243.0 cm,",
+        "3-octave span  49.9 cm,",
+        "Sounding lengths (plucking points",
+        "C/E       131.8 (11.7)",
+        "c2           29.3 (7.5)",
+        "c3           13.5 (4.8)",
+        "Scaling is not original, has been lengthened, especially in the middle of the compass."
+    ],
+    "id": 501791,
+    "image": "http://images.metmuseum.org/CRDImages/mi/original/MUS1193A.jpg",
+    "medium": "Wood and various materials",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/mi/original/MUS1193A.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/MUS1480B.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/MUS1481B.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/B12357 89.4.1224 (2).jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/B12357 89.4.1224.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/D2268 89.4.1224 open.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/D2268 89.4.1224 closed.jpg",
+        "http://images.metmuseum.org/CRDImages/mi/original/MUS1192A.jpg"
+    ],
+    "title": "Clavicytherium",
+    "what": [
+        "Musical instruments",
+        "Chordophones",
+        "Zithers",
+        "Harpsichords",
+        "Clavicytheria"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Unknown"
+}

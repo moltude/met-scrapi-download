@@ -1,0 +1,110 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/460411"
+            },
+            {
+                "href": "http://scrapi.org/object/460322"
+            },
+            {
+                "href": "http://scrapi.org/object/460481"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R130_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140310134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R131_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140311134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R132_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140312134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R133_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140313134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R134_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140314134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A109_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131126111651",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A115_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131127144444",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=A110_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20131126111706",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/robert-lehman-collection?eid=R145_%7b9DE8E856-39D0-42DB-9F05-B5FFB2C38C1B%7d_20140331134500",
+                "rel": "Robert Lehman Collection: Renaissance to Impressionism"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/talks/gallery-talks/european-sculpture-in-the-robert-lehman-collection?eid=A001_%7b835B4316-D69F-4E38-A76F-839A55CF6946%7d_20140123112008",
+                "rel": "European Sculpture in the Robert Lehman Collection"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/460507"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/460507"
+        }
+    },
+    "accession number": "1975.1.1612a,b",
+    "credit line": "Robert Lehman Collection, 1975",
+    "date": "ca. 1845",
+    "department": "Robert Lehman Collection",
+    "description": "As the model of the cup was in production at Nymphenburg at least from 1825,(1) dating is determined by the decoration. The view is of the Odeonsplatz, Munich, with the Felderrnhalle (built 1840 \u2013 44), a free copy of the fourteenth-century Loggia dei Lanzi in Florence, in the center. At the right is the Theatinerkirche, which was begun in 1663, with the towers completed in 1690. Two other cups and saucers painted with views of Munich have been noted.(2)  Although differing slightly in model and decorative scheme, all appear to be contemporaneous.Catalogue entry from: Clare Le Corbeiller. The Robert Lehman Collection. Decorative Arts, Vol. XV. Wolfram Koeppe, et al. New York: The Metropolitan Museum of Art in association with Princeton University Press, 2012, p. 183.NOTES:1. A cup dated 1825 is in the Bayerisches Nationalmuseum, Munich (Ruckert, Rainer. \u201cWittelsbacher Porzellane.\u201d Kunst & Antiquit\u00e4ten, 1980, no. 2 (March \u2013 April), pp. 24 \u2013 32, fig. 6).2. Sale, Sotheby\u2019s, London, 12 June 1984, lot 84, where mention is made of another in the Palazzo Pitti, Florence.",
+    "gallery-id": 951,
+    "id": 460507,
+    "image": "http://images.metmuseum.org/CRDImages/rl/original/SLP1612b_a.jpg",
+    "medium": "Hard-paste porcelain",
+    "provenance": [
+        "Not established."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/rl/original/SLP1612b_a.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/SLP1612b-bottom.jpg",
+        "http://images.metmuseum.org/CRDImages/rl/original/SLP1612b+a.jpg"
+    ],
+    "title": "Cup (with a view of the Odeonsplatz, Munich) and saucer",
+    "what": [
+        "Ceramics",
+        "Clay",
+        "Faience",
+        "Porcelain",
+        "Dishes",
+        "Drinking vessels",
+        "Cups",
+        "Plates",
+        "Hard paste porcelain",
+        "Saucers"
+    ],
+    "when": "A.D. 1800-1900",
+    "who": "German, Nymphenburg"
+}

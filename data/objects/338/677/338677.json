@@ -1,0 +1,88 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/338678"
+            },
+            {
+                "href": "http://scrapi.org/object/358416"
+            },
+            {
+                "href": "http://scrapi.org/object/365220"
+            },
+            {
+                "href": "http://scrapi.org/object/361911"
+            },
+            {
+                "href": "http://scrapi.org/object/364069"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/338677"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/338677"
+        }
+    },
+    "accession number": "25.24.56",
+    "credit line": "Harris Brisbane Dick Fund, 1925",
+    "date": "1553\u20131615",
+    "department": "Drawings and Prints",
+    "dimensions": [
+        "plate 10 1/16 x 4 3/4 in. (25.6 x 12 cm)",
+        "sheet 10 1/4 x 4 7/8 in. (26 x 12.4 cm)"
+    ],
+    "id": 338677,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP806546.jpg",
+    "medium": "Engraving",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP806546.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/018.2_NEW_R54I.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP227076.jpg"
+    ],
+    "title": "Design for Two Knife Handles",
+    "what": [
+        "Prints",
+        "Engraving"
+    ],
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": [
+        "Francesco Salviati (Francesco de' Rossi)",
+        "Cherubino Alberti (Zaccaria Mattia)"
+    ]
+}

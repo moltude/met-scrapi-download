@@ -1,0 +1,93 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/335315"
+            },
+            {
+                "href": "http://scrapi.org/object/335316"
+            },
+            {
+                "href": "http://scrapi.org/object/411391"
+            },
+            {
+                "href": "http://scrapi.org/object/376877"
+            },
+            {
+                "href": "http://scrapi.org/object/335321"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=eusi",
+                "rel": "Iberian Peninsula, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/335317"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/335317"
+        }
+    },
+    "accession number": "1975.131.204",
+    "credit line": "Bequest of Harry G. Sperling, 1971",
+    "date": "1601\u201367",
+    "department": "Drawings and Prints",
+    "dimensions": "6 x 8 in.  (15.2 x 20.3 cm)",
+    "id": 335317,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP800061.jpg",
+    "medium": "Pen and medium brown ink over traces of black chalk underdrawing on cream paper.  Lightly foxed. Composition outlined with pen and medium brown ink. Lined with a strip of paper showing at bottom",
+    "provenance": [
+        "Frank Hall Standish (Duxbury Hall, Lincolnshire)(until 1841)(according to H.G.S. notation on old mount)",
+        "Louis Philippe, King of France (French, Paris 1773\u20131850 Claremont, Surrey)- Sale, Paris, December 6, 1852(according to H.G.S. notation on old mount)",
+        "Palais des Congr\u00e8s, Versailles- sale March 1, 1970(according to H.G.S. notation on old mount)",
+        "Harry G. Sperling",
+        "Donor: Harry G. Sperling Fund"
+    ],
+    "title": "Three Putti Holding Cross Before Two Male Saints",
+    "what": [
+        "Ink",
+        "Drawings",
+        "Paper",
+        "Chalk",
+        "Underdrawings"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "Spain"
+    ],
+    "who": "Alonso Cano"
+}

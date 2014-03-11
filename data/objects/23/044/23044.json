@@ -1,0 +1,130 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/22380"
+            },
+            {
+                "href": "http://scrapi.org/object/22381"
+            },
+            {
+                "href": "http://scrapi.org/object/23337"
+            },
+            {
+                "href": "http://scrapi.org/object/24860"
+            },
+            {
+                "href": "http://scrapi.org/object/24924"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From October 2, 2012",
+                "href": "/exhibitions/listings/2012/arms-and-armor",
+                "rel": "Bashford Dean and the Creation of the Arms and Armor Department"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A083_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113541",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A074_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112917",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A084_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113556",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A093_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113923",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A075_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112932",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A094_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113938",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 5, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A085_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113610",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161351",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A076_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112951",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 19, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161305",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=08\u00aeion=euwc",
+                "rel": "Central Europe (including Germany), 1400\u20131600 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/23044"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/23044"
+        }
+    },
+    "accession number": "28.100.7",
+    "credit line": "Gift of Prince Albrecht Radziwill, 1928",
+    "culture": "German, Dresden",
+    "date": "dated 1589",
+    "department": "Arms and Armor",
+    "dimensions": [
+        "Caliber, .64 in. (16.26 mm)",
+        "Length, 54 in. (137.16 cm)",
+        "Weight, 11 lb. 11 oz. (5301 g)",
+        "Length of barrel, 40 1/2 in. (102.87 cm)",
+        "Length of plug, 1 1/2 in. (3.81 cm)"
+    ],
+    "gallery-id": 375,
+    "id": 23044,
+    "image": "http://images.metmuseum.org/CRDImages/aa/original/sfrl28.100.7_71240ENL.jpg",
+    "medium": "Steel, brass engraved and gilt, wood inlaid with engraved staghorn",
+    "provenance": [
+        "Ex. coll.:  Armory of the Elector Christian I of Saxony",
+        "Dresden Historical Museum, Saxony."
+    ],
+    "title": "Wheellock Gun Made for the Bodyguard of the Prince-Elector of Saxony",
+    "what": [
+        "Metal",
+        "Engraving",
+        "Copper alloy",
+        "Arms",
+        "Gilt",
+        "Iron and iron alloy",
+        "Iron alloy",
+        "Steel",
+        "Brass",
+        "Firearms",
+        "Artillery"
+    ],
+    "when": "A.D. 1400-1600",
+    "where": [
+        "Europe",
+        "Germany",
+        "Saxony",
+        "Dresden"
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/334173"
+            },
+            {
+                "href": "http://scrapi.org/object/334325"
+            },
+            {
+                "href": "http://scrapi.org/object/334350"
+            },
+            {
+                "href": "http://scrapi.org/object/334257"
+            },
+            {
+                "href": "http://scrapi.org/object/364093"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/stgl/hd_stgl.htm",
+                "rel": "Alfred Stieglitz (1864\u20131946) and His Circle"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/cube/hd_cube.htm",
+                "rel": "Cubism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/fauv/hd_fauv.htm",
+                "rel": "Fauvism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/mati/hd_mati.htm",
+                "rel": "Henri Matisse (1869\u20131954)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/poim/hd_poim.htm",
+                "rel": "Post\u2013Impressionism"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/lafr/hd_lafr.htm",
+                "rel": "The Transformation of Landscape Painting in France"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/pcez/hd_pcez.htm",
+                "rel": "Paul C\u00e9zanne (1839\u20131906)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwf",
+                "rel": "France, 1800\u20131900 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=euwf",
+                "rel": "France, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/334369"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/334369"
+        }
+    },
+    "accession number": "1982.375",
+    "credit line": "Gift of C. Douglas Dillon, 1982",
+    "date": "n.d.",
+    "department": "Drawings and Prints",
+    "dimensions": "Sheet 18 13/16 x 12 5/16 in. (47.8 x 31.2cm)",
+    "id": 334369,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP809512.jpg",
+    "medium": "Watercolor over graphite",
+    "provenance": [
+        "Bernheim-Jeune et Cie, Paris",
+        "W. J. H. van Limburg Stirum, AerdenhoutAccording to Sotheby's",
+        "Wilhelm Weinberg, Scarsdale, NYWeinberg sale, London, Sotheby's, July 10, 1957, no. 16, repr., bought by Stephen Higgens",
+        "Stephen Higgens Sale, NY, Parke-Bernet, October 14, 1965, no. 82, repr.",
+        "C. Douglas Dillon, NY",
+        "Donor: C. Douglas Dillon"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP809512.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DR243.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DT7404.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/1982.375.jpg"
+    ],
+    "title": "Entr\u00e9e de Jardin",
+    "what": [
+        "Drawings",
+        "Watercolors",
+        "Graphite"
+    ],
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Paul C\u00e9zanne"
+}

@@ -1,0 +1,133 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/448279"
+            },
+            {
+                "href": "http://scrapi.org/object/448280"
+            },
+            {
+                "href": "http://scrapi.org/object/449106"
+            },
+            {
+                "href": "http://scrapi.org/object/449107"
+            },
+            {
+                "href": "http://scrapi.org/object/449108"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A232_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134244",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A237_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134557",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/programs-for-visitors-with-disabilities/visitors-who-are-deaf/beauty-and-innovation?eid=A001_%7b77D8F57E-5FC9-4578-8A95-30A43C89CFDD%7d_20140210164006",
+                "rel": "Met Signs Tours in ASL\u2014Beauty and Innovation: Understanding Islamic Art"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A251_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114408",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=07\u00aeion=wai",
+                "rel": "Iran, 1000\u20131400 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/451480"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/451480"
+        }
+    },
+    "accession number": "59.7",
+    "credit line": "Rogers Fund, 1959",
+    "culture": "Islamic",
+    "date": "dated A.H. 733/A.D. 1333",
+    "department": "Islamic Art",
+    "description": "The literary work known as Kalila wa Dimna comprises a series of moralizing tales told through a cast of personified animals, including two jackals, Kalila and Dimna. Sanskrit versions of these tales are known from as early as the fourth century; a popular Persian translation was made in the twelfth century. This folio, from an early fourteenth-century manuscript copied in Shiraz, depicts a scene from the story of the Lion and the Hare, who are shown here looking at their own reflections in a well.",
+    "dimensions": [
+        "Painting H. 4 1/8 in. (10.5 cm)",
+        "W. 7 1/4 in. (18.4 cm)",
+        "Page H. 13 1/4 in. (33.7 cm)",
+        "W. 8 5/8 in. (21.9 cm)",
+        "Mat H. 19 1/4 in. (48.9 cm)",
+        "W. 14 1/4 in. (36.2 cm)"
+    ],
+    "id": 451480,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/sf59-7r.jpg",
+    "medium": "Opaque watercolor and gold on paper",
+    "provenance": [
+        "Claude Anet, Paris (in 1912)",
+        "[ Alphonse Kann, Paris, in 1938]",
+        "Jacob Hirsch, New York",
+        "his estate (until 1959; sold to MMA)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/sf59-7r.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/169108.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/sf59-7v.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/176576.jpg"
+    ],
+    "title": "\"Fable of the Lion and the Hare\", Folio from a Kalila va Dimna",
+    "what": [
+        "Paper",
+        "Watercolors",
+        "Manuscripts",
+        "Codices",
+        "Folios",
+        "Illuminated manuscripts"
+    ],
+    "when": "A.D. 1000-1400",
+    "where": [
+        "Asia",
+        "Iran",
+        "Shiraz"
+    ]
+}

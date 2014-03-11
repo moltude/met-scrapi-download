@@ -1,0 +1,160 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/275920"
+            },
+            {
+                "href": "http://scrapi.org/object/275921"
+            },
+            {
+                "href": "http://scrapi.org/object/275922"
+            },
+            {
+                "href": "http://scrapi.org/object/275923"
+            },
+            {
+                "href": "http://scrapi.org/object/275945"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/edph/hd_edph.htm",
+                "rel": "Early Documentary Photography"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/kodk/hd_kodk.htm",
+                "rel": "Kodak and the Rise of Amateur Photography"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/evan/hd_evan.htm",
+                "rel": "Walker Evans (1903\u20131975)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=na",
+                "rel": "The United States and Canada, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/281885"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/281885"
+        }
+    },
+    "accession number": "1994.252.28.1-54",
+    "credit line": "Walker Evans Archive, 1994",
+    "date": "1956\u201358",
+    "department": "Photographs",
+    "dimensions": "2 1/4 x 2 1/4 in.",
+    "id": 281885,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP53655.jpg",
+    "medium": "Film negative",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53655.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53666.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53677.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53688.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53699.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53705.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53706.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53707.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53708.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53656.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53657.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53658.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53659.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53660.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53661.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53662.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53663.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53664.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53665.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53667.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53668.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53669.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53670.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53671.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53672.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53673.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53674.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53675.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53676.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53678.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53679.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53680.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53681.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53682.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53683.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53684.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53685.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53686.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53687.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53689.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53690.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53691.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53692.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53693.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53694.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53695.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53696.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53697.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53698.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53700.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53701.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53702.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53703.jpg",
+        "http://images.metmuseum.org/CRDImages/ph/original/DP53704.jpg"
+    ],
+    "title": "[54 Studies of La Liberte Ocean Liner Architecture Related to Architectural Forum Portfolio \"Ship Shapes and Shadows\", Published October 1958]",
+    "what": [
+        "Photographs",
+        "Negatives",
+        "Film"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "Walker Evans"
+}

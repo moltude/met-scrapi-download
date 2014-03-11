@@ -1,0 +1,125 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/312531"
+            },
+            {
+                "href": "http://scrapi.org/object/311067"
+            },
+            {
+                "href": "http://scrapi.org/object/316792"
+            },
+            {
+                "href": "http://scrapi.org/object/316335"
+            },
+            {
+                "href": "http://scrapi.org/object/316336"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From September 16, 2013",
+                "href": "/exhibitions/listings/2013/feathered-walls",
+                "rel": "Feathered Walls"
+            },
+            {
+                "date": "From October 8, 2013",
+                "href": "/exhibitions/listings/2013/nelson-rockefeller",
+                "rel": "The Nelson A. Rockefeller Vision"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R105_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140311130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R106_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140312130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R107_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140313130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 18, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/shaping-the-african-art-canon?eid=A001_%7b447041C4-D9E7-43A9-AE5F-85BAEB6E7196%7d_20140214113010",
+                "rel": "Shaping the African Art Canon: From the Museum to the Classroom"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/talks/the-observant-eye/shared-memory-sculptural-ancestral-objects-from-oceania?eid=A001_%7b94768B86-339F-4726-A3BC-8F798C423768%7d_20140123143856",
+                "rel": "Shared Memory: Sculptural Ancestral Objects from Oceania"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=A116_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140210093151",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/talks/gallery-talks/ancient-american-sculpture?eid=A002_%7b7A6AA394-9359-47C1-87B4-65B0894C01AB%7d_20140123114700",
+                "rel": "Ancient American Sculpture"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R117_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140401130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R118_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140402130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/314578"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/314578"
+        }
+    },
+    "accession number": "1982.485.15",
+    "credit line": "The Bryce Holcombe Collection of African Decorative Art, Gift of Bryce Holcombe, 1982",
+    "culture": "Zulu or Nguni peoples",
+    "date": "19th\u201320th century",
+    "department": "Arts of Africa, Oceania and the Americas",
+    "description": "Southern African sculptors created skillfully designed and executed functional artifacts used in everyday life. The role of the walking stick in Zulu society was so ubiquitous that there are more than seventy-five terms for different types of sticks. In that highly stratified society, they were carried by commoners and high-ranking officials alike for walking, dancing, hunting, and combat. The refinement and creative embellishment of this example indicate that it was a prestige object intended for elderly men and women. It is carved from a single piece of wood, and its finial takes the form of a series of openwork triangles. The shaft is embellished through subtly inventive variations of textures and colors. Some segments of the wood surface are decorated with graphic motifs alternating with passages of delicately applied brass and iron wire work. The metal wires contrast against the rich, lustrous, dark patina of the wood, the result of extensive handling and the application of animal fats.",
+    "dimensions": "H. 46 x W. 4 1/8 in. (116.8 x 10.5 cm)",
+    "gallery-id": 352,
+    "id": 314578,
+    "image": "http://images.metmuseum.org/CRDImages/ao/original/DP221535.jpg",
+    "medium": "Wood, brass and iron wire",
+    "provenance": [
+        "Bryce P. Holcombe, New York, until 1982"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ao/original/DP221535.jpg",
+        "http://images.metmuseum.org/CRDImages/ao/original/DP227319.jpg"
+    ],
+    "title": "Staff",
+    "what": [
+        "Metal",
+        "Sculpture",
+        "Copper alloy",
+        "Wood",
+        "Iron and iron alloy",
+        "Iron",
+        "Brass",
+        "Staffs"
+    ],
+    "where": [
+        "Africa"
+    ],
+    "who": [
+        "Nguni",
+        "Zulu"
+    ]
+}

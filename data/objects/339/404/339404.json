@@ -1,0 +1,131 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/339197"
+            },
+            {
+                "href": "http://scrapi.org/object/339350"
+            },
+            {
+                "href": "http://scrapi.org/object/339352"
+            },
+            {
+                "href": "http://scrapi.org/object/339353"
+            },
+            {
+                "href": "http://scrapi.org/object/339357"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/goya/hd_goya.htm",
+                "rel": "Francisco de Goya (1746\u20131828) and the Spanish Enlightenment"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/tiep/hd_tiep.htm",
+                "rel": "Giovanni Battista Tiepolo (1696\u20131770)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/lovr/hd_lovr.htm",
+                "rel": "Lovers in Italian Mythological Prints"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/poet/hd_poet.htm",
+                "rel": "Poets in Italian Mythological Prints"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/mypr/hd_mypr.htm",
+                "rel": "Poets, Lovers, and Heroes in Italian Mythological Prints"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/venc/hd_venc.htm",
+                "rel": "Venice in the Eighteenth Century"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/grtr/hd_grtr.htm",
+                "rel": "The Grand Tour"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/339404"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/339404"
+        }
+    },
+    "accession number": "1975.131.52",
+    "credit line": "Bequest of Harry G. Sperling, 1971",
+    "date": "1696\u20131770",
+    "department": "Drawings and Prints",
+    "dimensions": "9-7/16 x 5-13/16 in.  (23.9 x 14.7 cm)",
+    "id": 339404,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP811975.jpg",
+    "medium": "Pen and dark brown ink, brush and brown wash, over black chalk",
+    "provenance": [
+        "Somasco Convent, Santa Maria della Salute (Italy, Venice)(presented by the artist)(according to accession card)",
+        "Conte Leopoldo Cicognara(according to accession card)",
+        "Canova(according to accession card)",
+        "Monsignor Canova(according to accession card)",
+        "Francesco Pesaro (Italian)(according to accession card)",
+        "Edward Cheney (British), London (according to accession card)",
+        "Sotheby's, London, April 29, 1885, no. 1042",
+        "Parsons (London)(according to accession card)",
+        "Dan Fellows Platt (American, 1873\u20131938 Englewood, New Jersey)",
+        "F. Kleinberger Galleries, 1940 (according to accession card)",
+        "Harry G. Sperling"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP811975.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/1975.131.52.jpg"
+    ],
+    "title": "Standing Man in a Turban, Holding a Sword",
+    "what": [
+        "Ink",
+        "Drawings",
+        "Chalk"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "Italy"
+    ],
+    "who": "Giovanni Battista Tiepolo"
+}

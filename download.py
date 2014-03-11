@@ -3,6 +3,8 @@ import json
 import urllib2
 import os
 import urllib
+import logging
+
 
 # Takes an object specific url and gets the JSON then stores the json locally in 
 # /data//objects/XXX/XXX/XXXXX.json (zero padded) id dir structure
@@ -18,14 +20,14 @@ def get_object(url):
 		try:
 			obj_resp = mechanize.urlopen(url)	
 			nomnom = json.load(obj_resp)
-		except urllib2.HTTPError, e:
-			print '404 error on ' + url
+		except (urllib2.URLError, urllib2.HTTPError) as e:
+			logging.warning('Unable to fetch object...' + url)
 			return
 
 	try: 
 		obj_id=nomnom['id']
 	except KeyError:
-		print '*** ERROR NO ID PRESENT *** ' + url
+		logging.error('No ID present in object record...' + url)
 		return
 
 	# calculate folder to store
@@ -55,8 +57,13 @@ def get_object(url):
 
 # Will load every page from scrapi. 
 # Should then download the json for each object and store it locally
+
+# Setup logging 
+logging.basicConfig(filename='./logs/scrapi.log', filemode='w', level=logging.INFO)
+
 url = "http://scrapi.org/ids?page=1"
 last_page=''
+
 while last_page != url:
 	try:
 		response = mechanize.urlopen(url)
@@ -64,11 +71,19 @@ while last_page != url:
 		url = nomnom['_links']['next']['href']
 		last_page = nomnom['_links']['last']['href']
 		
-		print url
+		logging.info('Fetching page...' + url)
+
 		# get each object
 		objects = nomnom['collection']['items']
 		for o in objects:
 			get_object(o['href'])
 
-	except urllib2.HTTPError, e:
-		print '404 on ' + url
+	except (urllib2.URLError,urllib2.HTTPError) as e:
+		logging.warning('Unable to fetch page (likely 404)...' + url)
+		# log.write('404 on url\n')
+		
+		
+
+
+
+

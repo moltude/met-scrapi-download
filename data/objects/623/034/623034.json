@@ -1,0 +1,101 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/266904"
+            },
+            {
+                "href": "http://scrapi.org/object/307063"
+            },
+            {
+                "href": "http://scrapi.org/object/302241"
+            },
+            {
+                "href": "http://scrapi.org/object/305829"
+            },
+            {
+                "href": "http://scrapi.org/object/623038"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwf",
+                "rel": "France, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/623034"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/623034"
+        }
+    },
+    "accession number": "2013.173.9",
+    "credit line": "Purchase, The Buddy Taub Foundation Gift, Dennis A. Roach and Jill Roach, Directors; Harris Brisbane Dick and William E. Dodge Funds; W. Bruce and Delaney H. Lundberg Gift, 2013",
+    "date": "1854\u201356, printed 1862",
+    "department": "Photographs",
+    "dimensions": [
+        "Image (Oval) 28.5 \u00d7 20.4 cm (11 1/4 \u00d7 8 1/16 in.)",
+        "Sheet 29.9 \u00d7 21.9 cm (11 3/4 \u00d7 8 5/8 in.)",
+        "Mount 40.2 \u00d7 28.4 cm (15 13/16 \u00d7 11 3/16 in.)"
+    ],
+    "id": 623034,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/DP304491.jpg",
+    "medium": "Albumen silver print from glass negative",
+    "provenance": [
+        "[...] Charles Lennox Wright II",
+        "[...]",
+        "[Unidentified antique dealer, New York]",
+        "[Vintage Works, Ltd., Chalfont, PA, 2010 and 2011]"
+    ],
+    "title": "Figure 16: Expression of severity \r\n",
+    "what": [
+        "Photographs",
+        "Albumen silver prints"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": [
+        "Adrien Tournachon",
+        "Guillaume-Benjamin-Armand Duchenne de Boulogne"
+    ]
+}

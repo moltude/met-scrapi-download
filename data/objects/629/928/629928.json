@@ -1,0 +1,134 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/436292"
+            },
+            {
+                "href": "http://scrapi.org/object/436293"
+            },
+            {
+                "href": "http://scrapi.org/object/436294"
+            },
+            {
+                "href": "http://scrapi.org/object/436295"
+            },
+            {
+                "href": "http://scrapi.org/object/437995"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From January 14, 2014",
+                "href": "/exhibitions/listings/2014/piero-della-francesca",
+                "rel": "Piero della Francesca"
+            },
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "From April 22, 2014",
+                "href": "/exhibitions/listings/2014/goya",
+                "rel": "Goya and the Altamira Family"
+            },
+            {
+                "date": "March 7, 2014",
+                "href": "/events/programs/talks/the-observant-eye/stepping-out-of-the-frame?eid=A001_%7b438572AD-6B0F-4DA2-94FB-49B8931634C1%7d_20140123142901",
+                "rel": "Stepping Out of the Frame: Three-Dimensionality in the New Galleries for European Paintings"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/saturday-seminar-spring-2014?eid=R001_%7bE063A39F-FC40-4ECC-B690-C4C13F70B2A0%7d_20140308103000",
+                "rel": "Saturday Seminar with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=A261_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20131127123052",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/talks/gallery-talks/piero-della-francesca?eid=A002_%7bE50FD455-5FC1-41D0-9391-C456264363EF%7d_20140206160641",
+                "rel": "Exhibition Tour\u2014Piero della Francesca: Personal Encounters"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/monuments-men?eid=A001_%7b494A84BE-8369-4A52-BA2A-DDF2B46C9D37%7d_20140124121143",
+                "rel": "Monuments Men: Fact and Fiction"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/monday-at-the-met-spring-2014?eid=R002_%7bBB2BF277-3666-435E-8B95-12CDE21533EA%7d_20140310100000",
+                "rel": "Monday at the Met with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R104_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140310123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R105_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140311123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/old-master-paintings?eid=R106_%7b9BD83C09-D51A-462C-8BB4-633B3AFBD44B%7d_20140312123000",
+                "rel": "Old Master Paintings"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/impressionism-and-post-impressionism-japanese?eid=R027_%7b86A83152-CFDA-4D0B-A00E-B006B461059E%7d_20140313140000",
+                "rel": "\u5370\u8c61\u6d3e\uff0f\u5f8c\u671f\u5370\u8c61\u6d3e\u30c4\u30a2\u30fc (Impressionism and Post-Impressionism in Japanese)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwf",
+                "rel": "France, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/629928"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/629928"
+        }
+    },
+    "accession number": "2013.636",
+    "credit line": "Gift of Susan S. Dillon, 2013",
+    "date": "1883",
+    "department": "European Paintings",
+    "dimensions": "11 \u00d7 13 1/2 in. (27.9 \u00d7 34.3 cm)",
+    "id": 629928,
+    "image": "http://images.metmuseum.org/CRDImages/ep/original/Fantin Pens\u00e9es sans Vase.jpg",
+    "medium": "Oil on canvas",
+    "provenance": [
+        "H. M. Budgett (until at least 1923; sale, Christie's, London, April 6, 1923, no. 66, bought in)",
+        "Wilfred Harvey, London",
+        "Mr. and Mrs. Theodore S. Gary (in 1966)",
+        "Mrs. Patricia Gary, New York (until 1972; sold in July to Acquavella)",
+        "[Acquavella Galleries, New York, 1972",
+        "sold on September 8 to Dillon]",
+        "Mr. and Mrs. Douglas Dillon, New York (1972\u2013his d. 2003)",
+        "Mrs. C. Douglas Dillon, New York (2003\u201313)"
+    ],
+    "title": "Potted Pansies",
+    "what": [
+        "Paintings",
+        "Canvas",
+        "Oil paint"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Henri Fantin-Latour"
+}

@@ -1,0 +1,108 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/141538"
+            },
+            {
+                "href": "http://scrapi.org/object/141539"
+            },
+            {
+                "href": "http://scrapi.org/object/90217"
+            },
+            {
+                "href": "http://scrapi.org/object/90218"
+            },
+            {
+                "href": "http://scrapi.org/object/141542"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 8, 2014",
+                "href": "/exhibitions/listings/2014/charles-james",
+                "rel": "Charles James: Beyond Fashion"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R130_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140310130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R131_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140311130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R132_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140312130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R133_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140313130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R134_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140314130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R145_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140331130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 1, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R146_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140401130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R147_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140402130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R148_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140403130000",
+                "rel": "Fashion in Art"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/tours/fashion-in-art?eid=R149_%7b84F1FA41-DCF8-456F-B475-64003655E84E%7d_20140404130000",
+                "rel": "Fashion in Art"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/141535"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/141535"
+        }
+    },
+    "accession number": "2008.190.82",
+    "credit line": "Gift of Muriel Kallis Newman, 2008",
+    "culture": "African (Maasai peoples)",
+    "date": "early 20th century",
+    "department": "Costume Institute",
+    "description": "This collection of largely ethnographic jewelry includes examples from cultures in South America, North America, Europe, Asia, and Africa and dates from the Pre-Columbian period to the twentieth century. Owned by renowned art collector and fashion enthusiast Muriel Kallis Newman, the collection represents her knowledge and appreciation of a wide range of jewelry design and making traditions.  Numerous items in her collection are composite artifacts made from various cultures and time periods reappropriated as modern jewelry creations by or for Muriel.  It is important to note that Newman wore many of the pieces in the collection, interpreting them to suit and express her own singular, often avant-garde style.",
+    "dimensions": "Length 10 x 5 x 3 3/4 in. (25.4 x 12.7 x 9.5 cm)",
+    "id": 141535,
+    "image": "http://images.metmuseum.org/CRDImages/ci/original/2008.190.82_F.jpg",
+    "medium": "metal, leather, glass, wood, cotton",
+    "title": "Bracelet",
+    "what": [
+        "Metal",
+        "Costume",
+        "Glass",
+        "Cotton",
+        "Jewelry",
+        "Leather",
+        "Bracelets"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Africa"
+    ]
+}

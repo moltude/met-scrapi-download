@@ -1,0 +1,110 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/34019"
+            },
+            {
+                "href": "http://scrapi.org/object/35655"
+            },
+            {
+                "href": "http://scrapi.org/object/21987"
+            },
+            {
+                "href": "http://scrapi.org/object/21967"
+            },
+            {
+                "href": "http://scrapi.org/object/32699"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From October 2, 2012",
+                "href": "/exhibitions/listings/2012/arms-and-armor",
+                "rel": "Bashford Dean and the Creation of the Arms and Armor Department"
+            },
+            {
+                "date": "March 15, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A074_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112917",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A084_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113556",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 23, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A093_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113923",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 29, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A075_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112932",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A094_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113938",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 5, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A085_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113610",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161351",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 12, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A076_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126112951",
+                "rel": "Arms and Armor"
+            },
+            {
+                "date": "April 19, 2014",
+                "href": "/events/programs/art-making-programs/studio-workshops/metal-working-armor-inspired?eid=A002_%7bD4D82B5D-B826-4415-8C88-3C64B7AECB22%7d_20140109161305",
+                "rel": "Metal Working: Armor-Inspired Jewelry and Sculpture"
+            },
+            {
+                "date": "April 26, 2014",
+                "href": "/events/programs/tours/arms-and-armor?eid=A086_%7bED560830-C78D-4979-8EDE-EEC11BA7BE61%7d_20131126113630",
+                "rel": "Arms and Armor"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/35155"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/35155"
+        }
+    },
+    "accession number": "2009.224",
+    "credit line": "Purchase, Arthur Ochs Sulzberger Gift, 2009",
+    "culture": "Italian",
+    "date": "ca. 1580\u201385",
+    "department": "Arms and Armor",
+    "description": "Guidobaldo II della Rovere (1514\u20131574) was a professional soldier, ruler of the duchy of Urbino, and an important patron of armor. This portrait includes his batons of command and portions of the embossed armor made by Filippo Negroli of Milan. The right shoulder defense belonging to the same armor, one of the finest made and most imaginatively designed Renaissance parade armors in the all'antica (antique) style, is also in the Metropolitan Museum's collection (acc. no. 14.25.714i).",
+    "dimensions": "5 1/2 x 4 in. (14 x 10.2 cm); frame 7 1/8 x 4 7/8 in. (18.1 x 12.5 cm)",
+    "gallery-id": 374,
+    "id": 35155,
+    "image": "http://images.metmuseum.org/CRDImages/aa/original/DP229840.jpg",
+    "medium": "Oil on copper",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/aa/original/DP229840.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/DP237008.jpg"
+    ],
+    "title": "Guidobaldo II della Rovere, Duke of Urbino (1514\u20131574)",
+    "what": [
+        "Metal",
+        "Paintings",
+        "Copper",
+        "Oil"
+    ],
+    "where": [
+        "Europe",
+        "Italy"
+    ]
+}

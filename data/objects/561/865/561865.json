@@ -1,0 +1,111 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/543868"
+            },
+            {
+                "href": "http://scrapi.org/object/543959"
+            },
+            {
+                "href": "http://scrapi.org/object/543960"
+            },
+            {
+                "href": "http://scrapi.org/object/544782"
+            },
+            {
+                "href": "http://scrapi.org/object/544125"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/teen-programs/saturday-sketching/saturday-sketching-egyptian-art?eid=A001_%7b8698F79D-A7E0-44F1-99CF-57C8A2E2471A%7d_20131211143556",
+                "rel": "Saturday Sketching\u2014Egyptian Art (Ages 11\u201318)"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A151_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113641",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R130_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140310140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=03\u00aeion=afe",
+                "rel": "Egypt, 2000\u20131000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/561865"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/561865"
+        }
+    },
+    "accession number": "27.3.118",
+    "credit line": "Rogers Fund, 1927",
+    "date": "ca. 1961\u20131917 B.C.",
+    "department": "Egyptian Art",
+    "description": "This folded piece of linen was found in a mass grave of at least fifty-nine soldiers. The bodies showed evidence of violence, and from their wounds it was apparent that they died on the battlefield. Buried with the individuals were small pieces of military equipment such as bows and arrows. The excavator believed that these \"slain soldiers\" were connected with a specific historic event that lead to the reunification of Egypt under Mentuhotep II, but a reevaluation of the evidence does not support this theory. On the corners of the linen sheets were inscriptions, some with the names that were popular only later, in early Dynasty 12. The paleography of the inscriptions and the type of wrist guard found with the soldiers also point to a date early in the 12th dynasty, which can perhaps be narrowed down to the reign of Senwosret I (the second king of Dynasty 12). The hieratic inscription on this piece reads \"Sobekhotep, son of Imeny, son of Sobekhotep\" and is written in red ink.",
+    "dimensions": "Folded 25.5 x 17.5 cm (10 1/16 x 6 7/8 in.)",
+    "gallery-id": 106,
+    "id": 561865,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/27.3.118_EGDP011771.jpg",
+    "medium": "Linen",
+    "provenance": [
+        "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art, 1926\u20131927. Acquired by the Museum in the division of finds, 1927."
+    ],
+    "title": "Folded Piece of Linen with Hieratic Inscription",
+    "what": "Linen",
+    "when": "2000-1000 B.C.",
+    "where": [
+        "Africa",
+        "Egypt",
+        "Upper Egypt",
+        "Thebes"
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/249369"
+            },
+            {
+                "href": "http://scrapi.org/object/249392"
+            },
+            {
+                "href": "http://scrapi.org/object/249393"
+            },
+            {
+                "href": "http://scrapi.org/object/249394"
+            },
+            {
+                "href": "http://scrapi.org/object/249559"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R104_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140310123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R105_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140311123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R106_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140313123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R027_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140313130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R107_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140314123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/conversations-with-curators-and-conservators/terracotta-column-krater?eid=A001_%7b1CC4797D-7295-4614-9ACD-19C00BA693F4%7d_20140204162630",
+                "rel": "Conversation with a Curator\u2014Terracotta Column-Krater"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A144_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142257",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A145_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142312",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R116_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140331123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=05\u00aeion=eust",
+                "rel": "Italian Peninsula, 1\u2013500A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/239871"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/239871"
+        }
+    },
+    "accession number": "74.51.286",
+    "credit line": "The Cesnola Collection, Purchased by subscription, 1874\u201376",
+    "culture": "Roman",
+    "date": "ca. 2nd half of 1st century A.D.",
+    "department": "Greek and Roman Art",
+    "description": "Translucent blue green; applied trail in same color.Projecting oval nozzle with wick hole; circular body with sloping, slightly concave shoulder, separated from the discus by a single groove; plain discus, deeply pressed in at center; raised outer flange below shoulder, then sides curving in to rounded base with deeply pressed-in center; integral projecting oval boss at rear, opposite nozzle, to which a solid, thick trail has been applied to form a handle.Broken and repaired, with part of discus missing and weathered breaks on nozzle and handle; many bubbles; slight dulling and iridescence, with patches of thick, yellow limy weathering, especially at front of body and on nozzle, and smaller areas of soil encrustation. No filler hole visible but must have been located towards rear of discus behind the central point where the discus and bottom have been pressed together.Most Roman oil lamps were made of terracotta or bronze. Glass examples are relatively rare; this one is particularly interesting because it copies the shape of mold-made terracotta lamps fairly closely\u2014even down to the decoration on the nozzle.",
+    "dimensions": [
+        "Overall 1 1/2in. (3.8cm)",
+        "Other 4 3/8in. (11.2cm)"
+    ],
+    "gallery-id": 171,
+    "id": 239871,
+    "image": "http://images.metmuseum.org/CRDImages/gr/original/DP141533.jpg",
+    "medium": "Glass; blown in a closed mold",
+    "provenance": [
+        "From Cyprus"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/gr/original/DP141533.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP146002.jpg"
+    ],
+    "title": "Glass oil lamp",
+    "what": [
+        "Glass",
+        "Lighting devices",
+        "Lamps"
+    ],
+    "when": "A.D. 1-500",
+    "where": [
+        "Roman Empire"
+    ]
+}

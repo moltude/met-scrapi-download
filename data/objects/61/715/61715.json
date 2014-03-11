@@ -1,0 +1,140 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/54678"
+            },
+            {
+                "href": "http://scrapi.org/object/61719"
+            },
+            {
+                "href": "http://scrapi.org/object/61720"
+            },
+            {
+                "href": "http://scrapi.org/object/61706"
+            },
+            {
+                "href": "http://scrapi.org/object/61708"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 8, 2014",
+                "href": "/exhibitions/listings/2014/tibet-and-india",
+                "rel": "Tibet and India"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/chinese-carving",
+                "rel": "Colors of the Universe"
+            },
+            {
+                "date": "From July 19, 2013",
+                "href": "/exhibitions/listings/2013/chinese-snuff-bottles",
+                "rel": "Small Delights"
+            },
+            {
+                "date": "From December 11, 2013",
+                "href": "/exhibitions/listings/2013/ink-art",
+                "rel": "Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "From February 1, 2014",
+                "href": "/exhibitions/listings/2014/edo-period-painting",
+                "rel": "The Flowering of Edo Period Painting"
+            },
+            {
+                "date": "From April 14, 2014",
+                "href": "/exhibitions/listings/2014/lost-kingdoms",
+                "rel": "Lost Kingdoms"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/talks/gallery-talks/chinese-buddhist-sculpture?eid=A001_%7b539805A7-4AAC-4214-A063-93083E921332%7d_20140123142801",
+                "rel": "Chinese Buddhist Sculpture"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R104_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140310111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R104_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140310131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=R105_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20140311111500",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R105_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140311120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R105_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140311131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/talks/gallery-talks/gallery-conv-culture-and-politics?eid=A001_%7b33996DD5-3C4F-473B-BCAE-533DF0BF66F1%7d_20140205160349",
+                "rel": "Gallery Conversation\u2014Culture and Politics in Ink Art: Past as Present in Contemporary China"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/hindu-buddhist-vision?eid=A093_%7b8E55439A-2E4A-4D4C-BB1F-6E65214B9CEF%7d_20131018142432",
+                "rel": "Hindu and Buddhist Vision in Indian and Southeast Asian Art"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-china?eid=R106_%7bBD6DC2CB-47FF-4108-ABCC-8441E84156DB%7d_20140312120000",
+                "rel": "Arts of China"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-japan?eid=R106_%7bAD0141EB-9EBA-4409-AA3B-03E5CDE995F7%7d_20140312131500",
+                "rel": "Arts of Japan"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=07\u00aeion=ssh",
+                "rel": "Himalayan Region, 1000\u20131400 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/61715"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/61715"
+        }
+    },
+    "accession number": "2000.282.11",
+    "credit line": "Rogers Fund, 2000",
+    "culture": "Tibet",
+    "date": "late 13th century\u2013mid-14th century",
+    "department": "Asian Art",
+    "description": "These small paintings form part of a set that was used during Buddhist initiation ceremonies in Tibet. Each has a letter on the back indicating the correct sequence in which the cards were to be arranged and used. The central group forms a meditation mandala dedicated to Vajrasattva, the sixth and ultimate Buddha. He is accompanied by the five tathagatas, or celestial Buddhas, and has four lokapalas (gate keepers, guardians of the directions). All the deities of the mandala are associated with Bodhisattva Samantabhadra, a form of Lokesvara, and his consort, Samantabhadri, who appear on individual cards. The set probably was made for the Nyingma (Elder) school of Tibetan Buddhism. Uncharacteristically for tsakalis, the cards are painted in the Nepalese style and are thus likely by a Newar artist employed at a monastery in south-central Tibet.",
+    "dimensions": "Each 6 1/4 x 5 3/4 in. (16 x 14.5 cm)",
+    "id": 61715,
+    "image": "http://images.metmuseum.org/CRDImages/as/original/DP165038.jpg",
+    "medium": "Opaque watercolor on paper",
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/as/original/DP165038.jpg",
+        "http://images.metmuseum.org/CRDImages/as/original/DP165039.jpg"
+    ],
+    "title": "Initiation Card (Tsakalis): Nirvana Vishkambhin",
+    "what": [
+        "Paper",
+        "Paintings",
+        "Watercolors"
+    ],
+    "when": "A.D. 1000-1400",
+    "where": [
+        "Asia",
+        "China",
+        "Tibet"
+    ]
+}

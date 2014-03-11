@@ -1,0 +1,123 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/545997"
+            },
+            {
+                "href": "http://scrapi.org/object/546051"
+            },
+            {
+                "href": "http://scrapi.org/object/558345"
+            },
+            {
+                "href": "http://scrapi.org/object/548284"
+            },
+            {
+                "href": "http://scrapi.org/object/548421"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/teen-programs/saturday-sketching/saturday-sketching-egyptian-art?eid=A001_%7b8698F79D-A7E0-44F1-99CF-57C8A2E2471A%7d_20131211143556",
+                "rel": "Saturday Sketching\u2014Egyptian Art (Ages 11\u201318)"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A151_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113641",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R130_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140310140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=04\u00aeion=afe",
+                "rel": "Egypt, 1000 B.C.\u20131 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/587591"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/587591"
+        }
+    },
+    "accession number": "2008.353",
+    "credit line": "Purchase, Liana Weindling Gift, in memory of her mother, 2008",
+    "date": "ca. 700 B.C.",
+    "department": "Egyptian Art",
+    "description": "Images of gods were carried out of temples on festival days on processional bark-shrines. Most often the image itself was concealed in a shrine, but sculpted heads at the prow and stern identified the god to the populace, royal statuary surrounded and protected the god hidden in the shrine, and other protective gods rode at the prow. This large female head was gilded and inlaid and originally wore the double crown of Amun's consort, Mut, as well as the double uraeus that was a hallmark of queenlike goddesses. Judging from the arrangement of the long front locks of her wig, this sculpture would have appeared at the prow of Mut's barque-shrine; if it had been intended for the stern, the hair would have projected forward, allowing it to fit along the horizontal surface of the barque in front of the goddess' head.",
+    "dimensions": "H. 17.5 cm (6 7/8 in); H. of face (forehead to chin) 5.2 cm (2 in); H. of modius 3.5 cm (1 3/8 in); depth 14 cm total (5 1/2 in) including 2.5 cm (1 in) of perpendicular attachment element extending beyond headdress",
+    "gallery-id": 125,
+    "id": 587591,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/DP206149.jpg",
+    "medium": "cupreous alloy, gold leaf, formerly inlaid",
+    "provenance": [
+        "Collection of Gustav Posno, Cairo and Paris before 1874 and in 1883 sale catalog",
+        "collection of Jean Henri Hoffmann, Paris, by 1894",
+        "sold by Marianne Maspero, Paris, to Ben Harer, San Bernadino, 1992",
+        "sold by Harer Family Trust at Christie's, New York, December 2005. Purchased by the Museum from Dr. Robert Bigler, Zurich, Switzerland."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/eg/original/DP206149.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/DP207431.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/DP206150.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/DP207430.jpg"
+    ],
+    "title": "Head of a goddess, probably Mut, for attachment to a processional barque (?)",
+    "what": [
+        "Metal",
+        "Gold",
+        "Gold leaf",
+        "Protomai"
+    ],
+    "when": "1000 B.C.-A.D. 1",
+    "where": [
+        "Africa",
+        "Egypt"
+    ]
+}

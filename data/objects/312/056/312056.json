@@ -1,0 +1,130 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/319577"
+            },
+            {
+                "href": "http://scrapi.org/object/312007"
+            },
+            {
+                "href": "http://scrapi.org/object/312009"
+            },
+            {
+                "href": "http://scrapi.org/object/312013"
+            },
+            {
+                "href": "http://scrapi.org/object/312016"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From September 16, 2013",
+                "href": "/exhibitions/listings/2013/feathered-walls",
+                "rel": "Feathered Walls"
+            },
+            {
+                "date": "From October 8, 2013",
+                "href": "/exhibitions/listings/2013/nelson-rockefeller",
+                "rel": "The Nelson A. Rockefeller Vision"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/membership-events/free-members-lectures/pacific-visions?eid=A001_%7bDD2D2149-BE6D-4455-8B16-C725FDD6575D%7d_20131216141436",
+                "rel": "Pacific Visions: Oceanic Art at The Metropolitan Museum of Art"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/religious-sculpture-in-african-art?eid=A001_%7b030B1913-65E5-44B2-8883-94291B39AA1E%7d_20140123161741",
+                "rel": "Religious Sculpture in African Art"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R101_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140304130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/membership-events/free-members-lectures/pacific-visions?eid=A002_%7bDD2D2149-BE6D-4455-8B16-C725FDD6575D%7d_20131216141516",
+                "rel": "Pacific Visions: Oceanic Art at The Metropolitan Museum of Art"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R102_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140305130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/talks/gallery-talks/carving-the-divine?eid=A001_%7bB2441E1C-D104-4E44-8D85-BBABF91CD84C%7d_20140123135743",
+                "rel": "Carving the Divine: The Sculpture of Oceania"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R103_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140306130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=A115_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140210093011",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/talks/gallery-talks/ancient-american-sculpture?eid=A001_%7b7A6AA394-9359-47C1-87B4-65B0894C01AB%7d_20140123114645",
+                "rel": "Ancient American Sculpture"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-africa-oceania-americas?eid=R105_%7bD5A0F40B-B73C-4CE5-B590-AFB04694CD7B%7d_20140311130000",
+                "rel": "Arts of Africa, Oceania, and the Americas"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=11\u00aeion=ocm",
+                "rel": "Melanesia, 1900 A.D.\u2013present"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/312056"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/312056"
+        }
+    },
+    "accession number": "1978.412.1637",
+    "credit line": "The Michael C. Rockefeller Memorial Collection, Purchase, Mrs. Gertrud A. Mellon Gift, and Mr. and Mrs. Alan Brandt Gift in memory of Jacob J. Brandt, 1974",
+    "culture": "Kwoma people",
+    "date": "1970",
+    "department": "Arts of Africa, Oceania and the Americas",
+    "dimensions": "H. 42 1/2 x W. 15 1/4 in. (108 x 38.7 cm)",
+    "gallery-id": 354,
+    "id": 312056,
+    "image": "http://images.metmuseum.org/CRDImages/ao/original/DP152676.jpg",
+    "medium": "Sago palm spathe, paint",
+    "provenance": [
+        "Created  Mariwai village, 1970",
+        "[Staempfli Gallery, New York, until 1974]",
+        "Museum of Primitive Art, New York, 1974\u20131978"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/ao/original/DP152676.jpg",
+        "http://images.metmuseum.org/CRDImages/ao/original/lb1978.412.1637.jpg"
+    ],
+    "title": "Painting from a Ceremonial House Ceiling",
+    "what": [
+        "Paintings",
+        "Palm leaf",
+        "Bark paintings"
+    ],
+    "when": "A.D. 1900-present",
+    "where": [
+        "Oceania",
+        "Papua New Guinea",
+        "East Sepik",
+        "Sepik"
+    ],
+    "who": [
+        "Artists of Mariwai Village",
+        "Abwiyeti, Wanyi"
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/543902"
+            },
+            {
+                "href": "http://scrapi.org/object/543905"
+            },
+            {
+                "href": "http://scrapi.org/object/545825"
+            },
+            {
+                "href": "http://scrapi.org/object/545826"
+            },
+            {
+                "href": "http://scrapi.org/object/545837"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A145_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113221",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/talks/gallery-talks/egyptian-sculpture?eid=A002_%7b09B70F74-B68F-4731-A787-D861CCC990BA%7d_20140123144040",
+                "rel": "Egyptian Sculpture"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/lectures-and-panels/free-lectures/cleopatra-welcome-and-introduction?eid=A001_%7bCE6C92F7-59C2-4721-A363-E48BE5CF7EBF%7d_20140226151517",
+                "rel": "Welcome and Introduction"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=02\u00aeion=afe",
+                "rel": "Egypt, 8000\u20132000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/543935"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/543935"
+        }
+    },
+    "accession number": "37.6.1",
+    "credit line": "Rogers Fund, 1937",
+    "date": "ca. 2490\u20132472 B.C.",
+    "department": "Egyptian Art",
+    "description": "Menkaure, son of Khafre and grandson of Khufu, built the Third Pyramid at Giza. Unlike the First and Second Pyramids of his father and grandfather which were covered in white limestone, Menkaure planned to case his pyramid in granite. This remained unfinished at his death and was never completed. His pyramid complex was excavated by a joint expedition of Harvard University and the Museum of Fine Arts, Boston, in 1908.This unfinished statuette of Menkaure was found in a sculptor's workshop associated with the valley temple of his pyramid. It was one of fourteen statuettes of the king found there, all unfinished and in various stages of the sculptural process. It depicts the king in the traditional pose, seated with his left hand flat, palm down on this thigh; his right hand, here broken off, would have been in a fist. The feet of the statuette and the front part of the base on which they rested were destroyed as well. The king is seated on a blocklike throne that, when complete, would have been carved with the sematawy symbol, which represents the unity of Upper and Lower Egypt. He wears the nemes headcloth and false beard, and traces of the uraeus can be seen on the brow.The statuette is made of a good quality hard limestone and still shows traces of the preliminary blocking-out of the figure, which have been partly obscured by the initial polishing of the surface. The musculature of the torso has been indicated and the statuette shows the outlines of the square mature face of Menkaure displayed in the large statues of greywacke and alabaster found elsewhere in his valley temple.",
+    "dimensions": "H. 20 cm (7 7/8 in)",
+    "id": 543935,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/DP109397.jpg",
+    "medium": "Indurated limestone",
+    "provenance": [
+        "Excavated at Giza by the Harvard University\u2013Museum of Fine Arts Egyptian Expedition on March 2, 1911. Acquired by the MFA in the division of finds. Obtained by the Metropolitan Museum of Art in an exchange of objects with the Museum of Fine Arts, Boston in 1937."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/eg/original/DP109397.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/37.6.1_01.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/37.6.1_02.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/37.6.1_03.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/37.6.1_04.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/37.6.1_05.jpg"
+    ],
+    "title": "Seated Statue of King Menkaure",
+    "what": [
+        "Sculpture",
+        "Limestone",
+        "Statues"
+    ],
+    "when": "8000-2000 B.C.",
+    "where": [
+        "Africa",
+        "Egypt",
+        "Upper Egypt",
+        "El Giza"
+    ]
+}

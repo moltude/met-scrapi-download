@@ -1,0 +1,104 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/10859"
+            },
+            {
+                "href": "http://scrapi.org/object/10860"
+            },
+            {
+                "href": "http://scrapi.org/object/10861"
+            },
+            {
+                "href": "http://scrapi.org/object/10862"
+            },
+            {
+                "href": "http://scrapi.org/object/10863"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 18, 2013",
+                "href": "/exhibitions/listings/2013/american-west",
+                "rel": "The American West in Bronze, 1850\u20131925"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/american-art-weekend?eid=A185_%7b501B6EDB-D4CC-4402-98B8-688E06337497%7d_20131127141222",
+                "rel": "American Art"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/monday-at-the-met-spring-2014?eid=R001_%7bBB2BF277-3666-435E-8B95-12CDE21533EA%7d_20140303100000",
+                "rel": "Monday at the Met with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R100_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140303120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R101_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140304120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R076_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140304134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R102_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140305120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R077_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140305134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R103_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140306120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R078_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140306134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/k12-educator-programs/the-american-west?eid=A001_%7b59F3CABA-5299-48C0-8465-1CF2F278D0C3%7d_20131122143623",
+                "rel": "The American West"
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/10867"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/10867"
+        }
+    },
+    "accession number": "74.47",
+    "credit line": "Gift of an Association of Ladies and Gentlemen, 1874",
+    "date": "1869",
+    "department": "American Paintings and Sculpture",
+    "dimensions": "43 1/2 x 33 1/2 in. (110.5 x 83.8 cm)",
+    "id": 10867,
+    "image": "http://images.metmuseum.org/CRDImages/ap/original/ap74.47.jpg",
+    "medium": "Oil on canvas",
+    "provenance": [
+        "the artist's estate with Somerville Gallery, New York (1873)",
+        "subscribers to an association for its presentation to the museum: Emma Fagnani, Charles Fagnani, Courtlandt Palmer Jr., Charles P. Palmer, Mrs. Henry Draper, Edward S. Jaffray, Edward Clark, Thomas Lord, J. Warren Goddard, William B. Isham, and William T. Blodgett (1874)"
+    ],
+    "title": "Urania",
+    "what": [
+        "Paintings",
+        "Canvas",
+        "Oil paintings"
+    ],
+    "when": "A.D. 1800-1900",
+    "who": "Joseph Fagnani"
+}

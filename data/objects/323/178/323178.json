@@ -1,0 +1,113 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/324014"
+            },
+            {
+                "href": "http://scrapi.org/object/323723"
+            },
+            {
+                "href": "http://scrapi.org/object/324433"
+            },
+            {
+                "href": "http://scrapi.org/object/328794"
+            },
+            {
+                "href": "http://scrapi.org/object/323797"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R104_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140310121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R105_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140312121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R106_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140313121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R107_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140314121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "March 31, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R116_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140331121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "April 2, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R117_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140402121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "April 3, 2014",
+                "href": "/events/programs/tours/cradle-of-civilization?eid=R118_%7b6AAA0929-74B0-4203-A234-6D712366F84D%7d_20140403121500",
+                "rel": "The Cradle of Civilization: Art of the Ancient Near East"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=04\u00aeion=wai",
+                "rel": "Iran, 1000 B.C.\u20131 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/323178"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/323178"
+        }
+    },
+    "accession number": "34.158",
+    "credit line": "Harris Brisbane Dick Fund, 1934",
+    "culture": "Achaemenid",
+    "date": "ca. 358\u2013338 B.C.",
+    "department": "Ancient Near Eastern Art",
+    "description": "The monumental art and architecture of the Achaemenid period are best exemplified by the ruins of Persepolis, the large ceremonial capital of the empire originally built by Darius I (r. 521\u2013486 B.C.) and expanded by his successors. Persepolis is located thirty miles northwest of Shiraz in the southwest Iranian province of Fars. There, the Hall of One Hundred Columns and the Throne Room of Darius and Xerxes exhibit features characteristic of Achaemenid architecture\u2014large square rooms, the ceilings of which are supported by many columns. Some of the columns in the Throne Room have been reconstructed and stand more than sixty-five feet high. The column capitals were decorated with the foreparts of bulls, lions, and griffins carved in the round.Most characteristic of Achaemenid sculpture are the slabs carved in low relief that decorate the various stairways leading to the ceremonial buildings. Representations of hundreds of alternating Persian and Median servants bringing food and drink for a royal feast are on the walls of several palace stairways at Persepolis. This relief fragment depicts a Persian mounting a stairway and holding a heavy water- or wineskin on a tray. Ahead of him on the top step is an armed Median holding a covered vessel. The form of the skin container and the size and style of the figures suggest that the relief derives from the time of Artaxerxes III (r. 358\u2013338 B.C.) and adorned either the restored Palace of Darius or that called Palace H.",
+    "dimensions": "H. 86.5 cm",
+    "gallery-id": 405,
+    "id": 323178,
+    "image": "http://images.metmuseum.org/CRDImages/an/original/DP226593.jpg",
+    "medium": "Limestone",
+    "provenance": [
+        "1933, purchased by Joseph Brummer from E. Sassoon, Paris",
+        "acquired by the Museum in 1934, purchased from Joseph Brummer."
+    ],
+    "title": "Relief: two servants bearing food and drink",
+    "what": [
+        "Sculpture",
+        "Stone",
+        "Limestone",
+        "Reliefs"
+    ],
+    "when": "1000 B.C.-A.D. 1",
+    "where": [
+        "Asia",
+        "Iran",
+        "Persepolis"
+    ],
+    "who": "Achaemenid"
+}

@@ -1,0 +1,94 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/285463"
+            },
+            {
+                "href": "http://scrapi.org/object/286127"
+            },
+            {
+                "href": "http://scrapi.org/object/286292"
+            },
+            {
+                "href": "http://scrapi.org/object/286023"
+            },
+            {
+                "href": "http://scrapi.org/object/286024"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From January 29, 2014",
+                "href": "/exhibitions/listings/2014/charles-marville",
+                "rel": "Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "From January 28, 2014",
+                "href": "/exhibitions/listings/2014/paris-as-muse",
+                "rel": "Paris as Muse"
+            },
+            {
+                "date": "March 28, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/encounters-and-illusions?eid=A001_%7bAF56DB32-022E-44E3-8F96-F3464B663511%7d_20140129162120",
+                "rel": "Fellows Colloquium\u2014Encounters and Illusions"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A001_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163301",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 10, 2014",
+                "href": "/events/programs/talks/gallery-talks/charles-marville-photographer-of-paris-spring?eid=A002_%7b5053D4E4-DF99-4164-8DE9-A56E5286E804%7d_20140207100515",
+                "rel": "Exhibition Tour\u2014Charles Marville: Photographer of Paris"
+            },
+            {
+                "date": "April 15, 2014",
+                "href": "/events/programs/talks/gallery-talks/now-you-see-it-photography?eid=A002_%7b300B64EE-D26B-45EA-9F32-3FF503D5227B%7d_20140206163317",
+                "rel": "Exhibition Tour\u2014Now You See It: Photography and Concealment"
+            },
+            {
+                "date": "April 25, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/new-conservation-research?eid=A001_%7b8711B642-3805-42E6-94F1-9C346ACB7070%7d_20140129163809",
+                "rel": "Fellows Colloquium\u2014New Conservation Research"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwf",
+                "rel": "France, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/282186"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/282186"
+        }
+    },
+    "accession number": "1998.58a\u2013c",
+    "credit line": "Purchase, The Horace W. Goldsmith Foundation Gift, through Joyce and Robert Menschel, 1998",
+    "date": "1850",
+    "department": "Photographs",
+    "description": "Clearly attempting to create in photography the type of genre scene he admired in seventeenth-century Dutch painting and its early-nineteenth-century French revival, the wealthy baron and gentleman farmer Humbert de Molard posed his wife, daughter, caretaker, and workers in tableaux of rural life at his ch\u00e2teau at Argentelle, in Normandy. Among the medium's pioneers in France, having taken up photography in 1843, Humbert de Molard exhibited this triptych at the 1856 Brussels Photographic Exposition as proof that he had made fast exposures and permanent prints even in 1850, when few practiced the art of photography on paper.",
+    "dimensions": "22 x 47.1 cm (8 11/16 x 18 9/16 in. )",
+    "id": 282186,
+    "image": "http://images.metmuseum.org/CRDImages/ph/original/MM92504.jpg",
+    "medium": "Salted paper print",
+    "provenance": [
+        "Galerie Texbraun (Hugues Autexier and Fran\u00e7ois Braunschweig)",
+        "Jean-Michel Braunschweig (brother and heir to Fran\u00e7ois)",
+        "[Galerie Baudoin Lebon]"
+    ],
+    "title": "[Three Portraits in Original Exhibition Frame]",
+    "what": [
+        "Photographs",
+        "Salted paper prints"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Louis-Adolphe Humbert de Molard"
+}

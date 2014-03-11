@@ -1,0 +1,118 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/11395"
+            },
+            {
+                "href": "http://scrapi.org/object/13499"
+            },
+            {
+                "href": "http://scrapi.org/object/13758"
+            },
+            {
+                "href": "http://scrapi.org/object/14202"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 18, 2013",
+                "href": "/exhibitions/listings/2013/american-west",
+                "rel": "The American West in Bronze, 1850\u20131925"
+            },
+            {
+                "date": "March 2, 2014",
+                "href": "/events/programs/tours/american-art-weekend?eid=A185_%7b501B6EDB-D4CC-4402-98B8-688E06337497%7d_20131127141222",
+                "rel": "American Art"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/monday-at-the-met-spring-2014?eid=R001_%7bBB2BF277-3666-435E-8B95-12CDE21533EA%7d_20140303100000",
+                "rel": "Monday at the Met with Elinor Richter: American Art from the Colonial Period through the Nineteenth Century"
+            },
+            {
+                "date": "March 3, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R100_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140303120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R101_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140304120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "March 4, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R076_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140304134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R102_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140305120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "March 5, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R077_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140305134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/american-paintings-and-sculpture?eid=R103_%7bF3242EF2-7D3B-4BC9-BFFC-FDE81F7A0B5B%7d_20140306120000",
+                "rel": "American Paintings and Sculpture"
+            },
+            {
+                "date": "March 6, 2014",
+                "href": "/events/programs/tours/american-rooms-american-stories?eid=R078_%7b9E31413E-9AC9-4869-89AE-ADBF80821067%7d_20140306134500",
+                "rel": "American Rooms, American Stories: 1680\u20131914"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/k12-educator-programs/the-american-west?eid=A001_%7b59F3CABA-5299-48C0-8465-1CF2F278D0C3%7d_20131122143623",
+                "rel": "The American West"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/hurs/hd_hurs.htm",
+                "rel": "The Hudson River School"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=na",
+                "rel": "The United States and Canada, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/11396"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/11396"
+        }
+    },
+    "accession number": "1978.203",
+    "credit line": "Purchase, Rogers and Fletcher Funds, Erving and Joyce Wolf Fund, Raymond J. Horowitz Gift, Bequest of Richard De Wolfe Brixey, by exchange, and John Osgood and Elizabeth Amis Cameron Blanchard Memorial Fund, 1978",
+    "date": "1862",
+    "department": "American Paintings and Sculpture",
+    "description": "Lane returned to his native Gloucester from Boston in 1848. His works  of the 1850s and 1860s are successively purged of genre and  topographical elements, becoming increasingly spare and essential. By  1862, Lane had engineered a seamless, self-effacing style, possibly  influenced by the works of Martin Johnson Heade. Stage Fort, once the  site of military fortifications, sits on an arching land form used to  lead the viewer's eye into the glowing, lucid, and almost eerily still  distance. Despite the disjuncture between the virtually surreal,  meticulously painted foreground and the sheer plane of water near the  horizon, this work marks the transition to Lane's final, taut,  elemental style. The painting's disquieting stasis, even with its  hopeful pink and golden glow, creates a hermetic, elegiac mood found  in many of Lane's late works.",
+    "dimensions": "38 x 60 in. (96.5 x 152.4 cm)",
+    "gallery-id": 761,
+    "id": 11396,
+    "image": "http://images.metmuseum.org/CRDImages/ap/original/DT5586.jpg",
+    "medium": "Oil on canvas",
+    "provenance": [
+        "Sargent family, Gloucester, Massachusetts",
+        "Sargent-Murray-Gilman-Hough  House, Gloucester, by 1938\u20131978",
+        "with Vose Galleries, Boston, 1978"
+    ],
+    "title": "Stage Fort across Gloucester Harbor",
+    "what": [
+        "Paintings",
+        "Canvas",
+        "Oil paintings"
+    ],
+    "when": "A.D. 1800-1900",
+    "where": [
+        "North and Central America",
+        "United States"
+    ],
+    "who": "Fitz Henry Lane (formerly Fitz Hugh Lane)"
+}

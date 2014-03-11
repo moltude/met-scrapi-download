@@ -1,0 +1,141 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/444704"
+            },
+            {
+                "href": "http://scrapi.org/object/444949"
+            },
+            {
+                "href": "http://scrapi.org/object/455082"
+            },
+            {
+                "href": "http://scrapi.org/object/453308"
+            },
+            {
+                "href": "http://scrapi.org/object/445220"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From March 11, 2014",
+                "href": "/exhibitions/listings/2014/carpets-of-the-east",
+                "rel": "Carpets of the East in Paintings from the West"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A250_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131203114353",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world-french?eid=R026_%7b85906EA1-CA66-4610-A52C-39562E1A4C40%7d_20140310133000",
+                "rel": "Arts du monde Islamique (Arts of the Islamic World in French)"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R130_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140310141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R131_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140311141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R132_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140312141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R133_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140313141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=R134_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20140314141500",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A227_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134012",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-the-islamic-world?eid=A232_%7bB3D49A61-35B9-41AC-841D-9EFF4F85CBA7%7d_20131126134244",
+                "rel": "Arts of the Islamic World"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/ilkh/hd_ilkh.htm",
+                "rel": "The Art of the Ilkhanid Period (1256\u20131353)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/vege/hd_vege.htm",
+                "rel": "Vegetal Patterns in Islamic Art"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=07\u00aeion=wai",
+                "rel": "Iran, 1000\u20131400 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/449537"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/449537"
+        }
+    },
+    "accession number": "39.20",
+    "credit line": "Harris Brisbane Dick Fund, 1939",
+    "culture": "Islamic",
+    "date": "A.H. 755/A.D. 1354\u201355",
+    "department": "Islamic Art",
+    "description": "This prayer niche, or mihrab, was originally set into the qibla wall of a theological school in Isfahan, now known as the Madrasa Imami, built just after the collapse of the Ilkhanid dynasty. The mihrab was created by joining a myriad of cut glazed tiles to produce its intricate arabesque and calligraphic designs. The result is one of the earliest and finest examples of mosaic tilework. A splendid work of religious architectural decoration, this mihrab is one of the most significant works in the Museum\u2019s collection.",
+    "dimensions": [
+        "135 1/16 x 113 11/16in. (343.1 x 288.7cm)",
+        "Storage box 99 x 41 1/2 in. (251.5 x 105.4 cm)",
+        "Wt. 4,500 lbs. (2041.2 kg)"
+    ],
+    "gallery-id": 455,
+    "id": 449537,
+    "image": "http://images.metmuseum.org/CRDImages/is/original/DP235035.jpg",
+    "medium": "Mosaic of polychrome-glazed cut tiles on stonepaste body; set into mortar",
+    "provenance": [
+        "Madrasa Imami, Isfahan, Iran (1354\u2013late 1920s)",
+        "[ A. Rabenou, Paris, by 1931\u201339",
+        "sold to Arthur U. Pope for MMA]"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/is/original/DP235035.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/39.20.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/39.20.JPG",
+        "http://images.metmuseum.org/CRDImages/is/original/is39.20.R.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DT473.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DP236365.jpg",
+        "http://images.metmuseum.org/CRDImages/is/original/DT237108.jpg"
+    ],
+    "title": "Mihrab (Prayer Niche)",
+    "what": [
+        "Ceramics",
+        "Glazing",
+        "Mosaics",
+        "Mihrabs"
+    ],
+    "when": "A.D. 1000-1400",
+    "where": [
+        "Asia",
+        "Iran",
+        "Isfahan"
+    ]
+}

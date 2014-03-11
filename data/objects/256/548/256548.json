@@ -1,0 +1,131 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/253425"
+            },
+            {
+                "href": "http://scrapi.org/object/247632"
+            },
+            {
+                "href": "http://scrapi.org/object/247635"
+            },
+            {
+                "href": "http://scrapi.org/object/247661"
+            },
+            {
+                "href": "http://scrapi.org/object/247667"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A146_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142808",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R104_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140310123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R105_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140311123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R106_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140313123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R027_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140313130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R107_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140314123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/conversations-with-curators-and-conservators/terracotta-column-krater?eid=A001_%7b1CC4797D-7295-4614-9ACD-19C00BA693F4%7d_20140204162630",
+                "rel": "Conversation with a Curator\u2014Terracotta Column-Krater"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A144_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142257",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A145_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142312",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/ecyc/hd_ecyc.htm",
+                "rel": "Early Cycladic Art and Culture"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=02\u00aeion=eus",
+                "rel": "Southern Europe, 8000\u20132000 B.C."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/256548"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/256548"
+        }
+    },
+    "accession number": "2004.363.1",
+    "credit line": "Purchase, The Annenberg Foundation Gift, 2004",
+    "culture": "Cycladic",
+    "date": "ca. 2300\u20132200 B.C.",
+    "department": "Greek and Roman Art",
+    "description": "Although the kernos was used in widely disparate regions during the prehistoric period, particularly impressive examples have come to light in the Cyclades, and this is one of the grandest preserved.  The receptacles probably contained foodstuffs of various kinds or perhaps of flowers.The kernos was found, together with the jar (2004.363.2) and the jug (2004.363.3) displayed nearby in this gallery, in 1829 in a tomb on Melos by Captain Copeland, a British naval officer.  In 1857 his widow gave the objects to Eton College, where they remained until coming to the Metropolitan Museum of Art on loan in 1996.",
+    "dimensions": [
+        "Overall 13 5/8 in. (34.6 cm)",
+        "Other 14in. (35.5cm)"
+    ],
+    "gallery-id": 151,
+    "id": 256548,
+    "image": "http://images.metmuseum.org/CRDImages/gr/original/DP116321.jpg",
+    "medium": "Terracotta",
+    "provenance": [
+        "Said to be from Melos (Bosanquet 1896-97, p. 58, no. 8).1829, excavated from a tomb in Melos",
+        "by 1836, acquired by Captain Copeland, R.N., in Greece",
+        "until 1857, collection of Captain Copeland, England",
+        "1857-2004, Copeland collection, Eton College",
+        "1996-2004, on loan to the Metropolitan Museum of Art",
+        "acquired June 7, 2004, purchased from Eton College, England."
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/gr/original/DP116321.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP116322.jpg",
+        "http://images.metmuseum.org/CRDImages/gr/original/DP116328.jpg"
+    ],
+    "title": "Terracotta kernos (vase for multiple offerings)",
+    "what": [
+        "Clay",
+        "Vessels",
+        "Vases",
+        "Terracotta",
+        "Kernoi"
+    ],
+    "when": "8000-2000 B.C.",
+    "where": [
+        "Europe",
+        "Greece",
+        "Aegean Islands",
+        "Cyclades"
+    ]
+}

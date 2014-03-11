@@ -1,0 +1,159 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/198953"
+            },
+            {
+                "href": "http://scrapi.org/object/189344"
+            },
+            {
+                "href": "http://scrapi.org/object/189387"
+            },
+            {
+                "href": "http://scrapi.org/object/236075"
+            },
+            {
+                "href": "http://scrapi.org/object/236123"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From February 3, 2014",
+                "href": "/exhibitions/listings/2014/william-morris",
+                "rel": "William Morris"
+            },
+            {
+                "date": "From November 22, 2011",
+                "href": "/exhibitions/listings/2011/faberge",
+                "rel": "Faberg\u00e9 from the Matilda Geddings Gray Foundation Collection"
+            },
+            {
+                "date": "From February 4, 2014",
+                "href": "/exhibitions/listings/2014/french-ceramics",
+                "rel": "Making Pottery Art"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/carpeaux",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "From January 22, 2014",
+                "href": "/exhibitions/listings/2014/antonio-canova",
+                "rel": "Antonio Canova"
+            },
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining-family-individual?eid=R002_%7b2F11F3B2-6834-484B-AE0F-5066D7E783B5%7d_20140308100000",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/membership-events/exhibition-previews/carpeaux-supporting-sustaining-family-individual?eid=A002_%7b2F11F3B2-6834-484B-AE0F-5066D7E783B5%7d_20140107114234",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R104_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140310131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/membership-events/evening-receptions/carpeaux-supporting-reception?eid=A001_%7b60301F85-6473-4C1C-8DAB-5D8B2E9406EE%7d_20140107151713",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R105_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140311131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/membership-events/evening-receptions/carpeaux-sustaining-reception?eid=A001_%7bB97F7097-C940-4FDB-8982-A3EC61BD9084%7d_20140107152519",
+                "rel": "The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/membership-events/classes-for-adults/world-enlightened?eid=R002_%7bEC37AED7-F558-4A27-A806-094491540250%7d_20140312101500",
+                "rel": "Cultural Discoveries\u2014Wednesdays with Olivier Bernier: Europe in the Eighteenth Century, A World Enlightened"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/talks/gallery-talks/the-passions-of-jean-baptiste-carpeaux?eid=A003_%7b7437318B-B35F-4C96-BAA4-FF8EDD85D6CA%7d_20140206123059",
+                "rel": "Exhibition Tour\u2014The Passions of Jean-Baptiste Carpeaux"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R106_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140313131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/great-rooms-european-decorative-arts?eid=R107_%7b1FF4F144-6903-47E8-865E-07D6E918D7EF%7d_20140314131500",
+                "rel": "Great Rooms: European Decorative Arts"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/sfurn/hd_sfurn.htm",
+                "rel": "French Furniture in the Eighteenth Century: Seat Furniture"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/hd/ffurn/hd_ffurn.htm",
+                "rel": "The Golden Age of French Furniture in the Eighteenth Century"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwf",
+                "rel": "France, 1600\u20131800 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/207406"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/207406"
+        }
+    },
+    "accession number": "1983.526",
+    "credit line": "Purchase, Gift of Mr. and Mrs. Charles Wrightsman, by exchange, 1983",
+    "culture": "French, Paris",
+    "date": "ca. 1690\u20131710",
+    "department": "European Sculpture and Decorative Arts",
+    "description": "This armchair, with its gently curving frame and lack of stretchers strengthening the legs, anticipates the stylistic developments of the eighteenth century. It is a type with a flat back called fauteuil \u00e0 la reine as opposed to the fauteuil en cabriolet sporting a slightly concave back, which was fashionable later, during the Louis XV period.The chief glory of this example is the elaborate decoration, which, in some ways, is closer to the art of the goldsmith than to that of the wood-carver. It has even been suggested that the large set to which the Museum\u2019s chair belonged, with its stylized lambrequin motifs \u201cdraped\u201d over the arms and its delicate openwork ornament on the legs and on the rails that support the seat, may have been made to replace silver seat furniture at Versailles that was melted down by Louis XIV in 1689. While that cannot be verified, the armchair is among the earliest known pieces fitted with a drop-in back and seat, a style called \u00e0 ch\u00e2ssis, to facilitate the seasonal changing of the upholstery.",
+    "dimensions": "H. 46-1/2 x W. 28 x D. 23-1/4 in.  (118.1 x 71.1 x 59.1 cm)",
+    "gallery-id": 522,
+    "id": 207406,
+    "image": "http://images.metmuseum.org/CRDImages/es/original/DP106570.jpg",
+    "medium": "Carved and gilded walnut, late 17th-century wool velvet (not original)",
+    "provenance": [
+        "Anthony Tannouri , Lebanon (until 1983; sale, Ader Picard Tajan, Paris, November 15, 1983, lot 34; sold to MMA)"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/es/original/DP106570.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP106571.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP106572.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP106573.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP170884.jpg"
+    ],
+    "title": "Armchair (fauteuil \u00e0 la reine)",
+    "what": [
+        "Wool",
+        "Wood",
+        "Gilt",
+        "Furniture",
+        "Woodwork",
+        "Seating furniture",
+        "Velvet",
+        "Chairs",
+        "Walnut",
+        "Armchairs"
+    ],
+    "when": "A.D. 1600-1800",
+    "where": [
+        "Europe",
+        "France",
+        "Paris"
+    ]
+}

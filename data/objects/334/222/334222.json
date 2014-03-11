@@ -1,0 +1,99 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/334246"
+            },
+            {
+                "href": "http://scrapi.org/object/334226"
+            },
+            {
+                "href": "http://scrapi.org/object/334309"
+            },
+            {
+                "href": "http://scrapi.org/object/334245"
+            },
+            {
+                "href": "http://scrapi.org/object/334314"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From May 20, 2014",
+                "href": "/exhibitions/listings/2014/preraphaelite-legacy",
+                "rel": "The Pre-Raphaelite Legacy"
+            },
+            {
+                "date": "From March 10, 2014",
+                "href": "/exhibitions/listings/2014/early-renaissance-drawing",
+                "rel": "Early Renaissance Drawing in Verona"
+            },
+            {
+                "date": "From February 11, 2014",
+                "href": "/exhibitions/listings/2014/drawings-and-prints-february-rotation",
+                "rel": "Drawings and Prints"
+            },
+            {
+                "date": "April 4, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/reading-the-sacred?eid=A001_%7b65F432A6-C100-4062-B036-1A11A59216FB%7d_20140129162525",
+                "rel": "Fellows Colloquium\u2014Reading the Sacred"
+            },
+            {
+                "date": "April 18, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/identity-in-objects?eid=A001_%7b1913354A-A021-4D55-A50A-D13B72EAC4BB%7d_20140129163209",
+                "rel": "Fellows Colloquium\u2014Identity in Objects"
+            },
+            {
+                "date": "May 17, 2014",
+                "href": "/events/programs/teen-programs/experiments/printing-experiments?eid=A001_%7bAE5E21F6-384E-4530-8AEE-81C8B35A5597%7d_20131206153728",
+                "rel": "Printing Experiments (Ages 15\u201318)"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=09\u00aeion=euwf",
+                "rel": "France, 1600\u20131800 A.D."
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=10\u00aeion=euwf",
+                "rel": "France, 1800\u20131900 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/334222"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/334222"
+        }
+    },
+    "accession number": "61.54.2",
+    "credit line": "Rogers Fund, 1961",
+    "date": "n.d.",
+    "department": "Drawings and Prints",
+    "dimensions": "9 7/16 x 11 1/2 in. (24 x 29.2 cm.)",
+    "id": 334222,
+    "image": "http://images.metmuseum.org/CRDImages/dp/original/DP805793.jpg",
+    "medium": "Black chalk",
+    "provenance": [
+        "Jacques Louis David (French, Paris 1748\u20131825 Brussels)",
+        "L. J. A. Coutan (French, died 1830)Acquired at Constantin sale, Paris, 29 March, 1830 (n. 41 [?]) (Info according to Rosenberg and Prat, cat. raisonn\u00e9)",
+        "Ferdinand Hauguet",
+        "Maurice-Jacques-Albert Hauguet",
+        "Mme. Coutan-Hauguet (French)Coutan-Hauguet family, collection, sale catalogue, Paris, H\u00f4tel Drouot, Dec. 16-17, 1889, no. 93 as \"Antiochus et Stratonice\" (cat. not in MMA, lost at Frick as of 1961, see dealer info.)",
+        "Vendor: Wildenstein & Co., Ltd., London"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/dp/original/DP805793.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/61.54.2.jpg"
+    ],
+    "title": "Scene from Ancient History: Cup Offered to an Invalid",
+    "what": [
+        "Drawings",
+        "Chalk"
+    ],
+    "where": [
+        "Europe",
+        "France"
+    ],
+    "who": "Jacques Louis David"
+}

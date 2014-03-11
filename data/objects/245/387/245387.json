@@ -1,0 +1,110 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/247467"
+            },
+            {
+                "href": "http://scrapi.org/object/247468"
+            },
+            {
+                "href": "http://scrapi.org/object/247469"
+            },
+            {
+                "href": "http://scrapi.org/object/248667"
+            },
+            {
+                "href": "http://scrapi.org/object/248668"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "March 8, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A146_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142808",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R104_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140310123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R105_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140311123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R106_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140313123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome-russian?eid=R027_%7b71655D2F-2D95-42B5-AC13-1F3BF3CB4904%7d_20140313130000",
+                "rel": "\u0418\u0441\u043a\u0443\u0441\u0442\u0432\u043e \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0438 \u0420\u0438\u043c\u0430 (Arts of Ancient Greece and Rome in Russian)"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=R107_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20140314123000",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/talks/conversations-with-curators-and-conservators/terracotta-column-krater?eid=A001_%7b1CC4797D-7295-4614-9ACD-19C00BA693F4%7d_20140204162630",
+                "rel": "Conversation with a Curator\u2014Terracotta Column-Krater"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A144_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142257",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 30, 2014",
+                "href": "/events/programs/tours/arts-ancient-greece-rome?eid=A145_%7bF428DBBF-911D-47C3-BF37-47C3F3F2E51E%7d_20131127142312",
+                "rel": "Arts of Ancient Greece and Rome"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=05\u00aeion=eust",
+                "rel": "Italian Peninsula, 1\u2013500A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/245387"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/245387"
+        }
+    },
+    "accession number": "81.10.235",
+    "credit line": "Gift of Henry G. Marquand, 1881",
+    "culture": "Roman, Syrian",
+    "date": "2nd century A.D.",
+    "department": "Greek and Roman Art",
+    "description": "Translucent patchy purple.Uneven rim folded out, round, and in; flaring mouth; cylindrical neck, slanting to one side and with deep tooling indent at base; plastic body; oval base with rounded edges and slightly concave bottom; small round pontil mark on bottom. Mold seams visible on sides of head, extending to base of neck.Body in the shape of two heads, back to back, one with a smiling face, the other with a serious face; smiling face with fillet across forehead and hair parted down middle and arranged in regular horizontal rows to sides of face; the serious face with wavy hair to sides and prominent topknot; smiling face has arched eyebrows extending to bridge of nose, eyes with indents for pupils, open mouth, thick lips, and rounded chin; serious face is less well defined with raised eyebrows, a broad flat nose, pursed lips, and a receding chin.Intact; limy encrustation, thick creamy weathering, and brilliant iridescence.Although the details on two heads are indistinct, the fact that the smiling face wears a fillet or headband and the serious face may have small curved horns on his temples suggests that they may be identified as the wine god Dionysos and a satyr respectively.",
+    "dimensions": "H. 2 11/16 in. (6.8 cm)",
+    "gallery-id": 171,
+    "id": 245387,
+    "image": "http://images.metmuseum.org/CRDImages/gr/original/DP117537.jpg",
+    "medium": "Glass; mold-blown",
+    "provenance": [
+        "Said to be from Syria (Froehner 1879, p. 60, note 4)Until 1881, collection of Jules Charvet, Le Pecq, \u00cele-de-France",
+        "1881, purchased from J. Charvet by Henry G. Marquand",
+        "acquired in 1881, gift of Henry G. Marquand."
+    ],
+    "title": "Glass double head-shaped bottle",
+    "what": [
+        "Vessels",
+        "Glass",
+        "Bottles"
+    ],
+    "when": "A.D. 1-500",
+    "where": [
+        "Roman Empire"
+    ]
+}

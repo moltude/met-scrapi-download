@@ -1,0 +1,121 @@
+{
+    "_links": {
+        "related-artworks": [
+            {
+                "href": "http://scrapi.org/object/546037"
+            },
+            {
+                "href": "http://scrapi.org/object/550737"
+            },
+            {
+                "href": "http://scrapi.org/object/546260"
+            },
+            {
+                "href": "http://scrapi.org/object/545378"
+            },
+            {
+                "href": "http://scrapi.org/object/570346"
+            }
+        ],
+        "related-content": [
+            {
+                "date": "From December 3, 2013",
+                "href": "/exhibitions/listings/2013/cleopatras-needle",
+                "rel": "Cleopatra's Needle"
+            },
+            {
+                "date": "March 9, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A151_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113641",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 10, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R130_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140310140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/talks/gallery-talks/heavenly-light-sacred-art?eid=A002_%7b05F7980A-562A-4429-B532-B811406E010B%7d_20140123160219",
+                "rel": "Heavenly Light, Sacred Art"
+            },
+            {
+                "date": "March 11, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R131_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140311140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 12, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R132_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140312140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 13, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R133_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140313140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 14, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=R134_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20140314140000",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 16, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A152_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113701",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "March 21, 2014",
+                "href": "/events/programs/lectures-and-panels/symposia/fellows-colloquia/materials-and-meaning?eid=A001_%7b06CA8E6F-F595-42F0-9FF8-8EC7FC6EC040%7d_20140129161558",
+                "rel": "Fellows Colloquium\u2014Materials and Meaning"
+            },
+            {
+                "date": "March 22, 2014",
+                "href": "/events/programs/tours/arts-of-ancient-egypt?eid=A145_%7bC94D889B-657B-4778-B5FC-26A7044912C2%7d_20131127113221",
+                "rel": "Arts of Ancient Egypt"
+            },
+            {
+                "date": "",
+                "href": "http://www.metmuseum.org/toah/ht/?period=04\u00aeion=afe",
+                "rel": "Egypt, 1000 B.C.\u20131 A.D."
+            }
+        ],
+        "self": {
+            "href": "http://scrapi.org/object/545766"
+        },
+        "source": {
+            "href": "http://www.metmuseum.org/Collections/search-the-collections/545766"
+        }
+    },
+    "accession number": "20.2.23",
+    "credit line": "Rogers Fund, 1920",
+    "date": "332\u2013280 B.C.",
+    "department": "Egyptian Art",
+    "description": "The Metternich Stela (No. 52) is the largest and most elaborate example of a genre of Egyptian art known as the cippus  This small stela is representative of the genre of Egyptian art known as the cippus (plural, cippi): an image of the infant Horus subduing dangerous animals. On the front the infant Horus the Savior is surrounded by various protective deities; the scene at the top of the back shows the winged sun disk accompanied by nine gods.The stela's main text is a Spell for Protection on Water, which is also found on the back of the Metternich Stela. The content of this text indicates that the stela was intended primarily for protection rather than as a means of charging water poured over it with curative power, as was the Metternich stela. Nevertheless, the vertical texts on either side of the central image of Horus, taken from the longer spells on the top and sides of the Metternich Stela, suggest that this stela, too, was used to transform water into a curative libation.",
+    "dimensions": "H. 20.3 (8 cm ); W. 13.4 cm (5 1/4 in); D 5 cm (1 15/16 in)",
+    "gallery-id": 134,
+    "id": 545766,
+    "image": "http://images.metmuseum.org/CRDImages/eg/original/DP243442.jpg",
+    "medium": "Schist",
+    "provenance": [
+        "Purchased in Cairo from Elie Abermayor,  1920"
+    ],
+    "related-images": [
+        "http://images.metmuseum.org/CRDImages/eg/original/DP243442.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/DP243458.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/DP243459.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/DP243460.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/DP243461.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/DP243462.jpg",
+        "http://images.metmuseum.org/CRDImages/eg/original/DP112603.jpg"
+    ],
+    "title": "Cippus of Horus",
+    "what": [
+        "Schist",
+        "Cippi"
+    ],
+    "when": "1000 B.C.-A.D. 1",
+    "where": [
+        "Africa",
+        "Egypt"
+    ]
+}
